@@ -121,7 +121,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 26  | [In which step of the 'continual improvement model' is an improvement plan implemented?](#in-which-step-of-the-continual-improvement-model-is-an-improvement-plan-implemented)|
 | 27  | [Which is NOT a key focus of the 'information and technology' dimension?](#which-is-not-a-key-focus-of-the-information-and-technology-dimension)|
 | 28  | [Which describes outcomes?](#which-describes-outcomes)|
-| 29  | [Change control](#change-control)|
+| 29  | [Change control (missing question content)](#change-control-missing-question-content)|
 | 30  | [Which of the following is an example of incident?](#which-of-the-following-is-an-example-of-incident)|
 | 31  | [What is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks?](#what-is-a-means-of-enabling-value-co-creation-by-facilitating-outcomes-that-customers-want-to-achieve-without-the-customer-having-to-manage-specific-costs-and-risks)|
 | 32  | [What is the purpose of the 'information security management1 practice?](#what-is-the-purpose-of-the-information-security-management1-practice)|
@@ -250,7 +250,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 155 | [Which practice is responsible for moving new or changed components to live or other environments?](#which-practice-is-responsible-for-moving-new-or-changed-components-to-live-or-other-environments)|
 | 156 | [Which dimension focuses on relationships with other organizations that are involved in the design, development, deployment and delivery of services?](#which-dimension-focuses-on-relationships-with-other-organizations-that-are-involved-in-the-design-development-deployment-and-delivery-of-services)|
 | 157 | [What must always be done before an activity is automated?](#what-must-always-be-done-before-an-activity-is-automated)|
-| 158 | [It should be based on the objectives of the organization.](#it-should-be-based-on-the-objectives-of-the-organization)|
+| 158 | [Which two statements about an organization's culture are CORRECT? 1. It is created from shared values based on how it carries out its work 2. It is determined by the type of technology used to support services 3. It should be based on the culture of prospective suppliers 4. It should be based on the objectives of the organization](#which-two-statements-about-an-organizations-culture-are-correct-1-it-is-created-from-shared-values-based-on-how-it-carries-out-its-work-2-it-is-determined-by-the-type-of-technology-used-to-support-services-3-it-should-be-based-on-the-culture-of-prospective-suppliers-4-it-should-be-based-on-the-objectives-of-the-organization)|
 | 159 | [Which statement about the automation of service requests is CORRECT?](#which-statement-about-the-automation-of-service-requests-is-correct)|
 | 160 | [What is the purpose of the 'deployment management' practice?](#what-is-the-purpose-of-the-deployment-management-practice)|
 | 161 | [What is a change schedule PRIMARILY used for?](#what-is-a-change-schedule-primarily-used-for)|
@@ -616,7 +616,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Change control
+### Change control (missing question content)
 
 - [ ] 1 and 2.
 - [x] 1 and 4.
@@ -1777,7 +1777,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### It should be based on the objectives of the organization.
+### Which two statements about an organization's culture are CORRECT? 1. It is created from shared values based on how it carries out its work 2. It is determined by the type of technology used to support services 3. It should be based on the culture of prospective suppliers 4. It should be based on the objectives of the organization
 
 - [ ] 1 and 2.
 - [ ] 2 and 3.
