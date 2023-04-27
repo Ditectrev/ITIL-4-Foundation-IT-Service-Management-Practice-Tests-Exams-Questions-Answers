@@ -1393,7 +1393,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which practice would help a user gain access to an application that they need to use?
 
 - [ ] Service Configuration Management.
-- [ ] Change enablement.
+- [ ] Change Enablement.
 - [x] Service Request Management.
 - [ ] Service Level Management.
 
@@ -1419,8 +1419,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which two practices use workarounds?
 
-- [ ] Change enablement and Continual Improvement.
-- [ ] Change enablement and Problem Management.
+- [ ] Change Enablement and Continual Improvement.
+- [ ] Change Enablement and Problem Management.
 - [x] Problem Management and Incident Management.
 - [ ] Incident Management and Continual Improvement.
 
@@ -1456,7 +1456,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which practice has a strong influence on the user experience and perception of the service provider?
 
 - [x] Service Desk.
-- [ ] Change enablement.
+- [ ] Change Enablement.
 - [ ] Service Level Management.
 - [ ] Supplier Management.
 
@@ -1699,7 +1699,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which practice is MOST likely to benefit from the use of chatbots?
 
 - [ ] Service Level Management.
-- [ ] Change enablement.
+- [ ] Change Enablement.
 - [ ] Continual Improvement.
 - [x] Service Desk.
 
@@ -1754,7 +1754,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Release Management.
 - [x] Deployment Management.
-- [ ] Change enablement.
+- [ ] Change Enablement.
 - [ ] Supplier Management.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -1924,7 +1924,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which practice recommends the use of event-based surveys to gather feedback from customers?
 
 - [x] Service Level Management.
-- [ ] Change enablement.
+- [ ] Change Enablement.
 - [ ] Service Request Management.
 - [ ] Problem Management.
 
@@ -1980,7 +1980,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Incident Management and Service Request Management.
 - [ ] Service Request Management and Deployment Management.
 - [ ] Deployment Management and Change Enablement.
-- [ ] Change enablement and Incident Management.
+- [ ] Change Enablement and Incident Management.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2052,7 +2052,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Service Request Management.
 - [ ] Service Level Management.
 - [x] Incident Management.
-- [ ] Change enablement.
+- [ ] Change Enablement.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2401,7 +2401,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which practice includes conducting regular reviews to ensure that services are still appropriate and relevant?
 
-- [ ] Change enablement.
+- [ ] Change Enablement.
 - [ ] Continual Improvement.
 - [ ] Service Desk.
 - [x] Service Level Management.
@@ -2438,7 +2438,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which practice establishes a channel between the service provider and its users?
 
 - [ ] Relationship Management.
-- [ ] Change enablement.
+- [ ] Change Enablement.
 - [ ] Supplier Management.
 - [x] Service Desk.
 
@@ -2458,7 +2458,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Monitoring and event management.
 - [ ] Release Management.
 - [ ] Relationship Management.
-- [x] Change enablement.
+- [x] Change Enablement.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2730,7 +2730,7 @@ The purpose of the Supplier Management practice is to ensure that the organizati
 - [x] Service Request Management.
 - [ ] Service Configuration Management.
 - [ ] Deployment Management.
-- [ ] Change enablement.
+- [ ] Change Enablement.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2792,7 +2792,7 @@ The purpose of the Supplier Management practice is to ensure that the organizati
 
 - [x] Information security management.
 - [ ] Problem Management.
-- [ ] Change enablement.
+- [ ] Change Enablement.
 - [ ] Service Configuration Management.
 
 **[⬆ Back to Top](#table-of-contents)**
