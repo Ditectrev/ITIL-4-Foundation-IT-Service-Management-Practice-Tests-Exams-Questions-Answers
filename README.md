@@ -95,7 +95,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 | No. | Questions |
 | --- | --------------------------- |
-| 1   | [Identify the missing word in the following sentence. A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.](#identify-the-missing-word-in-the-following-sentence-a-service-is-a-means-of-enabling-value-co-creation-by-facilitating-outcomes-that-customers-want-to-achieve-without-the-customer-having-to-manage-specific--and-risks)|
+| 1   | [A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.](#a-service-is-a-means-of-enabling-value-co-creation-by-facilitating-outcomes-that-customers-want-to-achieve-without-the-customer-having-to-manage-specific--and-risks)|
 | 2   | [Which statement about Service Desks is CORRECT?](#which-statement-about-service-desks-is-correct)|
 | 3   | [Normal changes should be handled as service requests](#normal-changes-should-be-handled-as-service-requests)|
 | 4   | [Which describes a set of defined steps for implementing improvements?](#which-describes-a-set-of-defined-steps-for-implementing-improvements)|
@@ -117,7 +117,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 20  | [When should the effectiveness of a problem workaround be assessed?](#when-should-the-effectiveness-of-a-problem-workaround-be-assessed)|
 | 21  | [Which practice has a purpose that includes ensuring that risks have been properly assessed?](#which-practice-has-a-purpose-that-includes-ensuring-that-risks-have-been-properly-assessed)|
 | 22  | [What is an output?](#what-is-an-output)|
-| 23  | [Identify the missing word in the following sentence. The use of [?] should support, not replace what is observed, when using the 'start where you are1 guiding principle.](#identify-the-missing-word-in-the-following-sentence-the-use-of--should-support-not-replace-what-is-observed-when-using-the-start-where-you-are1-guiding-principle)|
+| 23  | [The use of [?] should support, not replace what is observed, when using the 'start where you are1 guiding principle.](#the-use-of--should-support-not-replace-what-is-observed-when-using-the-start-where-you-are1-guiding-principle)|
 | 24  | [Which ITIL practice has a purpose that includes reducing the likelihood of incidents?](#which-itil-practice-has-a-purpose-that-includes-reducing-the-likelihood-of-incidents)|
 | 25  | [What should be done for every problem?](#what-should-be-done-for-every-problem)|
 | 26  | [In which step of the Continual Improvement model is an improvement plan implemented?](#in-which-step-of-the-continual-improvement-model-is-an-improvement-plan-implemented)|
@@ -137,7 +137,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 40  | [Which dimension includes activities and workflows?](#which-dimension-includes-activities-and-workflows)|
 | 41  | [Which describes a CORRECT approach to change Authorization?](#which-describes-a-correct-approach-to-change-authorization)|
 | 42  | [How should an organization adopt Continual Improvement methods?](#how-should-an-organization-adopt-continual-improvement-methods)|
-| 43  | [Identify the missing word in the following sentence. A known error is a problem that has been [?] and has not been resolved.](#identify-the-missing-word-in-the-following-sentence-a-known-error-is-a-problem-that-has-been--and-has-not-been-resolved)|
+| 43  | [A known error is a problem that has been [?] and has not been resolved.](#a-known-error-is-a-problem-that-has-been--and-has-not-been-resolved)|
 | 44  | [Which dimension includes a workflow management system?](#which-dimension-includes-a-workflow-management-system)|
 | 45  | [Which is a purpose of the Service Desk practice?](#which-is-a-purpose-of-the-service-desk-practice)|
 | 46  | [Which practice identifies metrics that reflect a customer experience of a service?](#which-practice-identifies-metrics-that-reflect-a-customer-experience-of-a-service)|
@@ -201,7 +201,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 104 | [What can a service remove from the consumer and impose on the consumer?](#what-can-a-service-remove-from-the-consumer-and-impose-on-the-consumer)|
 | 105 | [What does Change Enablement PRIMARILY focus on?](#what-does-change-enablement-primarily-focus-on)|
 | 106 | [What is a change schedule used for?](#what-is-a-change-schedule-used-for)|
-| 107 | [Identify the missing word in the following sentence. A change is defined as the addition, modification, or removal of anything that could have a direct or indirect effect on [?].](#identify-the-missing-word-in-the-following-sentence-a-change-is-defined-as-the-addition-modification-or-removal-of-anything-that-could-have-a-direct-or-indirect-effect-on-)|
+| 107 | [A change is defined as the addition, modification, or removal of anything that could have a direct or indirect effect on [?].](#a-change-is-defined-as-the-addition-modification-or-removal-of-anything-that-could-have-a-direct-or-indirect-effect-on-)|
 | 108 | [Which is handled as a service request?](#which-is-handled-as-a-service-request)|
 | 109 | [Which is a key requirement for a successful service level agreement (SLA)?](#which-is-a-key-requirement-for-a-successful-service-level-agreement-sla)|
 | 110 | [Which is considered by the 'partners and suppliers' dimension?](#which-is-considered-by-the-partners-and-suppliers-dimension)|
@@ -244,7 +244,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 147 | [Which is NOT a component of the service value system?](#which-is-not-a-component-of-the-service-value-system)|
 | 148 | [What is defined as a cause, or potential cause, of one or more incidents?](#what-is-defined-as-a-cause-or-potential-cause-of-one-or-more-incidents)|
 | 149 | [Which practice is MOST likely to benefit from the use of chatbots?](#which-practice-is-most-likely-to-benefit-from-the-use-of-chatbots)|
-| 150 | [Identify the missing word in the following sentence. The purpose of the Service Configuration Management practice is to ensure that accurate and reliable information about the configuration of services, and the [?] that support them, is available when and where it is needed.](#identify-the-missing-word-in-the-following-sentence-the-purpose-of-the-service-configuration-management-practice-is-to-ensure-that-accurate-and-reliable-information-about-the-configuration-of-services-and-the--that-support-them-is-available-when-and-where-it-is-needed)|
+| 150 | [The purpose of the Service Configuration Management practice is to ensure that accurate and reliable information about the configuration of services, and the [?] that support them, is available when and where it is needed.](#the-purpose-of-the-service-configuration-management-practice-is-to-ensure-that-accurate-and-reliable-information-about-the-configuration-of-services-and-the--that-support-them-is-available-when-and-where-it-is-needed)|
 | 151 | [Which statement about outcomes is CORRECT?](#which-statement-about-outcomes-is-correct)|
 | 152 | [Which statement about outcomes is CORRECT?](#which-statement-about-outcomes-is-correct-1)|
 | 153 | [Which is a purpose of the 'engage' value chain activity?](#which-is-a-purpose-of-the-engage-value-chain-activity)|
@@ -292,7 +292,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 195 | [When planning Continual Improvement, which approach for assessing the current state of a service is CORRECT?](#when-planning-continual-improvement-which-approach-for-assessing-the-current-state-of-a-service-is-correct)|
 | 196 | [Which is included in the purpose of the Change Enablement practice?](#which-is-included-in-the-purpose-of-the-change-enablement-practice)|
 | 197 | [How does a service consumer contribute to the reduction of disk?](#how-does-a-service-consumer-contribute-to-the-reduction-of-disk)|
-| 198 | [Identify the missing word in the following sentence.  The purpose of the Supplier Management practice is to ensure that the organization's suppliers and their [?] are managed appropriately to support the seamless provision of quality products and services.](#identify-the-missing-word-in-the-following-sentence--the-purpose-of-the-supplier-management-practice-is-to-ensure-that-the-organizations-suppliers-and-their--are-managed-appropriately-to-support-the-seamless-provision-of-quality-products-and-services)|
+| 198 | [ The purpose of the Supplier Management practice is to ensure that the organization's suppliers and their [?] are managed appropriately to support the seamless provision of quality products and services.](#-the-purpose-of-the-supplier-management-practice-is-to-ensure-that-the-organizations-suppliers-and-their--are-managed-appropriately-to-support-the-seamless-provision-of-quality-products-and-services)|
 | 199 | [Which statement about RADIUS configuration distribution using Cisco Fabric Services on a Cisco Nexus 7000 Series Switch is true?](#which-statement-about-radius-configuration-distribution-using-cisco-fabric-services-on-a-cisco-nexus-7000-series-switch-is-true)|
 | 200 | [Which dimension considers how knowledge assets should be protected?](#which-dimension-considers-how-knowledge-assets-should-be-protected)|
 | 201 | [Which guiding principle recommends standardizing and streamlining manual tasks?](#which-guiding-principle-recommends-standardizing-and-streamlining-manual-tasks)|
@@ -366,7 +366,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 269 | [What is the definition of warranty?](#what-is-the-definition-of-warranty)|
 | 270 | [Which practice has a purpose that includes managing risks relating to confidentiality, integrity and availability?](#which-practice-has-a-purpose-that-includes-managing-risks-relating-to-confidentiality-integrity-and-availability)
 
-### Identify the missing word in the following sentence. A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
+### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
 - [ ] Information.
 - [ ] Utility.
@@ -564,7 +564,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Identify the missing word in the following sentence. The use of [?] should support, not replace what is observed, when using the 'start where you are1 guiding principle.
+### The use of [?] should support, not replace what is observed, when using the 'start where you are1 guiding principle.
 
 - [ ] Plans.
 - [x] Measurement.
@@ -744,7 +744,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Identify the missing word in the following sentence. A known error is a problem that has been [?] and has not been resolved.
+### A known error is a problem that has been [?] and has not been resolved.
 
 - [ ] Closed.
 - [ ] Logged.
@@ -1320,7 +1320,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Identify the missing word in the following sentence. A change is defined as the addition, modification, or removal of anything that could have a direct or indirect effect on [?].
+### A change is defined as the addition, modification, or removal of anything that could have a direct or indirect effect on [?].
 
 - [ ] Assets.
 - [ ] Values.
@@ -1707,7 +1707,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Identify the missing word in the following sentence. The purpose of the Service Configuration Management practice is to ensure that accurate and reliable information about the configuration of services, and the [?] that support them, is available when and where it is needed.
+### The purpose of the Service Configuration Management practice is to ensure that accurate and reliable information about the configuration of services, and the [?] that support them, is available when and where it is needed.
 
 - [ ] Suppliers.
 - [x] CIs.
@@ -2139,7 +2139,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Identify the missing word in the following sentence.  The purpose of the Supplier Management practice is to ensure that the organization's suppliers and their [?] are managed appropriately to support the seamless provision of quality products and services.
+###  The purpose of the Supplier Management practice is to ensure that the organization's suppliers and their [?] are managed appropriately to support the seamless provision of quality products and services.
 
 - [ ] Costs.
 - [ ] Users.
