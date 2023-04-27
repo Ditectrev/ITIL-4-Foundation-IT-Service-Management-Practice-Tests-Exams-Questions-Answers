@@ -25,6 +25,7 @@
    - Incident Analysis;
    - Incident Management;
    - Incident Resolution;
+   - Information Security Management;
    - IT Asset Management;
    - Monitoring;
    - Prioritization;
@@ -126,7 +127,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 29  | [Change Control (missing question content)](#change-control-missing-question-content)|
 | 30  | [Which of the following is an example of incident?](#which-of-the-following-is-an-example-of-incident)|
 | 31  | [What is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks?](#what-is-a-means-of-enabling-value-co-creation-by-facilitating-outcomes-that-customers-want-to-achieve-without-the-customer-having-to-manage-specific-costs-and-risks)|
-| 32  | [What is the purpose of the 'information security management1 practice?](#what-is-the-purpose-of-the-information-security-management1-practice)|
+| 32  | [What is the purpose of the Information Security Management practice?](#what-is-the-purpose-of-the-information-security-management-practice)|
 | 33  | [What should be used to set user expectations for request fulfilment times?](#what-should-be-used-to-set-user-expectations-for-request-fulfilment-times)|
 | 34  | [Which competencies are required by the Service Level Management practice?](#which-competencies-are-required-by-the-service-level-management-practice)|
 | 35  | [Which is the BEST example of a standard change?](#which-is-the-best-example-of-a-standard-change)|
@@ -162,209 +163,208 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 65  | [Which guiding principle is PRIMARILY concerned with end-to-end service delivery?](#which-guiding-principle-is-primarily-concerned-with-end-to-end-service-delivery)|
 | 66  | [Which of these activities is carried out as part of Problem Management?](#which-of-these-activities-is-carried-out-as-part-of-problem-management)|
 | 67  | [Which statement about the Change Control practice is CORRECT?](#which-statement-about-the-change-control-practice-is-correct)|
-| 68  | [What is the purpose of the 'information security management' practice?](#what-is-the-purpose-of-the-information-security-management-practice)|
-| 69  | [Which guiding principle considers the importance of customer loyalty?](#which-guiding-principle-considers-the-importance-of-customer-loyalty)|
-| 70  | [What actions does a Service Desk take for all issues, queries and requests that are reported to them?](#what-actions-does-a-service-desk-take-for-all-issues-queries-and-requests-that-are-reported-to-them)|
-| 71  | [Which is an external input to the service value chain?](#which-is-an-external-input-to-the-service-value-chain)|
-| 72  | [What should be considered as part of the 'partners and suppliers' dimension?](#what-should-be-considered-as-part-of-the-partners-and-suppliers-dimension)|
-| 73  | [Which ITIL practice has the purpose to establish and nurture the links between the organization and its stakeholders at strategic and tactical levels?](#which-itil-practice-has-the-purpose-to-establish-and-nurture-the-links-between-the-organization-and-its-stakeholders-at-strategic-and-tactical-levels)|
-| 74  | [A service offering may include goods, access to resources, and service actions. Which is an example of a service action?](#a-service-offering-may-include-goods-access-to-resources-and-service-actions-which-is-an-example-of-a-service-action)|
-| 75  | [Which practice has a purpose to support the quality of the service by handling all agreed user-initiated service requests?](#which-practice-has-a-purpose-to-support-the-quality-of-the-service-by-handling-all-agreed-user-initiated-service-requests)|
-| 76  | [What is the definition of a problem?](#what-is-the-definition-of-a-problem)|
-| 77  | [What aspect of Service Level Management asks service consumers what their work involves and how technology helps them?](#what-aspect-of-service-level-management-asks-service-consumers-what-their-work-involves-and-how-technology-helps-them)|
-| 78  | [How should the seven guiding principles be combined when an organization is making a decision?](#how-should-the-seven-guiding-principles-be-combined-when-an-organization-is-making-a-decision)|
-| 79  | [Which directly assists with the diagnosis and resolution of simple incidents?](#which-directly-assists-with-the-diagnosis-and-resolution-of-simple-incidents)|
-| 80  | [Which activity contributes to the 'where are we now?' step of the Continual Improvement model?](#which-activity-contributes-to-the-where-are-we-now-step-of-the-continual-improvement-model)|
-| 81  | [Which practice provides a communications point for users to report operational issues, queries and requests?](#which-practice-provides-a-communications-point-for-users-to-report-operational-issues-queries-and-requests)|
-| 82  | [Which is an example of a business related measurement?](#which-is-an-example-of-a-business-related-measurement)|
-| 83  | [What can help to reduce resistance to a planned improvement when applying the guiding principle 'collaborate and promote visibility'?](#what-can-help-to-reduce-resistance-to-a-planned-improvement-when-applying-the-guiding-principle-collaborate-and-promote-visibility)|
-| 84  | [What is the purpose of the Incident Management practice?](#what-is-the-purpose-of-the-incident-management-practice)|
-| 85  | [What varies in size and complexity, and uses functions to achieve its objectives?](#what-varies-in-size-and-complexity-and-uses-functions-to-achieve-its-objectives)|
-| 86  | [Which BEST describes the purpose of the 'improve' value chain activity?](#which-best-describes-the-purpose-of-the-improve-value-chain-activity)|
-| 87  | [What takes responsibility for the outcomes of service consumption?](#what-takes-responsibility-for-the-outcomes-of-service-consumption)|
-| 88  | [Which practice forms a link between the service provider and the users of services?](#which-practice-forms-a-link-between-the-service-provider-and-the-users-of-services)|
-| 89  | [Which practice ensures that any addition, modification, or removal of anything that could have an effect on services is assessed and authorized?](#which-practice-ensures-that-any-addition-modification-or-removal-of-anything-that-could-have-an-effect-on-services-is-assessed-and-authorized)|
-| 90  | [Which is a purpose of Release Management?](#which-is-a-purpose-of-release-management)|
-| 91  | [What is recommended by the guiding principle 'progress iteratively with feedback'?](#what-is-recommended-by-the-guiding-principle-progress-iteratively-with-feedback)|
-| 92  | [Which includes governance, management practices, and Continual Improvement?](#which-includes-governance-management-practices-and-continual-improvement)|
-| 93  | [What term is used to describe whether a service will meet availability, capacity and security requirements?](#what-term-is-used-to-describe-whether-a-service-will-meet-availability-capacity-and-security-requirements)|
-| 94  | [Which guiding principle considers customer and user experience?](#which-guiding-principle-considers-customer-and-user-experience)|
-| 95  | [Which is a result of applying the guiding principle 'progress iteratively with feedback'?](#which-is-a-result-of-applying-the-guiding-principle-progress-iteratively-with-feedback)|
-| 96  | [What describes how components and activities work together to facilitate value creation?](#what-describes-how-components-and-activities-work-together-to-facilitate-value-creation)|
-| 97  | [Which statement about Continual Improvement is CORRECT?](#which-statement-about-continual-improvement-is-correct)|
-| 98  | [What are guiding principles?](#what-are-guiding-principles)|
-| 99  | [Which dimension is MOST concerned with skills, competencies, roles and responsibilities?](#which-dimension-is-most-concerned-with-skills-competencies-roles-and-responsibilities)|
-| 100 | [Which statement about the Change Enablement practice is CORRECT?](#which-statement-about-the-change-enablement-practice-is-correct)|
-| 101 | [What can be used to determine if a service is 'fit for purpose'?](#what-can-be-used-to-determine-if-a-service-is-fit-for-purpose)|
-| 102 | [Which practice has a purpose that includes managing risks to confidentiality, integrity and availability?](#which-practice-has-a-purpose-that-includes-managing-risks-to-confidentiality-integrity-and-availability)|
-| 103 | [Which is a key activity carried out in the 'did we get there?' step of the Continual Improvement model?](#which-is-a-key-activity-carried-out-in-the-did-we-get-there-step-of-the-continual-improvement-model)|
-| 104 | [What can a service remove from the consumer and impose on the consumer?](#what-can-a-service-remove-from-the-consumer-and-impose-on-the-consumer)|
-| 105 | [What does Change Enablement PRIMARILY focus on?](#what-does-change-enablement-primarily-focus-on)|
-| 106 | [What is a change schedule used for?](#what-is-a-change-schedule-used-for)|
-| 107 | [A change is defined as the addition, modification, or removal of anything that could have a direct or indirect effect on [?].](#a-change-is-defined-as-the-addition-modification-or-removal-of-anything-that-could-have-a-direct-or-indirect-effect-on-)|
-| 108 | [Which is handled as a service request?](#which-is-handled-as-a-service-request)|
-| 109 | [Which is a key requirement for a successful service level agreement (SLA)?](#which-is-a-key-requirement-for-a-successful-service-level-agreement-sla)|
-| 110 | [Which is considered by the 'partners and suppliers' dimension?](#which-is-considered-by-the-partners-and-suppliers-dimension)|
-| 111 | [What impact does automation have on a Service Desk?](#what-impact-does-automation-have-on-a-service-desk)|
-| 112 | [An organization asks a stakeholder to review a planned change. Which guiding principle does this demonstrate?](#an-organization-asks-a-stakeholder-to-review-a-planned-change-which-guiding-principle-does-this-demonstrate)|
-| 113 | [Which practice recommends using tools for collaboration and the automated matching of symptoms?](#which-practice-recommends-using-tools-for-collaboration-and-the-automated-matching-of-symptoms)|
-| 114 | [In service relationships, what is a benefit of identifying consumer roles?](#in-service-relationships-what-is-a-benefit-of-identifying-consumer-roles)|
-| 115 | [Which practice would help a user gain access to an application that they need to use?](#which-practice-would-help-a-user-gain-access-to-an-application-that-they-need-to-use)|
-| 116 | [What is used to link activities within the service value chain?](#what-is-used-to-link-activities-within-the-service-value-chain)|
-| 117 | [How are target resolution times used in the Incident Management practice?](#how-are-target-resolution-times-used-in-the-incident-management-practice)|
-| 118 | [Which two practices use workarounds?](#which-two-practices-use-workarounds)|
-| 119 | [Which statement about the service value chain is CORRECT?](#which-statement-about-the-service-value-chain-is-correct)|
-| 120 | [Identify the missing word(s) in the following sentence. The Service Desk should be the entry point and single point of contact for the [?] with all of its users.](#identify-the-missing-words-in-the-following-sentence-the-service-desk-should-be-the-entry-point-and-single-point-of-contact-for-the--with-all-of-its-users)|
-| 121 | [Which statement about managing incidents is CORRECT?](#which-statement-about-managing-incidents-is-correct)|
-| 122 | [Which practice has a strong influence on the user experience and perception of the service provider?](#which-practice-has-a-strong-influence-on-the-user-experience-and-perception-of-the-service-provider)|
-| 123 | [Which will help solve incidents more quickly?](#which-will-help-solve-incidents-more-quickly)|
-| 124 | [What is the purpose of the Relationship Management practice?](#what-is-the-purpose-of-the-relationship-management-practice)|
-| 125 | [Which describes the utility of a service?](#which-describes-the-utility-of-a-service)|
-| 126 | [Why should some service requests be fulfilled with no additional approvals?](#why-should-some-service-requests-be-fulfilled-with-no-additional-approvals)|
-| 127 | [Which approach is CORRECT when applying the guiding principle 'keep it simple and practical'?](#which-approach-is-correct-when-applying-the-guiding-principle-keep-it-simple-and-practical)|
-| 128 | [Which dimension considers data security and privacy?](#which-dimension-considers-data-security-and-privacy)|
-| 129 | [Which practice involves the management of vulnerabilities that were not identified before the service went live?](#which-practice-involves-the-management-of-vulnerabilities-that-were-not-identified-before-the-service-went-live)|
-| 130 | [Which is a recommendation of the guiding principle 'think and work holistically'?](#which-is-a-recommendation-of-the-guiding-principle-think-and-work-holistically)|
-| 131 | [Which value chain activity ensures that products meet stakeholder expectations for quality?](#which-value-chain-activity-ensures-that-products-meet-stakeholder-expectations-for-quality)|
-| 132 | [What is the purpose of the Problem Management practice?](#what-is-the-purpose-of-the-problem-management-practice)|
-| 133 | [When is the earliest that a workaround can be documented in Problem Management?](#when-is-the-earliest-that-a-workaround-can-be-documented-in-problem-management)|
-| 134 | [Which value chain activity ensures that service components meet agreed specifications?](#which-value-chain-activity-ensures-that-service-components-meet-agreed-specifications)|
-| 135 | [What includes governance as a component?](#what-includes-governance-as-a-component)|
-| 136 | [What is a set of specialized organizational capabilities for enabling value for customers in the form of services?](#what-is-a-set-of-specialized-organizational-capabilities-for-enabling-value-for-customers-in-the-form-of-services)|
-| 137 | [Which practice makes new services available for use?](#which-practice-makes-new-services-available-for-use)|
-| 138 | [Which is an activity of the Problem Management practice?](#which-is-an-activity-of-the-problem-management-practice)|
-| 139 | [Which gives a user access to a system?](#which-gives-a-user-access-to-a-system)|
-| 140 | [Which is included in the purpose of the Service Level Management practice?](#which-is-included-in-the-purpose-of-the-service-level-management-practice)|
-| 141 | [Which term relates to service levels aligned with the needs of service consumers?](#which-term-relates-to-service-levels-aligned-with-the-needs-of-service-consumers)|
-| 142 | [What is the definition of a known error?](#what-is-the-definition-of-a-known-error)|
-| 143 | [Which statement about the use of measurement in the 'start where you are' guiding principle is CORRECT?](#which-statement-about-the-use-of-measurement-in-the-start-where-you-are-guiding-principle-is-correct)|
-| 144 | [Which is the BEST description of the value of a service to a customer?](#which-is-the-best-description-of-the-value-of-a-service-to-a-customer)|
-| 145 | [Which practice involves the management of vulnerabilities that have been analysed but not resolved?](#which-practice-involves-the-management-of-vulnerabilities-that-have-been-analysed-but-not-resolved)|
-| 146 | [Which is an activity of the Incident Management practice?](#which-is-an-activity-of-the-incident-management-practice)|
-| 147 | [Which is NOT a component of the service value system?](#which-is-not-a-component-of-the-service-value-system)|
-| 148 | [What is defined as a cause, or potential cause, of one or more incidents?](#what-is-defined-as-a-cause-or-potential-cause-of-one-or-more-incidents)|
-| 149 | [Which practice is MOST likely to benefit from the use of chatbots?](#which-practice-is-most-likely-to-benefit-from-the-use-of-chatbots)|
-| 150 | [The purpose of the Service Configuration Management practice is to ensure that accurate and reliable information about the configuration of services, and the [?] that support them, is available when and where it is needed.](#the-purpose-of-the-service-configuration-management-practice-is-to-ensure-that-accurate-and-reliable-information-about-the-configuration-of-services-and-the--that-support-them-is-available-when-and-where-it-is-needed)|
-| 151 | [Which statement about outcomes is CORRECT?](#which-statement-about-outcomes-is-correct)|
-| 152 | [Which statement about outcomes is CORRECT?](#which-statement-about-outcomes-is-correct-1)|
-| 153 | [Which is a purpose of the 'engage' value chain activity?](#which-is-a-purpose-of-the-engage-value-chain-activity)|
-| 154 | [Which statement about service requests is CORRECT?](#which-statement-about-service-requests-is-correct)|
-| 155 | [Which practice is responsible for moving new or changed components to live or other environments?](#which-practice-is-responsible-for-moving-new-or-changed-components-to-live-or-other-environments)|
-| 156 | [Which dimension focuses on relationships with other organizations that are involved in the design, development, deployment and delivery of services?](#which-dimension-focuses-on-relationships-with-other-organizations-that-are-involved-in-the-design-development-deployment-and-delivery-of-services)|
-| 157 | [What must always be done before an activity is automated?](#what-must-always-be-done-before-an-activity-is-automated)|
-| 158 | [Which two statements about an organization's culture are CORRECT? 1. It is created from shared values based on how it carries out its work 2. It is determined by the type of technology used to support services 3. It should be based on the culture of prospective suppliers 4. It should be based on the objectives of the organization](#which-two-statements-about-an-organizations-culture-are-correct-1-it-is-created-from-shared-values-based-on-how-it-carries-out-its-work-2-it-is-determined-by-the-type-of-technology-used-to-support-services-3-it-should-be-based-on-the-culture-of-prospective-suppliers-4-it-should-be-based-on-the-objectives-of-the-organization)|
-| 159 | [Which statement about the automation of service requests is CORRECT?](#which-statement-about-the-automation-of-service-requests-is-correct)|
-| 160 | [What is the purpose of the Deployment Management practice?](#what-is-the-purpose-of-the-deployment-management-practice)|
-| 161 | [What is a change schedule PRIMARILY used for?](#what-is-a-change-schedule-primarily-used-for)|
-| 162 | [Which can act as an operating model for an organization?](#which-can-act-as-an-operating-model-for-an-organization)|
-| 163 | [What is an IT asset?](#what-is-an-it-asset)|
-| 164 | [Which is a key requirement for a successful service level agreement?](#which-is-a-key-requirement-for-a-successful-service-level-agreement)|
-| 165 | [Which role approves the cost of services?](#which-role-approves-the-cost-of-services)|
-| 166 | [What is warranty?](#what-is-warranty)|
-| 167 | [What are the three phases of Problem Management?](#what-are-the-three-phases-of-problem-management)|
-| 168 | [Where are the details of the required performance outcomes of a service defined?](#where-are-the-details-of-the-required-performance-outcomes-of-a-service-defined)|
-| 169 | [Which skill is an essential part of the Service Level Management practice?](#which-skill-is-an-essential-part-of-the-service-level-management-practice)|
-| 170 | [Which practice requires that staff demonstrate excellent customer service skills, such as empathy and emotional intelligence?](#which-practice-requires-that-staff-demonstrate-excellent-customer-service-skills-such-as-empathy-and-emotional-intelligence)|
-| 171 | [Which value chain activity ensures a shared understanding of the current status and required direction for all products and services?](#which-value-chain-activity-ensures-a-shared-understanding-of-the-current-status-and-required-direction-for-all-products-and-services)|
-| 172 | [What is defined as any component that needs to be managed in order to deliver an IT service?](#what-is-defined-as-any-component-that-needs-to-be-managed-in-order-to-deliver-an-it-service)|
-| 173 | [Which practice has the purpose of ensuring that the organization's suppliers and their performance are managed appropriately to support the provision of seamless, quality products and services?](#which-practice-has-the-purpose-of-ensuring-that-the-organizations-suppliers-and-their-performance-are-managed-appropriately-to-support-the-provision-of-seamless-quality-products-and-services)|
-| 174 | [Which practice recommends the use of event-based surveys to gather feedback from customers?](#which-practice-recommends-the-use-of-event-based-surveys-to-gather-feedback-from-customers)|
-| 175 | [How does information about problems and known errors contribute to Incident Management?](#how-does-information-about-problems-and-known-errors-contribute-to-incident-management)|
-| 176 | [Which describes a standard change?](#which-describes-a-standard-change)|
-| 177 | [In Cisco AMP for Endpoints, which API queues to find the list of endpoints in the group 'Finance Hosts' which has a GUID of 6c3c2005-4c74-4ba7-8dbb-c4d5b6bafe03?](#in-cisco-amp-for-endpoints-which-api-queues-to-find-the-list-of-endpoints-in-the-group-finance-hosts-which-has-a-guid-of-6c3c2005-4c74-4ba7-8dbb-c4d5b6bafe03)|
-| 178 | [Which service level metrics are BEST for measuring user experience?](#which-service-level-metrics-are-best-for-measuring-user-experience)|
-| 179 | [Which is a service request?](#which-is-a-service-request)|
-| 180 | [Which two practices interact the MOST with the Service Desk practice?](#which-two-practices-interact-the-most-with-the-service-desk-practice)|
-| 181 | [What is defined as an unplanned interruption or reduction in the quality of a service?](#what-is-defined-as-an-unplanned-interruption-or-reduction-in-the-quality-of-a-service)|
-| 182 | [Which describes normal changes?](#which-describes-normal-changes)|
-| 183 | [The management of information security incidents usually requires [?].](#the-management-of-information-security-incidents-usually-requires-)|
-| 184 | [Which statement about change authorities is CORRECT?](#which-statement-about-change-authorities-is-correct)|
-| 185 | [What defines the requirements for a service and takes responsibility for the outcomes of service consumption?](#what-defines-the-requirements-for-a-service-and-takes-responsibility-for-the-outcomes-of-service-consumption)|
-| 186 | [Which practice owns and manages issues, queries and requests from users?](#which-practice-owns-and-manages-issues-queries-and-requests-from-users)|
-| 187 | [What are the MOST important skills required by Service Desk staff?](#what-are-the-most-important-skills-required-by-service-desk-staff)|
-| 188 | [Which practice improves customer and user satisfaction by reducing the negative impact of service interruptions?](#which-practice-improves-customer-and-user-satisfaction-by-reducing-the-negative-impact-of-service-interruptions)|
-| 189 | [What is the expected outcome from using a service value chain?](#what-is-the-expected-outcome-from-using-a-service-value-chain)|
-| 190 | [Which practice has a purpose that includes observing a service to report selected changes of state identified as events?](#which-practice-has-a-purpose-that-includes-observing-a-service-to-report-selected-changes-of-state-identified-as-events)|
-| 191 | [Which guiding principle helps to ensure that better information is available for decision making?](#which-guiding-principle-helps-to-ensure-that-better-information-is-available-for-decision-making)|
-| 192 | [What helps diagnose and resolve a simple incident?](#what-helps-diagnose-and-resolve-a-simple-incident)|
-| 193 | [A user is [?] that uses services.](#a-user-is--that-uses-services)|
-| 194 | [When should a change request be submitted to resolve a problem?](#when-should-a-change-request-be-submitted-to-resolve-a-problem)|
-| 195 | [When planning Continual Improvement, which approach for assessing the current state of a service is CORRECT?](#when-planning-continual-improvement-which-approach-for-assessing-the-current-state-of-a-service-is-correct)|
-| 196 | [Which is included in the purpose of the Change Enablement practice?](#which-is-included-in-the-purpose-of-the-change-enablement-practice)|
-| 197 | [How does a service consumer contribute to the reduction of disk?](#how-does-a-service-consumer-contribute-to-the-reduction-of-disk)|
-| 198 | [The purpose of the Supplier Management practice is to ensure that the organization's suppliers and their [?] are managed appropriately to support the seamless provision of quality products and services.](#the-purpose-of-the-supplier-management-practice-is-to-ensure-that-the-organizations-suppliers-and-their--are-managed-appropriately-to-support-the-seamless-provision-of-quality-products-and-services)|
-| 199 | [Which statement about RADIUS configuration distribution using Cisco Fabric Services on a Cisco Nexus 7000 Series Switch is true?](#which-statement-about-radius-configuration-distribution-using-cisco-fabric-services-on-a-cisco-nexus-7000-series-switch-is-true)|
-| 200 | [Which dimension considers how knowledge assets should be protected?](#which-dimension-considers-how-knowledge-assets-should-be-protected)|
-| 201 | [Which guiding principle recommends standardizing and streamlining manual tasks?](#which-guiding-principle-recommends-standardizing-and-streamlining-manual-tasks)|
-| 202 | [Ann, a member of the finance department at a large corporation, has submitted a suspicious email she received to the information security team. The team was not expecting an email from Ann, and it contains a PDF file inside a ZIP compressed archive. The information security learn is not sure which files were opened. A security team member uses an air-gapped PC to open the ZIP and PDF, and it appears to be a social engineering attempt to deliver an exploit. Which of the following would    provide greater insight on the potential impact of this attempted attack?](#ann-a-member-of-the-finance-department-at-a-large-corporation-has-submitted-a-suspicious-email-she-received-to-the-information-security-team-the-team-was-not-expecting-an-email-from-ann-and-it-contains-a-pdf-file-inside-a-zip-compressed-archive-the-information-security-learn-is-not-sure-which-files-were-opened-a-security-team-member-uses-an-air-gapped-pc-to-open-the-zip-and-pdf-and-it-appears-to-be-a-social-engineering-attempt-to-deliver-an-exploit-which-of-the-following-would----provide-greater-insight-on-the-potential-impact-of-this-attempted-attack)|
-| 203 | [Which guiding principle recommends eliminating activities that do not contribute to the creation of value?](#which-guiding-principle-recommends-eliminating-activities-that-do-not-contribute-to-the-creation-of-value)|
-| 204 | [What is a recommendation of the 'focus on value' guiding principle?](#what-is-a-recommendation-of-the-focus-on-value-guiding-principle)|
-| 205 | [Which is part of service provision?](#which-is-part-of-service-provision)|
-| 206 | [Which practice has a purpose to support the quality of the service by handling all agreed user initiated service requests?](#which-practice-has-a-purpose-to-support-the-quality-of-the-service-by-handling-all-agreed-user-initiated-service-requests)|
-| 207 | [When should a full risk assessment and Authorization be carried out for a standard change?](#when-should-a-full-risk-assessment-and-authorization-be-carried-out-for-a-standard-change)|
-| 208 | [Which statement about a Continual Improvement register is CORRECT?](#which-statement-about-a-continual-improvement-register-is-correct)|
-| 209 | [Which is included in the purpose of the 'design and transition' value chain activity?](#which-is-included-in-the-purpose-of-the-design-and-transition-value-chain-activity)|
-| 210 | [Which is included in the purpose of the 'deliver and support' value chain activity?](#which-is-included-in-the-purpose-of-the-deliver-and-support-value-chain-activity)|
-| 211 | [Which practice coordinates the classification, ownership and communication of service requests and incidents?](#which-practice-coordinates-the-classification-ownership-and-communication-of-service-requests-and-incidents)|
-| 212 | [Which practice updates information relating to symptoms and business impact?](#which-practice-updates-information-relating-to-symptoms-and-business-impact)|
-| 213 | [Which ITIL guiding principle recommends using existing services, processes and tools when improving services?](#which-itil-guiding-principle-recommends-using-existing-services-processes-and-tools-when-improving-services)|
-| 214 | [What is an incident?](#what-is-an-incident)|
-| 215 | [What is defined as a change of state that has significance for the management of an IT service?](#what-is-defined-as-a-change-of-state-that-has-significance-for-the-management-of-an-it-service)|
-| 216 | [Which dimension includes the knowledge needed for the management of services?](#which-dimension-includes-the-knowledge-needed-for-the-management-of-services)|
-| 217 | [What is the PRIMARY use of a change schedule?](#what-is-the-primary-use-of-a-change-schedule)|
-| 218 | [Which guiding principle focuses on reducing costs and human errors?](#which-guiding-principle-focuses-on-reducing-costs-and-human-errors)|
-| 219 | [Which guiding principle helps to ensure that each improvement effort has more focus and is easier to maintain?](#which-guiding-principle-helps-to-ensure-that-each-improvement-effort-has-more-focus-and-is-easier-to-maintain)|
-| 220 | [What is important for a Continual Improvement register (CIR)?](#what-is-important-for-a-continual-improvement-register-cir)|
-| 221 | [Which is a purpose of the Service Level Management practice?](#which-is-a-purpose-of-the-service-level-management-practice)|
-| 222 | [What describes the steps needed to create and deliver a specific service to a consumer?](#what-describes-the-steps-needed-to-create-and-deliver-a-specific-service-to-a-consumer)|
-| 223 | [Which helps to manage an incident when it is unclear which support team should be working on the incident?](#which-helps-to-manage-an-incident-when-it-is-unclear-which-support-team-should-be-working-on-the-incident)|
-| 224 | [Which statement about the Continual Improvement practice is CORRECT?](#which-statement-about-the-continual-improvement-practice-is-correct)|
-| 225 | [Which does the ITIL service value system discourage?](#which-does-the-itil-service-value-system-discourage)|
-| 226 | [An SLA is a service level agreement. Which describes the 'watermelon SLA' effect?](#an-sla-is-a-service-level-agreement-which-describes-the-watermelon-sla-effect)|
-| 227 | [Which practice includes conducting regular reviews to ensure that services are still appropriate and relevant?](#which-practice-includes-conducting-regular-reviews-to-ensure-that-services-are-still-appropriate-and-relevant)|
-| 228 | [What is a service?](#what-is-a-service)|
-| 229 | [Which TWO are important aspects of the Service Request Management practice? 1. Standardization and automation 2. Providing a variety of channels for access 3. Establishing a shared view of targets 4. Policies for approvals](#which-two-are-important-aspects-of-the-service-request-management-practice-1-standardization-and-automation-2-providing-a-variety-of-channels-for-access-3-establishing-a-shared-view-of-targets-4-policies-for-approvals)|
-| 230 | [What is required by all Service Desk staff?](#what-is-required-by-all-service-desk-staff)|
-| 231 | [Which practice establishes a channel between the service provider and its users?](#which-practice-establishes-a-channel-between-the-service-provider-and-its-users)|
-| 232 | [Which practice includes the use of approaches such as Lean, Agile and DevOps with the aim of facilitating a greater amount of change at a quicker rate?](#which-practice-includes-the-use-of-approaches-such-as-lean-agile-and-devops-with-the-aim-of-facilitating-a-greater-amount-of-change-at-a-quicker-rate)|
-| 233 | [Which practice has a purpose that includes maximizing success by ensuring that risks have been properly assessed?](#which-practice-has-a-purpose-that-includes-maximizing-success-by-ensuring-that-risks-have-been-properly-assessed)|
-| 234 | [Which practice provides users with a way to get various requests arranged, explained and coordinated?](#which-practice-provides-users-with-a-way-to-get-various-requests-arranged-explained-and-coordinated)|
-| 235 | [Which helps to streamline the fulfilment of service requests?](#which-helps-to-streamline-the-fulfilment-of-service-requests)|
-| 236 | [Which statement about outcomes is CORRECT?](#which-statement-about-outcomes-is-correct-2)|
-| 237 | [Which guiding principle says that services and processes should NOT provide a solution for every exception?](#which-guiding-principle-says-that-services-and-processes-should-not-provide-a-solution-for-every-exception)|
-| 238 | [Identify the missing word in the following sentence.](#identify-the-missing-word-in-the-following-sentence)|
-| 239 | [The purpose of the Service Configuration Management practice is to ensure that accurate and reliable information about the [?], and the CIs that support them, is available when and where it is needed.](#the-purpose-of-the-service-configuration-management-practice-is-to-ensure-that-accurate-and-reliable-information-about-the--and-the-cis-that-support-them-is-available-when-and-where-it-is-needed)|
-| 240 | [Which practice requires skills and competencies related to business analysis, Supplier Management and Relationship Management?](#which-practice-requires-skills-and-competencies-related-to-business-analysis-supplier-management-and-relationship-management)|
-| 241 | [When should a workaround be created?](#when-should-a-workaround-be-created)|
-| 242 | [What is a configuration item?](#what-is-a-configuration-item)|
-| 243 | [When an organization has decided to improve a service, it should start by considering [?].](#when-an-organization-has-decided-to-improve-a-service-it-should-start-by-considering-)|
-| 244 | [Which are elements of the service value system?](#which-are-elements-of-the-service-value-system)|
-| 245 | [Which is a use of the change schedule?](#which-is-a-use-of-the-change-schedule)|
-| 246 | [Which dimension of service management considers the workflows and controls needed to deliver services?](#which-dimension-of-service-management-considers-the-workflows-and-controls-needed-to-deliver-services)|
-| 247 | [Which guiding principle considers how the steps of a process can be performed as efficiently as possible?](#which-guiding-principle-considers-how-the-steps-of-a-process-can-be-performed-as-efficiently-as-possible)|
-| 248 | [Which statement about the Incident Management practice is CORRECT?](#which-statement-about-the-incident-management-practice-is-correct)|
-| 249 | [How should an organization prioritize incidents?](#how-should-an-organization-prioritize-incidents)|
-| 250 | [Which is a purpose of the Relationship Management practice?](#which-is-a-purpose-of-the-relationship-management-practice)|
-| 251 | [Which statement about problems is CORRECT?](#which-statement-about-problems-is-correct)|
-| 252 | [Which is a risk that might be removed from a service consumer by an IT service?](#which-is-a-risk-that-might-be-removed-from-a-service-consumer-by-an-it-service)|
-| 253 | [Which is one of the MAIN concerns of the 'design and transition' value chain activity?](#which-is-one-of-the-main-concerns-of-the-design-and-transition-value-chain-activity)|
-| 254 | [Which should be handled by Service Request Management?](#which-should-be-handled-by-service-request-management)|
-| 255 | [What can be described as an operating model for the creation and management of products and services?](#what-can-be-described-as-an-operating-model-for-the-creation-and-management-of-products-and-services)|
-| 256 | [Which action is performed by a service provider?](#which-action-is-performed-by-a-service-provider)|
-| 257 | [Which step of the Continual Improvement model includes baseline assessments?](#which-step-of-the-continual-improvement-model-includes-baseline-assessments)|
-| 258 | [Which describes a 'change authority'?](#which-describes-a-change-authority)|
-| 259 | [Which is NOT a component of the service value system?](#which-is-not-a-component-of-the-service-value-system-1)|
-| 260 | [Which statement about service Relationship Management is CORRECT?](#which-statement-about-service-relationship-management-is-correct)|
-| 261 | [What is the MOST important reason for prioritizing incidents?](#what-is-the-most-important-reason-for-prioritizing-incidents)|
-| 262 | [Which Service Level Management activity helps staff to deliver a more business-focused service?](#which-service-level-management-activity-helps-staff-to-deliver-a-more-business-focused-service)|
-| 263 | [Which practice has a purpose that includes the handling of pre-defined, user-initiated demands for service?](#which-practice-has-a-purpose-that-includes-the-handling-of-pre-defined-user-initiated-demands-for-service)|
-| 264 | [Which guiding principle considers which parts of an existing process should be kept by identifying how they contribute to value creation?](#which-guiding-principle-considers-which-parts-of-an-existing-process-should-be-kept-by-identifying-how-they-contribute-to-value-creation)|
-| 265 | [What is the purpose of the Monitoring and Event Management practice?](#what-is-the-purpose-of-the-monitoring-and-event-management-practice)|
-| 266 | [Which statement about outcomes is CORRECT?](#which-statement-about-outcomes-is-correct-3)|
-| 267 | [Which skill is required by the Service Level Management practice?](#which-skill-is-required-by-the-service-level-management-practice)|
-| 268 | [Which statement about the Continual Improvement model is CORRECT?](#which-statement-about-the-continual-improvement-model-is-correct)|
-| 269 | [What is the definition of warranty?](#what-is-the-definition-of-warranty)|
-| 270 | [Which practice has a purpose that includes managing risks relating to confidentiality, integrity and availability?](#which-practice-has-a-purpose-that-includes-managing-risks-relating-to-confidentiality-integrity-and-availability)
+| 68  | [Which guiding principle considers the importance of customer loyalty?](#which-guiding-principle-considers-the-importance-of-customer-loyalty)|
+| 69  | [What actions does a Service Desk take for all issues, queries and requests that are reported to them?](#what-actions-does-a-service-desk-take-for-all-issues-queries-and-requests-that-are-reported-to-them)|
+| 70  | [Which is an external input to the service value chain?](#which-is-an-external-input-to-the-service-value-chain)|
+| 71  | [What should be considered as part of the 'partners and suppliers' dimension?](#what-should-be-considered-as-part-of-the-partners-and-suppliers-dimension)|
+| 72  | [Which ITIL practice has the purpose to establish and nurture the links between the organization and its stakeholders at strategic and tactical levels?](#which-itil-practice-has-the-purpose-to-establish-and-nurture-the-links-between-the-organization-and-its-stakeholders-at-strategic-and-tactical-levels)|
+| 73  | [A service offering may include goods, access to resources, and service actions. Which is an example of a service action?](#a-service-offering-may-include-goods-access-to-resources-and-service-actions-which-is-an-example-of-a-service-action)|
+| 74  | [Which practice has a purpose to support the quality of the service by handling all agreed user-initiated service requests?](#which-practice-has-a-purpose-to-support-the-quality-of-the-service-by-handling-all-agreed-user-initiated-service-requests)|
+| 75  | [What is the definition of a problem?](#what-is-the-definition-of-a-problem)|
+| 76  | [What aspect of Service Level Management asks service consumers what their work involves and how technology helps them?](#what-aspect-of-service-level-management-asks-service-consumers-what-their-work-involves-and-how-technology-helps-them)|
+| 77  | [How should the seven guiding principles be combined when an organization is making a decision?](#how-should-the-seven-guiding-principles-be-combined-when-an-organization-is-making-a-decision)|
+| 78  | [Which directly assists with the diagnosis and resolution of simple incidents?](#which-directly-assists-with-the-diagnosis-and-resolution-of-simple-incidents)|
+| 79  | [Which activity contributes to the 'where are we now?' step of the Continual Improvement model?](#which-activity-contributes-to-the-where-are-we-now-step-of-the-continual-improvement-model)|
+| 80  | [Which practice provides a communications point for users to report operational issues, queries and requests?](#which-practice-provides-a-communications-point-for-users-to-report-operational-issues-queries-and-requests)|
+| 81  | [Which is an example of a business related measurement?](#which-is-an-example-of-a-business-related-measurement)|
+| 82  | [What can help to reduce resistance to a planned improvement when applying the guiding principle 'collaborate and promote visibility'?](#what-can-help-to-reduce-resistance-to-a-planned-improvement-when-applying-the-guiding-principle-collaborate-and-promote-visibility)|
+| 83  | [What is the purpose of the Incident Management practice?](#what-is-the-purpose-of-the-incident-management-practice)|
+| 84  | [What varies in size and complexity, and uses functions to achieve its objectives?](#what-varies-in-size-and-complexity-and-uses-functions-to-achieve-its-objectives)|
+| 85  | [Which BEST describes the purpose of the 'improve' value chain activity?](#which-best-describes-the-purpose-of-the-improve-value-chain-activity)|
+| 86  | [What takes responsibility for the outcomes of service consumption?](#what-takes-responsibility-for-the-outcomes-of-service-consumption)|
+| 87  | [Which practice forms a link between the service provider and the users of services?](#which-practice-forms-a-link-between-the-service-provider-and-the-users-of-services)|
+| 88  | [Which practice ensures that any addition, modification, or removal of anything that could have an effect on services is assessed and authorized?](#which-practice-ensures-that-any-addition-modification-or-removal-of-anything-that-could-have-an-effect-on-services-is-assessed-and-authorized)|
+| 89  | [Which is a purpose of Release Management?](#which-is-a-purpose-of-release-management)|
+| 90  | [What is recommended by the guiding principle 'progress iteratively with feedback'?](#what-is-recommended-by-the-guiding-principle-progress-iteratively-with-feedback)|
+| 91  | [Which includes governance, management practices, and Continual Improvement?](#which-includes-governance-management-practices-and-continual-improvement)|
+| 92  | [What term is used to describe whether a service will meet availability, capacity and security requirements?](#what-term-is-used-to-describe-whether-a-service-will-meet-availability-capacity-and-security-requirements)|
+| 93  | [Which guiding principle considers customer and user experience?](#which-guiding-principle-considers-customer-and-user-experience)|
+| 94  | [Which is a result of applying the guiding principle 'progress iteratively with feedback'?](#which-is-a-result-of-applying-the-guiding-principle-progress-iteratively-with-feedback)|
+| 95  | [What describes how components and activities work together to facilitate value creation?](#what-describes-how-components-and-activities-work-together-to-facilitate-value-creation)|
+| 96  | [Which statement about Continual Improvement is CORRECT?](#which-statement-about-continual-improvement-is-correct)|
+| 97  | [What are guiding principles?](#what-are-guiding-principles)|
+| 98  | [Which dimension is MOST concerned with skills, competencies, roles and responsibilities?](#which-dimension-is-most-concerned-with-skills-competencies-roles-and-responsibilities)|
+| 99  | [Which statement about the Change Enablement practice is CORRECT?](#which-statement-about-the-change-enablement-practice-is-correct)|
+| 100 | [What can be used to determine if a service is 'fit for purpose'?](#what-can-be-used-to-determine-if-a-service-is-fit-for-purpose)|
+| 101 | [Which practice has a purpose that includes managing risks to confidentiality, integrity and availability?](#which-practice-has-a-purpose-that-includes-managing-risks-to-confidentiality-integrity-and-availability)|
+| 102 | [Which is a key activity carried out in the 'did we get there?' step of the Continual Improvement model?](#which-is-a-key-activity-carried-out-in-the-did-we-get-there-step-of-the-continual-improvement-model)|
+| 103 | [What can a service remove from the consumer and impose on the consumer?](#what-can-a-service-remove-from-the-consumer-and-impose-on-the-consumer)|
+| 104 | [What does Change Enablement PRIMARILY focus on?](#what-does-change-enablement-primarily-focus-on)|
+| 105 | [What is a change schedule used for?](#what-is-a-change-schedule-used-for)|
+| 106 | [A change is defined as the addition, modification, or removal of anything that could have a direct or indirect effect on [?].](#a-change-is-defined-as-the-addition-modification-or-removal-of-anything-that-could-have-a-direct-or-indirect-effect-on-)|
+| 107 | [Which is handled as a service request?](#which-is-handled-as-a-service-request)|
+| 108 | [Which is a key requirement for a successful service level agreement (SLA)?](#which-is-a-key-requirement-for-a-successful-service-level-agreement-sla)|
+| 109 | [Which is considered by the 'partners and suppliers' dimension?](#which-is-considered-by-the-partners-and-suppliers-dimension)|
+| 110 | [What impact does automation have on a Service Desk?](#what-impact-does-automation-have-on-a-service-desk)|
+| 111 | [An organization asks a stakeholder to review a planned change. Which guiding principle does this demonstrate?](#an-organization-asks-a-stakeholder-to-review-a-planned-change-which-guiding-principle-does-this-demonstrate)|
+| 112 | [Which practice recommends using tools for collaboration and the automated matching of symptoms?](#which-practice-recommends-using-tools-for-collaboration-and-the-automated-matching-of-symptoms)|
+| 113 | [In service relationships, what is a benefit of identifying consumer roles?](#in-service-relationships-what-is-a-benefit-of-identifying-consumer-roles)|
+| 114 | [Which practice would help a user gain access to an application that they need to use?](#which-practice-would-help-a-user-gain-access-to-an-application-that-they-need-to-use)|
+| 115 | [What is used to link activities within the service value chain?](#what-is-used-to-link-activities-within-the-service-value-chain)|
+| 116 | [How are target resolution times used in the Incident Management practice?](#how-are-target-resolution-times-used-in-the-incident-management-practice)|
+| 117 | [Which two practices use workarounds?](#which-two-practices-use-workarounds)|
+| 118 | [Which statement about the service value chain is CORRECT?](#which-statement-about-the-service-value-chain-is-correct)|
+| 119 | [Identify the missing word(s) in the following sentence. The Service Desk should be the entry point and single point of contact for the [?] with all of its users.](#identify-the-missing-words-in-the-following-sentence-the-service-desk-should-be-the-entry-point-and-single-point-of-contact-for-the--with-all-of-its-users)|
+| 120 | [Which statement about managing incidents is CORRECT?](#which-statement-about-managing-incidents-is-correct)|
+| 121 | [Which practice has a strong influence on the user experience and perception of the service provider?](#which-practice-has-a-strong-influence-on-the-user-experience-and-perception-of-the-service-provider)|
+| 122 | [Which will help solve incidents more quickly?](#which-will-help-solve-incidents-more-quickly)|
+| 123 | [What is the purpose of the Relationship Management practice?](#what-is-the-purpose-of-the-relationship-management-practice)|
+| 124 | [Which describes the utility of a service?](#which-describes-the-utility-of-a-service)|
+| 125 | [Why should some service requests be fulfilled with no additional approvals?](#why-should-some-service-requests-be-fulfilled-with-no-additional-approvals)|
+| 126 | [Which approach is CORRECT when applying the guiding principle 'keep it simple and practical'?](#which-approach-is-correct-when-applying-the-guiding-principle-keep-it-simple-and-practical)|
+| 127 | [Which dimension considers data security and privacy?](#which-dimension-considers-data-security-and-privacy)|
+| 128 | [Which practice involves the management of vulnerabilities that were not identified before the service went live?](#which-practice-involves-the-management-of-vulnerabilities-that-were-not-identified-before-the-service-went-live)|
+| 129 | [Which is a recommendation of the guiding principle 'think and work holistically'?](#which-is-a-recommendation-of-the-guiding-principle-think-and-work-holistically)|
+| 130 | [Which value chain activity ensures that products meet stakeholder expectations for quality?](#which-value-chain-activity-ensures-that-products-meet-stakeholder-expectations-for-quality)|
+| 131 | [What is the purpose of the Problem Management practice?](#what-is-the-purpose-of-the-problem-management-practice)|
+| 132 | [When is the earliest that a workaround can be documented in Problem Management?](#when-is-the-earliest-that-a-workaround-can-be-documented-in-problem-management)|
+| 133 | [Which value chain activity ensures that service components meet agreed specifications?](#which-value-chain-activity-ensures-that-service-components-meet-agreed-specifications)|
+| 134 | [What includes governance as a component?](#what-includes-governance-as-a-component)|
+| 135 | [What is a set of specialized organizational capabilities for enabling value for customers in the form of services?](#what-is-a-set-of-specialized-organizational-capabilities-for-enabling-value-for-customers-in-the-form-of-services)|
+| 136 | [Which practice makes new services available for use?](#which-practice-makes-new-services-available-for-use)|
+| 137 | [Which is an activity of the Problem Management practice?](#which-is-an-activity-of-the-problem-management-practice)|
+| 138 | [Which gives a user access to a system?](#which-gives-a-user-access-to-a-system)|
+| 139 | [Which is included in the purpose of the Service Level Management practice?](#which-is-included-in-the-purpose-of-the-service-level-management-practice)|
+| 140 | [Which term relates to service levels aligned with the needs of service consumers?](#which-term-relates-to-service-levels-aligned-with-the-needs-of-service-consumers)|
+| 141 | [What is the definition of a known error?](#what-is-the-definition-of-a-known-error)|
+| 142 | [Which statement about the use of measurement in the 'start where you are' guiding principle is CORRECT?](#which-statement-about-the-use-of-measurement-in-the-start-where-you-are-guiding-principle-is-correct)|
+| 143 | [Which is the BEST description of the value of a service to a customer?](#which-is-the-best-description-of-the-value-of-a-service-to-a-customer)|
+| 144 | [Which practice involves the management of vulnerabilities that have been analysed but not resolved?](#which-practice-involves-the-management-of-vulnerabilities-that-have-been-analysed-but-not-resolved)|
+| 145 | [Which is an activity of the Incident Management practice?](#which-is-an-activity-of-the-incident-management-practice)|
+| 146 | [Which is NOT a component of the service value system?](#which-is-not-a-component-of-the-service-value-system)|
+| 147 | [What is defined as a cause, or potential cause, of one or more incidents?](#what-is-defined-as-a-cause-or-potential-cause-of-one-or-more-incidents)|
+| 148 | [Which practice is MOST likely to benefit from the use of chatbots?](#which-practice-is-most-likely-to-benefit-from-the-use-of-chatbots)|
+| 149 | [The purpose of the Service Configuration Management practice is to ensure that accurate and reliable information about the configuration of services, and the [?] that support them, is available when and where it is needed.](#the-purpose-of-the-service-configuration-management-practice-is-to-ensure-that-accurate-and-reliable-information-about-the-configuration-of-services-and-the--that-support-them-is-available-when-and-where-it-is-needed)|
+| 150 | [Which statement about outcomes is CORRECT?](#which-statement-about-outcomes-is-correct)|
+| 151 | [Which statement about outcomes is CORRECT?](#which-statement-about-outcomes-is-correct-1)|
+| 152 | [Which is a purpose of the 'engage' value chain activity?](#which-is-a-purpose-of-the-engage-value-chain-activity)|
+| 153 | [Which statement about service requests is CORRECT?](#which-statement-about-service-requests-is-correct)|
+| 154 | [Which practice is responsible for moving new or changed components to live or other environments?](#which-practice-is-responsible-for-moving-new-or-changed-components-to-live-or-other-environments)|
+| 155 | [Which dimension focuses on relationships with other organizations that are involved in the design, development, deployment and delivery of services?](#which-dimension-focuses-on-relationships-with-other-organizations-that-are-involved-in-the-design-development-deployment-and-delivery-of-services)|
+| 156 | [What must always be done before an activity is automated?](#what-must-always-be-done-before-an-activity-is-automated)|
+| 157 | [Which two statements about an organization's culture are CORRECT? 1. It is created from shared values based on how it carries out its work 2. It is determined by the type of technology used to support services 3. It should be based on the culture of prospective suppliers 4. It should be based on the objectives of the organization](#which-two-statements-about-an-organizations-culture-are-correct-1-it-is-created-from-shared-values-based-on-how-it-carries-out-its-work-2-it-is-determined-by-the-type-of-technology-used-to-support-services-3-it-should-be-based-on-the-culture-of-prospective-suppliers-4-it-should-be-based-on-the-objectives-of-the-organization)|
+| 158 | [Which statement about the automation of service requests is CORRECT?](#which-statement-about-the-automation-of-service-requests-is-correct)|
+| 159 | [What is the purpose of the Deployment Management practice?](#what-is-the-purpose-of-the-deployment-management-practice)|
+| 160 | [What is a change schedule PRIMARILY used for?](#what-is-a-change-schedule-primarily-used-for)|
+| 161 | [Which can act as an operating model for an organization?](#which-can-act-as-an-operating-model-for-an-organization)|
+| 162 | [What is an IT asset?](#what-is-an-it-asset)|
+| 163 | [Which is a key requirement for a successful service level agreement?](#which-is-a-key-requirement-for-a-successful-service-level-agreement)|
+| 164 | [Which role approves the cost of services?](#which-role-approves-the-cost-of-services)|
+| 165 | [What is warranty?](#what-is-warranty)|
+| 166 | [What are the three phases of Problem Management?](#what-are-the-three-phases-of-problem-management)|
+| 167 | [Where are the details of the required performance outcomes of a service defined?](#where-are-the-details-of-the-required-performance-outcomes-of-a-service-defined)|
+| 168 | [Which skill is an essential part of the Service Level Management practice?](#which-skill-is-an-essential-part-of-the-service-level-management-practice)|
+| 169 | [Which practice requires that staff demonstrate excellent customer service skills, such as empathy and emotional intelligence?](#which-practice-requires-that-staff-demonstrate-excellent-customer-service-skills-such-as-empathy-and-emotional-intelligence)|
+| 170 | [Which value chain activity ensures a shared understanding of the current status and required direction for all products and services?](#which-value-chain-activity-ensures-a-shared-understanding-of-the-current-status-and-required-direction-for-all-products-and-services)|
+| 171 | [What is defined as any component that needs to be managed in order to deliver an IT service?](#what-is-defined-as-any-component-that-needs-to-be-managed-in-order-to-deliver-an-it-service)|
+| 172 | [Which practice has the purpose of ensuring that the organization's suppliers and their performance are managed appropriately to support the provision of seamless, quality products and services?](#which-practice-has-the-purpose-of-ensuring-that-the-organizations-suppliers-and-their-performance-are-managed-appropriately-to-support-the-provision-of-seamless-quality-products-and-services)|
+| 173 | [Which practice recommends the use of event-based surveys to gather feedback from customers?](#which-practice-recommends-the-use-of-event-based-surveys-to-gather-feedback-from-customers)|
+| 174 | [How does information about problems and known errors contribute to Incident Management?](#how-does-information-about-problems-and-known-errors-contribute-to-incident-management)|
+| 175 | [Which describes a standard change?](#which-describes-a-standard-change)|
+| 176 | [In Cisco AMP for Endpoints, which API queues to find the list of endpoints in the group 'Finance Hosts' which has a GUID of 6c3c2005-4c74-4ba7-8dbb-c4d5b6bafe03?](#in-cisco-amp-for-endpoints-which-api-queues-to-find-the-list-of-endpoints-in-the-group-finance-hosts-which-has-a-guid-of-6c3c2005-4c74-4ba7-8dbb-c4d5b6bafe03)|
+| 177 | [Which service level metrics are BEST for measuring user experience?](#which-service-level-metrics-are-best-for-measuring-user-experience)|
+| 178 | [Which is a service request?](#which-is-a-service-request)|
+| 179 | [Which two practices interact the MOST with the Service Desk practice?](#which-two-practices-interact-the-most-with-the-service-desk-practice)|
+| 180 | [What is defined as an unplanned interruption or reduction in the quality of a service?](#what-is-defined-as-an-unplanned-interruption-or-reduction-in-the-quality-of-a-service)|
+| 181 | [Which describes normal changes?](#which-describes-normal-changes)|
+| 182 | [The management of information security incidents usually requires [?].](#the-management-of-information-security-incidents-usually-requires-)|
+| 183 | [Which statement about change authorities is CORRECT?](#which-statement-about-change-authorities-is-correct)|
+| 184 | [What defines the requirements for a service and takes responsibility for the outcomes of service consumption?](#what-defines-the-requirements-for-a-service-and-takes-responsibility-for-the-outcomes-of-service-consumption)|
+| 185 | [Which practice owns and manages issues, queries and requests from users?](#which-practice-owns-and-manages-issues-queries-and-requests-from-users)|
+| 186 | [What are the MOST important skills required by Service Desk staff?](#what-are-the-most-important-skills-required-by-service-desk-staff)|
+| 187 | [Which practice improves customer and user satisfaction by reducing the negative impact of service interruptions?](#which-practice-improves-customer-and-user-satisfaction-by-reducing-the-negative-impact-of-service-interruptions)|
+| 188 | [What is the expected outcome from using a service value chain?](#what-is-the-expected-outcome-from-using-a-service-value-chain)|
+| 189 | [Which practice has a purpose that includes observing a service to report selected changes of state identified as events?](#which-practice-has-a-purpose-that-includes-observing-a-service-to-report-selected-changes-of-state-identified-as-events)|
+| 190 | [Which guiding principle helps to ensure that better information is available for decision making?](#which-guiding-principle-helps-to-ensure-that-better-information-is-available-for-decision-making)|
+| 191 | [What helps diagnose and resolve a simple incident?](#what-helps-diagnose-and-resolve-a-simple-incident)|
+| 192 | [A user is [?] that uses services.](#a-user-is--that-uses-services)|
+| 193 | [When should a change request be submitted to resolve a problem?](#when-should-a-change-request-be-submitted-to-resolve-a-problem)|
+| 194 | [When planning Continual Improvement, which approach for assessing the current state of a service is CORRECT?](#when-planning-continual-improvement-which-approach-for-assessing-the-current-state-of-a-service-is-correct)|
+| 195 | [Which is included in the purpose of the Change Enablement practice?](#which-is-included-in-the-purpose-of-the-change-enablement-practice)|
+| 196 | [How does a service consumer contribute to the reduction of disk?](#how-does-a-service-consumer-contribute-to-the-reduction-of-disk)|
+| 197 | [The purpose of the Supplier Management practice is to ensure that the organization's suppliers and their [?] are managed appropriately to support the seamless provision of quality products and services.](#the-purpose-of-the-supplier-management-practice-is-to-ensure-that-the-organizations-suppliers-and-their--are-managed-appropriately-to-support-the-seamless-provision-of-quality-products-and-services)|
+| 198 | [Which statement about RADIUS configuration distribution using Cisco Fabric Services on a Cisco Nexus 7000 Series Switch is true?](#which-statement-about-radius-configuration-distribution-using-cisco-fabric-services-on-a-cisco-nexus-7000-series-switch-is-true)|
+| 199 | [Which dimension considers how knowledge assets should be protected?](#which-dimension-considers-how-knowledge-assets-should-be-protected)|
+| 200 | [Which guiding principle recommends standardizing and streamlining manual tasks?](#which-guiding-principle-recommends-standardizing-and-streamlining-manual-tasks)|
+| 201 | [Ann, a member of the finance department at a large corporation, has submitted a suspicious email she received to the information security team. The team was not expecting an email from Ann, and it contains a PDF file inside a ZIP compressed archive. The information security learn is not sure which files were opened. A security team member uses an air-gapped PC to open the ZIP and PDF, and it appears to be a social engineering attempt to deliver an exploit. Which of the following would    provide greater insight on the potential impact of this attempted attack?](#ann-a-member-of-the-finance-department-at-a-large-corporation-has-submitted-a-suspicious-email-she-received-to-the-information-security-team-the-team-was-not-expecting-an-email-from-ann-and-it-contains-a-pdf-file-inside-a-zip-compressed-archive-the-information-security-learn-is-not-sure-which-files-were-opened-a-security-team-member-uses-an-air-gapped-pc-to-open-the-zip-and-pdf-and-it-appears-to-be-a-social-engineering-attempt-to-deliver-an-exploit-which-of-the-following-would----provide-greater-insight-on-the-potential-impact-of-this-attempted-attack)|
+| 202 | [Which guiding principle recommends eliminating activities that do not contribute to the creation of value?](#which-guiding-principle-recommends-eliminating-activities-that-do-not-contribute-to-the-creation-of-value)|
+| 203 | [What is a recommendation of the 'focus on value' guiding principle?](#what-is-a-recommendation-of-the-focus-on-value-guiding-principle)|
+| 204 | [Which is part of service provision?](#which-is-part-of-service-provision)|
+| 205 | [Which practice has a purpose to support the quality of the service by handling all agreed user initiated service requests?](#which-practice-has-a-purpose-to-support-the-quality-of-the-service-by-handling-all-agreed-user-initiated-service-requests)|
+| 206 | [When should a full risk assessment and Authorization be carried out for a standard change?](#when-should-a-full-risk-assessment-and-authorization-be-carried-out-for-a-standard-change)|
+| 207 | [Which statement about a Continual Improvement register is CORRECT?](#which-statement-about-a-continual-improvement-register-is-correct)|
+| 208 | [Which is included in the purpose of the 'design and transition' value chain activity?](#which-is-included-in-the-purpose-of-the-design-and-transition-value-chain-activity)|
+| 209 | [Which is included in the purpose of the 'deliver and support' value chain activity?](#which-is-included-in-the-purpose-of-the-deliver-and-support-value-chain-activity)|
+| 210 | [Which practice coordinates the classification, ownership and communication of service requests and incidents?](#which-practice-coordinates-the-classification-ownership-and-communication-of-service-requests-and-incidents)|
+| 211 | [Which practice updates information relating to symptoms and business impact?](#which-practice-updates-information-relating-to-symptoms-and-business-impact)|
+| 212 | [Which ITIL guiding principle recommends using existing services, processes and tools when improving services?](#which-itil-guiding-principle-recommends-using-existing-services-processes-and-tools-when-improving-services)|
+| 213 | [What is an incident?](#what-is-an-incident)|
+| 214 | [What is defined as a change of state that has significance for the management of an IT service?](#what-is-defined-as-a-change-of-state-that-has-significance-for-the-management-of-an-it-service)|
+| 215 | [Which dimension includes the knowledge needed for the management of services?](#which-dimension-includes-the-knowledge-needed-for-the-management-of-services)|
+| 216 | [What is the PRIMARY use of a change schedule?](#what-is-the-primary-use-of-a-change-schedule)|
+| 217 | [Which guiding principle focuses on reducing costs and human errors?](#which-guiding-principle-focuses-on-reducing-costs-and-human-errors)|
+| 218 | [Which guiding principle helps to ensure that each improvement effort has more focus and is easier to maintain?](#which-guiding-principle-helps-to-ensure-that-each-improvement-effort-has-more-focus-and-is-easier-to-maintain)|
+| 219 | [What is important for a Continual Improvement register (CIR)?](#what-is-important-for-a-continual-improvement-register-cir)|
+| 220 | [Which is a purpose of the Service Level Management practice?](#which-is-a-purpose-of-the-service-level-management-practice)|
+| 221 | [What describes the steps needed to create and deliver a specific service to a consumer?](#what-describes-the-steps-needed-to-create-and-deliver-a-specific-service-to-a-consumer)|
+| 222 | [Which helps to manage an incident when it is unclear which support team should be working on the incident?](#which-helps-to-manage-an-incident-when-it-is-unclear-which-support-team-should-be-working-on-the-incident)|
+| 223 | [Which statement about the Continual Improvement practice is CORRECT?](#which-statement-about-the-continual-improvement-practice-is-correct)|
+| 224 | [Which does the ITIL service value system discourage?](#which-does-the-itil-service-value-system-discourage)|
+| 225 | [An SLA is a service level agreement. Which describes the 'watermelon SLA' effect?](#an-sla-is-a-service-level-agreement-which-describes-the-watermelon-sla-effect)|
+| 226 | [Which practice includes conducting regular reviews to ensure that services are still appropriate and relevant?](#which-practice-includes-conducting-regular-reviews-to-ensure-that-services-are-still-appropriate-and-relevant)|
+| 227 | [What is a service?](#what-is-a-service)|
+| 228 | [Which TWO are important aspects of the Service Request Management practice? 1. Standardization and automation 2. Providing a variety of channels for access 3. Establishing a shared view of targets 4. Policies for approvals](#which-two-are-important-aspects-of-the-service-request-management-practice-1-standardization-and-automation-2-providing-a-variety-of-channels-for-access-3-establishing-a-shared-view-of-targets-4-policies-for-approvals)|
+| 229 | [What is required by all Service Desk staff?](#what-is-required-by-all-service-desk-staff)|
+| 230 | [Which practice establishes a channel between the service provider and its users?](#which-practice-establishes-a-channel-between-the-service-provider-and-its-users)|
+| 231 | [Which practice includes the use of approaches such as Lean, Agile and DevOps with the aim of facilitating a greater amount of change at a quicker rate?](#which-practice-includes-the-use-of-approaches-such-as-lean-agile-and-devops-with-the-aim-of-facilitating-a-greater-amount-of-change-at-a-quicker-rate)|
+| 232 | [Which practice has a purpose that includes maximizing success by ensuring that risks have been properly assessed?](#which-practice-has-a-purpose-that-includes-maximizing-success-by-ensuring-that-risks-have-been-properly-assessed)|
+| 233 | [Which practice provides users with a way to get various requests arranged, explained and coordinated?](#which-practice-provides-users-with-a-way-to-get-various-requests-arranged-explained-and-coordinated)|
+| 234 | [Which helps to streamline the fulfilment of service requests?](#which-helps-to-streamline-the-fulfilment-of-service-requests)|
+| 235 | [Which statement about outcomes is CORRECT?](#which-statement-about-outcomes-is-correct-2)|
+| 236 | [Which guiding principle says that services and processes should NOT provide a solution for every exception?](#which-guiding-principle-says-that-services-and-processes-should-not-provide-a-solution-for-every-exception)|
+| 237 | [Identify the missing word in the following sentence.](#identify-the-missing-word-in-the-following-sentence)|
+| 238 | [The purpose of the Service Configuration Management practice is to ensure that accurate and reliable information about the [?], and the CIs that support them, is available when and where it is needed.](#the-purpose-of-the-service-configuration-management-practice-is-to-ensure-that-accurate-and-reliable-information-about-the--and-the-cis-that-support-them-is-available-when-and-where-it-is-needed)|
+| 239 | [Which practice requires skills and competencies related to business analysis, Supplier Management and Relationship Management?](#which-practice-requires-skills-and-competencies-related-to-business-analysis-supplier-management-and-relationship-management)|
+| 240 | [When should a workaround be created?](#when-should-a-workaround-be-created)|
+| 241 | [What is a configuration item?](#what-is-a-configuration-item)|
+| 242 | [When an organization has decided to improve a service, it should start by considering [?].](#when-an-organization-has-decided-to-improve-a-service-it-should-start-by-considering-)|
+| 243 | [Which are elements of the service value system?](#which-are-elements-of-the-service-value-system)|
+| 244 | [Which is a use of the change schedule?](#which-is-a-use-of-the-change-schedule)|
+| 245 | [Which dimension of service management considers the workflows and controls needed to deliver services?](#which-dimension-of-service-management-considers-the-workflows-and-controls-needed-to-deliver-services)|
+| 246 | [Which guiding principle considers how the steps of a process can be performed as efficiently as possible?](#which-guiding-principle-considers-how-the-steps-of-a-process-can-be-performed-as-efficiently-as-possible)|
+| 247 | [Which statement about the Incident Management practice is CORRECT?](#which-statement-about-the-incident-management-practice-is-correct)|
+| 248 | [How should an organization prioritize incidents?](#how-should-an-organization-prioritize-incidents)|
+| 249 | [Which is a purpose of the Relationship Management practice?](#which-is-a-purpose-of-the-relationship-management-practice)|
+| 250 | [Which statement about problems is CORRECT?](#which-statement-about-problems-is-correct)|
+| 251 | [Which is a risk that might be removed from a service consumer by an IT service?](#which-is-a-risk-that-might-be-removed-from-a-service-consumer-by-an-it-service)|
+| 252 | [Which is one of the MAIN concerns of the 'design and transition' value chain activity?](#which-is-one-of-the-main-concerns-of-the-design-and-transition-value-chain-activity)|
+| 253 | [Which should be handled by Service Request Management?](#which-should-be-handled-by-service-request-management)|
+| 254 | [What can be described as an operating model for the creation and management of products and services?](#what-can-be-described-as-an-operating-model-for-the-creation-and-management-of-products-and-services)|
+| 255 | [Which action is performed by a service provider?](#which-action-is-performed-by-a-service-provider)|
+| 256 | [Which step of the Continual Improvement model includes baseline assessments?](#which-step-of-the-continual-improvement-model-includes-baseline-assessments)|
+| 257 | [Which describes a 'change authority'?](#which-describes-a-change-authority)|
+| 258 | [Which is NOT a component of the service value system?](#which-is-not-a-component-of-the-service-value-system-1)|
+| 259 | [Which statement about service Relationship Management is CORRECT?](#which-statement-about-service-relationship-management-is-correct)|
+| 260 | [What is the MOST important reason for prioritizing incidents?](#what-is-the-most-important-reason-for-prioritizing-incidents)|
+| 261 | [Which Service Level Management activity helps staff to deliver a more business-focused service?](#which-service-level-management-activity-helps-staff-to-deliver-a-more-business-focused-service)|
+| 262 | [Which practice has a purpose that includes the handling of pre-defined, user-initiated demands for service?](#which-practice-has-a-purpose-that-includes-the-handling-of-pre-defined-user-initiated-demands-for-service)|
+| 263 | [Which guiding principle considers which parts of an existing process should be kept by identifying how they contribute to value creation?](#which-guiding-principle-considers-which-parts-of-an-existing-process-should-be-kept-by-identifying-how-they-contribute-to-value-creation)|
+| 264 | [What is the purpose of the Monitoring and Event Management practice?](#what-is-the-purpose-of-the-monitoring-and-event-management-practice)|
+| 265 | [Which statement about outcomes is CORRECT?](#which-statement-about-outcomes-is-correct-3)|
+| 266 | [Which skill is required by the Service Level Management practice?](#which-skill-is-required-by-the-service-level-management-practice)|
+| 267 | [Which statement about the Continual Improvement model is CORRECT?](#which-statement-about-the-continual-improvement-model-is-correct)|
+| 268 | [What is the definition of warranty?](#what-is-the-definition-of-warranty)|
+| 269 | [Which practice has a purpose that includes managing risks relating to confidentiality, integrity and availability?](#which-practice-has-a-purpose-that-includes-managing-risks-relating-to-confidentiality-integrity-and-availability)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -645,11 +645,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the purpose of the 'information security management1 practice?
+### What is the purpose of the Information Security Management practice?
 
-- [ ] To ensure that accurate and reliable information about the configuration of services is available when and where it is needed.
-- [ ] To observe services and service components.
 - [x] To protect the information needed by the organization to conduct its business.
+- [ ] To observe services and service components.
+- [ ] To ensure that accurate and reliable information about the configuration of services is available when and where it is needed.
 - [ ] To plan and manage the full lifecycle of all IT assets.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -966,15 +966,6 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Normal changes are triggered by the creation of a change request which can be created manually or automated.
 - [ ] Assessment and Authorization of normal changes should be expedited to ensure they can be implemented quickly.
 - [ ] There should be a separate change authority for standard changes which includes senior managers who understand the risks involved.
-
-**[⬆ Back to Top](#table-of-contents)**
-
-### What is the purpose of the 'information security management' practice?
-
-- [x] To protect the information needed by the organization to conduct its business.
-- [ ] To observe services and service components.
-- [ ] To ensure that accurate and reliable information about the configuration of services is available when and where it is needed.
-- [ ] To plan and manage the full lifecycle of all IT assets.
 
 **[⬆ Back to Top](#table-of-contents)**
 
