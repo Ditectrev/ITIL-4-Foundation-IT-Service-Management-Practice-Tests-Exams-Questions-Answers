@@ -21,10 +21,12 @@
    - Continual Improvement;
    - Deployment Management;
    - Emergency Changes;
+   - Event Management;
    - Incident Analysis;
    - Incident Management;
    - Incident Resolution;
    - IT Asset Management;
+   - Monitoring;
    - Prioritization;
    - Problem Management;
    - Relationship Management;
@@ -106,7 +108,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 11  | [Which statement about Emergency Changes is CORRECT?](#which-statement-about-emergency-changes-is-correct)|
 | 12  | [Which is a key consideration for the guiding principle 'keep it simple and practical'?](#which-is-a-key-consideration-for-the-guiding-principle-keep-it-simple-and-practical)|
 | 13  | [What should all Continual Improvement decisions be based on?](#what-should-all-continual-improvement-decisions-be-based-on)|
-| 14  | [Which is the purpose of the 'monitoring and event management' practice?](#which-is-the-purpose-of-the-monitoring-and-event-management-practice)|
+| 14  | [Which is the purpose of the Monitoring and Event Management practice?](#which-is-the-purpose-of-the-monitoring-and-event-management-practice)|
 | 15  | [Which is the CORRECT approach for managing a large improvement initiative as smaller iterations?](#which-is-the-correct-approach-for-managing-a-large-improvement-initiative-as-smaller-iterations)|
 | 16  | [How should automation be implemented?](#how-should-automation-be-implemented)|
 | 17  | [What are 'engage', 'plan' and 'improve' examples of?](#what-are-engage-plan-and-improve-examples-of)|
@@ -156,7 +158,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 61  | [Which practice needs people who understand complex systems and have creative and analytical skills?](#which-practice-needs-people-who-understand-complex-systems-and-have-creative-and-analytical-skills)|
 | 62  | [Which ITIL practice recommends performing service reviews to ensure that services continue to meet the needs of the organization?](#which-itil-practice-recommends-performing-service-reviews-to-ensure-that-services-continue-to-meet-the-needs-of-the-organization)|
 | 63  | [Which usually requires a team of representatives from many stakeholder groups?](#which-usually-requires-a-team-of-representatives-from-many-stakeholder-groups)|
-| 64  | [What are typically recognized through notifications created by an IT service, CI or monitoring tool?](#what-are-typically-recognized-through-notifications-created-by-an-it-service-ci-or-monitoring-tool)|
+| 64  | [What are typically recognized through notifications created by an IT service, CI or Monitoring tool?](#what-are-typically-recognized-through-notifications-created-by-an-it-service-ci-or-monitoring-tool)|
 | 65  | [Which guiding principle is PRIMARILY concerned with end-to-end service delivery?](#which-guiding-principle-is-primarily-concerned-with-end-to-end-service-delivery)|
 | 66  | [Which of these activities is carried out as part of Problem Management?](#which-of-these-activities-is-carried-out-as-part-of-problem-management)|
 | 67  | [Which statement about the Change Control practice is CORRECT?](#which-statement-about-the-change-control-practice-is-correct)|
@@ -357,7 +359,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 262 | [Which Service Level Management activity helps staff to deliver a more business-focused service?](#which-service-level-management-activity-helps-staff-to-deliver-a-more-business-focused-service)|
 | 263 | [Which practice has a purpose that includes the handling of pre-defined, user-initiated demands for service?](#which-practice-has-a-purpose-that-includes-the-handling-of-pre-defined-user-initiated-demands-for-service)|
 | 264 | [Which guiding principle considers which parts of an existing process should be kept by identifying how they contribute to value creation?](#which-guiding-principle-considers-which-parts-of-an-existing-process-should-be-kept-by-identifying-how-they-contribute-to-value-creation)|
-| 265 | [What is the purpose of the 'monitoring and event management' practice?](#what-is-the-purpose-of-the-monitoring-and-event-management-practice)|
+| 265 | [What is the purpose of the Monitoring and Event Management practice?](#what-is-the-purpose-of-the-monitoring-and-event-management-practice)|
 | 266 | [Which statement about outcomes is CORRECT?](#which-statement-about-outcomes-is-correct-3)|
 | 267 | [Which skill is required by the Service Level Management practice?](#which-skill-is-required-by-the-service-level-management-practice)|
 | 268 | [Which statement about the Continual Improvement model is CORRECT?](#which-statement-about-the-continual-improvement-model-is-correct)|
@@ -481,7 +483,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is the purpose of the 'monitoring and event management' practice?
+### Which is the purpose of the Monitoring and Event Management practice?
 
 - [ ] To ensure that accurate and reliable information about the configuration of services is available when and where it is needed.
 - [x] To systematically observe services and service components, and record and report selected changes of state.
@@ -692,7 +694,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [x] Trend analysis shows a large number of similar incidents.
 - [ ] A user requests delivery of a laptop.
-- [ ] A monitoring tool detects a change of state for a service.
+- [ ] A Monitoring tool detects a change of state for a service.
 - [ ] Continual Improvement needs to prioritize an improvement opportunity.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -931,7 +933,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are typically recognized through notifications created by an IT service, CI or monitoring tool?
+### What are typically recognized through notifications created by an IT service, CI or Monitoring tool?
 
 - [ ] Incidents.
 - [ ] Problems.
@@ -1277,7 +1279,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [x] Information security management.
 - [ ] Continual Improvement.
-- [ ] Monitoring and event management.
+- [ ] Monitoring and Event Management.
 - [ ] Service Level Management.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -2068,7 +2070,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which practice has a purpose that includes observing a service to report selected changes of state identified as events?
 
 - [ ] Information security management.
-- [x] Monitoring and event management.
+- [x] Monitoring and Event Management.
 - [ ] Incident Management.
 - [ ] Change Control.
 
@@ -2447,7 +2449,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which practice includes the use of approaches such as Lean, Agile and DevOps with the aim of facilitating a greater amount of change at a quicker rate?
 
 - [ ] Service Desk.
-- [ ] Monitoring and event management.
+- [ ] Monitoring and Event Management.
 - [ ] Service Level Management.
 - [x] Continual Improvement.
 
@@ -2455,7 +2457,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which practice has a purpose that includes maximizing success by ensuring that risks have been properly assessed?
 
-- [ ] Monitoring and event management.
+- [ ] Monitoring and Event Management.
 - [ ] Release Management.
 - [ ] Relationship Management.
 - [x] Change Enablement.
@@ -2521,7 +2523,7 @@ The purpose of the Supplier Management practice is to ensure that the organizati
 ### Which practice requires skills and competencies related to business analysis, Supplier Management and Relationship Management?
 
 - [ ] Incident Management.
-- [ ] Monitoring and event management.
+- [ ] Monitoring and Event Management.
 - [ ] IT Asset Management.
 - [x] Service Level Management.
 
@@ -2743,7 +2745,7 @@ The purpose of the Supplier Management practice is to ensure that the organizati
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the purpose of the 'monitoring and event management' practice?
+### What is the purpose of the Monitoring and Event Management practice?
 
 - [x] To systematically observe services and service components.
 - [ ] To capture demand for Incident Resolution and service requests.
@@ -2765,7 +2767,7 @@ The purpose of the Supplier Management practice is to ensure that the organizati
 
 - [x] Supplier Management.
 - [ ] Technical expertise.
-- [ ] Event monitoring.
+- [ ] Event Monitoring.
 - [ ] Problem Management.
 
 **[⬆ Back to Top](#table-of-contents)**
