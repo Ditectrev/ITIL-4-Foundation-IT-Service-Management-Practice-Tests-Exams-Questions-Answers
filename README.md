@@ -53,14 +53,14 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ## Who this course is for:
 
 - 👨‍🎓 Students preparing for the ITIL 4 Foundation (IT Service Management) Exam;
-- 👨‍🎓 AWS Engineers;
+- 👨‍🎓 Amazon Web Services Engineers (AWS Engineers);
 - 👨‍🎓 Azure Engineers;
 - 👨‍🎓 Cloud Architects;
 - 👨‍🎓 Cloud Engineers;
 - 👨‍🎓 Delivery Professionals;
 - 👨‍🎓 DevOps Engineers;
 - 👨‍🎓 Enterprise Architects;
-- 👨‍🎓 GCP Engineers;
+- 👨‍🎓 Google Cloud Platform Engineers (GCP Engineers);
 - 👨‍🎓 Incident Detection Engineers;
 - 👨‍🎓 Infrastructure Engineers;
 - 👨‍🎓 IT Leads;
