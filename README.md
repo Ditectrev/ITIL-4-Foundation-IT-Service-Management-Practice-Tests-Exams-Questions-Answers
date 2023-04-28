@@ -6,7 +6,7 @@
 
 ❣️ Please support us by purchasing this course on Udemy in an interactive version with the [discounted link](https://www.udemy.com/course/itil-4-foundation-it-service-management-practice-test-exam/?referralCode=2CB861160D2B15A2A74E). If you're working for a company, you could most probably easily claim this expense during preparation for your exam. For us, it's to be, or not to be, in the game.
 
-Alternatively, you can buy the PDF with those questions on [Etsy](https://www.etsy.com/listing/1471207281/itil-4-foundation-it-service-management).
+🛍️ Alternatively, you can buy the PDF with those questions on [Etsy](https://www.etsy.com/listing/1471207281/itil-4-foundation-it-service-management).
 
 ## ✨ This course is unlike any ITIL 4 Foundation (IT Service Management) course you will find online.
 
