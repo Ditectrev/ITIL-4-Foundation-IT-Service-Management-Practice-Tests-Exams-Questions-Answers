@@ -216,7 +216,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 116 | [How are target resolution times used in the Incident Management practice?](#how-are-target-resolution-times-used-in-the-incident-management-practice)|
 | 117 | [Which two practices use workarounds?](#which-two-practices-use-workarounds)|
 | 118 | [Which statement about the service value chain is CORRECT?](#which-statement-about-the-service-value-chain-is-correct)|
-| 119 | [Identify the missing word(s) in the following sentence. The Service Desk should be the entry point and single point of contact for the [?] with all of its users.](#identify-the-missing-words-in-the-following-sentence-the-service-desk-should-be-the-entry-point-and-single-point-of-contact-for-the--with-all-of-its-users)|
+| 119 | [The Service Desk should be the entry point and single point of contact for the [?] with all of its users.](#the-service-desk-should-be-the-entry-point-and-single-point-of-contact-for-the--with-all-of-its-users)|
 | 120 | [Which statement about managing incidents is CORRECT?](#which-statement-about-managing-incidents-is-correct)|
 | 121 | [Which practice has a strong influence on the user experience and perception of the service provider?](#which-practice-has-a-strong-influence-on-the-user-experience-and-perception-of-the-service-provider)|
 | 122 | [Which will help solve incidents more quickly?](#which-will-help-solve-incidents-more-quickly)|
@@ -334,7 +334,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 234 | [Which helps to streamline the fulfilment of service requests?](#which-helps-to-streamline-the-fulfilment-of-service-requests)|
 | 235 | [Which statement about outcomes is CORRECT?](#which-statement-about-outcomes-is-correct-2)|
 | 236 | [Which guiding principle says that services and processes should NOT provide a solution for every exception?](#which-guiding-principle-says-that-services-and-processes-should-not-provide-a-solution-for-every-exception)|
-| 237 | [Identify the missing word in the following sentence.](#identify-the-missing-word-in-the-following-sentence)|
+| 237 | [The purpose of the Supplier Management practice is to ensure that the organization's suppliers and their performances are [?] appropriately to support the seamless provision of quality products and services.](#the-purpose-of-the-supplier-management-practice-is-to-ensure-that-the-organizations-suppliers-and-their-performances-are-appropriately-to-support-the-seamless-provision-of-quality-products-and-services)|
 | 238 | [The purpose of the Service Configuration Management practice is to ensure that accurate and reliable information about the [?], and the CIs that support them, is available when and where it is needed.](#the-purpose-of-the-service-configuration-management-practice-is-to-ensure-that-accurate-and-reliable-information-about-the--and-the-cis-that-support-them-is-available-when-and-where-it-is-needed)|
 | 239 | [Which practice requires skills and competencies related to business analysis, Supplier Management and Relationship Management?](#which-practice-requires-skills-and-competencies-related-to-business-analysis-supplier-management-and-relationship-management)|
 | 240 | [When should a workaround be created?](#when-should-a-workaround-be-created)|
@@ -1430,7 +1430,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Identify the missing word(s) in the following sentence. The Service Desk should be the entry point and single point of contact for the [?] with all of its users.
+### The Service Desk should be the entry point and single point of contact for the [?] with all of its users.
 
 - [ ] Service consumer.
 - [x] Service provider.
@@ -2493,9 +2493,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Identify the missing word in the following sentence.
-
-The purpose of the Supplier Management practice is to ensure that the organization's suppliers and their performances are [?] appropriately to support the seamless provision of quality products and services.
+### The purpose of the Supplier Management practice is to ensure that the organization's suppliers and their performances are [?] appropriately to support the seamless provision of quality products and services.
 
 - [ ] Measured.
 - [ ] Rewarded.
@@ -2789,5 +2787,95 @@ The purpose of the Supplier Management practice is to ensure that the organizati
 - [ ] Problem Management.
 - [ ] Change Enablement.
 - [ ] Service Configuration Management.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the definition of a service?
+
+- [ ] The means by which an organization is directed and controlled.
+- [ ] A set of specialized organizational capabilities for enabling value to customers.
+- [ ] A method for visualizing work, identifying potential blockages and resource conflicts, and managing work in progress.
+- [x] A means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Utility is the [?] offered by a product or service to meet a particular need.
+
+- [ ] Assurance.
+- [ ] Promise.
+- [x] Functionality.
+- [ ] Outcome.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### [?] is the practice of ensuring that risks are properly assessed, authorizing changes to proceed, and managing a change schedule in order to maximize the number of successful IT changes.
+
+- [ ] IT Asset Management.
+- [ ] Service Configuration Management.
+- [x] Change Enablement.
+- [ ] Service Level Management.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### An event is any change of state that has significance for the management of a(n) [?] or other configuration items.
+
+- [ ] Output.
+- [ ] Product.
+- [x] Service.
+- [ ] Outcome.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the purpose of the Information Security Management practice?
+
+- [x] Protecting an organization by understanding and managing risks to the confidentiality, integrity, and availability of information.
+- [ ] Ensuring that services achieve agreed and expected performance levels, satisfying current and future demand in a cost-effective way.
+- [ ] Ensuring that services deliver agreed levels of availability or that change can be assessed.
+- [ ] Systematically observing services and service components and recording and reporting selected changes of state identified as events.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the purpose of the Monitoring and Event Management practice?
+
+- [ ] Supporting the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner.
+- [x] Systematically observing services and service components and recording and reporting selected changes of state identified as events.
+- [ ] Minimizing the negative impact of incidents by restoring normal service operation as quickly as possible.
+- [ ] Ensuring that all an organization's projects are successfully delivered.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the purpose of the Incident Management practice?
+
+- [ ] Supporting the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner.
+- [ ] Ensuring that services deliver agreed levels of availability or that change can be assessed.
+- [ ] Ensuring that all an organization's projects are successfully delivered.
+- [x] Minimizing the negative impact of incidents by restoring normal service operation as quickly as possible.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is defined as the practice of ensuring that accurate and reliable information about the configuration of services, and the configuration items that support them, is available when and where needed?
+
+- [ ] Change Enablement.
+- [ ] IT Asset Management.
+- [x] Service Configuration Management.
+- [ ] Service Level Management.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### The [?] is the practice of capturing demand for incident resolution and service requests.
+
+- [ ] Incident Management.
+- [ ] Service Level Management.
+- [ ] Service Request Management.
+- [x] Service Desk.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Dion Training has decided to offer two membership levels to their training programs. The first membership level includes all of their video courses, practice exams, and study guides for a single monthly fee. This plan does not provide the students with the actual exam voucher to take the certification exams, though. What term best describes this membership level which provides several services for a single price?
+
+- [ ] An outcome.
+- [ ] Value.
+- [x] A service offering.
+- [ ] An output.
 
 **[⬆ Back to Top](#table-of-contents)**
