@@ -605,7 +605,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### In which step of the Continual Improvement model is an improvement plan implemented?
 
-- [ ] What is the vision?.
+- [ ] What is the vision?
 - [ ] How do we get there?
 - [x] Take action.
 - [ ] Did we get there?
@@ -2676,10 +2676,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which step of the Continual Improvement model includes baseline assessments?
 
-- [x] Where are we now?.
-- [ ] Did we get there?.
-- [ ] What is the vision?.
-- [ ] Where do we want to be?.
+- [x] Where are we now?
+- [ ] Did we get there?
+- [ ] What is the vision?
+- [ ] Where do we want to be?
 
 **[⬆ Back to Top](#table-of-contents)**
 
