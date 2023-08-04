@@ -43,7 +43,7 @@
 4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
 5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
 6. This course is **not** an ITIL 4 Foundation (IT Service Management) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
-7. 269 **unique** questions.
+7. 284 **unique** questions.
 
 ## ☝️ Course Updates
 
@@ -377,6 +377,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 277 | [What is defined as the practice of ensuring that accurate and reliable information about the configuration of services, and the configuration items that support them, is available when and where needed?](#what-is-defined-as-the-practice-of-ensuring-that-accurate-and-reliable-information-about-the-configuration-of-services-and-the-configuration-items-that-support-them-is-available-when-and-where-needed)
 | 278 | [The [?] is the practice of capturing demand for incident resolution and service requests.](#the--is-the-practice-of-capturing-demand-for-incident-resolution-and-service-requests)
 | 279 | [Dion Training has decided to offer two membership levels to their training programs. The first membership level includes all of their video courses, practice exams, and study guides for a single monthly fee. This plan does not provide the students with the actual exam voucher to take the certification exams, though. What term best describes this membership level which provides several services for a single price?](#dion-training-has-decided-to-offer-two-membership-levels-to-their-training-programs-the-first-membership-level-includes-all-of-their-video-courses-practice-exams-and-study-guides-for-a-single-monthly-fee-this-plan-does-not-provide-the-students-with-the-actual-exam-voucher-to-take-the-certification-exams-though-what-term-best-describes-this-membership-level-which-provides-several-services-for-a-single-price)
+| 280 | [Which describes outputs?](#which-describes-outputs)
+| 281 | [What term best describes a person or a group of people that has its own functions with responsibilities, authorities, and relationships to achieve its objectives?](#what-term-best-describes-a-person-or-a-group-of-people-that-has-its-own-functions-with-responsibilities-authorities-and-relationships-to-achieve-its-objectives)
+| 282 | [Which describes the nature of the guiding principles?](#which-describes-the-nature-of-the-guiding-principles)
+| 283 | [Which guiding principle is most affected by the Customer Experience (CX)?](#which-guiding-principle-is-most-affected-by-the-customer-experience-cx)
+| 284 | [Dion Training Solutions wants to build a new service to automatically fulfill exam voucher orders for students. Currently, exam vouchers are fulfilled manually by a staff member once the order is received from the student by copying and pasting the voucher number from a spreadsheet into an email template and sending out the email to the students. Before attempting to automate this fulfillment process, the team lead takes an inventory of the current services, processes, and procedures that are being used by the voucher fulfillment team to see if they might be able to be reused. What guiding principle best describes this scenario?](#dion-training-solutions-wants-to-build-a-new-service-to-automatically-fulfill-exam-voucher-orders-for-students-currently-exam-vouchers-are-fulfilled-manually-by-a-staff-member-once-the-order-is-received-from-the-student-by-copying-and-pasting-the-voucher-number-from-a-spreadsheet-into-an-email-template-and-sending-out-the-email-to-the-students-before-attempting-to-automate-this-fulfillment-process-the-team-lead-takes-an-inventory-of-the-current-services-processes-and-procedures-that-are-being-used-by-the-voucher-fulfillment-team-to-see-if-they-might-be-able-to-be-reused-what-guiding-principle-best-describes-this-scenario)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -2887,5 +2892,50 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Value.
 - [x] A service offering.
 - [ ] An output.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which describes outputs?
+
+- [x] Tangible or intangible deliverables.
+- [ ] Results for stakeholders.
+- [ ] Configuration of an organization's resources.
+- [ ] Functionality offered by a product or service.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What term best describes a person or a group of people that has its own functions with responsibilities, authorities, and relationships to achieve its objectives?
+
+- [ ] Consumer.
+- [ ] Service provider.
+- [ ] Customer.
+- [x] Organization.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which describes the nature of the guiding principles?
+
+- [ ] A guiding principle is mandatory and must be used when adopting a new service within the organization.
+- [ ] A guiding principle is specific and only applies to one initiative within the organization.
+- [ ] An organization must implement the guiding principles exactly as defined by the ITIL4 Foundation manual.
+- [x] A guiding principle is a recommendation used as guidance in all circumstances.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which guiding principle is most affected by the Customer Experience (CX)?
+
+- [ ] Progress iteratively with feedback.
+- [x] Focus on value.
+- [ ] Think and work holistically.
+- [ ] Start where you are.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Dion Training Solutions wants to build a new service to automatically fulfill exam voucher orders for students. Currently, exam vouchers are fulfilled manually by a staff member once the order is received from the student by copying and pasting the voucher number from a spreadsheet into an email template and sending out the email to the students. Before attempting to automate this fulfillment process, the team lead takes an inventory of the current services, processes, and procedures that are being used by the voucher fulfillment team to see if they might be able to be reused. What guiding principle best describes this scenario?
+
+- [ ] Focus on value.
+- [ ] Collaborate and promote visibility.
+- [x] Start where you are.
+- [ ] Keep it simple and practical.
 
 **[⬆ Back to Top](#table-of-contents)**
