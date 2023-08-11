@@ -382,6 +382,15 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 282 | [Which describes the nature of the guiding principles?](#which-describes-the-nature-of-the-guiding-principles)
 | 283 | [Which guiding principle is most affected by the Customer Experience (CX)?](#which-guiding-principle-is-most-affected-by-the-customer-experience-cx)
 | 284 | [Dion Training Solutions wants to build a new service to automatically fulfill exam voucher orders for students. Currently, exam vouchers are fulfilled manually by a staff member once the order is received from the student by copying and pasting the voucher number from a spreadsheet into an email template and sending out the email to the students. Before attempting to automate this fulfillment process, the team lead takes an inventory of the current services, processes, and procedures that are being used by the voucher fulfillment team to see if they might be able to be reused. What guiding principle best describes this scenario?](#dion-training-solutions-wants-to-build-a-new-service-to-automatically-fulfill-exam-voucher-orders-for-students-currently-exam-vouchers-are-fulfilled-manually-by-a-staff-member-once-the-order-is-received-from-the-student-by-copying-and-pasting-the-voucher-number-from-a-spreadsheet-into-an-email-template-and-sending-out-the-email-to-the-students-before-attempting-to-automate-this-fulfillment-process-the-team-lead-takes-an-inventory-of-the-current-services-processes-and-procedures-that-are-being-used-by-the-voucher-fulfillment-team-to-see-if-they-might-be-able-to-be-reused-what-guiding-principle-best-describes-this-scenario)
+| 285 | [Dion Training Solutions has decided to create an online course for the ITIL 4 Foundation exam. The company developed their curriculum and then invited 50 students to participate in live training to determine if the training was effective. During the training, some students didn't understand the concept of the service value chain, so the instructor rewrote that portion of the curriculum. Which guiding principle is being demonstrated by this approach to curriculum development?](#dion-training-solutions-has-decided-to-create-an-online-course-for-the-itil-4-foundation-exam-the-company-developed-their-curriculum-and-then-invited-50-students-to-participate-in-live-training-to-determine-if-the-training-was-effective-during-the-training-some-students-didnt-understand-the-concept-of-the-service-value-chain-so-the-instructor-rewrote-that-portion-of-the-curriculum-which-guiding-principle-is-being-demonstrated-by-this-approach-to-curriculum-development)
+| 286 | [You are working to design a new service for internal use across your organization. As part of your design efforts, you form a small team with relevant stakeholders from the human resources, information technology, sales, and other relevant departments to ensure the service adequately meets each department's needs and hope this results in great acceptance of the service when delivered. Which guiding principle best describes this scenario?](#dion-training-solutions-has-decided-to-create-an-online-course-for-the-itil-4-foundation-exam-the-company-developed-their-curriculum-and-then-invited-50-students-to-participate-in-live-training-to-determine-if-the-training-was-effective-during-the-training-some-students-didnt-understand-the-concept-of-the-service-value-chain-so-the-instructor-rewrote-that-portion-of-the-curriculum-which-guiding-principle-is-being-demonstrated-by-this-approach-to-curriculum-development)
+| 287 | [John is currently working to create a new service that would allow a customer to purchase a digital product online and have it delivered to the user's inbox. John is responsible for the payment portion of this service, but Sally is responsible for the digital product fulfillment portion of the service. Which of the following should John do in order to follow the principle of 'think and work holistically'?](#john-is-currently-working-to-create-a-new-service-that-would-allow-a-customer-to-purchase-a-digital-product-online-and-have-it-delivered-to-the-users-inbox-john-is-responsible-for-the-payment-portion-of-this-service-but-sally-is-responsible-for-the-digital-product-fulfillment-portion-of-the-service-which-of-the-following-should-john-do-in-order-to-follow-the-principle-of-think-and-work-holistically)
+| 288 | [Which of these are a key focus of the Organization and People dimension?](#which-of-thees-are-a-key-focus-of-the-organization-and-people-dimension)
+| 289 | [Which of these are NOT a key focus of the Partners and Suppliers dimension?](#which-of-these-are-not-a-key-focus-of-the-partners-and-suppliers-dimension)
+| 290 | [Which ITIL concept describes the service value chain?](#which-itil-concept-describes-the-service-value-chain)
+| 291 | [What operating model outlines the key activities required to respond to demand and facilitate value realization through the creation and management of products and services?](#what-operating-model-outlines-the-key-activities-required-to-respond-to-demand-and-facilitate-value-realization-through-the-creation-and-management-of-products-and-services)
+| 292 | [Which value chain activity includes portfolio decisions for Design and Transition?](#which-value-chain-activity-includes-portfolio-decisions-for-design-and-transition)
+| 293 | [Which step of the Continual Improvement model states that 'each improvement initiative should support the organization's goals and objectives'?](#which-step-of-the-continual-improvement-model-states-that-each-improvement-initiative-should-support-the-organizations-goals-and-objectives)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -2937,5 +2946,86 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Collaborate and promote visibility.
 - [x] Start where you are.
 - [ ] Keep it simple and practical.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Dion Training Solutions has decided to create an online course for the ITIL 4 Foundation exam. The company developed their curriculum and then invited 50 students to participate in live training to determine if the training was effective. During the training, some students didn't understand the concept of the service value chain, so the instructor rewrote that portion of the curriculum. Which guiding principle is being demonstrated by this approach to curriculum development?
+
+- [ ] Focus on value.
+- [ ] Collaborate and promote visibility.
+- [ ] Optimize and automate.
+- [ ] Progress iteratively with feedback.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### You are working to design a new service for internal use across your organization. As part of your design efforts, you form a small team with relevant stakeholders from the human resources, information technology, sales, and other relevant departments to ensure the service adequately meets each department's needs and hope this results in great acceptance of the service when delivered. Which guiding principle best describes this scenario?
+
+- [ ] Focus on value.
+- [x] Collaborate and promote visibility.
+- [ ] Start where you are.
+- [ ] Keep it simple and practical.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### John is currently working to create a new service that would allow a customer to purchase a digital product online and have it delivered to the user's inbox. John is responsible for the payment portion of this service, but Sally is responsible for the digital product fulfillment portion of the service. Which of the following should John do in order to follow the principle of 'think and work holistically'?
+
+- [ ] John should optimize his code to ensure it runs efficiently.
+- [x] John should meet with Sally to determine how the digital product fulfillment will occur.
+- [ ] John should wait until Sally's portion is complete before beginning his to ensure they work together properly.
+- [ ] John should tell Sally to wait until his portion is done before starting hers to ensure compatibility.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which of these are a key focus of the Organization and People dimension?
+
+- Security and compliance.
+- Activities that transform inputs into outputs.
+- Roles and responsibilities.
+- Contracts and agreements.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which of these are NOT a key focus of the Partners and Suppliers dimension?
+
+- [x] Workflow management and inventory systems.
+- [ ] Roles and responsibilities.
+- [ ] Contracts and agreements.
+- [ ] Security and compliance.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which ITIL concept describes the service value chain?
+
+- [ ] Seven guiding principles.
+- [ ] Four dimensions of service management.
+- [x] Service value system.
+- [ ] Practices.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What operating model outlines the key activities required to respond to demand and facilitate value realization through the creation and management of products and services?
+
+- [ ] Continual improvement.
+- [x] Service value chain.
+- [ ] Practices.
+- [ ] Guiding principles.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which value chain activity includes portfolio decisions for Design and Transition?
+
+- [ ] Engage.
+- [ ] Improve.
+- [x] Plan.
+- [ ] Deliver and support.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which step of the Continual Improvement model states that 'each improvement initiative should support the organization's goals and objectives'?
+
+- [ ] Where are we now?
+- [x] What is the vision?
+- [ ] Where do we want to be?
+- [ ] How do we get there?
 
 **[⬆ Back to Top](#table-of-contents)**
