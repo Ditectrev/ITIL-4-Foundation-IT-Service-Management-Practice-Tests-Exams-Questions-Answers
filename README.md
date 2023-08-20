@@ -393,6 +393,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 291 | [What operating model outlines the key activities required to respond to demand and facilitate value realization through the creation and management of products and services?](#what-operating-model-outlines-the-key-activities-required-to-respond-to-demand-and-facilitate-value-realization-through-the-creation-and-management-of-products-and-services)
 | 292 | [Which value chain activity includes portfolio decisions for Design and Transition?](#which-value-chain-activity-includes-portfolio-decisions-for-design-and-transition)
 | 293 | [Which step of the Continual Improvement model states that 'each improvement initiative should support the organization's goals and objectives'?](#which-step-of-the-continual-improvement-model-states-that-each-improvement-initiative-should-support-the-organizations-goals-and-objectives)
+| 294 | [When working within the 'what is the vision' step of the Continual Improvement model, what must you ensure to occur?](#when-working-within-the-what-is-the-vision-step-of-the-continual-improvement-model-what-must-you-ensure-to-occur)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -3029,5 +3030,14 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] What is the vision?
 - [ ] Where do we want to be?
 - [ ] How do we get there?
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### When working within the 'what is the vision' step of the Continual Improvement model, what must you ensure to occur?
+
+- [x] The high-level direction of the initiative has been understood.
+- [ ] The detailed steps of how to achieve your objectives.
+- [ ] What metrics you will use to measure success.
+- [ ] The current processes being used.
 
 **[⬆ Back to Top](#table-of-contents)**
