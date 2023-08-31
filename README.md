@@ -99,7 +99,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ## Table of Contents
 
 | No. | Questions |
-| --- | --------------------------- |
+| --- | --------- |
 | 1   | [A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.](#a-service-is-a-means-of-enabling-value-co-creation-by-facilitating-outcomes-that-customers-want-to-achieve-without-the-customer-having-to-manage-specific--and-risks)|
 | 2   | [Which statement about Service Desks is CORRECT?](#which-statement-about-service-desks-is-correct)|
 | 3   | [Normal changes should be handled as service requests](#normal-changes-should-be-handled-as-service-requests)|
