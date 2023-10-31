@@ -394,6 +394,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 292 | [Which value chain activity includes portfolio decisions for Design and Transition?](#which-value-chain-activity-includes-portfolio-decisions-for-design-and-transition)
 | 293 | [Which step of the Continual Improvement model states that 'each improvement initiative should support the organization's goals and objectives'?](#which-step-of-the-continual-improvement-model-states-that-each-improvement-initiative-should-support-the-organizations-goals-and-objectives)
 | 294 | [When working within the 'what is the vision' step of the Continual Improvement model, what must you ensure to occur?](#when-working-within-the-what-is-the-vision-step-of-the-continual-improvement-model-what-must-you-ensure-to-occur)
+| 295 | [Bridgett is leading an improvement initiative within your company. She has been told that the company wants to have the highest customer satisfaction in the industry. Currently, the company has a customer satisfaction rating of 92% but the industry leader has an average of 94%. Bridgett decides that the company should set their goal of obtaining a 96% customer satisfaction score within the next 12 months. What step of the continual improvement model is Bridgett currently in?](#bridgett-is-leading-an-improvement-initiative-within-your-company-she-has-been-told-that-the-company-wants-to-have-the-highest-customer-satisfaction-in-the-industry-currently-the-company-has-a-customer-satisfaction-rating-of-92-but-the-industry-leader-has-an-average-of-94-bridgett-decides-that-the-company-should-set-their-goal-of-obtaining-a-96-customer-satisfaction-score-within-the-next-12-months-what-step-of-the-continual-improvement-model-is-bridgett-currently-in)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -3041,3 +3042,13 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] The current processes being used.
 
 **[⬆ Back to Top](#table-of-contents)**
+
+### Bridgett is leading an improvement initiative within your company. She has been told that the company wants to have the highest customer satisfaction in the industry. Currently, the company has a customer satisfaction rating of 92% but the industry leader has an average of 94%. Bridgett decides that the company should set their goal of obtaining a 96% customer satisfaction score within the next 12 months. What step of the continual improvement model is Bridgett currently in?
+
+- [ ] What is the vision?
+- [x] Where do we want to be?
+- [ ] How do we get there?
+- [ ] Where are we now?
+
+**[⬆ Back to Top](#table-of-contents)**
+
