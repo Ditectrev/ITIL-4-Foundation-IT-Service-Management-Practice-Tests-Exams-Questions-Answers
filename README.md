@@ -407,7 +407,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 305 | [Your smartphone isn't working properly. You call the toll-free number for your service provider's support center. Which practice would you reach that serves as the entry point for all contact between the service provider and its users?](#your-smartphone-isnt-working-properly-you-call-the-toll-free-number-for-your-service-providers-support-center-which-practice-would-you-reach-that-serves-as-the-entry-point-for-all-contact-between-the-service-provider-and-its-users)
 | 306 | [Which is a recommendation of the Service Desk practice?](#which-is-a-recommendation-of-the-service-desk-practice)
 | 307 | [What is a Service Level Agreement used for?](#what-is-a-service-level-agreement-used-for)
-| 308 | [How does Service Level Management contribute to the plan value chain activity?](#how-does-service-level-management-contribute-to-the-plan)
+| 308 | [How does Service Level Management contribute to the plan value chain activity?](#how-does-service-level-management-contribute-to-the-plan-value-chain-activity)
 | 309 | [What should be included in every Service Level Agreement?](#what-should-be-included-in-every-service-level-agreement)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
