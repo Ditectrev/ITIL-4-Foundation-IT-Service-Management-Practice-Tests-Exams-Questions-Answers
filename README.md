@@ -395,6 +395,15 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 293 | [Which step of the Continual Improvement model states that 'each improvement initiative should support the organization's goals and objectives'?](#which-step-of-the-continual-improvement-model-states-that-each-improvement-initiative-should-support-the-organizations-goals-and-objectives)
 | 294 | [When working within the 'what is the vision' step of the Continual Improvement model, what must you ensure to occur?](#when-working-within-the-what-is-the-vision-step-of-the-continual-improvement-model-what-must-you-ensure-to-occur)
 | 295 | [Bridgett is leading an improvement initiative within your company. She has been told that the company wants to have the highest customer satisfaction in the industry. Currently, the company has a customer satisfaction rating of 92% but the industry leader has an average of 94%. Bridgett decides that the company should set their goal of obtaining a 96% customer satisfaction score within the next 12 months. What step of the continual improvement model is Bridgett currently in?](#bridgett-is-leading-an-improvement-initiative-within-your-company-she-has-been-told-that-the-company-wants-to-have-the-highest-customer-satisfaction-in-the-industry-currently-the-company-has-a-customer-satisfaction-rating-of-92-but-the-industry-leader-has-an-average-of-94-bridgett-decides-that-the-company-should-set-their-goal-of-obtaining-a-96-customer-satisfaction-score-within-the-next-12-months-what-step-of-the-continual-improvement-model-is-bridgett-currently-in)
+| 296 | [What is a normal change?](#what-is-a-normal-change)
+| 297 | [Your company's external router has just malfunctioned and needs to be replaced. The entire organization's connection to the Wide Area Network will remain offline until this router is replaced. Which type of change should be initiated?](#your-companys-external-router-has-just-malfunctioned-and-needs-to-be-replaced-the-entire-organizations-connection-to-the-wide-area-network-will-remain-offline-until-this-router-is-replaced-which-type-of-change-should-be-initiated)
+| 298 | [What is a change schedule NOT used for?](#what-is-a-change-schedule-not-used-for)
+| 299 | [How can you ensure the incidents with the highest business impact are resolved first?](#how-can-you-ensure-the-incidents-with-the-highest-business-impact-are-resolved-first)
+| 300 | [Which incidents should be logged?](#which-incidents-should-be-logged)
+| 301 | [What is NOT a phase in problem management?](#what-is-not-a-phase-in-problem-management)
+| 302 | [If a problem cannot be resolved quickly, you might wish to document and implement a temporary solution to reduce the impact of the problem. What is this known as?](#if-a-problem-cannot-be-resolved-quickly-you-might-wish-to-document-and-implement-a-temporary-solution-to-reduce-the-impact-of-the-problem-what-is-this-known-as)
+| 303 | [How does Service Request Management contribute to the improve value chain activity?](#how-does-service-request-management-contribute-to-the-improve-value-chain-activity)
+| 304 | [Service requests and their fulfillment should be [?] and automated to the greatest degree possible.](#service-requests-and-their-fulfillment-should-be-and-automated-to-the-greatest-degree-possible)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -3111,6 +3120,6 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Service requests and their fulfillment should be [?] and automated to the greatest degree possible.
 
 - [ ] Uniquely handled.
-- [ ] Standardized.
+- [x] Standardized.
 - [ ] Creatively solved.
 - [ ] Ignored.
