@@ -404,6 +404,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 302 | [If a problem cannot be resolved quickly, you might wish to document and implement a temporary solution to reduce the impact of the problem. What is this known as?](#if-a-problem-cannot-be-resolved-quickly-you-might-wish-to-document-and-implement-a-temporary-solution-to-reduce-the-impact-of-the-problem-what-is-this-known-as)
 | 303 | [How does Service Request Management contribute to the improve value chain activity?](#how-does-service-request-management-contribute-to-the-improve-value-chain-activity)
 | 304 | [Service requests and their fulfillment should be [?] and automated to the greatest degree possible.](#service-requests-and-their-fulfillment-should-be-and-automated-to-the-greatest-degree-possible)
+| 305 | [Your smartphone isn't working properly. You call the toll-free number for your service provider's support center. Which practice would you reach that serves as the entry point for all contact between the service provider and its users?](#your-smartphone-isnt-working-properly-you-call-the-toll-free-number-for-your-service-providers-support-center-which-practice-would-you-reach-that-serves-as-the-entry-point-for-all-contact-between-the-service-provider-and-its-users)
+| 306 | [Which is a recommendation of the Service Desk practice?](#which-is-a-recommendation-of-the-service-desk-practice)
+| 307 | [What is a Service Level Agreement used for?](#what-is-a-service-level-agreement-used-for)
+| 308 | [How does Service Level Management contribute to the plan value chain activity?](#how-does-service-level-management-contribute-to-the-plan)
+| 309 | [What should be included in every Service Level Agreement?](#what-should-be-included-in-every-service-level-agreement)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -3068,12 +3073,16 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] A change that doesn't need risk assessment because it is required to resolve an incident.
 - [ ] A change that is routine in nature, is fully documented, and the risks are well understood.
 
+**[⬆ Back to Top](#table-of-contents)**
+
 ### Your company's external router has just malfunctioned and needs to be replaced. The entire organization's connection to the Wide Area Network will remain offline until this router is replaced. Which type of change should be initiated?
 
  - [ ] Standard.
  - [ ] Normal.
  - [x] Emergency.
  - [ ] Routine.
+
+**[⬆ Back to Top](#table-of-contents)**
 
 ### What is a change schedule NOT used for?
 
@@ -3082,12 +3091,16 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Avoiding contacts.
 - [ ] Assigning resources.
 
+**[⬆ Back to Top](#table-of-contents)**
+
 ### How can you ensure the incidents with the highest business impact are resolved first?
 
 - [x] Implement incident classification.
 - [ ] Use automation.
 - [ ] Utilize self-help tools.
 - [ ] Utilize problem management.
+
+**[⬆ Back to Top](#table-of-contents)**
 
 ### Which incidents should be logged?
 
@@ -3096,12 +3109,16 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Any incident that occurs more than once.
 - [ ] Only incidents that are not solved using self-help tools.
 
+**[⬆ Back to Top](#table-of-contents)**
+
 ### What is NOT a phase in problem management?
 
 - [ ] Problem identification.
-- [ ] Problem classification.
+- [x] Problem classification.
 - [ ] Problem control.
 - [ ] Error control.
+
+**[⬆ Back to Top](#table-of-contents)**
 
 ### If a problem cannot be resolved quickly, you might wish to document and implement a temporary solution to reduce the impact of the problem. What is this known as?
 
@@ -3110,6 +3127,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Workaround.
 - [ ] Known error.
 
+**[⬆ Back to Top](#table-of-contents)**
+
 ### How does Service Request Management contribute to the improve value chain activity?
 
 - [ ] It ensures that users continue to be productive when they need assistance from the service provider.
@@ -3117,9 +3136,58 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] It analyzes data to identify opportunities to provide new service request options.
 - [ ] It acquires pre-approved service components to help fulfill service requests.
 
+**[⬆ Back to Top](#table-of-contents)**
+
 ### Service requests and their fulfillment should be [?] and automated to the greatest degree possible.
 
 - [ ] Uniquely handled.
 - [x] Standardized.
 - [ ] Creatively solved.
 - [ ] Ignored.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your smartphone isn't working properly. You call the toll-free number for your service provider's support center. Which practice would you reach that serves as the entry point for all contact between the service provider and its users?
+
+- [ ] Problem Management.
+- [x] Service Desk.
+- [ ] Service Request Management.
+- [ ] Incident Management.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which is a recommendation of the Service Desk practice?
+
+- [ ] Service desks should never use technologies such as SMS and chat functions.
+- [ ] Service desks should be highly technical functions.
+- [x] Service desks should have a practical understanding of the business practices across the organization.
+- [ ] Service desks should always use a virtual service desk.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is a Service Level Agreement used for?
+
+- [x] To measure the performance of services from a customer's point of view.
+- [ ] To measure the performance of the service availability.
+- [ ] To measure the performance of the service capability.
+- [ ] To measure the performance of the service from the service provider's point of view.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### How does Service Level Management contribute to the 'plan' value chain activity?
+
+- [ ] Uses feedback from users about the service and requirements from customers to make the service better.
+- [x] Provides information about the actual service performance and trends.
+- [ ] Collects and processes feedback from customers and users.
+- [ ] Collects feedback during interactions and communicates service performance objectives to the operations and support teams. 
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What should be included in every Service Level Agreement?
+
+- [ ] Detailed metrics to capture availability of the system.
+- [ ] Metrics for system response time.
+- [x] Clearly defined service outcomes.
+- [ ] Number of emails sent per hour.
+
+**[⬆ Back to Top](#table-of-contents)**
