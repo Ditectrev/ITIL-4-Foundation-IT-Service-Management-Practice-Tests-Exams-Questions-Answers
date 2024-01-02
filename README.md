@@ -3052,3 +3052,65 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
+### What is a normal change?
+
+- [ ] A change that doesn't need risk assessment because the procedure has been pre-authorized.
+- [x] A change that needs to be assessed, authorized, and scheduled by a change authority.
+- [ ] A change that doesn't need risk assessment because it is required to resolve an incident.
+- [ ] A change that is routine in nature, is fully documented, and the risks are well understood.
+
+### Your company's external router has just malfunctioned and needs to be replaced. The entire organization's connection to the Wide Area Network will remain offline until this router is replaced. Which type of change should be initiated?
+
+ - [ ] Standard.
+ - [ ] Normal.
+ - [x] Emergency.
+ - [ ] Routine.
+
+### What is a change schedule NOT used for?
+
+- [x] Developing features.
+- [ ] Planning changes.
+- [ ] Avoiding contacts.
+- [ ] Assigning resources.
+
+### How can you ensure the incidents with the highest business impact are resolved first?
+
+- [x] Implement incident classification.
+- [ ] Use automation.
+- [ ] Utilize self-help tools.
+- [ ] Utilize problem management.
+
+### Which incidents should be logged?
+
+- [ ] Only an incident that cannot be immediately resolved.
+- [x] Every incident should be logged.
+- [ ] Any incident that occurs more than once.
+- [ ] Only incidents that are not solved using self-help tools.
+
+### What is NOT a phase in problem management?
+
+- [ ] Problem identification.
+- [ ] Problem classification.
+- [ ] Problem control.
+- [ ] Error control.
+
+### If a problem cannot be resolved quickly, you might wish to document and implement a temporary solution to reduce the impact of the problem. What is this known as?
+
+- [ ] Incident.
+- [ ] Solution.
+- [x] Workaround.
+- [ ] Known error.
+
+### How does Service Request Management contribute to the improve value chain activity?
+
+- [ ] It ensures that users continue to be productive when they need assistance from the service provider.
+- [ ] It collects user-specific requirements, sets expectations, and provides status updates.
+- [x] It analyzes data to identify opportunities to provide new service request options.
+- [ ] It acquires pre-approved service components to help fulfill service requests.
+
+### Service requests and their fulfillment should be [?] and automated to the greatest degree possible.
+
+- [ ] Uniquely handled.
+- [ ] Standardized.
+- [ ] Creatively solved.
+- [ ] Ignored.
