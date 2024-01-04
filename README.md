@@ -417,6 +417,16 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 315 | [What is defined as the practice of aligning an organization's practices and services with changing business needs through the ongoing identification and improvement of all elements involved in the effective management of products and services?](#what-is-defined-as-the-practice-of-aligning-an-organizations-practices-and-services-with-changing-business-needs-through-the-ongoing-identification-and-improvement-of-all-elements-involved-in-the-effective-management-of-products-and-services)
 | 316 | [Service [?] management is the practice of setting clear business-based targets for service performance so that the delivery of a service can be properly assessed, monitored, and managed against these targets.](#service--management-is-the-practice-of-setting-clear-business-based-targets-for-service-performance-so-that-the-delivery-of-a-service-can-be-properly-assessed-monitored-and-managed-against-these-targets)
 | 317 | [Dion Training has decided not to run their own email servers. Instead, Dion Training pays a monthly service fee to Google's G-Suite to provide email services to the company so that Dion Training can receive emails from its students. What best describes this co-creation of value by Dion Training and Google in order to provide email support to Dion Training's students?](#dion-training-has-decided-not-to-run-their-own-email-servers-instead-dion-training-pays-a-monthly-service-fee-to-googles-g-suite-to-provide-email-services-to-the-company-so-that-dion-training-can-receive-emails-from-its-students-what-best-describes-this-co-creation-of-value-by-dion-training-and-google-in-order-to-provide-email-support-to-dion-trainings-students)
+| 318 | [What term best describes the perceived benefits, usefulness, and importance of something?](#what-term-best-describes-the-perceived-benefits-usefulness-and-importance-of-something)
+| 319 | [Your organization is preparing to launch a new service. Your manager is concerned that there is a possibility that something bad might happen which could cause the service to fail and the desired outcome won't be achieved. What term best describes your manager's concerns?](#your-organization-is-preparing-to-launch-a-new-service-your-manager-is-concerned-that-there-is-a-possibility-that-something-bad-might-happen-which-could-cause-the-service-to-fail-and-the-desired-outcome-wont-be-achieved-what-term-best-describes-your-managers-concerns)
+| 320 | [[?] is/are defined as a recommendation that can guide an organization in all circumstances and will guide organizations when adopting service management.](#-isare-defined-as-a-recommendation-that-can-guide-an-organization-in-all-circumstances-and-will-guide-organizations-when-adopting-service-management)
+| 321 | [You have been assigned to a team that has been asked to identify how your consumers use a particular service, what the service helps them to do, and how the service helps them to identify their goals. Which of the guiding principles should best be applied in your situation?](#you-have-been-assigned-to-a-team-that-has-been-asked-to-identify-how-your-consumers-use-a-particular-service-what-the-service-helps-them-to-do-and-how-the-service-helps-them-to-identify-their-goals-which-of-the-guiding-principles-should-best-be-applied-in-your-situation)
+| 322 | [Your organization is currently running a web hosting service, but it is not providing sufficient utility and warranty. In order to fix this, a team has been assembled and asked to design a new web hosting service. The team manager suggests that the team first look at the existing service and its processes before they begin to design the new service. What guiding principle is being followed by the team manager?](#your-organization-is-currently-running-a-web-hosting-service-but-it-is-not-providing-sufficient-utility-and-warranty-in-order-to-fix-this-a-team-has-been-assembled-and-asked-to-design-a-new-web-hosting-service-the-team-manager-suggests-that-the-team-first-look-at-the-existing-service-and-its-processes-before-they-begin-to-design-the-new-service-what-guiding-principle-is-being-followed-by-the-team-manager)
+| 323 | [Which guiding principle is focused on involving the right people in the correct roles in order to get additional buy-in for the project and increase the likelihood of long-term success?](#which-guiding-principle-is-focused-on-involving-the-right-people-in-the-correct-roles-in-order-to-get-additional-buy-in-for-the-project-and-increase-the-likelihood-of-long-term-success)
+| 324 | [During a review of the New Account Creation process at your company, you determine that the current process requires 15 steps to create a new account. As you analyze each step, you find that steps 3 and 5 provide no value to the process or the organization. Based on which guiding principle should you eliminate steps 3 and 5 from the process?](#during-a-review-of-the-new-account-creation-process-at-your-company-you-determine-that-the-current-process-requires-15-steps-to-create-a-new-account-as-you-analyze-each-step-you-find-that-steps-3-and-5-provide-no-value-to-the-process-or-the-organization-based-on-which-guiding-principle-should-you-eliminate-steps-3-and-5-from-the-process)
+| 325 | [What refers to the use of technology to perform a step or series of steps correctly and consistently with limited or no human involvement?](#what-refers-to-the-use-of-technology-to-perform-a-step-or-series-of-steps-correctly-and-consistently-with-limited-or-no-human-involvement)
+| 326 | [Which service management dimension is focused on the roles and responsibilities of the people involved in a process' workflow?](#which-service-management-dimension-is-focused-on-the-roles-and-responsibilities-of-the-people-involved-in-a-process-workflow)
+| 327 | [Which service management dimension is focused on the communication systems and knowledge bases used by employees?](#which-service-management-dimension-is-focused-on-the-communication-systems-and-knowledge-bases-used-by-employees)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -3269,5 +3279,95 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Service Relationship Management. 
 - [ ] Service Provision.
 - [ ] Service Consumption.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What term best describes the perceived benefits, usefulness, and importance of something?
+
+- [ ] Utility.
+- [ ] Warranty.
+- [ ] Outcome.
+- [x] Value.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your organization is preparing to launch a new service. Your manager is concerned that there is a possibility that something bad might happen which could cause the service to fail and the desired outcome won't be achieved. What term best describes your manager's concerns?
+
+- [ ] Outputs.
+- [x] Risks.
+- [ ] Costs.
+- [ ] Utility.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### [?] is/are defined as a recommendation that can guide an organization in all circumstances and will guide organizations when adopting service management.
+
+- [x] Guiding principles.
+- [ ] Service value chain.
+- [ ] Focus on value.
+- [ ] Governance.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### You have been assigned to a team that has been asked to identify how your consumers use a particular service, what the service helps them to do, and how the service helps them to identify their goals. Which of the guiding principles should best be applied in your situation?
+
+- [x] Focus on value.
+- [ ] Progress iteratively with feedback.
+- [ ] Collaborate and promote visibility.
+- [ ] Think and work holistically.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your organization is currently running a web hosting service, but it is not providing sufficient utility and warranty. In order to fix this, a team has been assembled and asked to design a new web hosting service. The team manager suggests that the team first look at the existing service and its processes before they begin to design the new service. What guiding principle is being followed by the team manager?
+
+- [ ] Focus on value.
+- [x] Start where you are.
+- [ ] Keep it simple and practical.
+- [ ] Optimize and automate.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which guiding principle is focused on involving the right people in the correct roles in order to get additional buy-in for the project and increase the likelihood of long-term success?
+
+- [x] Collaborate and promote visibility.
+- [ ] Focus on value.
+- [ ] Progress iteratively with feedback.
+- [ ] Optimize and automate.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### During a review of the New Account Creation process at your company, you determine that the current process requires 15 steps to create a new account. As you analyze each step, you find that steps 3 and 5 provide no value to the process or the organization. Based on which guiding principle should you eliminate steps 3 and 5 from the process?
+
+- [ ] Think and work holistically.
+- [x] Keep it simple and practical.
+- [ ] Optimize and automate.
+- [ ] Focus on value.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What refers to the use of technology to perform a step or series of steps correctly and consistently with limited or no human involvement?
+
+- [x] Automation.
+- [ ] Optimization.
+- [ ] Value.
+- [ ] Utility.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which service management dimension is focused on the roles and responsibilities of the people involved in a process' workflow?
+
+- [x] Organizations and people.
+- [ ] Information and technology.
+- [ ] Partners and suppliers.
+- [ ] Value streams and processes.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which service management dimension is focused on the communication systems and knowledge bases used by employees?
+
+- [ ] Organizations and people.
+- [x] Information and technology.
+- [ ] Partners and suppliers.
+- [ ] Value streams and processes.
 
 **[⬆ Back to Top](#table-of-contents)**
