@@ -409,6 +409,14 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 307 | [What is a Service Level Agreement used for?](#what-is-a-service-level-agreement-used-for)
 | 308 | [How does Service Level Management contribute to the plan value chain activity?](#how-does-service-level-management-contribute-to-the-plan-value-chain-activity)
 | 309 | [What should be included in every Service Level Agreement?](#what-should-be-included-in-every-service-level-agreement)
+| 310 | [What is the definition of utility?](#what-is-the-definition-of-utility)
+| 311 | [A customer is a person who defines the requirements for a service and takes responsibility for the [?] of service consumption.](#a-customer-is-a-person-who-defines-the-requirements-for-a-service-and-takes-responsibility-for-the-of-service-consumption)
+| 312 | [What is the definition of an IT asset?](#what-is-the-definition-of-an-it-asset)
+| 313 | [A(n) [?] is any component that needs to be managed in order to deliver an IT service.](#an-is-any-component-that-needs-to-be-managed-in-order-to-deliver-an-it-service)
+| 314 | [[?] management is the practice of minimizing the negative impact of incidents by restoring normal service operation as quickly as possible.](#management-is-the-practice-of-minimizing-the-negative-impact-of-incidents-by-restoring-normal-service-operation-as-quickly-as-possible)
+| 315 | [What is defined as the practice of aligning an organization's practices and services with changing business needs through the ongoing identification and improvement of all elements involved in the effective management of products and services?](#what-is-defined-as-the-practice-of-aligning-an-organizations-practices-and-services-with-changing-business-needs-through-the-ongoing-identification-and-improvement-of-all-elements-involved-in-the-effective-management-of-products-and-services)
+| 316 | [Service [?] management is the practice of setting clear business-based targets for service performance so that the delivery of a service can be properly assessed, monitored, and managed against these targets.](#service-management-is-the-practice-of-setting-clear-business-based-targets-for-service-performance-so-that-the-delivery-of-a-service-can-be-properly-assessed-monitored-and-managed-against-these-targets)
+| 317 | [Dion Training has decided not to run their own email servers. Instead, Dion Training pays a monthly service fee to Google's G-Suite to provide email services to the company so that Dion Training can receive emails from its students. What best describes this co-creation of value by Dion Training and Google in order to provide email support to Dion Training's students?](#dion-training-has-decided-not-to-run-their-own-email-servers-instead-dion-training-pays-a-monthly-service-fee-to-googles-g-suite-to-provide-email-services-to-the-company-so-that-dion-training-can-receive-emails-from-its-students-what-best-describes-this-co-creation-of-value-by-dion-training-and-google-in-order-to-provide-email-support-to-dion-trainings-students)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -2575,8 +2583,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Any financially valuable component that can contribute to the delivery of an IT product or service.
 - [ ] Any change of state that has significance for the management of a service.
-- [ ] Any component that needs to be managed in order to deliver an IT service.
-- [x] A problem that has been analyzed but has not been resolved.
+- [x] Any component that needs to be managed in order to deliver an IT service.
+- [ ] A problem that has been analyzed but has not been resolved.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3189,5 +3197,77 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Metrics for system response time.
 - [x] Clearly defined service outcomes.
 - [ ] Number of emails sent per hour.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the definition of utility?
+
+- [ ] The assurance that a product or service will meet agreed requirements.
+- [ ] A possible event that could cause harm or loss, or make it more difficult to achieve objectives.
+- [x] The functionality offered by a product or service to meet a particular need.
+- [ ] A tangible or intangible deliverable that is produced by carrying out an activity.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+ ### A customer is a person who defines the requirements for a service and takes responsibility for the [?] of service consumption.
+
+ - [x] Outcomes.
+ - [ ] Cost.
+ - [ ] Outputs.
+ - [ ] Benefits.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the definition of an IT asset?
+
+- [ ] A particular set of settings or options on a given piece of equipment.
+- [x] Any valuable component that can contribute to the delivery of an IT product or service.
+- [ ] A means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
+- [ ] Any component that needs to be managed in order to deliver an IT service.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### A(n) [?] is any component that needs to be managed in order to deliver an IT service.
+
+- [ ] Product.
+- [ ] Outputs.
+- [ ] Asset.
+- [x] Configuration item.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### [?] management is the practice of minimizing the negative impact of incidents by restoring normal service operation as quickly as possible.
+
+- [ ] Availability.
+- [ ] Event.
+- [x] Incident.
+- [ ] Problem.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is defined as the practice of aligning an organization's practices and services with changing business needs through the ongoing identification and improvement of all elements involved in the effective management of products and services?
+
+- [ ] Service Level Management.
+- [ ] Service Request Management.
+- [x] Continual Improvement.
+- [ ] Capacity and Performance Management.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Service [?] management is the practice of setting clear business-based targets for service performance so that the delivery of a service can be properly assessed, monitored, and managed against these targets.
+
+- [ ] Capacity.
+- [ ] Availability.
+- [ ] Request.
+- [x] Level.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Dion Training has decided not to run their own email servers. Instead, Dion Training pays a monthly service fee to Google's G-Suite to provide email services to the company so that Dion Training can receive emails from its students. What best describes this co-creation of value by Dion Training and Google in order to provide email support to Dion Training's students?
+
+- [ ] Service Offering.
+- [x] Service Relationship Management. 
+- [ ] Service Provision.
+- [ ] Service Consumption.
 
 **[⬆ Back to Top](#table-of-contents)**
