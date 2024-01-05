@@ -427,6 +427,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 325 | [What refers to the use of technology to perform a step or series of steps correctly and consistently with limited or no human involvement?](#what-refers-to-the-use-of-technology-to-perform-a-step-or-series-of-steps-correctly-and-consistently-with-limited-or-no-human-involvement)
 | 326 | [Which service management dimension is focused on the roles and responsibilities of the people involved in a process' workflow?](#which-service-management-dimension-is-focused-on-the-roles-and-responsibilities-of-the-people-involved-in-a-process-workflow)
 | 327 | [Which service management dimension is focused on the communication systems and knowledge bases used by employees?](#which-service-management-dimension-is-focused-on-the-communication-systems-and-knowledge-bases-used-by-employees)
+| 328 | [Which ITIL concept describes practices?](#which-itil-concept-describes-practices)
+| 329 | [Which of the following is NOT an activity within the service value chain?](#which-of-the-following-is-not-an-activity-within-the-service-value-chain)
+| 330 | [Your company has recently engaged a new supplier to provide you with 3 routers that will handle 1 Gbps of throughput. They are scheduled for installation in three months. Your team is currently configuring the devices in preparation for installation into the network architecture based upon the design requirements. Which value chain activity would best categorize your configuration actions in this scenario?](#your-company-has-recently-engaged-a-new-supplier-to-provide-you-with-3-routers-that-will-handle-1-gbps-of-throughput-they-are-scheduled-for-installation-in-three-months-your-team-is-currently-configuring-the-devices-in-preparation-for-installation-into-the-network-architecture-based-upon-the-design-requirements-which-value-chain-activity-would-best-categorize-your-configuration-actions-in-this-scenario)
+| 331 | [Management has set a goal to reduce the number of physical servers in the datacenter by 10% this year. Your team is responsible for creating a plan to migrate 50% of the physical servers into virtualized systems. Which step of the continual improvement model are you currently working on?](#management-has-set-a-goal-to-reduce-the-number-of-physical-servers-in-the-datacenter-by-10-this-year-your-team-is-responsible-for-creating-a-plan-to-migrate-50-of-the-physical-servers-into-virtualized-systems-which-step-of-the-continual-improvement-model-are-you-currently-working-on)
+| 332 | [You are working as part of an improvement initiative and your team would like to release a new module into the existing Customer Relationship Management system. Which type of change should you initiate?](#you-are-working-as-part-of-an-improvement-initiative-and-your-team-would-like-to-release-a-new-module-into-the-existing-customer-relationship-management-system-which-type-of-change-should-you-initiate)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -3369,5 +3374,50 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Information and technology.
 - [ ] Partners and suppliers.
 - [ ] Value streams and processes.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which ITIL concept describes practices?
+
+- [ ] Seven guiding principles.
+- [x] Service value system.
+- [ ] Service value chain.
+- [ ] Four dimensions of service management.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which of the following is NOT an activity within the service value chain?
+
+- [ ] Plan.
+- [ ] Engage.
+- [ ] Delivery and Support.
+- [x] Practice.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your company has recently engaged a new supplier to provide you with 3 routers that will handle 1 Gbps of throughput. They are scheduled for installation in three months. Your team is currently configuring the devices in preparation for installation into the network architecture based upon the design requirements. Which value chain activity would best categorize your configuration actions in this scenario?
+
+- [ ] Design and transition.
+- [ ] Engage.
+- [x] Obtain/build.
+- [ ] Deliver and support.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Management has set a goal to reduce the number of physical servers in the datacenter by 10% this year. Your team is responsible for creating a plan to migrate 50% of the physical servers into virtualized systems. Which step of the continual improvement model are you currently working on?
+
+- [ ] Where do we want to be?
+- [x] How do we get there?
+- [ ] Where are we now?
+- [ ] Take action.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### You are working as part of an improvement initiative and your team would like to release a new module into the existing Customer Relationship Management system. Which type of change should you initiate?
+
+- [ ] Standard.
+- [x] Normal.
+- [ ] Emergency.
+- [ ] Routine.
 
 **[⬆ Back to Top](#table-of-contents)**
