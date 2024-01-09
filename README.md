@@ -204,7 +204,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 102 | [Which is a key activity carried out in the 'did we get there?' step of the Continual Improvement model?](#which-is-a-key-activity-carried-out-in-the-did-we-get-there-step-of-the-continual-improvement-model)|
 | 103 | [What can a service remove from the consumer and impose on the consumer?](#what-can-a-service-remove-from-the-consumer-and-impose-on-the-consumer)|
 | 104 | [What does Change Enablement PRIMARILY focus on?](#what-does-change-enablement-primarily-focus-on)|
-| 105 | [What is a change schedule used for?](#what-is-a-change-schedule-used-for)|
+| 105 | [You are attempting to print a document from your workstation to the network printer in your office. The print job failed when you attempted to print, so you called the service desk for assistance. What term best describes your issue?](#you-are-attempting-to-print-a-document-from-your-workstation-to-the-network-printer-in-your-office-the-print-job-failed-when-you-attempted-to-print-so-you-called-the-service-desk-for-assistance-what-term-best-describes-your-issue)|
 | 106 | [A change is defined as the addition, modification, or removal of anything that could have a direct or indirect effect on [?].](#a-change-is-defined-as-the-addition-modification-or-removal-of-anything-that-could-have-a-direct-or-indirect-effect-on-)|
 | 107 | [Which is handled as a service request?](#which-is-handled-as-a-service-request)|
 | 108 | [Which is a key requirement for a successful service level agreement (SLA)?](#which-is-a-key-requirement-for-a-successful-service-level-agreement-sla)|
@@ -432,6 +432,20 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 330 | [Your company has recently engaged a new supplier to provide you with 3 routers that will handle 1 Gbps of throughput. They are scheduled for installation in three months. Your team is currently configuring the devices in preparation for installation into the network architecture based upon the design requirements. Which value chain activity would best categorize your configuration actions in this scenario?](#your-company-has-recently-engaged-a-new-supplier-to-provide-you-with-3-routers-that-will-handle-1-gbps-of-throughput-they-are-scheduled-for-installation-in-three-months-your-team-is-currently-configuring-the-devices-in-preparation-for-installation-into-the-network-architecture-based-upon-the-design-requirements-which-value-chain-activity-would-best-categorize-your-configuration-actions-in-this-scenario)
 | 331 | [Management has set a goal to reduce the number of physical servers in the datacenter by 10% this year. Your team is responsible for creating a plan to migrate 50% of the physical servers into virtualized systems. Which step of the continual improvement model are you currently working on?](#management-has-set-a-goal-to-reduce-the-number-of-physical-servers-in-the-datacenter-by-10-this-year-your-team-is-responsible-for-creating-a-plan-to-migrate-50-of-the-physical-servers-into-virtualized-systems-which-step-of-the-continual-improvement-model-are-you-currently-working-on)
 | 332 | [You are working as part of an improvement initiative and your team would like to release a new module into the existing Customer Relationship Management system. Which type of change should you initiate?](#you-are-working-as-part-of-an-improvement-initiative-and-your-team-would-like-to-release-a-new-module-into-the-existing-customer-relationship-management-system-which-type-of-change-should-you-initiate)
+| 333 | [What is an emergency change?](#what-is-an-emergency-change)
+| 334 | [Who is responsible for approving a change within the organization?](#who-is-responsible-for-approving-a-change-within-the-organizaiton)
+| 335 | [Your company has decided to install a service management tool that provides incident management as one of its functions. What is the benefit of using an incident management system?](#your-company-has-decided-to-install-a-service-management-tool-that-provides-incident-management-as-one-of-its-functions-what-is-the-benefit-of-using-an-incident-management-system)
+| 336 | [What is usually included as part of Incident Management?](#what-is-usually-included-as-part-of-incident-management)
+| 337 | [You are working as a service desk analyst. Within the last hour, you have received 13 calls about users being unable to log on to the network. There appears to be something wrong with the domain controller. What would you classify this scenario as?](#you-are-working-as-a-service-desk-analyst-within-the-last-hour-you-have-received-13-calls-about-users-being-unable-to-log-on-to-the-network-there-appears-to-be-something-wrong-with-the-domain-controller-what-would-you-classify-this-scenario-as)
+| 338 | [The users on the fourth floor of your building keep calling the service desk to report that their network connectivity is not working properly. The service desk logs each of these incidents, but since there are multiple incidents for the same issue, they forward it to the problem management activity for resolution. During your analysis, you determine that the network switch that services the entire fourth floor is broken and will need to be replaced. You checked the current inventory of spares, but there are none available. It appears this problem will remain for 24 hours until a new switch can be received and installed. How would you categorize the issue described in this scenario?](#the-users-on-the-fourth-floor-of-your-building-keep-calling-the-service-desk-to-report-that-their-network-connectivity-is-not-working-properly-the-service-desk-logs-each-of-these-incidents-but-since-there-are-multiple-incidents-for-the-same-issue-they-forward-it-to-the-problem-management-activity-for-resolution-during-your-analysis-you-determine-that-the-network-switch-that-services-the-entire-fourth-floor-is-broken-and-will-need-to-be-replaced-you-checked-the-current-inventory-of-spares-but-there-are-none-available-it-appears-this-problem-will-remain-for-24-hours-until-a-new-switch-can-be-received-and-installed-how-would-you-categorize-the-issue-described-in-this-scenario)
+| 339 | [How does Service Request Management contribute to the Deliver and Support value chain activity?](#how-does-service-request-management-contribute-to-the-deliver-and-support-value-chain-activity)
+| 340 | [What is an example of an action a service request management employee would undertake as part of the obtain/build activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-obtainbuild-activity)
+| 341 | [What is true about the Service Desk?](#what-is-true-about-the-service-desk)
+| 342 | [What activity is the main channel for communication and collaboration with users?](#what-activity-is-the-main-channel-for-communication-and-collaboration-with-users)
+| 343 | [You are in a quarterly service level management review with your supervisor. The manager asks your supervisor if the service desk has been meeting their SLA target metrics. Your supervisor proudly proclaims that everything is 'green' (meaning, we are meeting all of the targets). Just then, another executive asks, "If everything is showing as 'green', why am I hearing other users complain that the service is always unavailable for use?" What might be the reason for this?](#you-are-in-a-quarterly-service-level-management-review-with-your-supervisor-the-manager-asks-your-supervisor-if-the-service-desk-has-been-meeting-their-sla-target-metrics-your-supervisor-proudly-proclaims-that-everything-is-green-meaning-we-are-meeting-all-of-the-targets-just-then-another-executive-asks-if-everything-is-showing-as-green-why-am-i-hearing-other-users-complain-that-the-service-is-always-unavailable-for-use-what-might-be-the-reason-for-this)
+| 344 | [How does Service Level Management contribute to the Improve value chain activity?](#how-does-service-level-management-contribute-to-the-improve-value-chain-activity)
+| 345 | [You are working as a service desk manager. One of your analysts has created a new workaround for a problem that has been causing issues for users for the last few hours. To ensure all users across the network are notified of this workaround, you decide to post the workaround on the front page of your user service portal on the intranet. During which value chain activity would this occur?](#you-are-working-as-a-service-desk-manager-one-of-your-analysts-has-created-a-new-workaround-for-a-problem-that-has-been-causing-issues-for-users-for-the-last-few-hours-to-ensure-all-users-across-the-network-are-notified-of-this-workaround-you-decide-to-post-the-workaround-on-the-front-page-of-your-user-service-portal-on-the-intranet-during-which-value-chain-activity-would-this-occur)
+| 346 | [What is an example of an action a Service Request Management employee would undertake as part of the Design and Transition activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-design-and-transition-activity)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -1369,12 +1383,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is a change schedule used for?
+### You are attempting to print a document from your workstation to the network printer in your office. The print job failed when you attempted to print, so you called the service desk for assistance. What term best describes your issue?
 
-- [ ] To help plan Emergency Changes.
-- [ ] To help authorize standard changes.
-- [x] To help assign a change authority.
-- [ ] To help manage normal changes.
+- [ ] Problem.
+- [ ] Event.
+- [x] Incident.
+- [ ] Resolution.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3419,5 +3433,131 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Normal.
 - [ ] Emergency.
 - [ ] Routine.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is an emergency change?
+
+- [ ] A change that doesn't need risk assessment because the procedure has been pre-authorized.
+- [ ] A change that needs to be assessed, authorized, and scheduled by a change authority.
+- [x] A change that must be implemented as soon as possible because it is required to resolve an incident or security issue.
+- [ ] A change that is assessed, authorized, and scheduled as part of Continual Improvement.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Who is responsible for approving a change within the organization?
+
+- [ ] CEO.
+- [ ] IT Director.
+- [ ] Service desk analyst.
+- [x] Change Authority.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your company has decided to install a service management tool that provides incident management as one of its functions. What is the benefit of using an incident management system?
+
+- [ ] It can provide automated resolution and closure of complex incidents.
+- [ ] It can ensure that incidents are resolved within the agreed upon timeframe in the service level agreement (SLA).
+- [x] It can provide automated matching of incidents to problems or known errors.
+- [ ] The system can provide specialized knowledge for solving complicated incidents.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is usually included as part of Incident Management?
+
+- [x] Scripts for collecting initial information about incidents.
+- [ ] Detailed procedures for the diagnosis of incidents.
+- [ ] Authority to implement changes to a system.
+- [ ] Observation of all services and service components to identify any change in state.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### You are working as a service desk analyst. Within the last hour, you have received 13 calls about users being unable to log on to the network. There appears to be something wrong with the domain controller. What would you classify this scenario as?
+
+- [ ] Incident.
+- [ ] Workaround.
+- [x] Problem.
+- [ ] Event.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### The users on the fourth floor of your building keep calling the service desk to report that their network connectivity is not working properly. The service desk logs each of these incidents, but since there are multiple incidents for the same issue, they forward it to the problem management activity for resolution. During your analysis, you determine that the network switch that services the entire fourth floor is broken and will need to be replaced. You checked the current inventory of spares, but there are none available. It appears this problem will remain for 24 hours until a new switch can be received and installed. How would you categorize the issue described in this scenario?
+
+- [x] Known error.
+- [ ] Workaround.
+- [ ] Problem.
+- [ ] Incident.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### How does Service Request Management contribute to the Deliver and Support value chain activity?
+
+- [x] It ensures that users continue to be productive when they need assistance from the service provider.
+- [ ] It collects user-specific requirements, sets expectations, and provides status updates.
+- [ ] By initiating standard changes to fulfill service requests.
+- [ ] It acquires pre-approved service components to help fulfull service requests.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is an example of an action a service request management employee would undertake as part of the Obtain/Build activity?
+
+- [ ] Analyzing data to identify opportunities to provide new service request options.
+- [ ] Ensuring users continue to be productive when they need assistance from the service provider.
+- [x] Acquiring pre-approved service components to help fulfill service requests.
+- [ ] Initiating standard changes to fulfill service requests.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is true about the Service Desk?
+
+- [ ] Service desks should always be a physical team in a single fixed location.
+- [x] Service desks should be designed based on your organization, its business processes, and the user requirements.
+- [ ] Service desks should always use a virtual service desk to save money.
+- [ ] Service desks should always be local to the organization they support.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What activity is the main channel for communication and collaboration with users?
+
+- [ ] Service Level Management.
+- [x] Service Desk.
+- [ ] Incident Management.
+- [ ] Service Request Management.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### You are in a quarterly service level management review with your supervisor. The manager asks your supervisor if the service desk has been meeting their SLA target metrics. Your supervisor proudly proclaims that everything is 'green' (meaning, we are meeting all of the targets). Just then, another executive asks, "If everything is showing as 'green', why am I hearing other users complain that the service is always unavailable for use?" What might be the reason for this?
+
+- [ ] Your supervisor's data is based on operational metrics.
+- [ ] Your supervisor's data is based on business metrics.
+- [ ] Your supervisor's data is based on availability metrics.
+- [ ] Your supervisor's data is not based on business outcomes.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### How does Service Level Management contribute to the Improve value chain activity?
+
+- [x] Uses feedback from users about the service and requirements from customers to make the service better.
+- [ ] Provides feedback from interactions with customers into new or changed services.
+- [ ] Provides information about the actual service performance and trends.
+- [ ] Collects feedback during interactions and communicates service performance objectives to the operations and support teams.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### You are working as a service desk manager. One of your analysts has created a new workaround for a problem that has been causing issues for users for the last few hours. To ensure all users across the network are notified of this workaround, you decide to post the workaround on the front page of your user service portal on the intranet. During which value chain activity would this occur?
+
+- [ ] Plan.
+- [ ] Improve.
+- [ ] Engage.
+- [ ] Obtain/Build.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is an example of an action a Service Request Management employee would undertake as part of the Design and Transition activity?
+
+- [ ] Ensuring users continue to be productive when they need assistance from the service provider.
+- [ ] Collecting user-specific requirements, setting expectations, and providing status updates.
+- [ ] Acquiring pre-approved service components to help fulfill service requests.
+- [x] Initiating standard changes to fulfill service requests.
 
 **[⬆ Back to Top](#table-of-contents)**
