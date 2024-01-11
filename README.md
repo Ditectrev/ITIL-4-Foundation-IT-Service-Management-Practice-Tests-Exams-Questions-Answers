@@ -439,13 +439,19 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 337 | [You are working as a service desk analyst. Within the last hour, you have received 13 calls about users being unable to log on to the network. There appears to be something wrong with the domain controller. What would you classify this scenario as?](#you-are-working-as-a-service-desk-analyst-within-the-last-hour-you-have-received-13-calls-about-users-being-unable-to-log-on-to-the-network-there-appears-to-be-something-wrong-with-the-domain-controller-what-would-you-classify-this-scenario-as)
 | 338 | [The users on the fourth floor of your building keep calling the service desk to report that their network connectivity is not working properly. The service desk logs each of these incidents, but since there are multiple incidents for the same issue, they forward it to the problem management activity for resolution. During your analysis, you determine that the network switch that services the entire fourth floor is broken and will need to be replaced. You checked the current inventory of spares, but there are none available. It appears this problem will remain for 24 hours until a new switch can be received and installed. How would you categorize the issue described in this scenario?](#the-users-on-the-fourth-floor-of-your-building-keep-calling-the-service-desk-to-report-that-their-network-connectivity-is-not-working-properly-the-service-desk-logs-each-of-these-incidents-but-since-there-are-multiple-incidents-for-the-same-issue-they-forward-it-to-the-problem-management-activity-for-resolution-during-your-analysis-you-determine-that-the-network-switch-that-services-the-entire-fourth-floor-is-broken-and-will-need-to-be-replaced-you-checked-the-current-inventory-of-spares-but-there-are-none-available-it-appears-this-problem-will-remain-for-24-hours-until-a-new-switch-can-be-received-and-installed-how-would-you-categorize-the-issue-described-in-this-scenario)
 | 339 | [How does Service Request Management contribute to the Deliver and Support value chain activity?](#how-does-service-request-management-contribute-to-the-deliver-and-support-value-chain-activity)
-| 340 | [What is an example of an action a service request management employee would undertake as part of the obtain/build activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-obtainbuild-activity)
+| 340 | [What is an example of an action a service request management employee would undertake as part of the Obtain/Build activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-obtainbuild-activity)
 | 341 | [What is true about the Service Desk?](#what-is-true-about-the-service-desk)
 | 342 | [What activity is the main channel for communication and collaboration with users?](#what-activity-is-the-main-channel-for-communication-and-collaboration-with-users)
 | 343 | [You are in a quarterly service level management review with your supervisor. The manager asks your supervisor if the service desk has been meeting their SLA target metrics. Your supervisor proudly proclaims that everything is 'green' (meaning, we are meeting all of the targets). Just then, another executive asks, "If everything is showing as 'green', why am I hearing other users complain that the service is always unavailable for use?" What might be the reason for this?](#you-are-in-a-quarterly-service-level-management-review-with-your-supervisor-the-manager-asks-your-supervisor-if-the-service-desk-has-been-meeting-their-sla-target-metrics-your-supervisor-proudly-proclaims-that-everything-is-green-meaning-we-are-meeting-all-of-the-targets-just-then-another-executive-asks-if-everything-is-showing-as-green-why-am-i-hearing-other-users-complain-that-the-service-is-always-unavailable-for-use-what-might-be-the-reason-for-this)
 | 344 | [How does Service Level Management contribute to the Improve value chain activity?](#how-does-service-level-management-contribute-to-the-improve-value-chain-activity)
 | 345 | [You are working as a service desk manager. One of your analysts has created a new workaround for a problem that has been causing issues for users for the last few hours. To ensure all users across the network are notified of this workaround, you decide to post the workaround on the front page of your user service portal on the intranet. During which value chain activity would this occur?](#you-are-working-as-a-service-desk-manager-one-of-your-analysts-has-created-a-new-workaround-for-a-problem-that-has-been-causing-issues-for-users-for-the-last-few-hours-to-ensure-all-users-across-the-network-are-notified-of-this-workaround-you-decide-to-post-the-workaround-on-the-front-page-of-your-user-service-portal-on-the-intranet-during-which-value-chain-activity-would-this-occur)
 | 346 | [What is an example of an action a Service Request Management employee would undertake as part of the Design and Transition activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-design-and-transition-activity)
+| 347 | [What is the definition of a customer?](#what-is-the-definition-of-a-customer)
+| 348 | [A sponsor is a person who authorizes [?] for service consumption.](#a-sponsor-is-a-person-who-authorizes--for-service-consumption)
+| 349 | [What is defined as the addition, modification, or removal of anything that could have a direct or indirect effect on services?](#what-is-defined-as-the-addition-modification-or-removal-of-anything-that-could-have-a-direct-or-indirect-effect-on-services)
+| 350 | [What is the purpose of the Service Configuration Management practice?](#what-is-the-purpose-of-the-service-configuration-management-practice)
+| 351 | [What is the purpose of the Service Request Management practice?](#what-is-the-purpose-of-the-service-request-management-practice)
+| 352 | [What is defined as the practice of protecting an organization by understanding and managing risks to the confidentiality, integrity, and availability of information?](#what-is-defined-as-the-practice-of-protecting-an-organization-by-understanding-and-managing-risks-to-the-confidentiality-integrity-and-availability-of-information)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -3561,3 +3567,58 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Initiating standard changes to fulfill service requests.
 
 **[⬆ Back to Top](#table-of-contents)**
+
+### What is the definition of a customer?
+
+- [ ] A person who authorizes budget for service consumption.
+- [ ] A person who works for an organization other than the service provider.
+- [ ] A person who uses services.
+- [x] A person who defines the requirements for a service and takes responsibility for the outcomes of service consumption.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### A sponsor is a person who authorizes [?] for service consumption.
+
+- [ ] Outcomes.
+- [ ] Requirements.
+- [ ] Outputs.
+- [x] Budget.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is defined as the addition, modification, or removal of anything that could have a direct or indirect effect on services?
+
+- [x] Change.
+- [ ] Event.
+- [ ] Incident.
+- [ ] Problem.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the purpose of the Service Configuration Management practice?
+
+- [ ] Supporting the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner.
+- [ ] Setting clear business-based targets for service performance so that the delivery of a service can be properly assessed, monitored, and managed against these targets.
+- [x] Ensuring that accurate and reliable information about the configuration of services and the configuration items that support them are available when and where needed.
+- [ ] Ensuring that risks are properly assessed, authorizing changes to proceed and managing a change schedule in order to maximize the number of successful IT changes.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the purpose of the Service Request Management practice?
+
+- [ ] Establishing and nurturing links between an organization and its stakeholders at strategic and tactical levels.
+- [ ] Setting clear business-based targets for service performance so that the delivery of a service can be properly assessed, monitored, and managed against these targets.
+- [ ] Ensuring that an organization's suppliers and their performance levels are managed appropriately to support the provision of seamless quality products and services.
+- [x] Supporting the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is defined as the practice of protecting an organization by understanding and managing risks to the confidentiality, integrity, and availability of information?
+
+- [x] Information Security Management.
+- [ ] Availability Management.
+- [ ] Service Continuity Management.
+- [ ] Change Enablement.
+
+**[⬆ Back to Top](#table-of-contents)**
+
