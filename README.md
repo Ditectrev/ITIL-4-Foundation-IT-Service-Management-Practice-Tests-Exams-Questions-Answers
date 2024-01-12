@@ -452,6 +452,17 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 350 | [What is the purpose of the Service Configuration Management practice?](#what-is-the-purpose-of-the-service-configuration-management-practice)
 | 351 | [What is the purpose of the Service Request Management practice?](#what-is-the-purpose-of-the-service-request-management-practice)
 | 352 | [What is defined as the practice of protecting an organization by understanding and managing risks to the confidentiality, integrity, and availability of information?](#what-is-defined-as-the-practice-of-protecting-an-organization-by-understanding-and-managing-risks-to-the-confidentiality-integrity-and-availability-of-information)
+| 353 | [Dion Training is an online training organization that provides asynchronous, on-demand video training for the ITIL 4 certifications. To provide these on-demand videos, Dion Training relies on a third-party service provider to host the videos securely and stream the content directly to students when requested through Dion Training's website. Dion Training is responsible for managing the amount of storage space utilized on the service provider's server, as well as determining whether a student may or may not watch a particular video. What best describes these activities?](#dion-training-is-an-online-training-organization-that-provides-asynchronous-on-demand-video-training-for-the-itil-4-certifications-to-provide-these-on-demand-videos-dion-training-relies-on-a-third-party-service-provider-to-host-the-videos-securely-and-stream-the-content-directly-to-students-when-requested-through-dion-trainings-website-dion-training-is-responsible-for-managing-the-amount-of-storage-space-utilized-on-the-service-providers-server-as-well-as-determining-whether-a-student-may-or-may-not-watch-a-particular-video-what-best-describes-these-activities)
+| 354 | [Which describes the functionality offered by a product or service to meet a particular need?](#which-describes-the-functionality-offered-by-a-product-or-service-to-meet-a-particular-need)
+| 355 | [What term best describes a service that is Fit for Use?](#what-term-best-describes-a-service-that-is-fit-for-use)
+| 356 | [What are guiding principles considered?](#what-are-guiding-principles-considered)
+| 357 | [You have been asked to investigate an email service within your organization that is failing to meet its intended outcomes. You begin by determining the intended outcome and then observe the current service with as much objectivity as possible. Based on your observations, you are able to determine that the current service is not meeting its utility and warranty requirements. Which guiding principles best describes your actions in this scenario?](#you-have-been-asked-to-investigate-an-email-service-within-your-organization-that-is-failing-to-meet-its-intended-outcomes-you-begin-by-determining-the-intended-outcome-and-then-observe-the-current-service-with-as-much-objectivity-as-possible-based-on-your-observations-you-are-able-to-determine-that-the-current-service-is-not-meeting-its-utility-and-warranty-requirements-which-guiding-principles-best-describes-your-actions-in-this-scenario)
+| 358 | [A small start-up in San Francisco is launching a brand new iPhone app. Their staff is small, but they have big dreams and ideas for their app. The app will perform 15 different functions when it is fully developed. Currently, the app only has 4 functions completed, but the company decided to release the app to get some initial feedback. Based on the feedback, the company changed the third function to improve the customer experience and continued to add one function every 3 weeks to the app. What guiding principle best describes what the company was doing?](#a-small-start-up-in-san-francisco-is-launching-a-brand-new-iphone-app-their-staff-is-small-but-they-have-big-dreams-and-ideas-for-their-app-the-app-will-perform-15-different-functions-when-it-is-fully-developed-currently-the-app-only-has-4-functions-completed-but-the-company-decided-to-release-the-app-to-get-some-initial-feedback-based-on-the-feedback-the-company-changed-the-third-function-to-improve-the-customer-experience-and-continued-to-add-one-function-every-3-weeks-to-the-app-what-guiding-principle-best-describes-what-the-company-was-doing)
+| 359 | [Which value chain activity ensures continual improvement of products, services, and practices across all value chain activities and the four dimensions of service management?](#which-value-chain-activity-ensures-continual-improvement-of-products-services-and-practices-across-all-value-chain-activities-and-the-four-dimensions-of-service-management)
+| 360 | [Betsy has been hired by your company to lead the process improvement efforts. You have shared with her the overall vision for the process improvement and she begins to analyze your current resources, processes, and metrics. What step of the continual improvement model is Betsy performing?](#betsy-has-been-hired-by-your-company-to-lead-the-process-improvement-efforts-you-have-shared-with-her-the-overall-vision-for-the-process-improvement-and-she-begins-to-analyze-your-current-resources-processes-and-metrics-what-step-of-the-continual-improvement-model-is-betsy-performing)
+| 361 | [During which step of the continual improvement model is change management and release management usually performed?](#during-which-step-of-the-continual-improvement-model-is-change-management-and-release-management-usually-performed)
+| 362 | [Your company has spent the last 12 months working on a new improvement to the customer relationship management software in an effort to increase customer satisfaction by 4%. Janet analyzes the current metrics and compares them against the baseline metrics from 12 months ago. Which step of the continual improvement model is Janet working in?](#your-company-has-spent-the-last-12-months-working-on-a-new-improvement-to-the-customer-relationship-management-software-in-an-effort-to-increase-customer-satisfaction-by-4-janet-analyzes-the-current-metrics-and-compares-them-against-the-baseline-metrics-from-12-months-ago-which-step-of-the-continual-improvement-model-is-janet-working-in)
+| 363 | [During which step of the continual improvement model do you create your objective baseline measurement?](#during-which-step-of-the-continual-improvement-model-do-you-create-your-objective-baseline-measurement)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -3622,3 +3633,101 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
+### Dion Training is an online training organization that provides asynchronous, on-demand video training for the ITIL 4 certifications. To provide these on-demand videos, Dion Training relies on a third-party service provider to host the videos securely and stream the content directly to students when requested through Dion Training's website. Dion Training is responsible for managing the amount of storage space utilized on the service provider's server, as well as determining whether a student may or may not watch a particular video. What best describes these activities?
+
+- [x] Service consumption.
+- [ ] Service provision.
+- [ ] Service offering.
+- [ ] Warranty of a service.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which describes the functionality offered by a product or service to meet a particular need?
+
+- [x] Utility.
+- [ ] Warranty.
+- [ ] Value.
+- [ ] Outcome.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What term best describes a service that is Fit for Use?
+
+- [ ] Utility.
+- [ ] Value.
+- [x] Warranty.
+- [ ] Outcome.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What are guiding principles considered?
+
+- [ ] Mandatory actions.
+- [ ] Prescriptive requirements.
+- [x] Recommendations.
+- [ ] Governance.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### You have been asked to investigate an email service within your organization that is failing to meet its intended outcomes. You begin by determining the intended outcome and then observe the current service with as much objectivity as possible. Based on your observations, you are able to determine that the current service is not meeting its utility and warranty requirements. Which guiding principles best describes your actions in this scenario?
+
+- [ ] Optimize and automate.
+- [ ] Keep it simple and practical.
+- [ ] Collaborate and promote visibility.
+- [x] Start where you are.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### A small start-up in San Francisco is launching a brand new iPhone app. Their staff is small, but they have big dreams and ideas for their app. The app will perform 15 different functions when it is fully developed. Currently, the app only has 4 functions completed, but the company decided to release the app to get some initial feedback. Based on the feedback, the company changed the third function to improve the customer experience and continued to add one function every 3 weeks to the app. What guiding principle best describes what the company was doing?
+
+- [ ] Optimize and automate.
+- [ ] Start where you are.
+- [x] Progress iteratively with feedback.
+- [ ] Keep it simple and practical.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which value chain activity ensures continual improvement of products, services, and practices across all value chain activities and the four dimensions of service management?
+
+- [x] Improve.
+- [ ] Plan.
+- [ ] Deliver and support.
+- [ ] Obtain/Build.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Betsy has been hired by your company to lead the process improvement efforts. You have shared with her the overall vision for the process improvement and she begins to analyze your current resources, processes, and metrics. What step of the continual improvement model is Betsy performing?
+
+- [ ] What is the vision?
+- [ ] Where do we want to be?
+- [ ] How do we get there?
+- [x] Where are we now?
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### During which step of the continual improvement model is change management and release management usually performed?
+
+- [ ] Where do we want to be?
+- [x] Take action.
+- [ ] Where are we now?
+- [ ] What is the vision?
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your company has spent the last 12 months working on a new improvement to the customer relationship management software in an effort to increase customer satisfaction by 4%. Janet analyzes the current metrics and compares them against the baseline metrics from 12 months ago. Which step of the continual improvement model is Janet working in?
+
+- [x] Did we get there?
+- [ ] Where are we now?
+- [ ] How do we get there?
+- [ ] Take action.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### During which step of the continual improvement model do you create your objective baseline measurement?
+
+- [ ] What is the vision?
+- [x] Where are we now?
+- [ ] How do we get there?
+- [ ] Where do we want to be?
+
+**[⬆ Back to Top](#table-of-contents)**
