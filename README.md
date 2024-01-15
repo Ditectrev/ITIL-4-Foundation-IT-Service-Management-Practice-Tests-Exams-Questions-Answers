@@ -463,6 +463,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 361 | [During which step of the continual improvement model is change management and release management usually performed?](#during-which-step-of-the-continual-improvement-model-is-change-management-and-release-management-usually-performed)
 | 362 | [Your company has spent the last 12 months working on a new improvement to the customer relationship management software in an effort to increase customer satisfaction by 4%. Janet analyzes the current metrics and compares them against the baseline metrics from 12 months ago. Which step of the continual improvement model is Janet working in?](#your-company-has-spent-the-last-12-months-working-on-a-new-improvement-to-the-customer-relationship-management-software-in-an-effort-to-increase-customer-satisfaction-by-4-janet-analyzes-the-current-metrics-and-compares-them-against-the-baseline-metrics-from-12-months-ago-which-step-of-the-continual-improvement-model-is-janet-working-in)
 | 363 | [During which step of the continual improvement model do you create your objective baseline measurement?](#during-which-step-of-the-continual-improvement-model-do-you-create-your-objective-baseline-measurement)
+| 364 | [Your organization was having a big problem with cybersecurity due to poor password management practices. You had led an improvement initiative to increase the security of the authentication system by implementing two-factor authentication. The original goal was to get at least 35% of the users to utilize two-factor authentication. During the first phase of your improvement initiative, using the two-factor authentication was voluntary for users. By the end of the first phase, it was determined that 43% of users chose to use the two-factor authentication. You want to continue the improvement efforts and increase usage to 100%. Which step in the continual improvement model should you begin with?](#your-organization-was-having-a-big-problem-with-cybersecurity-due-to-poor-password-management-practices-you-had-led-an-improvement-initiative-to-increase-the-security-of-the-authentication-system-by-implementing-two-factor-authentication-the-original-goal-was-to-get-at-least-35-of-the-users-to-utilize-two-factor-authentication-during-the-first-phase-of-your-improvement-initiative-using-the-two-factor-authentication-was-voluntary-for-users-by-the-end-of-the-first-phase-it-was-determined-that-43-of-users-chose-to-use-the-two-factor-authentication-you-want-to-continue-the-improvement-efforts-and-increase-usage-to-100-which-step-in-the-continual-improvement-model-should-you-begin-with)
+| 365 | [What is usually included as part of Incident Management?](#what-is-usually-included-as-part-of-incident-management-2)
+| 366 | [Your laptop was connected to the corporate wireless network this morning but when you came back from lunch, it refuses to connect to the network. What term best describes this scenario?](#your-laptop-was-connected-to-the-corporate-wireless-network-this-morning-but-when-you-came-back-from-lunch-it-refuses-to-connect-to-the-network-what-term-best-describes-this-scenario)
+| 367 | [Which of the following is NOT a problem identification activity?](#which-of-the-following-is-not-a-problem-identification-activity)
+| 368 | [What is NOT a phase in problem management?](#what-is-not-a-phase-in-problem-management-2)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -3729,5 +3734,50 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Where are we now?
 - [ ] How do we get there?
 - [ ] Where do we want to be?
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your organization was having a big problem with cybersecurity due to poor password management practices. You had led an improvement initiative to increase the security of the authentication system by implementing two-factor authentication. The original goal was to get at least 35% of the users to utilize two-factor authentication. During the first phase of your improvement initiative, using the two-factor authentication was voluntary for users. By the end of the first phase, it was determined that 43% of users chose to use the two-factor authentication. You want to continue the improvement efforts and increase usage to 100%. Which step in the continual improvement model should you begin with?
+
+- [ ] Where are we now?
+- [ ] What is the vision?
+- [x] How do we keep the momentum going?
+- [ ] How do we get there?
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is usually included as part of Incident Management?
+
+- [ ] Detailed procedures for the diagnosis of incidents.
+- [x] Formalized processes for logging incidents.
+- [ ] Observation of all services and service components to identify any change in state.
+- [ ] Authority to implement changes to a system.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your laptop was connected to the corporate wireless network this morning but when you came back from lunch, it refuses to connect to the network. What term best describes this scenario?
+
+- [ ] Event.
+- [ ] Problem.
+- [x] Incident.
+- [ ] Request.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which of the following is NOT a problem identification activity?
+
+- [ ] Detecting duplicate and recurring issues.
+- [x] Logging an incident.
+- [ ] Performing trend analysis of incident records.
+- [ ] Analysis of multiple incidents that may be linked together.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is NOT a phase in problem management?
+
+- [ ] Problem identification.
+- [ ] Error control.
+- [ ] Problem control.
+- [x] Incident logging.
 
 **[⬆ Back to Top](#table-of-contents)**
