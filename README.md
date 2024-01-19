@@ -402,7 +402,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 300 | [Which incidents should be logged?](#which-incidents-should-be-logged)
 | 301 | [What is NOT a phase in problem management?](#what-is-not-a-phase-in-problem-management)
 | 302 | [If a problem cannot be resolved quickly, you might wish to document and implement a temporary solution to reduce the impact of the problem. What is this known as?](#if-a-problem-cannot-be-resolved-quickly-you-might-wish-to-document-and-implement-a-temporary-solution-to-reduce-the-impact-of-the-problem-what-is-this-known-as)
-| 303 | [How does Service Request Management contribute to the improve value chain activity?](#how-does-service-request-management-contribute-to-the-improve-value-chain-activity)
+| 303 | [How does Service Request Management contribute to the Improve value chain activity?](#how-does-service-request-management-contribute-to-the-improve-value-chain-activity)
 | 304 | [Service requests and their fulfillment should be [?] and automated to the greatest degree possible.](#service-requests-and-their-fulfillment-should-be-and-automated-to-the-greatest-degree-possible)
 | 305 | [Your smartphone isn't working properly. You call the toll-free number for your service provider's support center. Which practice would you reach that serves as the entry point for all contact between the service provider and its users?](#your-smartphone-isnt-working-properly-you-call-the-toll-free-number-for-your-service-providers-support-center-which-practice-would-you-reach-that-serves-as-the-entry-point-for-all-contact-between-the-service-provider-and-its-users)
 | 306 | [Which is a recommendation of the Service Desk practice?](#which-is-a-recommendation-of-the-service-desk-practice)
@@ -439,7 +439,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 337 | [You are working as a service desk analyst. Within the last hour, you have received 13 calls about users being unable to log on to the network. There appears to be something wrong with the domain controller. What would you classify this scenario as?](#you-are-working-as-a-service-desk-analyst-within-the-last-hour-you-have-received-13-calls-about-users-being-unable-to-log-on-to-the-network-there-appears-to-be-something-wrong-with-the-domain-controller-what-would-you-classify-this-scenario-as)
 | 338 | [The users on the fourth floor of your building keep calling the service desk to report that their network connectivity is not working properly. The service desk logs each of these incidents, but since there are multiple incidents for the same issue, they forward it to the problem management activity for resolution. During your analysis, you determine that the network switch that services the entire fourth floor is broken and will need to be replaced. You checked the current inventory of spares, but there are none available. It appears this problem will remain for 24 hours until a new switch can be received and installed. How would you categorize the issue described in this scenario?](#the-users-on-the-fourth-floor-of-your-building-keep-calling-the-service-desk-to-report-that-their-network-connectivity-is-not-working-properly-the-service-desk-logs-each-of-these-incidents-but-since-there-are-multiple-incidents-for-the-same-issue-they-forward-it-to-the-problem-management-activity-for-resolution-during-your-analysis-you-determine-that-the-network-switch-that-services-the-entire-fourth-floor-is-broken-and-will-need-to-be-replaced-you-checked-the-current-inventory-of-spares-but-there-are-none-available-it-appears-this-problem-will-remain-for-24-hours-until-a-new-switch-can-be-received-and-installed-how-would-you-categorize-the-issue-described-in-this-scenario)
 | 339 | [How does Service Request Management contribute to the Deliver and Support value chain activity?](#how-does-service-request-management-contribute-to-the-deliver-and-support-value-chain-activity)
-| 340 | [What is an example of an action a service request management employee would undertake as part of the Obtain/Build activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-obtainbuild-activity)
+| 340 | [What is an example of an action a Service Request Management employee would undertake as part of the Obtain/Build activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-obtainbuild-activity)
 | 341 | [What is true about the Service Desk?](#what-is-true-about-the-service-desk)
 | 342 | [What activity is the main channel for communication and collaboration with users?](#what-activity-is-the-main-channel-for-communication-and-collaboration-with-users)
 | 343 | [You are in a quarterly service level management review with your supervisor. The manager asks your supervisor if the service desk has been meeting their SLA target metrics. Your supervisor proudly proclaims that everything is 'green' (meaning, we are meeting all of the targets). Just then, another executive asks, "If everything is showing as 'green', why am I hearing other users complain that the service is always unavailable for use?" What might be the reason for this?](#you-are-in-a-quarterly-service-level-management-review-with-your-supervisor-the-manager-asks-your-supervisor-if-the-service-desk-has-been-meeting-their-sla-target-metrics-your-supervisor-proudly-proclaims-that-everything-is-green-meaning-we-are-meeting-all-of-the-targets-just-then-another-executive-asks-if-everything-is-showing-as-green-why-am-i-hearing-other-users-complain-that-the-service-is-always-unavailable-for-use-what-might-be-the-reason-for-this)
@@ -468,6 +468,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 366 | [Your laptop was connected to the corporate wireless network this morning but when you came back from lunch, it refuses to connect to the network. What term best describes this scenario?](#your-laptop-was-connected-to-the-corporate-wireless-network-this-morning-but-when-you-came-back-from-lunch-it-refuses-to-connect-to-the-network-what-term-best-describes-this-scenario)
 | 367 | [Which of the following is NOT a problem identification activity?](#which-of-the-following-is-not-a-problem-identification-activity)
 | 368 | [What is NOT a phase in problem management?](#what-is-not-a-phase-in-problem-management-1)
+| 369 | [How does Service Request Management contribute to the Engage value chain activity?](#how-does-service-request-management-contribute-to-the-engage-value-chain-activity)
+| 370 | [What is an example of an action a Service Request Management employee would undertake as part of the Improve activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-improve-activity)
+| 371 | [What does a centralized Service Desk require?](#what-does-a-centralized-service-desk-require)
+| 372 | [If your company is using a single Service Desk located in one office building to support users from around the world, what type of Service Desk might this be?](#if-your-company-is-using-a-single-service-desk-located-in-one-office-building-to-support-users-from-around-the-world-what-type-of-service-desk-might-this-be)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -3188,7 +3192,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### How does Service Request Management contribute to the improve value chain activity?
+### How does Service Request Management contribute to the Improve value chain activity?
 
 - [ ] It ensures that users continue to be productive when they need assistance from the service provider.
 - [ ] It collects user-specific requirements, sets expectations, and provides status updates.
@@ -3781,3 +3785,40 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Incident logging.
 
 **[⬆ Back to Top](#table-of-contents)**
+
+### How does Service Request Management contribute to the Engage value chain activity?
+
+- [ ] It ensures that users continue to be productive when they need assistance from the service provider.
+- [x] It collects user-specific requirements, sets expectations, and provides status updates.
+- [ ] By initiating standard changes to fulfill service requests.
+- [ ] It acquires pre-approved service components to help fulfill service requests.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is an example of an action a Service Request Management employee would undertake as part of the Improve activity?
+
+- [ ] Communicate with consumers to understand their requirements.
+- [ ] Initiate and fulfill standard changes.
+- [x] Provide trend, quality, and feedback information about requests.
+- [ ] Fulfill the consumer's service requests through acquisition of service components.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What does a centralized Service Desk require?
+
+- [x] Knowledge base.
+- [ ] Walk-in service hours.
+- [ ] 24x7 support.
+- [ ] Outsourced employees. 
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### If your company is using a single Service Desk located in one office building to support users from around the world, what type of Service Desk might this be?
+
+- [ ] Virtual.
+- [x] Centralized.
+- [ ] Follow-the-sun.
+- [ ] Local.
+
+**[⬆ Back to Top](#table-of-contents)**
+
