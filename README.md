@@ -513,8 +513,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Incident Management.
 - [ ] Change Control.
-- [ ] Service Desk.
-- [x] Service Request Management.
+- [x] Service Desk.
+- [ ] Service Request Management.
 
 **[⬆ Back to Top](#table-of-contents)**
 
