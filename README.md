@@ -472,6 +472,17 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 370 | [What is an example of an action a Service Request Management employee would undertake as part of the Improve activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-improve-activity)
 | 371 | [What does a centralized Service Desk require?](#what-does-a-centralized-service-desk-require)
 | 372 | [If your company is using a single Service Desk located in one office building to support users from around the world, what type of Service Desk might this be?](#if-your-company-is-using-a-single-service-desk-located-in-one-office-building-to-support-users-from-around-the-world-what-type-of-service-desk-might-this-be)
+| 373 | [Which of the following is NOT a valid source of Service Level Management data to use in analyzing your service level agreements?](#which-of-the-following-is-not-a-valid-source-of-service-level-management-data-to-use-in-analyzing-your-service-level-agreements)
+| 374 | [Your laptop only has a 256GB of SSD storage installed. You have been traveling for work for the last 2 weeks and have downloaded a lot of video files to your internal storage device. Your computer is having issues because there is not enough free space. You called your service desk, but since you are out of the country, they cannot remotely back up all the files on your laptop. They recommend that you move the large files from your internal storage device (256GB SSD) to an external hard drive to free up some available space. Unfortunately, you don't have an external hard drive with you, so you will purchase one at the store later today. How would you classify this situation and the solution recommended?](#your-laptop-only-has-a-256gb-of-ssd-storage-installed-you-have-been-traveling-for-work-for-the-last-2-weeks-and-have-downloaded-a-lot-of-video-files-to-your-internal-storage-device-your-computer-is-having-issues-because-there-is-not-enough-free-space-you-called-your-service-desk-but-since-you-are-out-of-the-country-they-cannot-remotely-back-up-all-the-files-on-your-laptop-they-recommend-that-you-move-the-large-files-from-your-internal-storage-device-256gb-ssd-to-an-external-hard-drive-to-free-up-some-available-space-unfortunately-you-dont-have-an-external-hard-drive-with-you-so-you-will-purchase-one-at-the-store-later-today-how-would-you-classify-this-situation-and-the-solution-recommended)
+| 375 | [How does Service Level Management contribute to the Engage value chain activity?](#how-does-service-level-management-contribute-to-the-engage-value-chain-activity)
+| 376 | [Which guiding principle is focused on increasing communication both within the project and outside of it?](#which-guiding-principle-is-focused-on-increasing-communication-both-within-the-project-and-outside-of-it)
+| 377 | [Which guiding principle is concerned with an understanding of how all the parts of an organization work together in an integrated way?](#which-guiding-principle-is-concerned-with-an-understanding-of-how-all-the-parts-of-an-organization-work-together-in-an-integrated-way)
+| 378 | [You have just been promoted to the role of the Service Desk manager. The manager before you loved metrics, and the Service Desk is currently spending numerous hours per week creating reports based on over 150 different metrics they call 'measures of effectiveness'. You believe there are simply too many metrics being collected and begin an analysis of each one to determine if is it providing valuable information. For the ones you find without value, you eliminate the requirement to track and report on those metrics. Which guiding principle are you following in this scenario?](#you-have-just-been-promoted-to-the-role-of-the-service-desk-manager-the-manager-before-you-loved-metrics-and-the-service-desk-is-currently-spending-numerous-hours-per-week-creating-reports-based-on-over-150-different-metrics-they-call-measures-of-effectiveness-you-believe-there-are-simply-too-many-metrics-being-collected-and-begin-an-analysis-of-each-one-to-determine-if-is-it-providing-valuable-information-for-the-ones-you-find-without-value-you-eliminate-the-requirement-to-track-and-report-on-those-metrics-which-guiding-principle-are-you-following-in-this-scenario)
+| 379 | [Which service management dimension is focused on an organization's relationships with other organizations in order to deliver its services?](#which-service-management-dimension-is-focused-on-an-organizations-relationships-with-other-organizations-in-order-to-deliver-its-services)
+| 380 | [Which of these are a key focus of the Value Streams and Processes dimension?](#which-of-these-are-a-key-focus-of-the-value-streams-and-processes-dimension)
+| 381 | [Which ITIL concept describes continual improvement?](#which-itil-concept-describes-continual-improvement)
+| 382 | [Which of the following is NOT an activity within the service value chain?](#which-of-the-following-is-not-an-activity-within-the-service-value-chain-1)
+| 383 | [A company is planning to launch a new service and expects it will take them a full year to develop, test, and release the service. The project board for the project (the new service) has decided that instead of using a waterfall development method, they will use an Agile development method. This method will rely on two-week timeboxes, which means that every two weeks, the team must deliver some portion of the final service. As these smaller pieces of the new service are delivered, beta testers will be given access to the new features and functions to test and provide their initial thoughts on the new service. What guiding principle best describes this scenario?](#a-company-is-planning-to-launch-a-new-service-and-expects-it-will-take-them-a-full-year-to-develop-test-and-release-the-service-the-project-board-for-the-project-the-new-service-has-decided-that-instead-of-using-a-waterfall-development-method-they-will-use-an-agile-development-method-this-method-will-rely-on-two-week-timeboxes-which-means-that-every-two-weeks-the-team-must-deliver-some-portion-of-the-final-service-as-these-smaller-pieces-of-the-new-service-are-delivered-beta-testers-will-be-given-access-to-the-new-features-and-functions-to-test-and-provide-their-initial-thoughts-on-the-new-service-what-guiding-principle-best-describes-this-scenario)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -3822,3 +3833,101 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
+### Which of the following is NOT a valid source of Service Level Management data to use in analyzing your service level agreements?
+
+- [ ] Customer feedback.
+- [x] Competitor's metrics.
+- [ ] Operational metrics.
+- [ ] Business metrics.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your laptop only has a 256GB of SSD storage installed. You have been traveling for work for the last 2 weeks and have downloaded a lot of video files to your internal storage device. Your computer is having issues because there is not enough free space. You called your service desk, but since you are out of the country, they cannot remotely back up all the files on your laptop. They recommend that you move the large files from your internal storage device (256GB SSD) to an external hard drive to free up some available space. Unfortunately, you don't have an external hard drive with you, so you will purchase one at the store later today. How would you classify this situation and the solution recommended?
+
+- [ ] Incident.
+- [ ] Workaround.
+- [ ] Problem.
+- [x] Known error.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### How does Service Level Management contribute to the Engage value chain activity?
+
+- [ ] Collects feedback during interactions and communicates service performance objectives to the operations and support teams.
+- [ ] Provides feedback from interactions with customers into new or changed services.
+- [x] Collects and processes feedback from customers and users.
+- [ ] Provides information about the actual service performance and trends.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which guiding principle is focused on increasing communication both within the project and outside of it?
+
+- [ ] Keep it simple and practical.
+- [x] Collaborate and promote visibility.
+- [ ] Progress iteratively with feedback.
+- [ ] Optimize and automate.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which guiding principle is concerned with an understanding of how all the parts of an organization work together in an integrated way?
+
+- [ ] Focus on value.
+- [ ] Keep it simple and practical.
+- [ ] Think and work holistically.
+- [ ] Optimize and automate.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### You have just been promoted to the role of the Service Desk manager. The manager before you loved metrics, and the Service Desk is currently spending numerous hours per week creating reports based on over 150 different metrics they call 'measures of effectiveness'. You believe there are simply too many metrics being collected and begin an analysis of each one to determine if is it providing valuable information. For the ones you find without value, you eliminate the requirement to track and report on those metrics. Which guiding principle are you following in this scenario?
+
+- [ ] Optimize and automate.
+- [ ] Progress iteratively with feedback.
+- [ ] Keep it simple and practical.
+- [ ] Collaborate and promote visibility.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which service management dimension is focused on an organization's relationships with other organizations in order to deliver its services?
+
+- [ ] Organizations and people.
+- [ ] Information and technology.
+- [x] Partners and suppliers.
+- [ ] Value streams and processes.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which of these are a key focus of the Value Streams and Processes dimension?
+
+- [ ] Workflow management and inventory systems.
+- [x] Activities that transform inputs into outputs.
+- [ ] Roles and responsibilities.
+- [ ] Contracts and agreements.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which ITIL concept describes continual improvement?
+
+- [x] Service value system.
+- [ ] Four dimensions of service management.
+- [ ] Service value chain.
+- [ ] Practices.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which of the following is NOT an activity within the service value chain?
+
+- [ ] Service relationships.
+- [ ] Improve.
+- [ ] Design and Transition.
+- [x] Obtain/Build.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### A company is planning to launch a new service and expects it will take them a full year to develop, test, and release the service. The project board for the project (the new service) has decided that instead of using a waterfall development method, they will use an Agile development method. This method will rely on two-week timeboxes, which means that every two weeks, the team must deliver some portion of the final service. As these smaller pieces of the new service are delivered, beta testers will be given access to the new features and functions to test and provide their initial thoughts on the new service. What guiding principle best describes this scenario?
+
+- [x] Progress iteratively with feedback.
+- [ ] Optimize and automate.
+- [ ] Start where you are.
+- [ ] Focus on value.
+
+**[⬆ Back to Top](#table-of-contents)**
