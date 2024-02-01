@@ -483,6 +483,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 381 | [Which ITIL concept describes continual improvement?](#which-itil-concept-describes-continual-improvement)
 | 382 | [Which of the following is NOT an activity within the service value chain?](#which-of-the-following-is-not-an-activity-within-the-service-value-chain-1)
 | 383 | [A company is planning to launch a new service and expects it will take them a full year to develop, test, and release the service. The project board for the project (the new service) has decided that instead of using a waterfall development method, they will use an Agile development method. This method will rely on two-week timeboxes, which means that every two weeks, the team must deliver some portion of the final service. As these smaller pieces of the new service are delivered, beta testers will be given access to the new features and functions to test and provide their initial thoughts on the new service. What guiding principle best describes this scenario?](#a-company-is-planning-to-launch-a-new-service-and-expects-it-will-take-them-a-full-year-to-develop-test-and-release-the-service-the-project-board-for-the-project-the-new-service-has-decided-that-instead-of-using-a-waterfall-development-method-they-will-use-an-agile-development-method-this-method-will-rely-on-two-week-timeboxes-which-means-that-every-two-weeks-the-team-must-deliver-some-portion-of-the-final-service-as-these-smaller-pieces-of-the-new-service-are-delivered-beta-testers-will-be-given-access-to-the-new-features-and-functions-to-test-and-provide-their-initial-thoughts-on-the-new-service-what-guiding-principle-best-describes-this-scenario)
+| 384 | [Which guiding principle requires the identification and managing of all stakeholder groups in order to establish more robust communication across the staff?](#which-guiding-principle-requires-the-identification-and-managing-of-all-stakeholder-groups-in-order-to-establish-more-robust-communication-across-the-staff)
+| 385 | [What refers to the process of improving and increasing the efficiency of a process or service?](#what-refers-to-the-process-of-improving-and-increasing-the-efficiency-of-a-process-or-service)
+| 386 | [Your company has decided to implement a new management style that will significantly flatten the management hierarchy within the company. Which dimension of service management is most applicable to this change?](#your-company-has-decided-to-implement-a-new-management-style-that-will-significantly-flatten-the-management-hierarchy-within-the-company-which-dimension-of-service-management-is-most-applicable-to-this-change)
+| 387 | [Dion Training Solutions has created an automated system that allows students to purchase their ITIL 4 Foundation exam vouchers at a discount through the Dion Training website. To accomplish this, the company sets up a 9-step automated series of activities that occurs once the student orders the voucher on the website. When this occurs, the automation selects a voucher for the student, emails them their unique voucher code and exam scheduling instructions, logs the purchase, remove the voucher from the inventory, and notifies the staff if the voucher inventory gets below a certain threshold. Which dimension of service management best represents this series of actions that is occurring through automation?](#dion-training-solutions-has-created-an-automated-system-that-allows-students-to-purchase-their-itil-4-foundation-exam-vouchers-at-a-discount-through-the-dion-training-website-to-accomplish-this-the-company-sets-up-a-9-step-automated-series-of-activities-that-occurs-once-the-student-orders-the-voucher-on-the-website-when-this-occurs-the-automation-selects-a-voucher-for-the-student-emails-them-their-unique-voucher-code-and-exam-scheduling-instructions-logs-the-purchase-remove-the-voucher-from-the-inventory-and-notifies-the-staff-if-the-voucher-inventory-gets-below-a-certain-threshold-which-dimension-of-service-management-best-represents-this-series-of-actions-that-is-occurring-through-automation)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -3916,10 +3920,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which of the following is NOT an activity within the service value chain?
 
-- [ ] Service relationships.
+- [x] Service relationships.
 - [ ] Improve.
 - [ ] Design and Transition.
-- [x] Obtain/Build.
+- [ ] Obtain/Build.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3929,5 +3933,41 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Optimize and automate.
 - [ ] Start where you are.
 - [ ] Focus on value.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which guiding principle requires the identification and managing of all stakeholder groups in order to establish more robust communication across the staff?
+
+- [ ] Keep it simple and practical.
+- [ ] Focus on value.
+- [x] Collaborate and promote visibility.
+- [ ] Start where you are.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What refers to the process of improving and increasing the efficiency of a process or service?
+
+- [ ] Automation.
+- [x] Optimization.
+- [ ] Value.
+- [ ] Warranty.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your company has decided to implement a new management style that will significantly flatten the management hierarchy within the company. Which dimension of service management is most applicable to this change?
+
+- [ ] Information and technology.
+- [x] Organization and people.
+- [ ] Partners and suppliers.
+- [ ] Value streams and processes.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Dion Training Solutions has created an automated system that allows students to purchase their ITIL 4 Foundation exam vouchers at a discount through the Dion Training website. To accomplish this, the company sets up a 9-step automated series of activities that occurs once the student orders the voucher on the website. When this occurs, the automation selects a voucher for the student, emails them their unique voucher code and exam scheduling instructions, logs the purchase, remove the voucher from the inventory, and notifies the staff if the voucher inventory gets below a certain threshold. Which dimension of service management best represents this series of actions that is occurring through automation?
+
+- [ ] Organization and people.
+- [ ] Information and technology.
+- [x] Value streams and processes.
+- [ ] Partners and suppliers.
 
 **[⬆ Back to Top](#table-of-contents)**
