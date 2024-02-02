@@ -487,6 +487,16 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 385 | [What refers to the process of improving and increasing the efficiency of a process or service?](#what-refers-to-the-process-of-improving-and-increasing-the-efficiency-of-a-process-or-service)
 | 386 | [Your company has decided to implement a new management style that will significantly flatten the management hierarchy within the company. Which dimension of service management is most applicable to this change?](#your-company-has-decided-to-implement-a-new-management-style-that-will-significantly-flatten-the-management-hierarchy-within-the-company-which-dimension-of-service-management-is-most-applicable-to-this-change)
 | 387 | [Dion Training Solutions has created an automated system that allows students to purchase their ITIL 4 Foundation exam vouchers at a discount through the Dion Training website. To accomplish this, the company sets up a 9-step automated series of activities that occurs once the student orders the voucher on the website. When this occurs, the automation selects a voucher for the student, emails them their unique voucher code and exam scheduling instructions, logs the purchase, remove the voucher from the inventory, and notifies the staff if the voucher inventory gets below a certain threshold. Which dimension of service management best represents this series of actions that is occurring through automation?](#dion-training-solutions-has-created-an-automated-system-that-allows-students-to-purchase-their-itil-4-foundation-exam-vouchers-at-a-discount-through-the-dion-training-website-to-accomplish-this-the-company-sets-up-a-9-step-automated-series-of-activities-that-occurs-once-the-student-orders-the-voucher-on-the-website-when-this-occurs-the-automation-selects-a-voucher-for-the-student-emails-them-their-unique-voucher-code-and-exam-scheduling-instructions-logs-the-purchase-remove-the-voucher-from-the-inventory-and-notifies-the-staff-if-the-voucher-inventory-gets-below-a-certain-threshold-which-dimension-of-service-management-best-represents-this-series-of-actions-that-is-occurring-through-automation)
+| 388 | [Which ITIL concept describes guiding principles?](#which-itil-concept-describes-guiding-principles)
+| 389 | [Which of the following is NOT an activity within the service value chain?](#which-of-the-following-is-not-an-activity-within-the-service-value-chain-2)
+| 390 | [What is the definition of a user?](#what-is-the-definition-of-a-user)
+| 391 | [Service management is a set of specialized organizational [?] for enabling value for customers in the form of services.](#service-management-is-a-set-of-specialized-organizational--for-enabling-value-for-customers-in-the-form-of-services)
+| 392 | [What is the definition of a configuration item?](#what-is-the-definition-of-a-configuration-item)
+| 393 | [An incident is a(n) [?] interruption to a service or reduction in the quality of a service.](#an-incident-is-an--interruption-to-a-service-or-reduction-in-the-quality-of-a-service)
+| 394 | [What is the purpose of the Change Enablement practice?](#what-is-the-purpose-of-the-change-enablement-practice)
+| 395 | [What is the purpose of the Deployment Management practice?](#what-is-the-purpose-of-the-deployment-management-practice-1)|
+| 396 | [What is the purpose of the Service Level Management practice?](#what-is-the-purpose-of-the-service-level-management-practice)
+| 397 | [What is defined as the practice of planning and managing the full lifecycle of all IT assets?](#what-is-defined-as-the-practice-of-planning-and-managing-the-full-lifecycle-of-all-it-assets)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -3969,5 +3979,95 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Information and technology.
 - [x] Value streams and processes.
 - [ ] Partners and suppliers.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which ITIL concept describes guiding principles?
+
+- [x] Service value system.
+- [ ] Four dimensions of Service Management.
+- [ ] Service value chain.
+- [ ] Practices.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which of the following is NOT an activity within the service value chain?
+
+- [ ] Plan.
+- [ ] Obtain/Build.
+- [x] Continual Improvement.
+- [ ] Engage.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the definition of a user?
+
+- [x] A person who uses services.
+- [ ] A person who defines the requirements for a service and takes responsibility for the outcomes of service consumption.
+- [ ] A person who authorizes budget for service consumption.
+- [ ] A person who works for an organization other than the service provider.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Service management is a set of specialized organizational [?] for enabling value for customers in the form of services.
+
+- [ ] Requirements.
+- [ ] Functions.
+- [x] Capabilities.
+- [ ] Products.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the definition of a configuration item?
+
+- [ ] A means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
+- [ ] Any valuable component that can contribute to the delivery of an IT product or service.
+- [ ] A particular set of settings or options on a given piece of equipment
+- [x] Any component that needs to be managed in order to deliver an IT service.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### An incident is a(n) [?] interruption to a service or reduction in the quality of a service.
+
+- [ ] Planned.
+- [x] Unplanned.
+- [ ] Scheduled.
+- [ ] Expected.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the purpose of the Change Enablement practice?
+
+- [ ] Supporting the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner.
+- [ ] Making new and changed services and features available for use.
+- [x] Ensuring that risks are properly assessed, authorizing changes to proceed and managing a change schedule in order to maximize the number of successful IT changes.
+- [ ] Aligning an organization's practices and services with changing business needs through the ongoing identification and improvement of all elements involved in the effective management of products and services.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the purpose of the Deployment Management practice?
+
+- [ ] Ensuring that risks are properly assessed, authorizing changes to proceed and managing a change schedule in order to maximize the number of successful IT changes.
+- [ ] Making new and changed services and features available for use.
+- [x] Moving new or changed hardware, software, documentation, processes, or any other service component to live environments.
+- [ ] Supporting the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the purpose of the Service Level Management practice?
+
+- [ ] Establishing and nurturing links between an organization and its stakeholders at strategic and tactical levels.
+- [ ] Supporting the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner.
+- [ ] Ensuring that an organization's suppliers and their performance levels are managed appropriately to support the provision of seamless quality products and services.
+- [ ] Setting clear business-based targets for service performance so that the delivery of a service can be properly assessed, monitored, and managed against these targets.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is defined as the practice of planning and managing the full lifecycle of all IT assets?
+
+- [ ] Change Enablement.
+- [x] IT Asset Management.
+- [ ] Release Management.
+- [ ] Deployment Management.
 
 **[⬆ Back to Top](#table-of-contents)**
