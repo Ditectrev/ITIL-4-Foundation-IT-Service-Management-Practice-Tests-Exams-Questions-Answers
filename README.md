@@ -497,6 +497,20 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 395 | [What is the purpose of the Deployment Management practice?](#what-is-the-purpose-of-the-deployment-management-practice-1)|
 | 396 | [What is the purpose of the Service Level Management practice?](#what-is-the-purpose-of-the-service-level-management-practice)
 | 397 | [What is defined as the practice of planning and managing the full lifecycle of all IT assets?](#what-is-defined-as-the-practice-of-planning-and-managing-the-full-lifecycle-of-all-it-assets)
+| 398 | [Dion Training has just hired three new staff members. The IT department at Dion Training has created new accounts for the new staff members on the domain controller and allocated 10 GB of storage on the company's internal file server per staff member. What term best describes these activities performed by the IT department?](#dion-training-has-just-hired-three-new-staff-members-the-it-department-at-dion-training-has-created-new-accounts-for-the-new-staff-members-on-the-domain-controller-and-allocated-10-gb-of-storage-on-the-companys-internal-file-server-per-staff-member-what-term-best-describes-these-activities-performed-by-the-it-department)
+| 399 | [[?] may simultaneously be removed from a service consumer and imposed on a service provider. For example, outsourcing a service to a service provider may remove the need for the consumer to have their own IT infrastructure, but it may require them to install a faster Internet connection to reach the service provider's servers instead.](#-may-simultaneously-be-removed-from-a-service-consumer-and-imposed-on-a-service-provider-for-example-outsourcing-a-service-to-a-service-provider-may-remove-the-need-for-the-consumer-to-have-their-own-it-infrastructure-but-it-may-require-them-to-install-a-faster-internet-connection-to-reach-the-service-providers-servers-instead)
+| 400 | [Your organization has recently installed a brand new accounting program. The program has many functions including one that creates a report that shows the 'Profit and Loss (P&L)' metrics for the month. What term best describes the P&L report that is produced each month?](#your-organization-has-recently-installed-a-brand-new-accounting-program-the-program-has-many-functions-including-one-that-creates-a-report-that-shows-the-profit-and-loss-pandl-metrics-for-the-month-what-term-best-describes-the-pandl-report-that-is-produced-each-month)
+| 401 | [Your organization is currently designing a new service for implementation. The team designing the service has decided to focus on value during the design efforts. What best describes Focus on Value in this context?](#your-organization-is-currently-designing-a-new-service-for-implementation-the-team-designing-the-service-has-decided-to-focus-on-value-during-the-design-efforts-what-best-describes-focus-on-value-in-this-context)
+| 402 | [Which guiding principle may best be served by understanding the cost and financial consequences that a service consumer might face when choosing to use a service?](#which-guiding-principle-may-best-be-served-by-understanding-the-cost-and-financial-consequences-that-a-service-consumer-might-face-when-choosing-to-use-a-service)
+| 403 | [Which guiding principle states that there is likely something in the current services, processes, programs, projects, or organization that can be used to create the desired outcome for a new or redesigned service?](#which-guiding-principle-states-that-there-is-likely-something-in-the-current-services-processes-programs-projects-or-organization-that-can-be-used-to-create-the-desired-outcome-for-a-new-or-redesigned-service)
+| 404 | [Which value chain activity ensures that products and services continually meet stakeholder expectations for quality, costs, and time to market?](#which-value-chain-activity-ensures-that-products-and-services-continually-meet-stakeholder-expectations-for-quality-costs-and-time-to-market)
+| 405 | [During which step of the continual improvement model would you check to verify whether or not you have reached the desired outcome in your improvement initiative?](#during-which-step-of-the-continual-improvement-model-would-you-check-to-verify-whether-or-not-you-have-reached-the-desired-outcome-in-your-improvement-initiative)
+| 406 | [What is the step after 'where do we want to be' in the continual improvement model?](#what-is-the-step-after-where-do-we-want-to-be-in-the-continual-improvement-model)
+| 407 | [What is a normal change?](#what-is-a-normal-change-1)
+| 408 | [You are working as a service desk analyst. You just received a change request to create a new user account. What type of change would this be considered?](#you-are-working-as-a-service-desk-analyst-you-just-received-a-change-request-to-create-a-new-user-account-what-type-of-change-would-this-be-considered)
+| 409 | [What is usually NOT included as part of Incident Management?](#what-is-usually-not-included-as-part-of-incident-management)
+| 410 | [Which practice would include a formalized process for logging unplanned interruptions to a service?](#which-practice-would-include-a-formalized-process-for-logging-unplanned-interruptions-to-a-service)
+| 411 | [During incident management, what is it called when the incident is passed on to the next higher level of technician?](#during-incident-management-what-is-it-called-when-the-incident-is-passed-on-to-the-next-higher-level-of-technician)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -4069,5 +4083,131 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] IT Asset Management.
 - [ ] Release Management.
 - [ ] Deployment Management.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Dion Training has just hired three new staff members. The IT department at Dion Training has created new accounts for the new staff members on the domain controller and allocated 10 GB of storage on the company's internal file server per staff member. What term best describes these activities performed by the IT department?
+
+- [ ] Service consumption.
+- [x] Service provision.
+- [ ] Service offering.
+- [ ] Warranty of a service.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### [?] may simultaneously be removed from a service consumer and imposed on a service provider. For example, outsourcing a service to a service provider may remove the need for the consumer to have their own IT infrastructure, but it may require them to install a faster Internet connection to reach the service provider's servers instead.
+
+- [ ] Value.
+- [ ] Outputs.
+- [ ] Outcomes.
+- [x] Costs.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your organization has recently installed a brand new accounting program. The program has many functions including one that creates a report that shows the 'Profit and Loss (P&L)' metrics for the month. What term best describes the P&L report that is produced each month?
+
+- [x] Output.
+- [ ] Value.
+- [ ] Cost.
+- [ ] Outcome.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your organization is currently designing a new service for implementation. The team designing the service has decided to focus on value during the design efforts. What best describes Focus on Value in this context?
+
+- [ ] Mandatory actions.
+- [x] Guiding principle.
+- [ ] Governance.
+- [ ] Value.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which guiding principle may best be served by understanding the cost and financial consequences that a service consumer might face when choosing to use a service?
+
+- [ ] Collaborate and promote visibility.
+- [ ] Think and work holistically.
+- [x] Focus on value.
+- [ ] Progress iteratively with feedback.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which guiding principle states that there is likely something in the current services, processes, programs, projects, or organization that can be used to create the desired outcome for a new or redesigned service?
+
+- [x] Start where you are.
+- [ ] Focus on value.
+- [ ] Optimize and automate.
+- [ ] Progress iteratively with feedback.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which value chain activity ensures that products and services continually meet stakeholder expectations for quality, costs, and time to market?
+
+- [ ] Deliver and Support.
+- [ ] Obtain/Build.
+- [x] Design and Transition.
+- [ ] Plan.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### During which step of the continual improvement model would you check to verify whether or not you have reached the desired outcome in your improvement initiative?
+
+- [ ] What is the vision?
+- [ ] Where do we want to be?
+- [x] Did we get there?
+- [ ] Where are we now?
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the step after 'where do we want to be' in the continual improvement model?
+
+- [ ] What is the vision?
+- [x] How do we get there?
+- [ ] Did we get there?
+- [ ] Where do we want to be?
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is a normal change?
+
+- [ ] A change that doesn't need risk assessment because the procedure has been pre-authorized.
+- [ ] A change that is routine in nature, is fully documented, and the risks are well understood.
+- [ ] A change that doesn't need risk assessment because it is required to resolve an incident.
+- [x] A change that is scheduled, assessed, and authorized using a standard process.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### You are working as a service desk analyst. You just received a change request to create a new user account. What type of change would this be considered?
+
+- [x] Standard.
+- [ ] Normal.
+- [ ] Emergency.
+- [ ] Routine.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is usually NOT included as part of Incident Management?
+
+- [ ] Ensure expected performance levels are maintained.
+- [ ] Observation of all services and service components to identify any change in state.
+- [x] Detailed procedures for the diagnosis of incidents.
+- [ ] Use of specialized knowledge for complicated incidents.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which practice would include a formalized process for logging unplanned interruptions to a service?
+
+- [x] Incident Management.
+- [ ] Change Management.
+- [ ] Problem Management.
+- [ ] Service Level Management.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### During incident management, what is it called when the incident is passed on to the next higher level of technician?
+
+- [ ] Promotion.
+- [x] Escalation.
+- [ ] Postponement.
+- [ ] Reduction.
 
 **[⬆ Back to Top](#table-of-contents)**
