@@ -102,7 +102,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | --- | --------- |
 | 1   | [A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.](#a-service-is-a-means-of-enabling-value-co-creation-by-facilitating-outcomes-that-customers-want-to-achieve-without-the-customer-having-to-manage-specific--and-risks)|
 | 2   | [Which statement about Service Desks is CORRECT?](#which-statement-about-service-desks-is-correct)|
-| 3   | [Normal changes should be handled as service requests](#normal-changes-should-be-handled-as-service-requests)|
+| 3   | [PLACEHOLDER](#placeholder)|
 | 4   | [Which describes a set of defined steps for implementing improvements?](#which-describes-a-set-of-defined-steps-for-implementing-improvements)|
 | 5   | [Which practice provides a single point of contact for users?](#which-practice-provides-a-single-point-of-contact-for-users)|
 | 6   | [Which activity captures the demand for Incident Resolution and service requests?](#which-activity-captures-the-demand-for-incident-resolution-and-service-requests)|
@@ -127,7 +127,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 25  | [What should be done for every problem?](#what-should-be-done-for-every-problem)|
 | 26  | [In which step of the Continual Improvement model is an improvement plan implemented?](#in-which-step-of-the-continual-improvement-model-is-an-improvement-plan-implemented)|
 | 27  | [Which is NOT a key focus of the 'information and technology' dimension?](#which-is-not-a-key-focus-of-the-information-and-technology-dimension)|
-| 28  | [Which describes outcomes?](#which-describes-outcomes)|
+| 28  | [PLACEHOLDER 2](#placeholder-2)|
 | 29  | [Change Control (missing question content)](#change-control-missing-question-content)|
 | 30  | [Which of the following is an example of incident?](#which-of-the-following-is-an-example-of-incident)|
 | 31  | [What is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks?](#what-is-a-means-of-enabling-value-co-creation-by-facilitating-outcomes-that-customers-want-to-achieve-without-the-customer-having-to-manage-specific-costs-and-risks)|
@@ -150,7 +150,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 48  | [Which guiding principle recommends coordinating all dimensions of service management?](#which-guiding-principle-recommends-coordinating-all-dimensions-of-service-management)|
 | 49  | [Which statement about the steps to fulfill a service request is CORRECT?](#which-statement-about-the-steps-to-fulfill-a-service-request-is-correct)|
 | 50  | [Which practice has a purpose that includes aligning the organization's practices and services with changing business needs?](#which-practice-has-a-purpose-that-includes-aligning-the-organizations-practices-and-services-with-changing-business-needs)|
-| 51  | [Only in specific stakeholder relationships where the principle is relevant](#only-in-specific-stakeholder-relationships-where-the-principle-is-relevant)|
+| 51  | [PLACEHOLDER 3](#placeholder-3)|
 | 52  | [How should the workflow for a new service request be designed?](#how-should-the-workflow-for-a-new-service-request-be-designed)|
 | 53  | [Which statement about costs is CORRECT?](#which-statement-about-costs-is-correct)|
 | 54  | [Which practice uses techniques such as SWOT analysis, balanced scorecard reviews, and maturity assessments?](#which-practice-uses-techniques-such-as-swot-analysis-balanced-scorecard-reviews-and-maturity-assessments)|
@@ -530,12 +530,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Normal changes should be handled as service requests
+### PLACEHOLDER
 
-- [ ] 3 and 4.
-- [ ] 2 and 3.
-- [ ] 1 and 4.
-- [x] 1 and 2.
+- [ ] ...
+- [ ] ...
+- [ ] ...
+- [ ] ...
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -710,7 +710,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The use of [?] should support, not replace what is observed, when using the 'start where you are1 guiding principle.
+### The use of [?] should support, not replace what is observed, when using the 'start where you are' guiding principle.
 
 - [ ] Plans.
 - [x] Measurement.
@@ -764,12 +764,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Change Control (missing question content)
+### PLACEHOLDER 2
 
-- [ ] 1 and 2.
-- [x] 1 and 4.
-- [ ] 3 and 4.
-- [ ] 2 and 3.
+- [ ] ...
+- [ ] ...
+- [ ] ...
+- [ ] ...
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -962,12 +962,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Only in specific stakeholder relationships where the principle is relevant
+### PLACEHOLDER 3
 
-- [x] 1 and 2.
-- [ ] 1 and 4.
-- [ ] 2 and 3.
-- [ ] 3 and 4.
+- [x] ...
+- [ ] ...
+- [ ] ...
+- [ ] ...
 
 **[⬆ Back to Top](#table-of-contents)**
 
