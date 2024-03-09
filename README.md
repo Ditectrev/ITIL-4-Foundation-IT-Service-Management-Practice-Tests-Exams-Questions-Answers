@@ -122,7 +122,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 20  | [When should the effectiveness of a problem workaround be assessed?](#when-should-the-effectiveness-of-a-problem-workaround-be-assessed)|
 | 21  | [Which practice has a purpose that includes ensuring that risks have been properly assessed?](#which-practice-has-a-purpose-that-includes-ensuring-that-risks-have-been-properly-assessed)|
 | 22  | [What is an output?](#what-is-an-output)|
-| 23  | [The use of [?] should support, not replace what is observed, when using the 'start where you are1 guiding principle.](#the-use-of--should-support-not-replace-what-is-observed-when-using-the-start-where-you-are1-guiding-principle)|
+| 23  | [The use of [?] should support, not replace what is observed, when using the 'start where you are' guiding principle.](#the-use-of--should-support-not-replace-what-is-observed-when-using-the-start-where-you-are-guiding-principle)|
 | 24  | [Which ITIL practice has a purpose that includes reducing the likelihood of incidents?](#which-itil-practice-has-a-purpose-that-includes-reducing-the-likelihood-of-incidents)|
 | 25  | [What should be done for every problem?](#what-should-be-done-for-every-problem)|
 | 26  | [In which step of the Continual Improvement model is an improvement plan implemented?](#in-which-step-of-the-continual-improvement-model-is-an-improvement-plan-implemented)|
