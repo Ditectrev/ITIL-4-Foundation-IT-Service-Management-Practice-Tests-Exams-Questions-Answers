@@ -102,7 +102,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | --- | --------- |
 | 1   | [A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.](#a-service-is-a-means-of-enabling-value-co-creation-by-facilitating-outcomes-that-customers-want-to-achieve-without-the-customer-having-to-manage-specific--and-risks)|
 | 2   | [Which statement about Service Desks is CORRECT?](#which-statement-about-service-desks-is-correct)|
-| 3   | [PLACEHOLDER](#placeholder)|
+| 3   | [In terms of incident management, which value chain activity uses incident records as an input to improvement activities based on the incident frequency and severity?](#in-terms-of-incident-management-which-value-chain-activity-uses-incident-records-as-an-input-to-improvement-activities-based-on-the-incident-frequency-and-severity)|
 | 4   | [Which describes a set of defined steps for implementing improvements?](#which-describes-a-set-of-defined-steps-for-implementing-improvements)|
 | 5   | [Which practice provides a single point of contact for users?](#which-practice-provides-a-single-point-of-contact-for-users)|
 | 6   | [Which activity captures the demand for Incident Resolution and service requests?](#which-activity-captures-the-demand-for-incident-resolution-and-service-requests)|
@@ -127,8 +127,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 25  | [What should be done for every problem?](#what-should-be-done-for-every-problem)|
 | 26  | [In which step of the Continual Improvement model is an improvement plan implemented?](#in-which-step-of-the-continual-improvement-model-is-an-improvement-plan-implemented)|
 | 27  | [Which is NOT a key focus of the 'information and technology' dimension?](#which-is-not-a-key-focus-of-the-information-and-technology-dimension)|
-| 28  | [PLACEHOLDER 2](#placeholder-2)|
-| 29  | [Change Control (missing question content)](#change-control-missing-question-content)|
+| 28  | [How does Service Request Management contribute to the Obtain/Build value chain activity?](#how-does-service-request-management-contribute-to-the-obtainbuild-value-chain-activity)|
+| 29  | [Which describes outcomes?](#which-describes-outcomes)|
 | 30  | [Which of the following is an example of incident?](#which-of-the-following-is-an-example-of-incident)|
 | 31  | [What is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks?](#what-is-a-means-of-enabling-value-co-creation-by-facilitating-outcomes-that-customers-want-to-achieve-without-the-customer-having-to-manage-specific-costs-and-risks)|
 | 32  | [What is the purpose of the Information Security Management practice?](#what-is-the-purpose-of-the-information-security-management-practice)|
@@ -150,7 +150,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 48  | [Which guiding principle recommends coordinating all dimensions of service management?](#which-guiding-principle-recommends-coordinating-all-dimensions-of-service-management)|
 | 49  | [Which statement about the steps to fulfill a service request is CORRECT?](#which-statement-about-the-steps-to-fulfill-a-service-request-is-correct)|
 | 50  | [Which practice has a purpose that includes aligning the organization's practices and services with changing business needs?](#which-practice-has-a-purpose-that-includes-aligning-the-organizations-practices-and-services-with-changing-business-needs)|
-| 51  | [PLACEHOLDER 3](#placeholder-3)|
+| 51  | [How does Service Request Management contribute to the Design and Transition value chain activity?](#how-does-service-request-management-contribute-to-the-design-and-transition-value-chain-activity)|
 | 52  | [How should the workflow for a new service request be designed?](#how-should-the-workflow-for-a-new-service-request-be-designed)|
 | 53  | [Which statement about costs is CORRECT?](#which-statement-about-costs-is-correct)|
 | 54  | [Which practice uses techniques such as SWOT analysis, balanced scorecard reviews, and maturity assessments?](#which-practice-uses-techniques-such-as-swot-analysis-balanced-scorecard-reviews-and-maturity-assessments)|
@@ -511,6 +511,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 409 | [What is usually NOT included as part of Incident Management?](#what-is-usually-not-included-as-part-of-incident-management)
 | 410 | [Which practice would include a formalized process for logging unplanned interruptions to a service?](#which-practice-would-include-a-formalized-process-for-logging-unplanned-interruptions-to-a-service)
 | 411 | [During incident management, what is it called when the incident is passed on to the next higher level of technician?](#during-incident-management-what-is-it-called-when-the-incident-is-passed-on-to-the-next-higher-level-of-technician)
+| 412 | [What is NOT a phase in problem management?](#what-is-not-a-phase-in-problem-management-2)
+| 413 | [Which is a recommendation of the Service Desk practice?](#which-is-a-recommendation-of-the-service-desk-practice-1)
+| 414 | [Your company has decided to use work-from-home employees to fulfill its service desk requirements. Users call a central toll-free number and are routed to the next available service desk analyst, regardless of where the analyst is physically located. Many of these employees may be working from remote offices or their own home offices. What service desk structure does this describe?](#your-company-has-decided-to-use-work-from-home-employees-to-fulfill-its-service-desk-requirements-users-call-a-central-toll-free-number-and-are-routed-to-the-next-available-service-desk-analyst-regardless-of-where-the-analyst-is-physically-located-many-of-these-employees-may-be-working-from-remote-offices-or-their-own-home-offices-what-service-desk-structure-does-this-describe)
+| 415 | [How does Service Request Management contribute to the Design and Transition value chain activity?](#how-does-service-request-management-contribute-to-the-design-and-transition-value-chain-activity-1)
+| 416 | [How should measures and metrics be used to measure your service level management levels?](#how-should-measures-and-metrics-be-used-to-measure-your-service-level-management-levels)
+| 417 | [Which type of document should be written in easy-to-understand language to outline the expectations and requirements for both the service provider and the customer?](#which-type-of-document-should-be-written-in-easy-to-understand-language-to-outline-the-expectations-and-requirements-for-both-the-service-provider-and-the-customer)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -530,12 +536,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### PLACEHOLDER
+### In terms of incident management, which value chain activity uses incident records as an input to improvement activities based on the incident frequency and severity?
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Engage.
+- [x] Improve.
+- [ ] Design and Transition.
+- [ ] Deliver and Support.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -755,21 +761,21 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
+### How does Service Request Management contribute to the Obtain/Build value chain activity?
+
+- [ ] It analyzes data to identify opportunities to provide new service request options.
+- [ ] It collects user-specific requirements, sets expectations, and provides status updates.
+- [ ] By initiating standard changes to fulfill service requests.
+- [x] It acquires pre-approved service components to help fulfill service requests.
+
+**[⬆ Back to Top](#table-of-contents)**
+
 ### Which describes outcomes?
 
 - [ ] Tangible or intangible deliverables.
 - [x] Results desired by a stakeholder.
 - [ ] Configuration of an organization's resources.
 - [ ] Functionality offered by a product or service.
-
-**[⬆ Back to Top](#table-of-contents)**
-
-### PLACEHOLDER 2
-
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -962,12 +968,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### PLACEHOLDER 3
+### How does Service Request Management contribute to the Design and Transition value chain activity?
 
-- [x] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] By collecting user-specific request requirements.
+- [x] By initiating standard changes to fulfill service requests.
+- [ ] By providing service request trend and quality information.
+- [ ] It acquires pre-approved service components to help fulfill service requests.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4209,5 +4215,59 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Escalation.
 - [ ] Postponement.
 - [ ] Reduction.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is NOT a phase in problem management?
+
+- [ ] Problem identification.
+- [ ] Problem control.
+- [x] Incident analysis.
+- [ ] Error control.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which is a recommendation of the Service Desk practice?
+
+- [ ] Service desks should never use technologies such as SMS and chat functions.
+- [ ] Service desks should be highly technical functions.
+- [x] Service desks should have a practical understanding of users and their needs.
+- [ ] Service desks should always be local to the organization they support.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your company has decided to use work-from-home employees to fulfill its service desk requirements. Users call a central toll-free number and are routed to the next available service desk analyst, regardless of where the analyst is physically located. Many of these employees may be working from remote offices or their own home offices. What service desk structure does this describe?
+
+- [x] Virtual.
+- [ ] Centralized.
+- [ ] Follow-the-sun.
+- [ ] Local.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### How does Service Request Management contribute to the Design and Transition value chain activity?
+
+- [ ] Collects feedback during interactions and communicates service performance objectives to the operations and support teams.
+- [x] Provides feedback from interactions with customers into new or changed services.
+- [ ] Provides information about the actual service performance and trends.
+- [ ] Provides objectives for component and service performance for products and services.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### How should measures and metrics be used to measure your service level management levels?
+
+- [ ] To measure the performance of a component in the system.
+- [ ] To measure the performance of the entire system.
+- [ ] To measure the availability of a network.
+- [x] To provide a representation of the actual customer's experience.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which type of document should be written in easy-to-understand language to outline the expectations and requirements for both the service provider and the customer?
+
+- [ ] Business Partnership Agreement.
+- [ ] Service Level Agreement.
+- [ ] Interconnection Service Agreement.
+- [ ] Memorandum of Understanding.
 
 **[⬆ Back to Top](#table-of-contents)**
