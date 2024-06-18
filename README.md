@@ -517,6 +517,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 415 | [How does Service Request Management contribute to the Design and Transition value chain activity?](#how-does-service-request-management-contribute-to-the-design-and-transition-value-chain-activity-1)
 | 416 | [How should measures and metrics be used to measure your service level management levels?](#how-should-measures-and-metrics-be-used-to-measure-your-service-level-management-levels)
 | 417 | [Which type of document should be written in easy-to-understand language to outline the expectations and requirements for both the service provider and the customer?](#which-type-of-document-should-be-written-in-easy-to-understand-language-to-outline-the-expectations-and-requirements-for-both-the-service-provider-and-the-customer)
+| 418 | [What is the definition of service management?](#what-is-the-definition-of-service-management)
+| 419 | [Identify the missing word(s) in the following sentence. A user is a person who uses [?]](#identify-the-missing-words-in-the-following-sentence-a-user-is-a-person-who-uses-)
+| 420 | [What is the definition of a change?](#what-is-the-definition-of-a-change)
+| 421 | [What is the purpose of the IT Asset Management practice?](#what-is-the-purpose-of-the-it-asset-management-practice)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -4266,8 +4270,44 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which type of document should be written in easy-to-understand language to outline the expectations and requirements for both the service provider and the customer?
 
 - [ ] Business Partnership Agreement.
-- [ ] Service Level Agreement.
+- [x] Service Level Agreement.
 - [ ] Interconnection Service Agreement.
 - [ ] Memorandum of Understanding.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the definition of service management?
+
+- [x] A set of specialized organizational capabilities for enabling value to customers.
+- [ ] The means by which an organization is directed and controlled.
+- [ ] A method for visualizing work, identifying potential blockages and resource conflicts, and managing work in progress.
+- [ ] A means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Identify the missing word(s) in the following sentence. A user is a person who uses [?].
+
+- [ ] Products.
+- [x] Services.
+- [ ] Functionality.
+- [ ] Outputs.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the definition of a change?
+
+- [x] The addition, modification, or removal of anything that could have a direct or indirect effect on services.
+- [ ] An unplanned interruption to a service or reduction in the quality of service.
+- [ ] A cause, or potential cause, of one more more incidents.
+- [ ] An issue that has been analyzed but has not been resolved. 
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the purpose of the IT Asset Management practice?
+
+- [ ] Ensuring that services achieve agreed and expected performance levels, satisfying current and future demand in a cost-effective way.
+- [x] Planning and managing the full lifecycle of all IT assets.
+- [ ] Ensuring that services deliver agreed levels of availability or that change can be accessed.
+- [ ] Supporting the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner.
 
 **[⬆ Back to Top](#table-of-contents)**
