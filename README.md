@@ -521,6 +521,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 419 | [Identify the missing word(s) in the following sentence. A user is a person who uses [?]](#identify-the-missing-words-in-the-following-sentence-a-user-is-a-person-who-uses-)
 | 420 | [What is the definition of a change?](#what-is-the-definition-of-a-change)
 | 421 | [What is the purpose of the IT Asset Management practice?](#what-is-the-purpose-of-the-it-asset-management-practice)
+| 422 | [What is the purpose of the Continual Improvement practice?](#what-is-the-purpose-of-the-continual-improvement-practice)
+| 423 | [What is defined as the practice of ensuring that an organization's suppliers and their performance levels are managed appropriately to support the provision of seamless quality products and services?](#what-is-defined-as-the-practice-of-ensuring-that-an-organizations-suppliers-and-their-performance-levels-are-managed-appropriately-to-support-the-provision-of-seamless-quality-products-and-services)
+| 424 | [Identify the missing word in the following sentence. [?] management is the practice of reducing the likelihood and impact of incidents by identifying actual and potential causes of incidents, and managing workarounds and known errors.](#identify-the-missing-word-in-the-following-sentence--management-is-the-practice-of-reducing-the-likelihood-and-impact-of-incidents-by-identifying-actual-and-potential-causes-of-incidents-and-managing-workarounds-and-known-errors)
+| 425 | [Dion Training has outsourced the development of a mobile application to support their students' learning while on the go. Instead of paying a fixed-fee for the development though, Dion Training has negotiated with the developers to instead pay them a royalty fee for each student who logs into the service through their smartphone app. To control costs, Dion Training has decided to only allow students on their higher membership levels to be given access to the application. Which of the following terms best describes the activities performed by Dion Training in this example?](#dion-training-has-outsourced-the-development-of-a-mobile-application-to-support-their-students-learning-while-on-the-go-instead-of-paying-a-fixed-fee-for-the-development-though-dion-training-has-negotiated-with-the-developers-to-instead-pay-them-a-royalty-fee-for-each-student-who-logs-into-the-service-through-their-smartphone-app-to-control-costs-dion-training-has-decided-to-only-allow-students-on-their-higher-membership-levels-to-be-given-access-to-the-application-which-of-the-following-terms-best-describes-the-activities-performed-by-dion-training-in-this-example)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -4309,5 +4313,41 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Planning and managing the full lifecycle of all IT assets.
 - [ ] Ensuring that services deliver agreed levels of availability or that change can be accessed.
 - [ ] Supporting the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the purpose of the Continual Improvement practice?
+
+- [ ] Supporting the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner.
+- [ ] Minimizing the negative impact of incidents by restoring normal service operation as quickly as possible.
+- [x] Aligning an organization's practices and services with changing business needs through the ongoing identification and improvement of all elements involved in the effective management of products and services.
+- [ ] Ensuring that risks are properly assessed, authorizing changes to proceed and managing a change schedule in order to maximize the number of successful IT changes.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is defined as the practice of ensuring that an organization's suppliers and their performance levels are managed appropriately to support the provision of seamless quality products and services?
+
+- [x] Supplier Management.
+- [ ] Service Level Management.
+- [ ] Capacity and Performance Management.
+- [ ] Monitoring and Event Management.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Identify the missing word in the following sentence. [?] management is the practice of reducing the likelihood and impact of incidents by identifying actual and potential causes of incidents, and managing workarounds and known errors.
+
+- [ ] Availability.
+- [ ] Event.
+- [ ] Incident.
+- [x] Problem.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Dion Training has outsourced the development of a mobile application to support their students' learning while on the go. Instead of paying a fixed-fee for the development though, Dion Training has negotiated with the developers to instead pay them a royalty fee for each student who logs into the service through their smartphone app. To control costs, Dion Training has decided to only allow students on their higher membership levels to be given access to the application. Which of the following terms best describes the activities performed by Dion Training in this example?
+
+- [ ] Service Offering.
+- [ ] Service Relationship Management.
+- [ ] Service Provision.
+- [ ] Service Consumption.
 
 **[⬆ Back to Top](#table-of-contents)**
