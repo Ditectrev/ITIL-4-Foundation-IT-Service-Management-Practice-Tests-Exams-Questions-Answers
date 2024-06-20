@@ -525,6 +525,14 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 423 | [What is defined as the practice of ensuring that an organization's suppliers and their performance levels are managed appropriately to support the provision of seamless quality products and services?](#what-is-defined-as-the-practice-of-ensuring-that-an-organizations-suppliers-and-their-performance-levels-are-managed-appropriately-to-support-the-provision-of-seamless-quality-products-and-services)
 | 424 | [Identify the missing word in the following sentence. [?] management is the practice of reducing the likelihood and impact of incidents by identifying actual and potential causes of incidents, and managing workarounds and known errors.](#identify-the-missing-word-in-the-following-sentence--management-is-the-practice-of-reducing-the-likelihood-and-impact-of-incidents-by-identifying-actual-and-potential-causes-of-incidents-and-managing-workarounds-and-known-errors)
 | 425 | [Dion Training has outsourced the development of a mobile application to support their students' learning while on the go. Instead of paying a fixed-fee for the development though, Dion Training has negotiated with the developers to instead pay them a royalty fee for each student who logs into the service through their smartphone app. To control costs, Dion Training has decided to only allow students on their higher membership levels to be given access to the application. Which of the following terms best describes the activities performed by Dion Training in this example?](#dion-training-has-outsourced-the-development-of-a-mobile-application-to-support-their-students-learning-while-on-the-go-instead-of-paying-a-fixed-fee-for-the-development-though-dion-training-has-negotiated-with-the-developers-to-instead-pay-them-a-royalty-fee-for-each-student-who-logs-into-the-service-through-their-smartphone-app-to-control-costs-dion-training-has-decided-to-only-allow-students-on-their-higher-membership-levels-to-be-given-access-to-the-application-which-of-the-following-terms-best-describes-the-activities-performed-by-dion-training-in-this-example)
+| 426 | [What term best describes a service that is Fit for Purpose?](#what-term-best-describes-a-service-that-is-fit-for-purpose)
+| 427 | [Fill in the blank. A(n) [?] is a result for a stakeholder enabled by one or more outputs.](#fill-in-the-blank-an--is-a-result-for-a-stakeholder-enabled-by-one-or-more-outputs)
+| 428 | [Fill in the blank. A guiding principle is defined as a(n) [?] that can guide an organization in all circumstances and will guide organizations when adopting service management.](#fill-in-the-blank-a-guiding-principle-is-defined-as-an-that-can-guide-an-organization-in-all-circumstances-and-will-guide-organizations-when-adopting-service-management)
+| 429 | [Fill in the blank. According to the guiding principles, "Everything that the organization does needs to map, directly or indirectly, to [?] for the stakeholders.](#fill-in-the-blank-according-to-the-guiding-principles-everything-that-the-organization-does-needs-to-map-directly-or-indirectly-to-for-the-stakeholders)
+| 430 | [Which guiding principle says that the current state should be investigated and observed directly to make sure it is fully understood before you attempt to create a brand new service or process?](#which-guiding-principle-says-that-the-current-state-should-be-investigated-and-observed-directly-to-make-sure-it-is-fully-understood-before-you-attempt-to-create-a-brand-new-service-or-process)
+| 431 | [The Start where you are guiding principle says that the current state should be investigated and observed directly to make sure it is fully understood before you attempt to create a brand new service or process. There is usually something in the existing service or process that can be reused, saving you time, effort, and resources.](#the-start-where-you-are-guiding-principle-says-that-the-current-state-should-be-investigated-and-observed-directly-to-make-sure-it-is-fully-understood-before-you-attempt-to-create-a-brand-new-service-or-process-there-is-usually-something-in-the-existing-service-or-process-that-can-be-reused-saving-you-time-effort-and-resources)
+| 432 | [Which guiding principle is focused on using the minimum number of steps to accomplish an objective?](#which-guiding-principle-is-focused-on-using-the-minimum-number-of-steps-to-accomplish-an-objective)
+| 433 | [Your company currently uses a paper-based process for allocating funding for authorized business travel. This process requires the traveler to fill out a form and get 6 different signatures and approval prior to turning in the form to accounting for funding of the travel. This entire process is currently done manually, meaning, an employee is actually walking around to the various managers for their physical signature on a piece of paper. You have decided to automate this process. Based on the principle of 'optimize and automate', how should you approach the automation of this existing process?](#your-company-currently-uses-a-paper-based-process-for-allocating-funding-for-authorized-business-travel-this-process-requires-the-traveler-to-fill-out-a-form-and-get-6-different-signatures-and-approval-prior-to-turning-in-the-form-to-accounting-for-funding-of-the-travel-this-entire-process-is-currently-done-manually-meaning-an-employee-is-actually-walking-around-to-the-various-managers-for-their-physical-signature-on-a-piece-of-paper-you-have-decided-to-automate-this-process-based-on-the-principle-of-optimize-and-automate-how-should-you-approach-the-automation-of-this-existing-process)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -4349,5 +4357,77 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Service Relationship Management.
 - [ ] Service Provision.
 - [ ] Service Consumption.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What term best describes a service that is Fit for Purpose?
+
+- [ ] Warranty.
+- [ ] Output.
+- [x] Utility.
+- [ ] Outcomes.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Fill in the blank. A(n) [?] is a result for a stakeholder enabled by one or more outputs.
+
+- [ ] Utility.
+- [ ] Warranty.
+- [ ] Value.
+- [x] Outcome.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Fill in the blank. A guiding principle is defined as a(n) [?] that can guide an organization in all circumstances and will guide organizations when adopting service management.
+
+- [ ] Mandatory actions.
+- [ ] Prespective requirements.
+- [ ] Governance.
+- [x] Recommendations.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Fill in the blank. According to the guiding principles, "Everything that the organization does needs to map, directly or indirectly, to [?] for the stakeholders.
+
+- [x] Value.
+- [ ] Outcomes.
+- [ ] Outputs.
+- [ ] Utility.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which guiding principle says that the current state should be investigated and observed directly to make sure it is fully understood before you attempt to create a brand new service or process?
+
+- [ ] Optimize and automate.
+- [ ] Progress iteratively with feedback.
+- [x] Start where you are.
+- [ ] Focus on value.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### The Start where you are guiding principle says that the current state should be investigated and observed directly to make sure it is fully understood before you attempt to create a brand new service or process. There is usually something in the existing service or process that can be reused, saving you time, effort, and resources.
+
+- [ ] Keep it simple and practical.
+- [x] Think and work holistically.
+- [ ] Optimize and automate.
+- [ ] Collaborate and promote visibility.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which guiding principle is focused on using the minimum number of steps to accomplish an objective?
+
+- [x] Keep it simple and practical.
+- [ ] Progress iteratively with feedback.
+- [ ] Optimize and automate.
+- [ ] Collaborate and promote visibility.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your company currently uses a paper-based process for allocating funding for authorized business travel. This process requires the traveler to fill out a form and get 6 different signatures and approval prior to turning in the form to accounting for funding of the travel. This entire process is currently done manually, meaning, an employee is actually walking around to the various managers for their physical signature on a piece of paper. You have decided to automate this process. Based on the principle of 'optimize and automate', how should you approach the automation of this existing process?
+
+- [ ] Identify all of the steps in the process and create an automated workflow that will route the form electronically to the authorized signatories.
+- [ ] Identify all of the steps in the process and eliminate any unnecessary steps in the process.
+- [x] Identify all the steps in the process, eliminate any unnecessary steps, and then automate the remaining steps in the process.
+- [ ] Create a new process first and then automate it.
 
 **[⬆ Back to Top](#table-of-contents)**
