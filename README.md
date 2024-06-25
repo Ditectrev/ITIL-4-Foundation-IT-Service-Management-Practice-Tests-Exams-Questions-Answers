@@ -307,8 +307,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 205 | [Which practice has a purpose to support the quality of the service by handling all agreed user initiated service requests?](#which-practice-has-a-purpose-to-support-the-quality-of-the-service-by-handling-all-agreed-user-initiated-service-requests)|
 | 206 | [When should a full risk assessment and Authorization be carried out for a standard change?](#when-should-a-full-risk-assessment-and-authorization-be-carried-out-for-a-standard-change)|
 | 207 | [Which statement about a Continual Improvement register is CORRECT?](#which-statement-about-a-continual-improvement-register-is-correct)|
-| 208 | [Which is included in the purpose of the 'design and transition' value chain activity?](#which-is-included-in-the-purpose-of-the-design-and-transition-value-chain-activity)|
-| 209 | [Which is included in the purpose of the 'deliver and support' value chain activity?](#which-is-included-in-the-purpose-of-the-deliver-and-support-value-chain-activity)|
+| 208 | [Which is included in the purpose of the Design and Transition value chain activity?](#which-is-included-in-the-purpose-of-the-design-and-transition-value-chain-activity)|
+| 209 | [Which is included in the purpose of the Deliver and Support value chain activity?](#which-is-included-in-the-purpose-of-the-deliver-and-support-value-chain-activity)|
 | 210 | [Which practice coordinates the classification, ownership and communication of service requests and incidents?](#which-practice-coordinates-the-classification-ownership-and-communication-of-service-requests-and-incidents)|
 | 211 | [Which practice updates information relating to symptoms and business impact?](#which-practice-updates-information-relating-to-symptoms-and-business-impact)|
 | 212 | [Which ITIL guiding principle recommends using existing services, processes and tools when improving services?](#which-itil-guiding-principle-recommends-using-existing-services-processes-and-tools-when-improving-services)|
@@ -351,7 +351,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 249 | [Which is a purpose of the Relationship Management practice?](#which-is-a-purpose-of-the-relationship-management-practice)|
 | 250 | [Which statement about problems is CORRECT?](#which-statement-about-problems-is-correct)|
 | 251 | [Which is a risk that might be removed from a service consumer by an IT service?](#which-is-a-risk-that-might-be-removed-from-a-service-consumer-by-an-it-service)|
-| 252 | [Which is one of the MAIN concerns of the 'design and transition' value chain activity?](#which-is-one-of-the-main-concerns-of-the-design-and-transition-value-chain-activity)|
+| 252 | [Which is one of the MAIN concerns of the Design and Transition value chain activity?](#which-is-one-of-the-main-concerns-of-the-design-and-transition-value-chain-activity)|
 | 253 | [Which should be handled by Service Request Management?](#which-should-be-handled-by-service-request-management)|
 | 254 | [What can be described as an operating model for the creation and management of products and services?](#what-can-be-described-as-an-operating-model-for-the-creation-and-management-of-products-and-services)|
 | 255 | [Which action is performed by a service provider?](#which-action-is-performed-by-a-service-provider)|
@@ -533,6 +533,13 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 431 | [The Start where you are guiding principle says that the current state should be investigated and observed directly to make sure it is fully understood before you attempt to create a brand new service or process. There is usually something in the existing service or process that can be reused, saving you time, effort, and resources.](#the-start-where-you-are-guiding-principle-says-that-the-current-state-should-be-investigated-and-observed-directly-to-make-sure-it-is-fully-understood-before-you-attempt-to-create-a-brand-new-service-or-process-there-is-usually-something-in-the-existing-service-or-process-that-can-be-reused-saving-you-time-effort-and-resources)
 | 432 | [Which guiding principle is focused on using the minimum number of steps to accomplish an objective?](#which-guiding-principle-is-focused-on-using-the-minimum-number-of-steps-to-accomplish-an-objective)
 | 433 | [Your company currently uses a paper-based process for allocating funding for authorized business travel. This process requires the traveler to fill out a form and get 6 different signatures and approval prior to turning in the form to accounting for funding of the travel. This entire process is currently done manually, meaning, an employee is actually walking around to the various managers for their physical signature on a piece of paper. You have decided to automate this process. Based on the principle of 'optimize and automate', how should you approach the automation of this existing process?](#your-company-currently-uses-a-paper-based-process-for-allocating-funding-for-authorized-business-travel-this-process-requires-the-traveler-to-fill-out-a-form-and-get-6-different-signatures-and-approval-prior-to-turning-in-the-form-to-accounting-for-funding-of-the-travel-this-entire-process-is-currently-done-manually-meaning-an-employee-is-actually-walking-around-to-the-various-managers-for-their-physical-signature-on-a-piece-of-paper-you-have-decided-to-automate-this-process-based-on-the-principle-of-optimize-and-automate-how-should-you-approach-the-automation-of-this-existing-process)
+| 434 | [Which dimension of service management should be considered when deciding whether or not moving the organization's web server from an on-premise solution to the cloud is a good decision in terms of compliance and security?](#which-dimension-of-service-management-should-be-considered-when-deciding-whether-or-not-moving-the-organizations-web-server-from-an-on-premise-solution-to-the-cloud-is-a-good-decision-in-terms-of-compliance-and-security)
+| 435 | [Dion Training Solutions is an Authorized Training Organization for Axelos. Which service management dimension would be focused on the relationship between Dion Training Solutions and Axelos in regards to the company's delivery of ITIL 4 Foundation training to students?](#dion-training-solutions-is-an-authorized-training-organization-for-axelos-which-service-management-dimension-would-be-focused-on-the-relationship-between-dion-training-solutions-and-axelos-in-regards-to-the-companys-delivery-of-itil-4-foundation-training-to-students)
+| 436 | [What is the end result of the service value system?](#what-is-the-end-result-of-the-service-value-system)
+| 437 | [Which of the following is NOT an activity within the service value chain?](#which-of-the-following-is-not-an-activity-within-the-service-value-chain-3)
+| 438 | [Which value chain activity ensures that service components are available when and where they are needed and meet agreed specifications?](#which-value-chain-activity-ensures-that-service-components-are-available-when-and-where-they-are-needed-and-meet-agreed-specifications)
+| 439 | [Your company is currently spending $1.2 million per year on energy to run its data center. The new CEO of the company wants the organization to become more environmentally friendly and reduce its energy consumption from commercial power sources such as coal and nuclear energy. To support this initiative, the IT Director has created a goal of reducing the power consumption in the data center to less than $1 million next year. In which step of the continual service model would the IT Director create this goal?](#your-company-is-currently-spending-dollar12-million-per-year-on-energy-to-run-its-data-center-the-new-ceo-of-the-company-wants-the-organization-to-become-more-environmentally-friendly-and-reduce-its-energy-consumption-from-commercial-power-sources-such-as-coal-and-nuclear-energy-to-support-this-initiative-the-it-director-has-created-a-goal-of-reducing-the-power-consumption-in-the-data-center-to-less-than-dollar1-million-next-year-in-which-step-of-the-continual-service-model-would-the-it-director-create-this-goal)
+| 440 | [Your company is undergoing an improvement initiative to reduce the number of physical servers in the data center by 50%. You are working as part of the deployment team trying to achieve this goal. You are currently migrating physical servers into virtualized systems and removing the physical servers from the data center. Which step of the continual improvement model are you working on?](#your-company-is-undergoing-an-improvement-initiative-to-reduce-the-number-of-physical-servers-in-the-data-center-by-50-you-are-working-as-part-of-the-deployment-team-trying-to-achieve-this-goal-you-are-currently-migrating-physical-servers-into-virtualized-systems-and-removing-the-physical-servers-from-the-data-center-which-step-of-the-continual-improvement-model-are-you-working-on)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -1347,7 +1354,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which includes governance, management practices, and Continual Improvement?
 
 - [x] The service value system.
-- [ ] The 'deliver and support' value chain activity.
+- [ ] The Deliver and Support value chain activity.
 - [ ] The 'focus on value' guiding principle.
 - [ ] The 'value stream and processes' dimension.
 
@@ -1697,9 +1704,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which value chain activity ensures that products meet stakeholder expectations for quality?
 
-- [x] Design and transition.
+- [x] Design and Transition.
 - [ ] Engage.
-- [ ] Obtain/build.
+- [ ] Obtain/Build.
 - [ ] Plan.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -1725,9 +1732,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which value chain activity ensures that service components meet agreed specifications?
 
 - [ ] Plan.
-- [ ] Design and transition.
+- [ ] Design and Transition.
 - [x] Build.
-- [ ] Deliver and support.
+- [ ] Deliver and Support.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2059,8 +2066,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [x] Plan.
 - [ ] Improve.
-- [ ] Design and transition.
-- [ ] Deliver and support.
+- [ ] Design and Transition.
+- [ ] Deliver and Support.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2398,7 +2405,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is included in the purpose of the 'design and transition' value chain activity?
+### Which is included in the purpose of the Design and Transition value chain activity?
 
 - [ ] Ensuring that service components are available when needed.
 - [ ] Providing transparency and good stakeholder relationships.
@@ -2407,7 +2414,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is included in the purpose of the 'deliver and support' value chain activity?
+### Which is included in the purpose of the Deliver and Support value chain activity?
 
 - [ ] Meeting stakeholder expectations for time to market.
 - [ ] Understanding the organization's service vision.
@@ -2794,7 +2801,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is one of the MAIN concerns of the 'design and transition' value chain activity?
+### Which is one of the MAIN concerns of the Design and Transition value chain activity?
 
 - [x] Meeting stakeholder expectations.
 - [ ] Understanding the organization's vision.
@@ -3159,7 +3166,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Engage.
 - [ ] Improve.
 - [x] Plan.
-- [ ] Deliver and support.
+- [ ] Deliver and Support.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3498,10 +3505,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Your company has recently engaged a new supplier to provide you with 3 routers that will handle 1 Gbps of throughput. They are scheduled for installation in three months. Your team is currently configuring the devices in preparation for installation into the network architecture based upon the design requirements. Which value chain activity would best categorize your configuration actions in this scenario?
 
-- [ ] Design and transition.
+- [ ] Design and Transition.
 - [ ] Engage.
-- [x] Obtain/build.
-- [ ] Deliver and support.
+- [x] Obtain/Build.
+- [ ] Deliver and Support.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3761,7 +3768,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [x] Improve.
 - [ ] Plan.
-- [ ] Deliver and support.
+- [ ] Deliver and Support.
 - [ ] Obtain/Build.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -4429,5 +4436,68 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Identify all of the steps in the process and eliminate any unnecessary steps in the process.
 - [x] Identify all the steps in the process, eliminate any unnecessary steps, and then automate the remaining steps in the process.
 - [ ] Create a new process first and then automate it.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which dimension of service management should be considered when deciding whether or not moving the organization's web server from an on-premise solution to the cloud is a good decision in terms of compliance and security?
+
+- [ ] Organizations and people.
+- [ ] Value streams and processes.
+- [x] Information and technology.
+- [ ] Partners and suppliers.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Dion Training Solutions is an Authorized Training Organization for Axelos. Which service management dimension would be focused on the relationship between Dion Training Solutions and Axelos in regards to the company's delivery of ITIL 4 Foundation training to students?
+
+- [ ] Organizations and people.
+- [ ] Information and technology.
+- [ ] Partners and suppliers.
+- [ ] Value streams and processes.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the end result of the service value system?
+
+- [ ] Activities.
+- [x] Value.
+- [ ] Practices.
+- [ ] Demand.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which of the following is NOT an activity within the service value chain?
+
+- [ ] Engage.
+- [x] Guiding principles.
+- [ ] Delivery and Support.
+- [ ] Obtain/Build.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which value chain activity ensures that service components are available when and where they are needed and meet agreed specifications?
+
+- [ ] Improve.
+- [ ] Deliver and Support.
+- [x] Obtain/Build.
+- [ ] Design and Transition.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your company is currently spending $1.2 million per year on energy to run its data center. The new CEO of the company wants the organization to become more environmentally friendly and reduce its energy consumption from commercial power sources such as coal and nuclear energy. To support this initiative, the IT Director has created a goal of reducing the power consumption in the data center to less than $1 million next year. In which step of the continual service model would the IT Director create this goal?
+
+- [ ] What is the vision.
+- [ ] How do we get there.
+- [ ] Where do we want to be.
+- [ ] Where are we now.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your company is undergoing an improvement initiative to reduce the number of physical servers in the data center by 50%. You are working as part of the deployment team trying to achieve this goal. You are currently migrating physical servers into virtualized systems and removing the physical servers from the data center. Which step of the continual improvement model are you working on?
+
+- [x] Take action.
+- [ ] Where are we now.
+- [ ] How do we get there.
+- [ ] Where do we want to be.
 
 **[⬆ Back to Top](#table-of-contents)**
