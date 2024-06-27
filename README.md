@@ -548,6 +548,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 446 | [Each time users attempt to log on to the domain using their username and password, they receive an error that 'the authentication server is not responding'. This is happening to multiple users across the network. How would you categorize this issue?](#each-time-users-attempt-to-log-on-to-the-domain-using-their-username-and-password-they-receive-an-error-that-the-authentication-server-is-not-responding-this-is-happening-to-multiple-users-across-the-network-how-would-you-categorize-this-issue)
 | 447 | [Your printer is currently out of toner and will not print. You ask your co-worker for help, but he says the toner is on order and won't arrive for a few days. He walks over to the printer, takes out the toner cartridge, shakes it back and forth a few times, and places it back into the printer. Suddenly, the printer begins to print again. Apparently, shaking the toner cartridge moved some of the remaining toner around and will allow a few more sheets to be printed while you are waiting for a new cartridge. What would you classify this as?](#your-printer-is-currently-out-of-toner-and-will-not-print-you-ask-your-co-worker-for-help-but-he-says-the-toner-is-on-order-and-wont-arrive-for-a-few-days-he-walks-over-to-the-printer-takes-out-the-toner-cartridge-shakes-it-back-and-forth-a-few-times-and-places-it-back-into-the-printer-suddenly-the-printer-begins-to-print-again-apparently-shaking-the-toner-cartridge-moved-some-of-the-remaining-toner-around-and-will-allow-a-few-more-sheets-to-be-printed-while-you-are-waiting-for-a-new-cartridge-what-would-you-classify-this-as)
 | 448 | [What does a centralized Service Desk require?](#what-does-a-centralized-service-desk-require-1)
+| 449 | [Your company has three service desk locations around the globe to support 24x7 operations. These locations are in England, the United States, and India. Each of these service desks only operates on an 8 am to 5 pm schedule in their local time. When a user calls the service desk, their call is routed to whichever service desk is operating at that time. For example, if it is 1 am in New York City and a user calls the service desk, they are routed to the India service desk because it would only be 11 am in India. What type of service desk model is your company using?](#your-company-has-three-service-desk-locations-around-the-globe-to-support-24x7-operations-these-locations-are-in-england-the-united-states-and-india-each-of-these-service-desks-only-operates-on-an-8-am-to-5-pm-schedule-in-their-local-time-when-a-user-calls-the-service-desk-their-call-is-routed-to-whichever-service-desk-is-operating-at-that-time-for-example-if-it-is-1-am-in-new-york-city-and-a-user-calls-the-service-desk-they-are-routed-to-the-india-service-desk-because-it-would-only-be-11-am-in-india-what-type-of-service-desk-model-is-your-company-using)
+| 450 | [How does Service Level Management contribute to the Obtain/Build value chain activity?](#how-does-service-level-management-contribute-to-the-obtainbuild-value-chain-activity)
+| 451 | [What is an example of an action a service request management employee would undertake as part of the Engage activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-engage-activity)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -4574,5 +4577,32 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Complex automation.
 - [ ] 24x7 support.
 - [x] Remote access tools.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your company has three service desk locations around the globe to support 24x7 operations. These locations are in England, the United States, and India. Each of these service desks only operates on an 8 am to 5 pm schedule in their local time. When a user calls the service desk, their call is routed to whichever service desk is operating at that time. For example, if it is 1 am in New York City and a user calls the service desk, they are routed to the India service desk because it would only be 11 am in India. What type of service desk model is your company using?
+
+- [ ] Virtual.
+- [ ] Centralized.
+- [x] Follow-the-sun.
+- [ ] Local.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### How does Service Level Management contribute to the Obtain/Build value chain activity?
+
+- [x] Provides objectives for component and service performance for products and services.
+- [ ] Collects feedback during interactions and communicates service performance objectives to the operations and support teams.
+- [ ] Provides feedback from interactions with customers into new or changed services.
+- [ ] Provides information about the actual service performance and trends.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is an example of an action a service request management employee would undertake as part of the Engage activity?
+
+- [ ] Provide trend, quality, and feedback information about requests.
+- [ ] Initiate and fulfill standard changes.
+- [x] Communicate with consumers to understand their requirements.
+- [ ] Fulfill the consumer's service requests through acquisition of service components.
 
 **[⬆ Back to Top](#table-of-contents)**
