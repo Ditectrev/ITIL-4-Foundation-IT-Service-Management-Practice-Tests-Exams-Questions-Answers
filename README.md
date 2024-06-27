@@ -545,6 +545,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 443 | [You are part of a team configuring a brand new email server. You want to get permission to install the server on the corporate network to continue your configuration and testing. Which type of change should you initiate?](#you-are-part-of-a-team-configuring-a-brand-new-email-server-you-want-to-get-permission-to-install-the-server-on-the-corporate-network-to-continue-your-configuration-and-testing-which-type-of-change-should-you-initiate)
 | 444 | [What should NOT be included in Incident Management?](#what-should-not-be-included-in-incident-management)
 | 445 | [Which practice seeks to minimize the negative impact of unplanned outages by restoring normal service operation as quickly as possible?](#which-practice-seeks-to-minimize-the-negative-impact-of-unplanned-outages-by-restoring-normal-service-operation-as-quickly-as-possible)
+| 446 | [Each time users attempt to log on to the domain using their username and password, they receive an error that 'the authentication server is not responding'. This is happening to multiple users across the network. How would you categorize this issue?](#each-time-users-attempt-to-log-on-to-the-domain-using-their-username-and-password-they-receive-an-error-that-the-authentication-server-is-not-responding-this-is-happening-to-multiple-users-across-the-network-how-would-you-categorize-this-issue)
+| 447 | [Your printer is currently out of toner and will not print. You ask your co-worker for help, but he says the toner is on order and won't arrive for a few days. He walks over to the printer, takes out the toner cartridge, shakes it back and forth a few times, and places it back into the printer. Suddenly, the printer begins to print again. Apparently, shaking the toner cartridge moved some of the remaining toner around and will allow a few more sheets to be printed while you are waiting for a new cartridge. What would you classify this as?](#your-printer-is-currently-out-of-toner-and-will-not-print-you-ask-your-co-worker-for-help-but-he-says-the-toner-is-on-order-and-wont-arrive-for-a-few-days-he-walks-over-to-the-printer-takes-out-the-toner-cartridge-shakes-it-back-and-forth-a-few-times-and-places-it-back-into-the-printer-suddenly-the-printer-begins-to-print-again-apparently-shaking-the-toner-cartridge-moved-some-of-the-remaining-toner-around-and-will-allow-a-few-more-sheets-to-be-printed-while-you-are-waiting-for-a-new-cartridge-what-would-you-classify-this-as)
+| 448 | [What does a centralized Service Desk require?](#what-does-a-centralized-service-desk-require-1)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -4549,5 +4552,27 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Service Level Management.
 - [ ] Change Management.
 - [ ] Incident Management.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Each time users attempt to log on to the domain using their username and password, they receive an error that 'the authentication server is not responding'. This is happening to multiple users across the network. How would you categorize this issue?
+
+- [ ] Incident.
+- [ ] Workaround.
+- [x] Problem.
+- [ ] Event.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your printer is currently out of toner and will not print. You ask your co-worker for help, but he says the toner is on order and won't arrive for a few days. He walks over to the printer, takes out the toner cartridge, shakes it back and forth a few times, and places it back into the printer. Suddenly, the printer begins to print again. Apparently, shaking the toner cartridge moved some of the remaining toner around and will allow a few more sheets to be printed while you are waiting for a new cartridge. What would you classify this as?
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What does a centralized Service Desk require?
+
+- [ ] Local service desk analysts.
+- [ ] Complex automation.
+- [ ] 24x7 support.
+- [x] Remote access tools.
 
 **[⬆ Back to Top](#table-of-contents)**
