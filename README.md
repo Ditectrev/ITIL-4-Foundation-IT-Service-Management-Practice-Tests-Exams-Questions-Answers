@@ -2734,9 +2734,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which are elements of the service value system?
 
 - [ ] Service provision, service consumption, service Relationship Management.
-- [ ] Governance, service value chain, practices.
+- [x] Governance, service value chain, practices.
 - [ ] Outcomes, utility, warranty.
-- [x] Customer value, stakeholder value, organization.
+- [ ] Customer value, stakeholder value, organization.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2805,9 +2805,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which is a risk that might be removed from a service consumer by an IT service?
 
-- [x] Security breach.
+- [ ] Security breach.
 - [ ] Service provider ceasing to trade.
-- [ ] Failure of server hardware.
+- [x] Failure of server hardware.
 - [ ] Cost of purchasing servers.
 
 **[⬆ Back to Top](#table-of-contents)**
