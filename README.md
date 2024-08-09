@@ -551,6 +551,17 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 449 | [Your company has three service desk locations around the globe to support 24x7 operations. These locations are in England, the United States, and India. Each of these service desks only operates on an 8 am to 5 pm schedule in their local time. When a user calls the service desk, their call is routed to whichever service desk is operating at that time. For example, if it is 1 am in New York City and a user calls the service desk, they are routed to the India service desk because it would only be 11 am in India. What type of service desk model is your company using?](#your-company-has-three-service-desk-locations-around-the-globe-to-support-24x7-operations-these-locations-are-in-england-the-united-states-and-india-each-of-these-service-desks-only-operates-on-an-8-am-to-5-pm-schedule-in-their-local-time-when-a-user-calls-the-service-desk-their-call-is-routed-to-whichever-service-desk-is-operating-at-that-time-for-example-if-it-is-1-am-in-new-york-city-and-a-user-calls-the-service-desk-they-are-routed-to-the-india-service-desk-because-it-would-only-be-11-am-in-india-what-type-of-service-desk-model-is-your-company-using)
 | 450 | [How does Service Level Management contribute to the Obtain/Build value chain activity?](#how-does-service-level-management-contribute-to-the-obtainbuild-value-chain-activity)
 | 451 | [What is an example of an action a service request management employee would undertake as part of the Engage activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-engage-activity)
+| 452 | [Which guiding principle recognizes the complexity of a system and seeks to understand the relationships between the various components that make up a service?](#which-guiding-principle-recognizes-the-complexity-of-a-system-and-seeks-to-understand-the-relationships-between-the-various-components-that-make-up-a-service)
+| 453 | [Who can report an incident?](#who-can-report-an-incident)
+| 454 | [Which statement about the value chain activities is CORRECT?](#which-statement-about-the-value-chain-activities-is-correct)
+| 455 | [Which value chain activity would best be used to categorize the actions of the service desk when they are responding to a consumer's request for assistance?](#which-value-chain-activity-would-best-be-used-to-categorize-the-actions-of-the-service-desk-when-they-are-responding-to-a-consumers-request-for-assistance)
+| 456 | [Which step of the continual improvement model is focused on outlining the steps that will be undertaken by the organization in order to achieve its goals and move the organization closer to achieving its vision?](#which-step-of-the-continual-improvement-model-is-focused-on-outlining-the-steps-that-will-be-undertaken-by-the-organization-in-order-to-achieve-its-goals-and-move-the-organization-closer-to-achieving-its-vision)
+| 457 | [What is the step after How do we keep the momentum going in the continual improvement model?](#what-is-the-step-after-how-do-we-keep-the-momentum-going-in-the-continual-improvement-model)
+| 458 | [Which type of change needs to be assessed, authorized, and scheduled by a change authority prior to implementing it?](#which-type-of-change-needs-to-be-assessed-authorized-and-scheduled-by-a-change-authority-prior-to-implementing-it)
+| 459 | [Which statement about a change authority is CORRECT?](#which-statement-about-a-change-authority-is-correct)
+| 460 | [A standard change has been initiated to create an email account for a new user. Who should authorize this change?](#a-standard-change-has-been-initiated-to-create-an-email-account-for-a-new-user-who-should-authorize-this-change)
+| 461 | [What is the best description of an emergency change?](#what-is-the-best-description-of-an-emergency-change)
+| 462 | [Which practice would include a formalized process for logging unplanned reduction in the quality of a service?](#which-practice-would-include-a-formalized-process-for-logging-unplanned-reduction-in-the-quality-of-a-service)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -4374,7 +4385,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Service Offering.
 - [ ] Service Relationship Management.
 - [ ] Service Provision.
-- [ ] Service Consumption.
+- [x] Service Consumption.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4389,28 +4400,28 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Fill in the blank. A(n) [?] is a result for a stakeholder enabled by one or more outputs.
 
-- [ ] Utility.
-- [ ] Warranty.
-- [ ] Value.
-- [x] Outcome.
+- [ ] utility.
+- [ ] warranty.
+- [ ] value.
+- [x] outcome.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Fill in the blank. A guiding principle is defined as a(n) [?] that can guide an organization in all circumstances and will guide organizations when adopting service management.
 
-- [ ] Mandatory actions.
-- [ ] Prespective requirements.
-- [ ] Governance.
-- [x] Recommendations.
+- [ ] mandatory actions.
+- [ ] prespective requirements.
+- [ ] governance.
+- [x] recommendations.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Fill in the blank. According to the guiding principles, "Everything that the organization does needs to map, directly or indirectly, to [?] for the stakeholders.
 
-- [x] Value.
-- [ ] Outcomes.
-- [ ] Outputs.
-- [ ] Utility.
+- [x] value.
+- [ ] outcomes.
+- [ ] outputs.
+- [ ] utility.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4463,7 +4474,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Organizations and people.
 - [ ] Information and technology.
-- [ ] Partners and suppliers.
+- [x] Partners and suppliers.
 - [ ] Value streams and processes.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -4604,5 +4615,104 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Initiate and fulfill standard changes.
 - [x] Communicate with consumers to understand their requirements.
 - [ ] Fulfill the consumer's service requests through acquisition of service components.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which guiding principle recognizes the complexity of a system and seeks to understand the relationships between the various components that make up a service?
+
+- [ ] Keep it simple and practical.
+- [x] Think and work holistically.
+- [ ] Optimize and automate.
+- [ ] Collaborate and promote visibility.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Who can report an incident?
+
+- [ ] Service desk analyst.
+- [ ] End user.
+- [ ] System administrator.
+- [x] Anyone.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which statement about the value chain activities is CORRECT?
+
+- [ ] Practices are considered a value chain activity.
+- [ ] Continual improvement is considered a value chain activity.
+- [x] Service value chain activities receive and provide triggers for further actions to be taken.
+- [ ] Activities within a service value chain operate independently from each other.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which value chain activity would best be used to categorize the actions of the service desk when they are responding to a consumer's request for assistance?
+
+- [ ] Obtain/Build.
+- [ ] Improve.
+- [ ] Design and Transition.
+- [x] Deliver and Support.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which step of the continual improvement model is focused on outlining the steps that will be undertaken by the organization in order to achieve its goals and move the organization closer to achieving its vision?
+
+- [ ] Where do we want to be.
+- [ ] Take action.
+- [ ] Where are we now.
+- [x] How do we get there.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the step after How do we keep the momentum going in the continual improvement model?
+
+- [ ] Did we get there.
+- [ ] How do we get there.
+- [x] What is the vision.
+- [ ] Where are we now.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which type of change needs to be assessed, authorized, and scheduled by a change authority prior to implementing it?
+
+- [ ] Standard.
+- [x] Normal.
+- [ ] Emergency.
+- [ ] All three of these.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which statement about a change authority is CORRECT?
+
+- [ ] A single change authority should be assigned to authorize all types of change and change models.
+- [ ] Normal changes are pre-authorized and do not need a change authority.
+- [x] A change authority should be assigned for each type of change and change model.
+- [ ] Emergency changes can be implemented without authorization from a change authority.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### A standard change has been initiated to create an email account for a new user. Who should authorize this change?
+
+- [ ] The user's manager should authorize the change.
+- [ ] The change authority must authorize all changes.
+- [ ] The user can authorize it themself.
+- [x] Standard changes are already pre-authorized.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the best description of an emergency change?
+
+- [ ] A change that doesn't need risk assessment because the procedure has been pre-authorized.
+- [ ] A change that needs to be assessed, authorized, and scheduled by a change authority.
+- [x] A change that must be implemented as soon as possible because it is required to resolve an incident or security issue.
+- [ ] A change that is assessed, authorized, and scheduled as part of Continual Improvement.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which practice would include a formalized process for logging unplanned reduction in the quality of a service?
+
+- [ ] Change Management.
+- [x] Incident Management.
+- [ ] Problem Management.
+- [ ] Service Level Management.
 
 **[⬆ Back to Top](#table-of-contents)**
