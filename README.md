@@ -567,6 +567,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 465 | [Your printer is currently out of toner and will not print. You ask your co-worker for help, but he says the toner has already been ordered but it won't arrive for a few days. What would you classify this as?](#your-printer-is-currently-out-of-toner-and-will-not-print-you-ask-your-co-worker-for-help-but-he-says-the-toner-has-already-been-ordered-but-it-wont-arrive-for-a-few-days-what-would-you-classify-this-as)
 | 466 | [Fill in the blank. Service requests and their fulfillment should be standardized and [?] to the greatest degree possible.](#fill-in-the-blank-service-requests-and-their-fulfillment-should-be-standardized-and--to-the-greatest-degree-possible)
 | 467 | [Which is a recommendation of the Service Desk practice?](#which-is-a-recommendation-of-the-service-desk-practice-2)
+| 468 | [What does a centralized Service Desk require?](#what-does-a-centralized-service-desk-require-2)
+| 469 | [How does Service Level Management contribute to the Deliver and Support value chain activity?](#how-does-service-level-management-contribute-to-the-deliver-and-support-value-chain-activity)
+| 470 | [What is a documented agreement between a service provider and a customer that identifies both the services required and the expected level of service?](#what-is-a-documented-agreement-between-a-service-provider-and-a-customer-that-identifies-both-the-services-required-and-the-expected-level-of-service)
+| 471 | [Your company has five branch offices located across the country. To support each of these branch offices, a small service desk has been created for each office and it is co-located with the users to whom they are providing service and support. What model of service desk is your company using?](#your-company-has-five-branch-offices-located-across-the-country-to-support-each-of-these-branch-offices-a-small-service-desk-has-been-created-for-each-office-and-it-is-co-located-with-the-users-to-whom-they-are-providing-service-and-support-what-model-of-service-desk-is-your-company-using)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -4769,5 +4773,41 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Service desks should be highly technical functions.
 - [x] Service desks should have a practical understanding of the wider business.
 - [ ] Service desks should be a physical team in a single fixed location.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What does a centralized Service Desk require?
+
+- [ ] Walk-in service hours.
+- [ ] Robotic process automation.
+- [x] Good workflow systems and escalation.
+- [ ] Outsourced employees.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### How does Service Level Management contribute to the Deliver and Support value chain activity?
+
+- [ ] Provides objectives for component and service performance for products and services.
+- [x] Collects feedback during interactions and communicates service performance objectives to the operations and support teams.
+- [ ] Provides information about the actual service performance and trends.
+- [ ] Provides feedback from interactions with customers into new or changed services.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is a documented agreement between a service provider and a customer that identifies both the services required and the expected level of service?
+
+- [ ] Memorandum of Understanding.
+- [ ] Business Partnership Agreement.
+- [x] Service Level Agreement.
+- [ ] Interconnection Service Agreement.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your company has five branch offices located across the country. To support each of these branch offices, a small service desk has been created for each office and it is co-located with the users to whom they are providing service and support. What model of service desk is your company using?
+
+- [ ] Virtual.
+- [ ] Centralized.
+- [ ] Follow-the-sun.
+- [x] Local.
 
 **[⬆ Back to Top](#table-of-contents)**
