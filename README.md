@@ -562,6 +562,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 460 | [A standard change has been initiated to create an email account for a new user. Who should authorize this change?](#a-standard-change-has-been-initiated-to-create-an-email-account-for-a-new-user-who-should-authorize-this-change)
 | 461 | [What is the best description of an emergency change?](#what-is-the-best-description-of-an-emergency-change)
 | 462 | [Which practice would include a formalized process for logging unplanned reduction in the quality of a service?](#which-practice-would-include-a-formalized-process-for-logging-unplanned-reduction-in-the-quality-of-a-service)
+| 463 | [Fill in the blank. The purpose of the [?] is to ensure that the organization continually co-creates value with all stakeholders through the use and management of products and services.](#fill-in-the-blank-the-purpose-of-the--is-to-ensure-that-the-organization-continually-co-creates-value-with-all-stakeholders-through-the-use-and-management-of-products-and-services)
+| 464 | [You are working as a part of the problem management team and discovered that multiple incidents are linked together due to a problem with the current version of the web browser installed on the workstations across the network. You have identified that this could be solved by upgrading the web browser to the newest available version. Your team has requested that all of the workstations in the organization receive an updated web browser through the change management activity to solve this problem. Which value chain activity will be responsible for upgrading all the workstations?](#you-are-working-as-a-part-of-the-problem-management-team-and-discovered-that-multiple-incidents-are-linked-together-due-to-a-problem-with-the-current-version-of-the-web-browser-installed-on-the-workstations-across-the-network-you-have-identified-that-this-could-be-solved-by-upgrading-the-web-browser-to-the-newest-available-version-your-team-has-requested-that-all-of-the-workstations-in-the-organization-receive-an-updated-web-browser-through-the-change-management-activity-to-solve-this-problem-which-value-chain-activity-will-be-responsible-for-upgrading-all-the-workstations)
+| 465 | [Your printer is currently out of toner and will not print. You ask your co-worker for help, but he says the toner has already been ordered but it won't arrive for a few days. What would you classify this as?](#your-printer-is-currently-out-of-toner-and-will-not-print-you-ask-your-co-worker-for-help-but-he-says-the-toner-has-already-been-ordered-but-it-wont-arrive-for-a-few-days-what-would-you-classify-this-as)
+| 466 | [Fill in the blank. Service requests and their fulfillment should be standardized and [?] to the greatest degree possible.](#fill-in-the-blank-service-requests-and-their-fulfillment-should-be-standardized-and-to-the-greatest-degree-possible)
+| 467 | [Which is a recommendation of the Service Desk practice?](#which-is-a-recommendation-of-the-service-desk-practice-2)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -4580,6 +4585,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Your printer is currently out of toner and will not print. You ask your co-worker for help, but he says the toner is on order and won't arrive for a few days. He walks over to the printer, takes out the toner cartridge, shakes it back and forth a few times, and places it back into the printer. Suddenly, the printer begins to print again. Apparently, shaking the toner cartridge moved some of the remaining toner around and will allow a few more sheets to be printed while you are waiting for a new cartridge. What would you classify this as?
 
+- [ ] Incident.
+- [x] Workaround.
+- [ ] Problem.
+- [ ] Event.
+
 **[⬆ Back to Top](#table-of-contents)**
 
 ### What does a centralized Service Desk require?
@@ -4714,5 +4724,50 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Incident Management.
 - [ ] Problem Management.
 - [ ] Service Level Management.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Fill in the blank. The purpose of the [?] is to ensure that the organization continually co-creates value with all stakeholders through the use and management of products and services.
+
+- [ ] Activities.
+- [ ] Practices.
+- [x] Service value system.
+- [ ] Service value chain.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### You are working as a part of the problem management team and discovered that multiple incidents are linked together due to a problem with the current version of the web browser installed on the workstations across the network. You have identified that this could be solved by upgrading the web browser to the newest available version. Your team has requested that all of the workstations in the organization receive an updated web browser through the change management activity to solve this problem. Which value chain activity will be responsible for upgrading all the workstations?
+
+- [ ] Plan.
+- [ ] Improve.
+- [ ] Engage.
+- [x] Obtain/Build.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your printer is currently out of toner and will not print. You ask your co-worker for help, but he says the toner has already been ordered but it won't arrive for a few days. What would you classify this as?
+
+- [ ] Incident.
+- [x] Known error.
+- [ ] Problem.
+- [ ] Event.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Fill in the blank. Service requests and their fulfillment should be standardized and [?] to the greatest degree possible.
+
+- [ ] increased.
+- [ ] reduced.
+- [ ] eliminated.
+- [x] automated.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which is a recommendation of the Service Desk practice?
+
+- [ ] Service desks should never use technologies such as SMS and chat functions.
+- [ ] Service desks should be highly technical functions.
+- [x] Service desks should have a practical understanding of the wider business.
+- [ ] Service desks should be a physical team in a single fixed location.
 
 **[⬆ Back to Top](#table-of-contents)**
