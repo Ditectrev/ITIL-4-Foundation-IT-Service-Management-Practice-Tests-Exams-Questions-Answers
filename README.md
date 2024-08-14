@@ -571,6 +571,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 469 | [How does Service Level Management contribute to the Deliver and Support value chain activity?](#how-does-service-level-management-contribute-to-the-deliver-and-support-value-chain-activity)
 | 470 | [What is a documented agreement between a service provider and a customer that identifies both the services required and the expected level of service?](#what-is-a-documented-agreement-between-a-service-provider-and-a-customer-that-identifies-both-the-services-required-and-the-expected-level-of-service)
 | 471 | [Your company has five branch offices located across the country. To support each of these branch offices, a small service desk has been created for each office and it is co-located with the users to whom they are providing service and support. What model of service desk is your company using?](#your-company-has-five-branch-offices-located-across-the-country-to-support-each-of-these-branch-offices-a-small-service-desk-has-been-created-for-each-office-and-it-is-co-located-with-the-users-to-whom-they-are-providing-service-and-support-what-model-of-service-desk-is-your-company-using)
+| 472 | [Fill in the blank. A service enables [?] co-creation by facilitating outcomes that customers want to achieve.](#fill-in-the-blank-a-service-enables--co-creation-by-facilitating-outcomes-that-customers-want-to-achieve)
+| 473 | [Identify the missing word(s) in the following sentence. Warranty is the assurance that a product or service will meet [?] requirements.](identify-the-missing-words-in-the-following-sentence-warranty-is-the-assurance-that-a-product-or-service-will-meet--requirements)
+| 474 | [What is the definition of an incident?](#what-is-the-definition-of-an-incident)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -4809,5 +4812,32 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Centralized.
 - [ ] Follow-the-sun.
 - [x] Local.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Fill in the blank. A service enables [?] co-creation by facilitating outcomes that customers want to achieve.
+
+- [ ] Utility.
+- [x] Value.
+- [ ] Output.
+- [ ] Warranty.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Identify the missing word(s) in the following sentence. Warranty is the assurance that a product or service will meet [?] requirements.
+
+- [ ] The contracted.
+- [ ] Established.
+- [ ] Inexpensive.
+- [x] Agreed.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the definition of an incident?
+
+- [ ] The addition, modification, or removal of anything that could have a direct or indirect effect on services.
+- [x] An unplanned interruption to a service or reduction in the quality of a service.
+- [ ] A cause, or potential cause, of one or more incidents.
+- [ ] A problem that has been analyzed but has not been resolved.
 
 **[⬆ Back to Top](#table-of-contents)**
