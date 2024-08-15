@@ -574,6 +574,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 472 | [Fill in the blank. A service enables [?] co-creation by facilitating outcomes that customers want to achieve.](#fill-in-the-blank-a-service-enables--co-creation-by-facilitating-outcomes-that-customers-want-to-achieve)
 | 473 | [Identify the missing word(s) in the following sentence. Warranty is the assurance that a product or service will meet [?] requirements.](#identify-the-missing-words-in-the-following-sentence-warranty-is-the-assurance-that-a-product-or-service-will-meet--requirements)
 | 474 | [What is the definition of an incident?](#what-is-the-definition-of-an-incident)
+| 475 | [Identify the missing word(s) in the following sentence. A known error is a(n) [?] that has been analyzed but has not been resolved.](#identify-the-missing-words-in-the-following-sentence-a-known-error-is-an--that-has-been-analyzed-but-has-not-been-resolved)
+| 476 | [What is the purpose of the Release Management practice?](#what-is-the-purpose-of-the-release-management-practice)
+| 477 | [What is defined as the practice of establishing and nurturing links between an organization and its stakeholders at strategic and tactical levels?](#what-is-defined-as-the-practice-of-establishing-and-nurturing-links-between-an-organization-and-its-stakeholders-at-strategic-and-tactical-levels)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -4839,5 +4842,32 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] An unplanned interruption to a service or reduction in the quality of a service.
 - [ ] A cause, or potential cause, of one or more incidents.
 - [ ] A problem that has been analyzed but has not been resolved.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Identify the missing word(s) in the following sentence. A known error is a(n) [?] that has been analyzed but has not been resolved.
+
+- [ ] Change.
+- [ ] Incident.
+- [ ] Event.
+- [x] Problem.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the purpose of the Release Management practice?
+
+- [ ] Moving new or changed hardware, software, documentation, processes, or any other service component to live environments.
+- [x] Making new and changed services and features available for use.
+- [ ] Ensuring that risks are properly assessed, authorizing changes to proceed and managing a change schedule in order to maximize the number of successful IT changes.
+- [ ] Supporting the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is defined as the practice of establishing and nurturing links between an organization and its stakeholders at strategic and tactical levels?
+
+- [x] Relationship Management.
+- [ ] Service Request Management.
+- [ ] Service Level Management.
+- [ ] Service Desk.
 
 **[⬆ Back to Top](#table-of-contents)**
