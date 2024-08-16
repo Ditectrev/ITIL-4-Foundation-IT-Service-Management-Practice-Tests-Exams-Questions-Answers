@@ -577,6 +577,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 475 | [Identify the missing word(s) in the following sentence. A known error is a(n) [?] that has been analyzed but has not been resolved.](#identify-the-missing-words-in-the-following-sentence-a-known-error-is-an--that-has-been-analyzed-but-has-not-been-resolved)
 | 476 | [What is the purpose of the Release Management practice?](#what-is-the-purpose-of-the-release-management-practice)
 | 477 | [What is defined as the practice of establishing and nurturing links between an organization and its stakeholders at strategic and tactical levels?](#what-is-defined-as-the-practice-of-establishing-and-nurturing-links-between-an-organization-and-its-stakeholders-at-strategic-and-tactical-levels)
+| 478 | [What is defined as the practice of systematically observing services and service components, and recording and reporting selected changes of state identified as events?](#what-is-defined-as-the-practice-of-systematically-observing-services-and-service-components-and-recording-and-reporting-selected-changes-of-state-identified-as-events)
+| 479 | [Identify the missing word(s) in the following sentence. [?] is the practice of supporting the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner.](#identify-the-missing-words-in-the-following-sentence--is-the-practice-of-supporting-the-agreed-quality-of-a-service-by-handling-all-pre-defined-user-initiated-service-requests-in-an-effective-and-user-friendly-manner)
+| 480 | [As a Dion Training student, your desired outcome from taking the course is to pass your ITIL 4 Foundation exam. As the service provider, Dion Training also measures its success based on the number of students who pass the exam after taking our training. What best describes the activities performed by the service provider (Dion Training) and the service consumer (student) in order to co-create value and reach the desired outcome (the student passing their exam)?](#as-a-dion-training-student-your-desired-outcome-from-taking-the-course-is-to-pass-your-itil-4-foundation-exam-as-the-service-provider-dion-training-also-measures-its-success-based-on-the-number-of-students-who-pass-the-exam-after-taking-our-training-what-best-describes-the-activities-performed-by-the-service-provider-dion-training-and-the-service-consumer-student-in-order-to-co-create-value-and-reach-the-desired-outcome-the-student-passing-their-exam)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -4869,5 +4872,32 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Service Request Management.
 - [ ] Service Level Management.
 - [ ] Service Desk.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is defined as the practice of systematically observing services and service components, and recording and reporting selected changes of state identified as events?
+
+- [ ] Problem Management.
+- [x] Monitoring and Event Management.
+- [ ] Service Level Management.
+- [ ] Incident Management.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Identify the missing word(s) in the following sentence. [?] is the practice of supporting the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner.
+
+- [ ] Problem Management.
+- [ ] Service Desk.
+- [ ] Service Level Management.
+- [x] Service Request Management.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### As a Dion Training student, your desired outcome from taking the course is to pass your ITIL 4 Foundation exam. As the service provider, Dion Training also measures its success based on the number of students who pass the exam after taking our training. What best describes the activities performed by the service provider (Dion Training) and the service consumer (student) in order to co-create value and reach the desired outcome (the student passing their exam)?
+
+- [ ] Service Offering.
+- [x] Service Relationship Management.
+- [ ] Service Provision.
+- [ ] Service Consumption.
 
 **[⬆ Back to Top](#table-of-contents)**
