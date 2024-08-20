@@ -580,6 +580,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 478 | [What is defined as the practice of systematically observing services and service components, and recording and reporting selected changes of state identified as events?](#what-is-defined-as-the-practice-of-systematically-observing-services-and-service-components-and-recording-and-reporting-selected-changes-of-state-identified-as-events)
 | 479 | [Identify the missing word(s) in the following sentence. [?] is the practice of supporting the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner.](#identify-the-missing-words-in-the-following-sentence--is-the-practice-of-supporting-the-agreed-quality-of-a-service-by-handling-all-pre-defined-user-initiated-service-requests-in-an-effective-and-user-friendly-manner)
 | 480 | [As a Dion Training student, your desired outcome from taking the course is to pass your ITIL 4 Foundation exam. As the service provider, Dion Training also measures its success based on the number of students who pass the exam after taking our training. What best describes the activities performed by the service provider (Dion Training) and the service consumer (student) in order to co-create value and reach the desired outcome (the student passing their exam)?](#as-a-dion-training-student-your-desired-outcome-from-taking-the-course-is-to-pass-your-itil-4-foundation-exam-as-the-service-provider-dion-training-also-measures-its-success-based-on-the-number-of-students-who-pass-the-exam-after-taking-our-training-what-best-describes-the-activities-performed-by-the-service-provider-dion-training-and-the-service-consumer-student-in-order-to-co-create-value-and-reach-the-desired-outcome-the-student-passing-their-exam)
+| 481 | [What is the definition of a sponsor?](#what-is-the-definition-of-a-sponsor)
+| 482 | [Which describes the assurance that a product or service will meet agreed requirements?](#which-describes-the-assurance-that-a-product-or-service-will-meet-agreed-requirements)
+| 483 | [How often should the guiding principles be changed within your organization?](#how-often-should-the-guiding-principles-be-changed-within-your-organization)
+| 484 | [What is the main benefit of following the guiding principle of progress iteratively with feedback?](#what-is-the-main-benefit-of-following-the-guiding-principle-of-progress-iteratively-with-feedback)
+| 485 | [Your team is working on developing a new service and has chosen to use an Agile method of working. As part of this, your team has created an 'information radiator' in the common areas of your floor of the office. This 'information radiator' contains the list of things that must be done in the project, the current status of the project, a listing of risks associated with the project, and the overall objective/goal of the project. Based on the information provided in this scenario, which guiding principle is being demonstrated through the use of this 'information radiator'?](#your-team-is-working-on-developing-a-new-service-and-has-chosen-to-use-an-agile-method-of-working-as-part-of-this-your-team-has-created-an-information-radiator-in-the-common-areas-of-your-floor-of-the-office-this-information-radiator-contains-the-list-of-things-that-must-be-done-in-the-project-the-current-status-of-the-project-a-listing-of-risks-associated-with-the-project-and-the-overall-objectivegoal-of-the-project-based-on-the-information-provided-in-this-scenario-which-guiding-principle-is-being-demonstrated-through-the-use-of-this-information-radiator)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -4899,5 +4904,50 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Service Relationship Management.
 - [ ] Service Provision.
 - [ ] Service Consumption.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the definition of a sponsor?
+
+- [ ] A person who uses services.
+- [x] A person who authorizes budget for service consumption.
+- [ ] A person who works for an organization other than the service provider.
+- [ ] A person who defines the requirements for a service and takes responsibility for the outcomes of service consumption.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which describes the assurance that a product or service will meet agreed requirements?
+
+- [ ] Utility.
+- [x] Warranty.
+- [ ] Value.
+- [ ] Output.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### How often should the guiding principles be changed within your organization?
+
+- [ ] Monthly.
+- [ ] Quarterly.
+- [ ] Yearly.
+- [x] Never.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What is the main benefit of following the guiding principle of progress iteratively with feedback?
+
+- [x] Faster responses to customers and business needs.
+- [ ] Overall lower quality in the project.
+- [ ] Reduced flexibility.
+- [ ] Longer periods of time before a product is delivered.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Your team is working on developing a new service and has chosen to use an Agile method of working. As part of this, your team has created an 'information radiator' in the common areas of your floor of the office. This 'information radiator' contains the list of things that must be done in the project, the current status of the project, a listing of risks associated with the project, and the overall objective/goal of the project. Based on the information provided in this scenario, which guiding principle is being demonstrated through the use of this 'information radiator'?
+
+- [ ] Focus on value.
+- [ ] Keep it simple and practical.
+- [ ] Optimize and automate.
+- [x] Collaborate and promote visibiity.
 
 **[⬆ Back to Top](#table-of-contents)**
