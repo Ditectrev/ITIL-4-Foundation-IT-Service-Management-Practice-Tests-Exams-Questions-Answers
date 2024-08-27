@@ -275,7 +275,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 173 | [Which practice recommends the use of event-based surveys to gather feedback from customers?](#which-practice-recommends-the-use-of-event-based-surveys-to-gather-feedback-from-customers)|
 | 174 | [How does information about problems and known errors contribute to Incident Management?](#how-does-information-about-problems-and-known-errors-contribute-to-incident-management)|
 | 175 | [Which describes a standard change?](#which-describes-a-standard-change)|
-| 176 | [In Cisco AMP for Endpoints, which API queues to find the list of endpoints in the group 'Finance Hosts' which has a GUID of 6c3c2005-4c74-4ba7-8dbb-c4d5b6bafe03?](#in-cisco-amp-for-endpoints-which-api-queues-to-find-the-list-of-endpoints-in-the-group-finance-hosts-which-has-a-guid-of-6c3c2005-4c74-4ba7-8dbb-c4d5b6bafe03)|
+| 176 | [PLACEHOLDER](#placeholder)|
 | 177 | [Which service level metrics are BEST for measuring user experience?](#which-service-level-metrics-are-best-for-measuring-user-experience)|
 | 178 | [Which is a service request?](#which-is-a-service-request)|
 | 179 | [Which two practices interact the MOST with the Service Desk practice?](#which-two-practices-interact-the-most-with-the-service-desk-practice)|
@@ -297,10 +297,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 195 | [Which is included in the purpose of the Change Enablement practice?](#which-is-included-in-the-purpose-of-the-change-enablement-practice)|
 | 196 | [How does a service consumer contribute to the reduction of disk?](#how-does-a-service-consumer-contribute-to-the-reduction-of-disk)|
 | 197 | [The purpose of the Supplier Management practice is to ensure that the organization's suppliers and their [?] are managed appropriately to support the seamless provision of quality products and services.](#the-purpose-of-the-supplier-management-practice-is-to-ensure-that-the-organizations-suppliers-and-their--are-managed-appropriately-to-support-the-seamless-provision-of-quality-products-and-services)|
-| 198 | [Which statement about RADIUS configuration distribution using Cisco Fabric Services on a Cisco Nexus 7000 Series Switch is true?](#which-statement-about-radius-configuration-distribution-using-cisco-fabric-services-on-a-cisco-nexus-7000-series-switch-is-true)|
+| 198 | [PLACEHOLDER 2](#placeholder-2)|
 | 199 | [Which dimension considers how knowledge assets should be protected?](#which-dimension-considers-how-knowledge-assets-should-be-protected)|
 | 200 | [Which guiding principle recommends standardizing and streamlining manual tasks?](#which-guiding-principle-recommends-standardizing-and-streamlining-manual-tasks)|
-| 201 | [Ann, a member of the finance department at a large corporation, has submitted a suspicious email she received to the information security team. The team was not expecting an email from Ann, and it contains a PDF file inside a ZIP compressed archive. The information security learn is not sure which files were opened. A security team member uses an air-gapped PC to open the ZIP and PDF, and it appears to be a social engineering attempt to deliver an exploit. Which of the following would    provide greater insight on the potential impact of this attempted attack?](#ann-a-member-of-the-finance-department-at-a-large-corporation-has-submitted-a-suspicious-email-she-received-to-the-information-security-team-the-team-was-not-expecting-an-email-from-ann-and-it-contains-a-pdf-file-inside-a-zip-compressed-archive-the-information-security-learn-is-not-sure-which-files-were-opened-a-security-team-member-uses-an-air-gapped-pc-to-open-the-zip-and-pdf-and-it-appears-to-be-a-social-engineering-attempt-to-deliver-an-exploit-which-of-the-following-would----provide-greater-insight-on-the-potential-impact-of-this-attempted-attack)|
+| 201 | [PLACEHOLDER 3](#placeholder-3)|
 | 202 | [Which guiding principle recommends eliminating activities that do not contribute to the creation of value?](#which-guiding-principle-recommends-eliminating-activities-that-do-not-contribute-to-the-creation-of-value)|
 | 203 | [What is a recommendation of the 'focus on value' guiding principle?](#what-is-a-recommendation-of-the-focus-on-value-guiding-principle)|
 | 204 | [Which is part of service provision?](#which-is-part-of-service-provision)|
@@ -2166,12 +2166,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### In Cisco AMP for Endpoints, which API queues to find the list of endpoints in the group 'Finance Hosts' which has a GUID of 6c3c2005-4c74-4ba7-8dbb-c4d5b6bafe03?
+### PLACEHOLDER
 
-- [ ] https://api.amp.cisco.com/v1/endpoints?group[]=6c3c2005-4c74-4ba7-8dbb­c4d5b6bafe03
-- [x] https://api.amp.cisco.com/v1/computers?group_guid[]=6c3c2005-4c74-4ba7-8dbb­c4d5b6bafe03
-- [ ] https://api.amp.cisco.com/v1/computers?group_guid-6c3c2005-4c74-4ba7-8dbb­c4d5b6bafe03
-- [ ] https://api.amp.cisco.com/v1/endpoints?group-6c3c2005-4c74-4ba7-8dbb­c4d5b6bafe03
+- [ ] One.
+- [ ] Two.
+- [ ] Three.
+- [ ] Four.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2364,12 +2364,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which statement about RADIUS configuration distribution using Cisco Fabric Services on a Cisco Nexus 7000 Series Switch is true?
+### PLACEHOLDER 2
 
-- [x] Cisco Fabric Services does not distribute the RADIUS server group configuration or server and global keys.
-- [ ] Enabling Cisco Fabric Services causes the existing RADIUS configuration on your Cisco NX- OS device to be immediately distributed.
-- [ ] When the RADIUS configuration is being simultaneously changed on more than one device in a Cisco Fabric Services region, the most recent changes will take precedence.
-- [ ] Only the Cisco NX-OS device with the lowest IP address in the Cisco Fabric Services region can lock the RADIUS configuration.
+- [ ] One.
+- [ ] Two.
+- [ ] Three.
+- [ ] Four.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2391,13 +2391,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Ann, a member of the finance department at a large corporation, has submitted a suspicious email she received to the information security team. The team was not expecting an email from Ann, and it contains a PDF file inside a ZIP compressed archive. The information security learn is not sure which files were opened. A security team member uses an air-gapped PC to open the ZIP and PDF, and it appears to be a social engineering attempt to deliver an exploit. Which of the following would    provide greater insight on the potential impact of this attempted attack?
+### PLACEHOLDER 3
 
-- [ ] Run an antivirus scan on the finance P.
-- [x] Use a protocol analyzer on the air-gapped P.
-- [ ] Perform reverse engineering on the document.
-- [ ] Analyze network logs for unusual traffic.
-- [ ] Run a baseline analyzer against the user's computer.
+- [ ] One.
+- [ ] Two.
+- [ ] Three.
+- [ ] Four.
 
 **[⬆ Back to Top](#table-of-contents)**
 
