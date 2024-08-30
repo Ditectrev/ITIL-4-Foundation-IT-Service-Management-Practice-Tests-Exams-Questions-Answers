@@ -1323,8 +1323,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### What can help to reduce resistance to a planned improvement when applying the guiding principle 'collaborate and promote visibility'?
 
 - [ ] Restricting information about the improvement to essential stakeholders only.
-- [ ] Increasing collaboration and visibility for the improvement.
-- [x] Involving customers after all planning has been completed.
+- [x] Increasing collaboration and visibility for the improvement.
+- [ ] Involving customers after all planning has been completed.
 - [ ] Engaging every stakeholder group in the same way, with the same communication.
 
 **[⬆ Back to Top](#table-of-contents)**
