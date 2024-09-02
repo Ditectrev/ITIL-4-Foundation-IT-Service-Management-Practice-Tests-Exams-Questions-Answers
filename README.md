@@ -1772,9 +1772,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### When is the earliest that a workaround can be documented in Problem Management?
 
-- [ ] After the problem has been logged.
+- [x] After the problem has been logged.
 - [ ] After the problem has been prioritized.
-- [x] After the problem has been analyzed.
+- [ ] After the problem has been analyzed.
 - [ ] After the problem has been resolved.
 
 **[⬆ Back to Top](#table-of-contents)**
