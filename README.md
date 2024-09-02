@@ -1684,8 +1684,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Target resolution times.
 - [ ] Escalating all incidents to support teams.
-- [ ] Collaboration between teams.
-- [x] Detailed procedural steps for incident investigation.
+- [x] Collaboration between teams.
+- [ ] Detailed procedural steps for incident investigation.
 
 **[⬆ Back to Top](#table-of-contents)**
 
