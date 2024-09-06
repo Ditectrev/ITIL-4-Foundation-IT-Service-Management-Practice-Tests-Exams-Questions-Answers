@@ -1783,7 +1783,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Plan.
 - [ ] Design and Transition.
-- [x] Build.
+- [x] Obtain/Build.
 - [ ] Deliver and Support.
 
 **[⬆ Back to Top](#table-of-contents)**
