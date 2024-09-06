@@ -1207,8 +1207,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Schedule, assess, authorize.
 - [ ] Diagnose, investigate, resolve.
-- [x] Initiate, approve, fulfil.
-- [ ] Acknowledge, classify, own.
+- [ ] Initiate, approve, fulfil.
+- [x] Acknowledge, classify, own.
 
 **[⬆ Back to Top](#table-of-contents)**
 
