@@ -111,7 +111,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 9   | [What type of change is MOST likely to be managed by the Service Request Management practice?](#what-type-of-change-is-most-likely-to-be-managed-by-the-service-request-management-practice)|
 | 10  | [Which activity is part of the Continual Improvement practice?](#which-activity-is-part-of-the-continual-improvement-practice)|
 | 11  | [Which statement about Emergency Changes is CORRECT?](#which-statement-about-emergency-changes-is-correct)|
-| 12  | [Which is a key consideration for the guiding principle 'keep it simple and practical'?](#which-is-a-key-consideration-for-the-guiding-principle-keep-it-simple-and-practical)|
+| 12  | [Which is a key consideration for the guiding principle Keep It Simple and Practical?](#which-is-a-key-consideration-for-the-guiding-principle-keep-it-simple-and-practical)|
 | 13  | [What should all Continual Improvement decisions be based on?](#what-should-all-continual-improvement-decisions-be-based-on)|
 | 14  | [Which is the purpose of the Monitoring and Event Management practice?](#which-is-the-purpose-of-the-monitoring-and-event-management-practice)|
 | 15  | [Which is the CORRECT approach for managing a large improvement initiative as smaller iterations?](#which-is-the-correct-approach-for-managing-a-large-improvement-initiative-as-smaller-iterations)|
@@ -122,11 +122,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 20  | [When should the effectiveness of a problem workaround be assessed?](#when-should-the-effectiveness-of-a-problem-workaround-be-assessed)|
 | 21  | [Which practice has a purpose that includes ensuring that risks have been properly assessed?](#which-practice-has-a-purpose-that-includes-ensuring-that-risks-have-been-properly-assessed)|
 | 22  | [What is an output?](#what-is-an-output)|
-| 23  | [The use of [?] should support, not replace what is observed, when using the 'start where you are' guiding principle.](#the-use-of--should-support-not-replace-what-is-observed-when-using-the-start-where-you-are-guiding-principle)|
+| 23  | [The use of [?] should support, not replace what is observed, when using the 'Start Where You Are' guiding principle.](#the-use-of--should-support-not-replace-what-is-observed-when-using-the-start-where-you-are-guiding-principle)|
 | 24  | [Which ITIL practice has a purpose that includes reducing the likelihood of incidents?](#which-itil-practice-has-a-purpose-that-includes-reducing-the-likelihood-of-incidents)|
 | 25  | [What should be done for every problem?](#what-should-be-done-for-every-problem)|
 | 26  | [In which step of the Continual Improvement model is an improvement plan implemented?](#in-which-step-of-the-continual-improvement-model-is-an-improvement-plan-implemented)|
-| 27  | [Which is NOT a key focus of the 'information and technology' dimension?](#which-is-not-a-key-focus-of-the-information-and-technology-dimension)|
+| 27  | [Which is NOT a key focus of the 'Information and Technology' dimension?](#which-is-not-a-key-focus-of-the-information-and-technology-dimension)|
 | 28  | [How does Service Request Management contribute to the Obtain/Build value chain activity?](#how-does-service-request-management-contribute-to-the-obtainbuild-value-chain-activity)|
 | 29  | [Which describes outcomes?](#which-describes-outcomes)|
 | 30  | [Which of the following is an example of incident?](#which-of-the-following-is-an-example-of-incident)|
@@ -170,7 +170,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 68  | [Which guiding principle considers the importance of customer loyalty?](#which-guiding-principle-considers-the-importance-of-customer-loyalty)|
 | 69  | [What actions does a Service Desk take for all issues, queries and requests that are reported to them?](#what-actions-does-a-service-desk-take-for-all-issues-queries-and-requests-that-are-reported-to-them)|
 | 70  | [Which is an external input to the service value chain?](#which-is-an-external-input-to-the-service-value-chain)|
-| 71  | [What should be considered as part of the 'partners and suppliers' dimension?](#what-should-be-considered-as-part-of-the-partners-and-suppliers-dimension)|
+| 71  | [What should be considered as part of the 'Partners and Suppliers' dimension?](#what-should-be-considered-as-part-of-the-partners-and-suppliers-dimension)|
 | 72  | [Which ITIL practice has the purpose to establish and nurture the links between the organization and its stakeholders at strategic and tactical levels?](#which-itil-practice-has-the-purpose-to-establish-and-nurture-the-links-between-the-organization-and-its-stakeholders-at-strategic-and-tactical-levels)|
 | 73  | [A service offering may include goods, access to resources, and service actions. Which is an example of a service action?](#a-service-offering-may-include-goods-access-to-resources-and-service-actions-which-is-an-example-of-a-service-action)|
 | 74  | [Which practice has a purpose to support the quality of the service by handling all agreed user-initiated service requests?](#which-practice-has-a-purpose-to-support-the-quality-of-the-service-by-handling-all-agreed-user-initiated-service-requests)|
@@ -181,7 +181,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 79  | [Which activity contributes to the 'where are we now?' step of the Continual Improvement model?](#which-activity-contributes-to-the-where-are-we-now-step-of-the-continual-improvement-model)|
 | 80  | [Which practice provides a communications point for users to report operational issues, queries and requests?](#which-practice-provides-a-communications-point-for-users-to-report-operational-issues-queries-and-requests)|
 | 81  | [Which is an example of a business related measurement?](#which-is-an-example-of-a-business-related-measurement)|
-| 82  | [What can help to reduce resistance to a planned improvement when applying the guiding principle 'collaborate and promote visibility'?](#what-can-help-to-reduce-resistance-to-a-planned-improvement-when-applying-the-guiding-principle-collaborate-and-promote-visibility)|
+| 82  | [What can help to reduce resistance to a planned improvement when applying the guiding principle Collaborate and Promote Visibility?](#what-can-help-to-reduce-resistance-to-a-planned-improvement-when-applying-the-guiding-principle-collaborate-and-promote-visibility)|
 | 83  | [What is the purpose of the Incident Management practice?](#what-is-the-purpose-of-the-incident-management-practice)|
 | 84  | [What varies in size and complexity, and uses functions to achieve its objectives?](#what-varies-in-size-and-complexity-and-uses-functions-to-achieve-its-objectives)|
 | 85  | [Which BEST describes the purpose of the 'improve' value chain activity?](#which-best-describes-the-purpose-of-the-improve-value-chain-activity)|
@@ -189,26 +189,26 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 87  | [Which practice forms a link between the service provider and the users of services?](#which-practice-forms-a-link-between-the-service-provider-and-the-users-of-services)|
 | 88  | [Which practice ensures that any addition, modification, or removal of anything that could have an effect on services is assessed and authorized?](#which-practice-ensures-that-any-addition-modification-or-removal-of-anything-that-could-have-an-effect-on-services-is-assessed-and-authorized)|
 | 89  | [Which is a purpose of Release Management?](#which-is-a-purpose-of-release-management)|
-| 90  | [What is recommended by the guiding principle 'progress iteratively with feedback'?](#what-is-recommended-by-the-guiding-principle-progress-iteratively-with-feedback)|
+| 90  | [What is recommended by the guiding principle Progress Iteratively with Feedback?](#what-is-recommended-by-the-guiding-principle-progress-iteratively-with-feedback)|
 | 91  | [Which includes governance, management practices, and Continual Improvement?](#which-includes-governance-management-practices-and-continual-improvement)|
 | 92  | [What term is used to describe whether a service will meet availability, capacity and security requirements?](#what-term-is-used-to-describe-whether-a-service-will-meet-availability-capacity-and-security-requirements)|
 | 93  | [Which guiding principle considers customer and user experience?](#which-guiding-principle-considers-customer-and-user-experience)|
-| 94  | [Which is a result of applying the guiding principle 'progress iteratively with feedback'?](#which-is-a-result-of-applying-the-guiding-principle-progress-iteratively-with-feedback)|
+| 94  | [Which is a result of applying the guiding principle Progress Iteratively with Feedback?](#which-is-a-result-of-applying-the-guiding-principle-progress-iteratively-with-feedback)|
 | 95  | [What describes how components and activities work together to facilitate value creation?](#what-describes-how-components-and-activities-work-together-to-facilitate-value-creation)|
 | 96  | [Which statement about Continual Improvement is CORRECT?](#which-statement-about-continual-improvement-is-correct)|
 | 97  | [What are guiding principles?](#what-are-guiding-principles)|
 | 98  | [Which dimension is MOST concerned with skills, competencies, roles and responsibilities?](#which-dimension-is-most-concerned-with-skills-competencies-roles-and-responsibilities)|
 | 99  | [Which statement about the Change Enablement practice is CORRECT?](#which-statement-about-the-change-enablement-practice-is-correct)|
-| 100 | [What can be used to determine if a service is 'fit for purpose'?](#what-can-be-used-to-determine-if-a-service-is-fit-for-purpose)|
+| 100 | [What can be used to determine if a service is Fit for Purpose?](#what-can-be-used-to-determine-if-a-service-is-fit-for-purpose)|
 | 101 | [Which practice has a purpose that includes managing risks to confidentiality, integrity and availability?](#which-practice-has-a-purpose-that-includes-managing-risks-to-confidentiality-integrity-and-availability)|
 | 102 | [Which is a key activity carried out in the 'did we get there?' step of the Continual Improvement model?](#which-is-a-key-activity-carried-out-in-the-did-we-get-there-step-of-the-continual-improvement-model)|
 | 103 | [What can a service remove from the consumer and impose on the consumer?](#what-can-a-service-remove-from-the-consumer-and-impose-on-the-consumer)|
 | 104 | [What does Change Enablement PRIMARILY focus on?](#what-does-change-enablement-primarily-focus-on)|
-| 105 | [You are attempting to print a document from your workstation to the network printer in your office. The print job failed when you attempted to print, so you called the service desk for assistance. What term best describes your issue?](#you-are-attempting-to-print-a-document-from-your-workstation-to-the-network-printer-in-your-office-the-print-job-failed-when-you-attempted-to-print-so-you-called-the-service-desk-for-assistance-what-term-best-describes-your-issue)|
+| 105 | [You are attempting to print a document from your workstation to the network printer in your office. The print job failed when you attempted to print, so you called the Service Desk for assistance. What term best describes your issue?](#you-are-attempting-to-print-a-document-from-your-workstation-to-the-network-printer-in-your-office-the-print-job-failed-when-you-attempted-to-print-so-you-called-the-service-desk-for-assistance-what-term-best-describes-your-issue)|
 | 106 | [A change is defined as the addition, modification, or removal of anything that could have a direct or indirect effect on [?].](#a-change-is-defined-as-the-addition-modification-or-removal-of-anything-that-could-have-a-direct-or-indirect-effect-on-)|
 | 107 | [Which is handled as a service request?](#which-is-handled-as-a-service-request)|
-| 108 | [Which is a key requirement for a successful service level agreement (SLA)?](#which-is-a-key-requirement-for-a-successful-service-level-agreement-sla)|
-| 109 | [Which is considered by the 'partners and suppliers' dimension?](#which-is-considered-by-the-partners-and-suppliers-dimension)|
+| 108 | [Which is a key requirement for a successful Service Level Agreement (SLA)?](#which-is-a-key-requirement-for-a-successful-service-level-agreement-sla)|
+| 109 | [Which is considered by the 'Partners and Suppliers' dimension?](#which-is-considered-by-the-partners-and-suppliers-dimension)|
 | 110 | [What impact does automation have on a Service Desk?](#what-impact-does-automation-have-on-a-service-desk)|
 | 111 | [An organization asks a stakeholder to review a planned change. Which guiding principle does this demonstrate?](#an-organization-asks-a-stakeholder-to-review-a-planned-change-which-guiding-principle-does-this-demonstrate)|
 | 112 | [Which practice recommends using tools for collaboration and the automated matching of symptoms?](#which-practice-recommends-using-tools-for-collaboration-and-the-automated-matching-of-symptoms)|
@@ -225,10 +225,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 123 | [What is the purpose of the Relationship Management practice?](#what-is-the-purpose-of-the-relationship-management-practice)|
 | 124 | [Which describes the utility of a service?](#which-describes-the-utility-of-a-service)|
 | 125 | [Why should some service requests be fulfilled with no additional approvals?](#why-should-some-service-requests-be-fulfilled-with-no-additional-approvals)|
-| 126 | [Which approach is CORRECT when applying the guiding principle 'keep it simple and practical'?](#which-approach-is-correct-when-applying-the-guiding-principle-keep-it-simple-and-practical)|
+| 126 | [Which approach is CORRECT when applying the guiding principle Keep It Simple and Practical?](#which-approach-is-correct-when-applying-the-guiding-principle-keep-it-simple-and-practical)|
 | 127 | [Which dimension considers data security and privacy?](#which-dimension-considers-data-security-and-privacy)|
 | 128 | [Which practice involves the management of vulnerabilities that were not identified before the service went live?](#which-practice-involves-the-management-of-vulnerabilities-that-were-not-identified-before-the-service-went-live)|
-| 129 | [Which is a recommendation of the guiding principle 'think and work holistically'?](#which-is-a-recommendation-of-the-guiding-principle-think-and-work-holistically)|
+| 129 | [Which is a recommendation of the guiding principle Think and Work Holistically?](#which-is-a-recommendation-of-the-guiding-principle-think-and-work-holistically)|
 | 130 | [Which value chain activity ensures that products meet stakeholder expectations for quality?](#which-value-chain-activity-ensures-that-products-meet-stakeholder-expectations-for-quality)|
 | 131 | [What is the purpose of the Problem Management practice?](#what-is-the-purpose-of-the-problem-management-practice)|
 | 132 | [When is the earliest that a workaround can be documented in Problem Management?](#when-is-the-earliest-that-a-workaround-can-be-documented-in-problem-management)|
@@ -241,7 +241,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 139 | [Which is included in the purpose of the Service Level Management practice?](#which-is-included-in-the-purpose-of-the-service-level-management-practice)|
 | 140 | [Which term relates to service levels aligned with the needs of service consumers?](#which-term-relates-to-service-levels-aligned-with-the-needs-of-service-consumers)|
 | 141 | [What is the definition of a known error?](#what-is-the-definition-of-a-known-error)|
-| 142 | [Which statement about the use of measurement in the 'start where you are' guiding principle is CORRECT?](#which-statement-about-the-use-of-measurement-in-the-start-where-you-are-guiding-principle-is-correct)|
+| 142 | [Which statement about the use of measurement in the 'Start Where You Are' guiding principle is CORRECT?](#which-statement-about-the-use-of-measurement-in-the-start-where-you-are-guiding-principle-is-correct)|
 | 143 | [Which is the BEST description of the value of a service to a customer?](#which-is-the-best-description-of-the-value-of-a-service-to-a-customer)|
 | 144 | [Which practice involves the management of vulnerabilities that have been analysed but not resolved?](#which-practice-involves-the-management-of-vulnerabilities-that-have-been-analysed-but-not-resolved)|
 | 145 | [Which is an activity of the Incident Management practice?](#which-is-an-activity-of-the-incident-management-practice)|
@@ -262,9 +262,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 160 | [What is a change schedule PRIMARILY used for?](#what-is-a-change-schedule-primarily-used-for)|
 | 161 | [Which can act as an operating model for an organization?](#which-can-act-as-an-operating-model-for-an-organization)|
 | 162 | [What is an IT asset?](#what-is-an-it-asset)|
-| 163 | [Which is a key requirement for a successful service level agreement?](#which-is-a-key-requirement-for-a-successful-service-level-agreement)|
+| 163 | [Which is a key requirement for a successful Service Level Agreement?](#which-is-a-key-requirement-for-a-successful-service-level-agreement)|
 | 164 | [Which role approves the cost of services?](#which-role-approves-the-cost-of-services)|
-| 165 | [What is warranty?](#what-is-warranty)|
+| 165 | [What is Warranty?](#what-is-Warranty)|
 | 166 | [What are the three phases of Problem Management?](#what-are-the-three-phases-of-problem-management)|
 | 167 | [Where are the details of the required performance outcomes of a service defined?](#where-are-the-details-of-the-required-performance-outcomes-of-a-service-defined)|
 | 168 | [Which skill is an essential part of the Service Level Management practice?](#which-skill-is-an-essential-part-of-the-service-level-management-practice)|
@@ -302,7 +302,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 200 | [Which guiding principle recommends standardizing and streamlining manual tasks?](#which-guiding-principle-recommends-standardizing-and-streamlining-manual-tasks)|
 | 201 | [PLACEHOLDER 3](#placeholder-3)|
 | 202 | [Which guiding principle recommends eliminating activities that do not contribute to the creation of value?](#which-guiding-principle-recommends-eliminating-activities-that-do-not-contribute-to-the-creation-of-value)|
-| 203 | [What is a recommendation of the 'focus on value' guiding principle?](#what-is-a-recommendation-of-the-focus-on-value-guiding-principle)|
+| 203 | [What is a recommendation of the Focus on Value guiding principle?](#what-is-a-recommendation-of-the-focus-on-value-guiding-principle)|
 | 204 | [Which is part of service provision?](#which-is-part-of-service-provision)|
 | 205 | [Which practice has a purpose to support the quality of the service by handling all agreed user initiated service requests?](#which-practice-has-a-purpose-to-support-the-quality-of-the-service-by-handling-all-agreed-user-initiated-service-requests)|
 | 206 | [When should a full risk assessment and Authorization be carried out for a standard change?](#when-should-a-full-risk-assessment-and-authorization-be-carried-out-for-a-standard-change)|
@@ -324,7 +324,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 222 | [Which helps to manage an incident when it is unclear which support team should be working on the incident?](#which-helps-to-manage-an-incident-when-it-is-unclear-which-support-team-should-be-working-on-the-incident)|
 | 223 | [Which statement about the Continual Improvement practice is CORRECT?](#which-statement-about-the-continual-improvement-practice-is-correct)|
 | 224 | [Which does the ITIL service value system discourage?](#which-does-the-itil-service-value-system-discourage)|
-| 225 | [An SLA is a service level agreement. Which describes the 'watermelon SLA' effect?](#an-sla-is-a-service-level-agreement-which-describes-the-watermelon-sla-effect)|
+| 225 | [An SLA is a Service Level Agreement. Which describes the 'watermelon SLA' effect?](#an-sla-is-a-service-level-agreement-which-describes-the-watermelon-sla-effect)|
 | 226 | [Which practice includes conducting regular reviews to ensure that services are still appropriate and relevant?](#which-practice-includes-conducting-regular-reviews-to-ensure-that-services-are-still-appropriate-and-relevant)|
 | 227 | [What is a service?](#what-is-a-service)|
 | 228 | [Which TWO are important aspects of the Service Request Management practice? 1. Standardization and automation 2. Providing a variety of channels for access 3. Establishing a shared view of targets 4. Policies for approvals](#which-two-are-important-aspects-of-the-service-request-management-practice-1-standardization-and-automation-2-providing-a-variety-of-channels-for-access-3-establishing-a-shared-view-of-targets-4-policies-for-approvals)|
@@ -356,7 +356,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 254 | [What can be described as an operating model for the creation and management of products and services?](#what-can-be-described-as-an-operating-model-for-the-creation-and-management-of-products-and-services)|
 | 255 | [Which action is performed by a service provider?](#which-action-is-performed-by-a-service-provider)|
 | 256 | [Which step of the Continual Improvement model includes baseline assessments?](#which-step-of-the-continual-improvement-model-includes-baseline-assessments)|
-| 257 | [Which describes a 'change authority'?](#which-describes-a-change-authority)|
+| 257 | [Which describes a Change Authority?](#which-describes-a-change-authority)|
 | 258 | [Which is NOT a component of the service value system?](#which-is-not-a-component-of-the-service-value-system-1)|
 | 259 | [Which statement about service Relationship Management is CORRECT?](#which-statement-about-service-relationship-management-is-correct)|
 | 260 | [What is the MOST important reason for prioritizing incidents?](#what-is-the-most-important-reason-for-prioritizing-incidents)|
@@ -367,7 +367,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 265 | [Which statement about outcomes is CORRECT?](#which-statement-about-outcomes-is-correct-3)|
 | 266 | [Which skill is required by the Service Level Management practice?](#which-skill-is-required-by-the-service-level-management-practice)|
 | 267 | [Which statement about the Continual Improvement model is CORRECT?](#which-statement-about-the-continual-improvement-model-is-correct)|
-| 268 | [What is the definition of warranty?](#what-is-the-definition-of-warranty)|
+| 268 | [What is the definition of Warranty?](#what-is-the-definition-of-Warranty)|
 | 269 | [Which practice has a purpose that includes managing risks relating to confidentiality, integrity and availability?](#which-practice-has-a-purpose-that-includes-managing-risks-relating-to-confidentiality-integrity-and-availability)
 | 270 | [What is the definition of a service?](#what-is-the-definition-of-a-service)
 | 271 | [Utility is the [?] offered by a product or service to meet a particular need.](#utility-is-the--offered-by-a-product-or-service-to-meet-a-particular-need)
@@ -386,7 +386,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 284 | [Dion Training Solutions wants to build a new service to automatically fulfill exam voucher orders for students. Currently, exam vouchers are fulfilled manually by a staff member once the order is received from the student by copying and pasting the voucher number from a spreadsheet into an email template and sending out the email to the students. Before attempting to automate this fulfillment process, the team lead takes an inventory of the current services, processes, and procedures that are being used by the voucher fulfillment team to see if they might be able to be reused. What guiding principle best describes this scenario?](#dion-training-solutions-wants-to-build-a-new-service-to-automatically-fulfill-exam-voucher-orders-for-students-currently-exam-vouchers-are-fulfilled-manually-by-a-staff-member-once-the-order-is-received-from-the-student-by-copying-and-pasting-the-voucher-number-from-a-spreadsheet-into-an-email-template-and-sending-out-the-email-to-the-students-before-attempting-to-automate-this-fulfillment-process-the-team-lead-takes-an-inventory-of-the-current-services-processes-and-procedures-that-are-being-used-by-the-voucher-fulfillment-team-to-see-if-they-might-be-able-to-be-reused-what-guiding-principle-best-describes-this-scenario)
 | 285 | [Dion Training Solutions has decided to create an online course for the ITIL 4 Foundation exam. The company developed their curriculum and then invited 50 students to participate in live training to determine if the training was effective. During the training, some students didn't understand the concept of the service value chain, so the instructor rewrote that portion of the curriculum. Which guiding principle is being demonstrated by this approach to curriculum development?](#dion-training-solutions-has-decided-to-create-an-online-course-for-the-itil-4-foundation-exam-the-company-developed-their-curriculum-and-then-invited-50-students-to-participate-in-live-training-to-determine-if-the-training-was-effective-during-the-training-some-students-didnt-understand-the-concept-of-the-service-value-chain-so-the-instructor-rewrote-that-portion-of-the-curriculum-which-guiding-principle-is-being-demonstrated-by-this-approach-to-curriculum-development)
 | 286 | [You are working to design a new service for internal use across your organization. As part of your design efforts, you form a small team with relevant stakeholders from the human resources, information technology, sales, and other relevant departments to ensure the service adequately meets each department's needs and hope this results in great acceptance of the service when delivered. Which guiding principle best describes this scenario?](#dion-training-solutions-has-decided-to-create-an-online-course-for-the-itil-4-foundation-exam-the-company-developed-their-curriculum-and-then-invited-50-students-to-participate-in-live-training-to-determine-if-the-training-was-effective-during-the-training-some-students-didnt-understand-the-concept-of-the-service-value-chain-so-the-instructor-rewrote-that-portion-of-the-curriculum-which-guiding-principle-is-being-demonstrated-by-this-approach-to-curriculum-development)
-| 287 | [John is currently working to create a new service that would allow a customer to purchase a digital product online and have it delivered to the user's inbox. John is responsible for the payment portion of this service, but Sally is responsible for the digital product fulfillment portion of the service. Which of the following should John do in order to follow the principle of 'think and work holistically'?](#john-is-currently-working-to-create-a-new-service-that-would-allow-a-customer-to-purchase-a-digital-product-online-and-have-it-delivered-to-the-users-inbox-john-is-responsible-for-the-payment-portion-of-this-service-but-sally-is-responsible-for-the-digital-product-fulfillment-portion-of-the-service-which-of-the-following-should-john-do-in-order-to-follow-the-principle-of-think-and-work-holistically)
+| 287 | [John is currently working to create a new service that would allow a customer to purchase a digital product online and have it delivered to the user's inbox. John is responsible for the payment portion of this service, but Sally is responsible for the digital product fulfillment portion of the service. Which of the following should John do in order to follow the principle of Think and Work Holistically?](#john-is-currently-working-to-create-a-new-service-that-would-allow-a-customer-to-purchase-a-digital-product-online-and-have-it-delivered-to-the-users-inbox-john-is-responsible-for-the-payment-portion-of-this-service-but-sally-is-responsible-for-the-digital-product-fulfillment-portion-of-the-service-which-of-the-following-should-john-do-in-order-to-follow-the-principle-of-think-and-work-holistically)
 | 288 | [Which of these are a key focus of the Organization and People dimension?](#which-of-these-are-a-key-focus-of-the-organization-and-people-dimension)
 | 289 | [Which of these are NOT a key focus of the Partners and Suppliers dimension?](#which-of-these-are-not-a-key-focus-of-the-partners-and-suppliers-dimension)
 | 290 | [Which ITIL concept describes the service value chain?](#which-itil-concept-describes-the-service-value-chain)
@@ -421,7 +421,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 319 | [Your organization is preparing to launch a new service. Your manager is concerned that there is a possibility that something bad might happen which could cause the service to fail and the desired outcome won't be achieved. What term best describes your manager's concerns?](#your-organization-is-preparing-to-launch-a-new-service-your-manager-is-concerned-that-there-is-a-possibility-that-something-bad-might-happen-which-could-cause-the-service-to-fail-and-the-desired-outcome-wont-be-achieved-what-term-best-describes-your-managers-concerns)
 | 320 | [[?] is/are defined as a recommendation that can guide an organization in all circumstances and will guide organizations when adopting service management.](#-isare-defined-as-a-recommendation-that-can-guide-an-organization-in-all-circumstances-and-will-guide-organizations-when-adopting-service-management)
 | 321 | [You have been assigned to a team that has been asked to identify how your consumers use a particular service, what the service helps them to do, and how the service helps them to identify their goals. Which of the guiding principles should best be applied in your situation?](#you-have-been-assigned-to-a-team-that-has-been-asked-to-identify-how-your-consumers-use-a-particular-service-what-the-service-helps-them-to-do-and-how-the-service-helps-them-to-identify-their-goals-which-of-the-guiding-principles-should-best-be-applied-in-your-situation)
-| 322 | [Your organization is currently running a web hosting service, but it is not providing sufficient utility and warranty. In order to fix this, a team has been assembled and asked to design a new web hosting service. The team manager suggests that the team first look at the existing service and its processes before they begin to design the new service. What guiding principle is being followed by the team manager?](#your-organization-is-currently-running-a-web-hosting-service-but-it-is-not-providing-sufficient-utility-and-warranty-in-order-to-fix-this-a-team-has-been-assembled-and-asked-to-design-a-new-web-hosting-service-the-team-manager-suggests-that-the-team-first-look-at-the-existing-service-and-its-processes-before-they-begin-to-design-the-new-service-what-guiding-principle-is-being-followed-by-the-team-manager)
+| 322 | [Your organization is currently running a web hosting service, but it is not providing sufficient utility and Warranty. In order to fix this, a team has been assembled and asked to design a new web hosting service. The team manager suggests that the team first look at the existing service and its processes before they begin to design the new service. What guiding principle is being followed by the team manager?](#your-organization-is-currently-running-a-web-hosting-service-but-it-is-not-providing-sufficient-utility-and-Warranty-in-order-to-fix-this-a-team-has-been-assembled-and-asked-to-design-a-new-web-hosting-service-the-team-manager-suggests-that-the-team-first-look-at-the-existing-service-and-its-processes-before-they-begin-to-design-the-new-service-what-guiding-principle-is-being-followed-by-the-team-manager)
 | 323 | [Which guiding principle is focused on involving the right people in the correct roles in order to get additional buy-in for the project and increase the likelihood of long-term success?](#which-guiding-principle-is-focused-on-involving-the-right-people-in-the-correct-roles-in-order-to-get-additional-buy-in-for-the-project-and-increase-the-likelihood-of-long-term-success)
 | 324 | [During a review of the New Account Creation process at your company, you determine that the current process requires 15 steps to create a new account. As you analyze each step, you find that steps 3 and 5 provide no value to the process or the organization. Based on which guiding principle should you eliminate steps 3 and 5 from the process?](#during-a-review-of-the-new-account-creation-process-at-your-company-you-determine-that-the-current-process-requires-15-steps-to-create-a-new-account-as-you-analyze-each-step-you-find-that-steps-3-and-5-provide-no-value-to-the-process-or-the-organization-based-on-which-guiding-principle-should-you-eliminate-steps-3-and-5-from-the-process)
 | 325 | [What refers to the use of technology to perform a step or series of steps correctly and consistently with limited or no human involvement?](#what-refers-to-the-use-of-technology-to-perform-a-step-or-series-of-steps-correctly-and-consistently-with-limited-or-no-human-involvement)
@@ -436,15 +436,15 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 334 | [Who is responsible for approving a change within the organization?](#who-is-responsible-for-approving-a-change-within-the-organization)
 | 335 | [Your company has decided to install a service management tool that provides incident management as one of its functions. What is the benefit of using an incident management system?](#your-company-has-decided-to-install-a-service-management-tool-that-provides-incident-management-as-one-of-its-functions-what-is-the-benefit-of-using-an-incident-management-system)
 | 336 | [What is usually included as part of Incident Management?](#what-is-usually-included-as-part-of-incident-management)
-| 337 | [You are working as a service desk analyst. Within the last hour, you have received 13 calls about users being unable to log on to the network. There appears to be something wrong with the domain controller. What would you classify this scenario as?](#you-are-working-as-a-service-desk-analyst-within-the-last-hour-you-have-received-13-calls-about-users-being-unable-to-log-on-to-the-network-there-appears-to-be-something-wrong-with-the-domain-controller-what-would-you-classify-this-scenario-as)
-| 338 | [The users on the fourth floor of your building keep calling the service desk to report that their network connectivity is not working properly. The service desk logs each of these incidents, but since there are multiple incidents for the same issue, they forward it to the problem management activity for resolution. During your analysis, you determine that the network switch that services the entire fourth floor is broken and will need to be replaced. You checked the current inventory of spares, but there are none available. It appears this problem will remain for 24 hours until a new switch can be received and installed. How would you categorize the issue described in this scenario?](#the-users-on-the-fourth-floor-of-your-building-keep-calling-the-service-desk-to-report-that-their-network-connectivity-is-not-working-properly-the-service-desk-logs-each-of-these-incidents-but-since-there-are-multiple-incidents-for-the-same-issue-they-forward-it-to-the-problem-management-activity-for-resolution-during-your-analysis-you-determine-that-the-network-switch-that-services-the-entire-fourth-floor-is-broken-and-will-need-to-be-replaced-you-checked-the-current-inventory-of-spares-but-there-are-none-available-it-appears-this-problem-will-remain-for-24-hours-until-a-new-switch-can-be-received-and-installed-how-would-you-categorize-the-issue-described-in-this-scenario)
+| 337 | [You are working as a Service Desk analyst. Within the last hour, you have received 13 calls about users being unable to log on to the network. There appears to be something wrong with the domain controller. What would you classify this scenario as?](#you-are-working-as-a-service-desk-analyst-within-the-last-hour-you-have-received-13-calls-about-users-being-unable-to-log-on-to-the-network-there-appears-to-be-something-wrong-with-the-domain-controller-what-would-you-classify-this-scenario-as)
+| 338 | [The users on the fourth floor of your building keep calling the Service Desk to report that their network connectivity is not working properly. The Service Desk logs each of these incidents, but since there are multiple incidents for the same issue, they forward it to the problem management activity for resolution. During your analysis, you determine that the network switch that services the entire fourth floor is broken and will need to be replaced. You checked the current inventory of spares, but there are none available. It appears this problem will remain for 24 hours until a new switch can be received and installed. How would you categorize the issue described in this scenario?](#the-users-on-the-fourth-floor-of-your-building-keep-calling-the-service-desk-to-report-that-their-network-connectivity-is-not-working-properly-the-service-desk-logs-each-of-these-incidents-but-since-there-are-multiple-incidents-for-the-same-issue-they-forward-it-to-the-problem-management-activity-for-resolution-during-your-analysis-you-determine-that-the-network-switch-that-services-the-entire-fourth-floor-is-broken-and-will-need-to-be-replaced-you-checked-the-current-inventory-of-spares-but-there-are-none-available-it-appears-this-problem-will-remain-for-24-hours-until-a-new-switch-can-be-received-and-installed-how-would-you-categorize-the-issue-described-in-this-scenario)
 | 339 | [How does Service Request Management contribute to the Deliver and Support value chain activity?](#how-does-service-request-management-contribute-to-the-deliver-and-support-value-chain-activity)
 | 340 | [What is an example of an action a Service Request Management employee would undertake as part of the Obtain/Build activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-obtainbuild-activity)
 | 341 | [What is true about the Service Desk?](#what-is-true-about-the-service-desk)
 | 342 | [What activity is the main channel for communication and collaboration with users?](#what-activity-is-the-main-channel-for-communication-and-collaboration-with-users)
-| 343 | [You are in a quarterly service level management review with your supervisor. The manager asks your supervisor if the service desk has been meeting their SLA target metrics. Your supervisor proudly proclaims that everything is 'green' (meaning, we are meeting all of the targets). Just then, another executive asks, "If everything is showing as 'green', why am I hearing other users complain that the service is always unavailable for use?" What might be the reason for this?](#you-are-in-a-quarterly-service-level-management-review-with-your-supervisor-the-manager-asks-your-supervisor-if-the-service-desk-has-been-meeting-their-sla-target-metrics-your-supervisor-proudly-proclaims-that-everything-is-green-meaning-we-are-meeting-all-of-the-targets-just-then-another-executive-asks-if-everything-is-showing-as-green-why-am-i-hearing-other-users-complain-that-the-service-is-always-unavailable-for-use-what-might-be-the-reason-for-this)
+| 343 | [You are in a quarterly service level management review with your supervisor. The manager asks your supervisor if the Service Desk has been meeting their SLA target metrics. Your supervisor proudly proclaims that everything is 'green' (meaning, we are meeting all of the targets). Just then, another executive asks, "If everything is showing as 'green', why am I hearing other users complain that the service is always unavailable for use?" What might be the reason for this?](#you-are-in-a-quarterly-service-level-management-review-with-your-supervisor-the-manager-asks-your-supervisor-if-the-service-desk-has-been-meeting-their-sla-target-metrics-your-supervisor-proudly-proclaims-that-everything-is-green-meaning-we-are-meeting-all-of-the-targets-just-then-another-executive-asks-if-everything-is-showing-as-green-why-am-i-hearing-other-users-complain-that-the-service-is-always-unavailable-for-use-what-might-be-the-reason-for-this)
 | 344 | [How does Service Level Management contribute to the Improve value chain activity?](#how-does-service-level-management-contribute-to-the-improve-value-chain-activity)
-| 345 | [You are working as a service desk manager. One of your analysts has created a new workaround for a problem that has been causing issues for users for the last few hours. To ensure all users across the network are notified of this workaround, you decide to post the workaround on the front page of your user service portal on the intranet. During which value chain activity would this occur?](#you-are-working-as-a-service-desk-manager-one-of-your-analysts-has-created-a-new-workaround-for-a-problem-that-has-been-causing-issues-for-users-for-the-last-few-hours-to-ensure-all-users-across-the-network-are-notified-of-this-workaround-you-decide-to-post-the-workaround-on-the-front-page-of-your-user-service-portal-on-the-intranet-during-which-value-chain-activity-would-this-occur)
+| 345 | [You are working as a Service Desk manager. One of your analysts has created a new workaround for a problem that has been causing issues for users for the last few hours. To ensure all users across the network are notified of this workaround, you decide to post the workaround on the front page of your user service portal on the intranet. During which value chain activity would this occur?](#you-are-working-as-a-service-desk-manager-one-of-your-analysts-has-created-a-new-workaround-for-a-problem-that-has-been-causing-issues-for-users-for-the-last-few-hours-to-ensure-all-users-across-the-network-are-notified-of-this-workaround-you-decide-to-post-the-workaround-on-the-front-page-of-your-user-service-portal-on-the-intranet-during-which-value-chain-activity-would-this-occur)
 | 346 | [What is an example of an action a Service Request Management employee would undertake as part of the Design and Transition activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-design-and-transition-activity)
 | 347 | [What is the definition of a customer?](#what-is-the-definition-of-a-customer)
 | 348 | [A sponsor is a person who authorizes [?] for service consumption.](#a-sponsor-is-a-person-who-authorizes--for-service-consumption)
@@ -456,7 +456,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 354 | [Which describes the functionality offered by a product or service to meet a particular need?](#which-describes-the-functionality-offered-by-a-product-or-service-to-meet-a-particular-need)
 | 355 | [What term best describes a service that is Fit for Use?](#what-term-best-describes-a-service-that-is-fit-for-use)
 | 356 | [What are guiding principles considered?](#what-are-guiding-principles-considered)
-| 357 | [You have been asked to investigate an email service within your organization that is failing to meet its intended outcomes. You begin by determining the intended outcome and then observe the current service with as much objectivity as possible. Based on your observations, you are able to determine that the current service is not meeting its utility and warranty requirements. Which guiding principles best describes your actions in this scenario?](#you-have-been-asked-to-investigate-an-email-service-within-your-organization-that-is-failing-to-meet-its-intended-outcomes-you-begin-by-determining-the-intended-outcome-and-then-observe-the-current-service-with-as-much-objectivity-as-possible-based-on-your-observations-you-are-able-to-determine-that-the-current-service-is-not-meeting-its-utility-and-warranty-requirements-which-guiding-principles-best-describes-your-actions-in-this-scenario)
+| 357 | [You have been asked to investigate an email service within your organization that is failing to meet its intended outcomes. You begin by determining the intended outcome and then observe the current service with as much objectivity as possible. Based on your observations, you are able to determine that the current service is not meeting its utility and Warranty requirements. Which guiding principles best describes your actions in this scenario?](#you-have-been-asked-to-investigate-an-email-service-within-your-organization-that-is-failing-to-meet-its-intended-outcomes-you-begin-by-determining-the-intended-outcome-and-then-observe-the-current-service-with-as-much-objectivity-as-possible-based-on-your-observations-you-are-able-to-determine-that-the-current-service-is-not-meeting-its-utility-and-Warranty-requirements-which-guiding-principles-best-describes-your-actions-in-this-scenario)
 | 358 | [A small start-up in San Francisco is launching a brand new iPhone app. Their staff is small, but they have big dreams and ideas for their app. The app will perform 15 different functions when it is fully developed. Currently, the app only has 4 functions completed, but the company decided to release the app to get some initial feedback. Based on the feedback, the company changed the third function to improve the customer experience and continued to add one function every 3 weeks to the app. What guiding principle best describes what the company was doing?](#a-small-start-up-in-san-francisco-is-launching-a-brand-new-iphone-app-their-staff-is-small-but-they-have-big-dreams-and-ideas-for-their-app-the-app-will-perform-15-different-functions-when-it-is-fully-developed-currently-the-app-only-has-4-functions-completed-but-the-company-decided-to-release-the-app-to-get-some-initial-feedback-based-on-the-feedback-the-company-changed-the-third-function-to-improve-the-customer-experience-and-continued-to-add-one-function-every-3-weeks-to-the-app-what-guiding-principle-best-describes-what-the-company-was-doing)
 | 359 | [Which value chain activity ensures continual improvement of products, services, and practices across all value chain activities and the four dimensions of service management?](#which-value-chain-activity-ensures-continual-improvement-of-products-services-and-practices-across-all-value-chain-activities-and-the-four-dimensions-of-service-management)
 | 360 | [Betsy has been hired by your company to lead the process improvement efforts. You have shared with her the overall vision for the process improvement and she begins to analyze your current resources, processes, and metrics. What step of the continual improvement model is Betsy performing?](#betsy-has-been-hired-by-your-company-to-lead-the-process-improvement-efforts-you-have-shared-with-her-the-overall-vision-for-the-process-improvement-and-she-begins-to-analyze-your-current-resources-processes-and-metrics-what-step-of-the-continual-improvement-model-is-betsy-performing)
@@ -472,8 +472,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 370 | [What is an example of an action a Service Request Management employee would undertake as part of the Improve activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-improve-activity)
 | 371 | [What does a centralized Service Desk require?](#what-does-a-centralized-service-desk-require)
 | 372 | [If your company is using a single Service Desk located in one office building to support users from around the world, what type of Service Desk might this be?](#if-your-company-is-using-a-single-service-desk-located-in-one-office-building-to-support-users-from-around-the-world-what-type-of-service-desk-might-this-be)
-| 373 | [Which of the following is NOT a valid source of Service Level Management data to use in analyzing your service level agreements?](#which-of-the-following-is-not-a-valid-source-of-service-level-management-data-to-use-in-analyzing-your-service-level-agreements)
-| 374 | [Your laptop only has a 256GB of SSD storage installed. You have been traveling for work for the last 2 weeks and have downloaded a lot of video files to your internal storage device. Your computer is having issues because there is not enough free space. You called your service desk, but since you are out of the country, they cannot remotely back up all the files on your laptop. They recommend that you move the large files from your internal storage device (256GB SSD) to an external hard drive to free up some available space. Unfortunately, you don't have an external hard drive with you, so you will purchase one at the store later today. How would you classify this situation and the solution recommended?](#your-laptop-only-has-a-256gb-of-ssd-storage-installed-you-have-been-traveling-for-work-for-the-last-2-weeks-and-have-downloaded-a-lot-of-video-files-to-your-internal-storage-device-your-computer-is-having-issues-because-there-is-not-enough-free-space-you-called-your-service-desk-but-since-you-are-out-of-the-country-they-cannot-remotely-back-up-all-the-files-on-your-laptop-they-recommend-that-you-move-the-large-files-from-your-internal-storage-device-256gb-ssd-to-an-external-hard-drive-to-free-up-some-available-space-unfortunately-you-dont-have-an-external-hard-drive-with-you-so-you-will-purchase-one-at-the-store-later-today-how-would-you-classify-this-situation-and-the-solution-recommended)
+| 373 | [Which of the following is NOT a valid source of Service Level Management data to use in analyzing your Service Level Agreements?](#which-of-the-following-is-not-a-valid-source-of-service-level-management-data-to-use-in-analyzing-your-service-level-agreements)
+| 374 | [Your laptop only has a 256GB of SSD storage installed. You have been traveling for work for the last 2 weeks and have downloaded a lot of video files to your internal storage device. Your computer is having issues because there is not enough free space. You called your Service Desk, but since you are out of the country, they cannot remotely back up all the files on your laptop. They recommend that you move the large files from your internal storage device (256GB SSD) to an external hard drive to free up some available space. Unfortunately, you don't have an external hard drive with you, so you will purchase one at the store later today. How would you classify this situation and the solution recommended?](#your-laptop-only-has-a-256gb-of-ssd-storage-installed-you-have-been-traveling-for-work-for-the-last-2-weeks-and-have-downloaded-a-lot-of-video-files-to-your-internal-storage-device-your-computer-is-having-issues-because-there-is-not-enough-free-space-you-called-your-service-desk-but-since-you-are-out-of-the-country-they-cannot-remotely-back-up-all-the-files-on-your-laptop-they-recommend-that-you-move-the-large-files-from-your-internal-storage-device-256gb-ssd-to-an-external-hard-drive-to-free-up-some-available-space-unfortunately-you-dont-have-an-external-hard-drive-with-you-so-you-will-purchase-one-at-the-store-later-today-how-would-you-classify-this-situation-and-the-solution-recommended)
 | 375 | [How does Service Level Management contribute to the Engage value chain activity?](#how-does-service-level-management-contribute-to-the-engage-value-chain-activity)
 | 376 | [Which guiding principle is focused on increasing communication both within the project and outside of it?](#which-guiding-principle-is-focused-on-increasing-communication-both-within-the-project-and-outside-of-it)
 | 377 | [Which guiding principle is concerned with an understanding of how all the parts of an organization work together in an integrated way?](#which-guiding-principle-is-concerned-with-an-understanding-of-how-all-the-parts-of-an-organization-work-together-in-an-integrated-way)
@@ -500,20 +500,20 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 398 | [Dion Training has just hired three new staff members. The IT department at Dion Training has created new accounts for the new staff members on the domain controller and allocated 10 GB of storage on the company's internal file server per staff member. What term best describes these activities performed by the IT department?](#dion-training-has-just-hired-three-new-staff-members-the-it-department-at-dion-training-has-created-new-accounts-for-the-new-staff-members-on-the-domain-controller-and-allocated-10-gb-of-storage-on-the-companys-internal-file-server-per-staff-member-what-term-best-describes-these-activities-performed-by-the-it-department)
 | 399 | [[?] may simultaneously be removed from a service consumer and imposed on a service provider. For example, outsourcing a service to a service provider may remove the need for the consumer to have their own IT infrastructure, but it may require them to install a faster Internet connection to reach the service provider's servers instead.](#-may-simultaneously-be-removed-from-a-service-consumer-and-imposed-on-a-service-provider-for-example-outsourcing-a-service-to-a-service-provider-may-remove-the-need-for-the-consumer-to-have-their-own-it-infrastructure-but-it-may-require-them-to-install-a-faster-internet-connection-to-reach-the-service-providers-servers-instead)
 | 400 | [Your organization has recently installed a brand new accounting program. The program has many functions including one that creates a report that shows the 'Profit and Loss (P&L)' metrics for the month. What term best describes the P&L report that is produced each month?](#your-organization-has-recently-installed-a-brand-new-accounting-program-the-program-has-many-functions-including-one-that-creates-a-report-that-shows-the-profit-and-loss-pl-metrics-for-the-month-what-term-best-describes-the-pl-report-that-is-produced-each-month)
-| 401 | [Your organization is currently designing a new service for implementation. The team designing the service has decided to focus on value during the design efforts. What best describes Focus on Value in this context?](#your-organization-is-currently-designing-a-new-service-for-implementation-the-team-designing-the-service-has-decided-to-focus-on-value-during-the-design-efforts-what-best-describes-focus-on-value-in-this-context)
+| 401 | [Your organization is currently designing a new service for implementation. The team designing the service has decided to Focus on Value during the design efforts. What best describes Focus on Value in this context?](#your-organization-is-currently-designing-a-new-service-for-implementation-the-team-designing-the-service-has-decided-to-focus-on-value-during-the-design-efforts-what-best-describes-focus-on-value-in-this-context)
 | 402 | [Which guiding principle may best be served by understanding the cost and financial consequences that a service consumer might face when choosing to use a service?](#which-guiding-principle-may-best-be-served-by-understanding-the-cost-and-financial-consequences-that-a-service-consumer-might-face-when-choosing-to-use-a-service)
 | 403 | [Which guiding principle states that there is likely something in the current services, processes, programs, projects, or organization that can be used to create the desired outcome for a new or redesigned service?](#which-guiding-principle-states-that-there-is-likely-something-in-the-current-services-processes-programs-projects-or-organization-that-can-be-used-to-create-the-desired-outcome-for-a-new-or-redesigned-service)
 | 404 | [Which value chain activity ensures that products and services continually meet stakeholder expectations for quality, costs, and time to market?](#which-value-chain-activity-ensures-that-products-and-services-continually-meet-stakeholder-expectations-for-quality-costs-and-time-to-market)
 | 405 | [During which step of the continual improvement model would you check to verify whether or not you have reached the desired outcome in your improvement initiative?](#during-which-step-of-the-continual-improvement-model-would-you-check-to-verify-whether-or-not-you-have-reached-the-desired-outcome-in-your-improvement-initiative)
 | 406 | [What is the step after 'where do we want to be' in the continual improvement model?](#what-is-the-step-after-where-do-we-want-to-be-in-the-continual-improvement-model)
 | 407 | [What is a normal change?](#what-is-a-normal-change-1)
-| 408 | [You are working as a service desk analyst. You just received a change request to create a new user account. What type of change would this be considered?](#you-are-working-as-a-service-desk-analyst-you-just-received-a-change-request-to-create-a-new-user-account-what-type-of-change-would-this-be-considered)
+| 408 | [You are working as a Service Desk analyst. You just received a change request to create a new user account. What type of change would this be considered?](#you-are-working-as-a-service-desk-analyst-you-just-received-a-change-request-to-create-a-new-user-account-what-type-of-change-would-this-be-considered)
 | 409 | [What is usually NOT included as part of Incident Management?](#what-is-usually-not-included-as-part-of-incident-management)
 | 410 | [Which practice would include a formalized process for logging unplanned interruptions to a service?](#which-practice-would-include-a-formalized-process-for-logging-unplanned-interruptions-to-a-service)
 | 411 | [During incident management, what is it called when the incident is passed on to the next higher level of technician?](#during-incident-management-what-is-it-called-when-the-incident-is-passed-on-to-the-next-higher-level-of-technician)
 | 412 | [What is NOT a phase in problem management?](#what-is-not-a-phase-in-problem-management-2)
 | 413 | [Which is a recommendation of the Service Desk practice?](#which-is-a-recommendation-of-the-service-desk-practice-1)
-| 414 | [Your company has decided to use work-from-home employees to fulfill its service desk requirements. Users call a central toll-free number and are routed to the next available service desk analyst, regardless of where the analyst is physically located. Many of these employees may be working from remote offices or their own home offices. What service desk structure does this describe?](#your-company-has-decided-to-use-work-from-home-employees-to-fulfill-its-service-desk-requirements-users-call-a-central-toll-free-number-and-are-routed-to-the-next-available-service-desk-analyst-regardless-of-where-the-analyst-is-physically-located-many-of-these-employees-may-be-working-from-remote-offices-or-their-own-home-offices-what-service-desk-structure-does-this-describe)
+| 414 | [Your company has decided to use work-from-home employees to fulfill its Service Desk requirements. Users call a central toll-free number and are routed to the next available Service Desk analyst, regardless of where the analyst is physically located. Many of these employees may be working from remote offices or their own home offices. What Service Desk structure does this describe?](#your-company-has-decided-to-use-work-from-home-employees-to-fulfill-its-service-desk-requirements-users-call-a-central-toll-free-number-and-are-routed-to-the-next-available-service-desk-analyst-regardless-of-where-the-analyst-is-physically-located-many-of-these-employees-may-be-working-from-remote-offices-or-their-own-home-offices-what-service-desk-structure-does-this-describe)
 | 415 | [How does Service Request Management contribute to the Design and Transition value chain activity?](#how-does-service-request-management-contribute-to-the-design-and-transition-value-chain-activity-1)
 | 416 | [How should measures and metrics be used to measure your service level management levels?](#how-should-measures-and-metrics-be-used-to-measure-your-service-level-management-levels)
 | 417 | [Which type of document should be written in easy-to-understand language to outline the expectations and requirements for both the service provider and the customer?](#which-type-of-document-should-be-written-in-easy-to-understand-language-to-outline-the-expectations-and-requirements-for-both-the-service-provider-and-the-customer)
@@ -530,9 +530,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 428 | [Fill in the blank. A guiding principle is defined as a(n) [?] that can guide an organization in all circumstances and will guide organizations when adopting service management.](#fill-in-the-blank-a-guiding-principle-is-defined-as-an--that-can-guide-an-organization-in-all-circumstances-and-will-guide-organizations-when-adopting-service-management)
 | 429 | [Fill in the blank. According to the guiding principles, "Everything that the organization does needs to map, directly or indirectly, to [?] for the stakeholders.](#fill-in-the-blank-according-to-the-guiding-principles-everything-that-the-organization-does-needs-to-map-directly-or-indirectly-to--for-the-stakeholders)
 | 430 | [Which guiding principle says that the current state should be investigated and observed directly to make sure it is fully understood before you attempt to create a brand new service or process?](#which-guiding-principle-says-that-the-current-state-should-be-investigated-and-observed-directly-to-make-sure-it-is-fully-understood-before-you-attempt-to-create-a-brand-new-service-or-process)
-| 431 | [The Start where you are guiding principle says that the current state should be investigated and observed directly to make sure it is fully understood before you attempt to create a brand new service or process. There is usually something in the existing service or process that can be reused, saving you time, effort, and resources.](#the-start-where-you-are-guiding-principle-says-that-the-current-state-should-be-investigated-and-observed-directly-to-make-sure-it-is-fully-understood-before-you-attempt-to-create-a-brand-new-service-or-process-there-is-usually-something-in-the-existing-service-or-process-that-can-be-reused-saving-you-time-effort-and-resources)
+| 431 | [The Start Where You Are guiding principle says that the current state should be investigated and observed directly to make sure it is fully understood before you attempt to create a brand new service or process. There is usually something in the existing service or process that can be reused, saving you time, effort, and resources.](#the-start-where-you-are-guiding-principle-says-that-the-current-state-should-be-investigated-and-observed-directly-to-make-sure-it-is-fully-understood-before-you-attempt-to-create-a-brand-new-service-or-process-there-is-usually-something-in-the-existing-service-or-process-that-can-be-reused-saving-you-time-effort-and-resources)
 | 432 | [Which guiding principle is focused on using the minimum number of steps to accomplish an objective?](#which-guiding-principle-is-focused-on-using-the-minimum-number-of-steps-to-accomplish-an-objective)
-| 433 | [Your company currently uses a paper-based process for allocating funding for authorized business travel. This process requires the traveler to fill out a form and get 6 different signatures and approval prior to turning in the form to accounting for funding of the travel. This entire process is currently done manually, meaning, an employee is actually walking around to the various managers for their physical signature on a piece of paper. You have decided to automate this process. Based on the principle of 'optimize and automate', how should you approach the automation of this existing process?](#your-company-currently-uses-a-paper-based-process-for-allocating-funding-for-authorized-business-travel-this-process-requires-the-traveler-to-fill-out-a-form-and-get-6-different-signatures-and-approval-prior-to-turning-in-the-form-to-accounting-for-funding-of-the-travel-this-entire-process-is-currently-done-manually-meaning-an-employee-is-actually-walking-around-to-the-various-managers-for-their-physical-signature-on-a-piece-of-paper-you-have-decided-to-automate-this-process-based-on-the-principle-of-optimize-and-automate-how-should-you-approach-the-automation-of-this-existing-process)
+| 433 | [Your company currently uses a paper-based process for allocating funding for authorized business travel. This process requires the traveler to fill out a form and get 6 different signatures and approval prior to turning in the form to accounting for funding of the travel. This entire process is currently done manually, meaning, an employee is actually walking around to the various managers for their physical signature on a piece of paper. You have decided to automate this process. Based on the principle of Optimize and Automate, how should you approach the automation of this existing process?](#your-company-currently-uses-a-paper-based-process-for-allocating-funding-for-authorized-business-travel-this-process-requires-the-traveler-to-fill-out-a-form-and-get-6-different-signatures-and-approval-prior-to-turning-in-the-form-to-accounting-for-funding-of-the-travel-this-entire-process-is-currently-done-manually-meaning-an-employee-is-actually-walking-around-to-the-various-managers-for-their-physical-signature-on-a-piece-of-paper-you-have-decided-to-automate-this-process-based-on-the-principle-of-optimize-and-automate-how-should-you-approach-the-automation-of-this-existing-process)
 | 434 | [Which dimension of service management should be considered when deciding whether or not moving the organization's web server from an on-premise solution to the cloud is a good decision in terms of compliance and security?](#which-dimension-of-service-management-should-be-considered-when-deciding-whether-or-not-moving-the-organizations-web-server-from-an-on-premise-solution-to-the-cloud-is-a-good-decision-in-terms-of-compliance-and-security)
 | 435 | [Dion Training Solutions is an Authorized Training Organization for Axelos. Which service management dimension would be focused on the relationship between Dion Training Solutions and Axelos in regards to the company's delivery of ITIL 4 Foundation training to students?](#dion-training-solutions-is-an-authorized-training-organization-for-axelos-which-service-management-dimension-would-be-focused-on-the-relationship-between-dion-training-solutions-and-axelos-in-regards-to-the-companys-delivery-of-itil-4-foundation-training-to-students)
 | 436 | [What is the end result of the service value system?](#what-is-the-end-result-of-the-service-value-system)
@@ -548,13 +548,13 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 446 | [Each time users attempt to log on to the domain using their username and password, they receive an error that 'the authentication server is not responding'. This is happening to multiple users across the network. How would you categorize this issue?](#each-time-users-attempt-to-log-on-to-the-domain-using-their-username-and-password-they-receive-an-error-that-the-authentication-server-is-not-responding-this-is-happening-to-multiple-users-across-the-network-how-would-you-categorize-this-issue)
 | 447 | [Your printer is currently out of toner and will not print. You ask your co-worker for help, but he says the toner is on order and won't arrive for a few days. He walks over to the printer, takes out the toner cartridge, shakes it back and forth a few times, and places it back into the printer. Suddenly, the printer begins to print again. Apparently, shaking the toner cartridge moved some of the remaining toner around and will allow a few more sheets to be printed while you are waiting for a new cartridge. What would you classify this as?](#your-printer-is-currently-out-of-toner-and-will-not-print-you-ask-your-co-worker-for-help-but-he-says-the-toner-is-on-order-and-wont-arrive-for-a-few-days-he-walks-over-to-the-printer-takes-out-the-toner-cartridge-shakes-it-back-and-forth-a-few-times-and-places-it-back-into-the-printer-suddenly-the-printer-begins-to-print-again-apparently-shaking-the-toner-cartridge-moved-some-of-the-remaining-toner-around-and-will-allow-a-few-more-sheets-to-be-printed-while-you-are-waiting-for-a-new-cartridge-what-would-you-classify-this-as)
 | 448 | [What does a centralized Service Desk require?](#what-does-a-centralized-service-desk-require-1)
-| 449 | [Your company has three service desk locations around the globe to support 24x7 operations. These locations are in England, the United States, and India. Each of these service desks only operates on an 8 am to 5 pm schedule in their local time. When a user calls the service desk, their call is routed to whichever service desk is operating at that time. For example, if it is 1 am in New York City and a user calls the service desk, they are routed to the India service desk because it would only be 11 am in India. What type of service desk model is your company using?](#your-company-has-three-service-desk-locations-around-the-globe-to-support-24x7-operations-these-locations-are-in-england-the-united-states-and-india-each-of-these-service-desks-only-operates-on-an-8-am-to-5-pm-schedule-in-their-local-time-when-a-user-calls-the-service-desk-their-call-is-routed-to-whichever-service-desk-is-operating-at-that-time-for-example-if-it-is-1-am-in-new-york-city-and-a-user-calls-the-service-desk-they-are-routed-to-the-india-service-desk-because-it-would-only-be-11-am-in-india-what-type-of-service-desk-model-is-your-company-using)
+| 449 | [Your company has three Service Desk locations around the globe to support 24x7 operations. These locations are in England, the United States, and India. Each of these Service Desks only operates on an 8 am to 5 pm schedule in their local time. When a user calls the Service Desk, their call is routed to whichever Service Desk is operating at that time. For example, if it is 1 am in New York City and a user calls the Service Desk, they are routed to the India Service Desk because it would only be 11 am in India. What type of Service Desk model is your company using?](#your-company-has-three-service-desk-locations-around-the-globe-to-support-24x7-operations-these-locations-are-in-england-the-united-states-and-india-each-of-these-service-desks-only-operates-on-an-8-am-to-5-pm-schedule-in-their-local-time-when-a-user-calls-the-service-desk-their-call-is-routed-to-whichever-service-desk-is-operating-at-that-time-for-example-if-it-is-1-am-in-new-york-city-and-a-user-calls-the-service-desk-they-are-routed-to-the-india-service-desk-because-it-would-only-be-11-am-in-india-what-type-of-service-desk-model-is-your-company-using)
 | 450 | [How does Service Level Management contribute to the Obtain/Build value chain activity?](#how-does-service-level-management-contribute-to-the-obtainbuild-value-chain-activity)
 | 451 | [What is an example of an action a service request management employee would undertake as part of the Engage activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-engage-activity)
 | 452 | [Which guiding principle recognizes the complexity of a system and seeks to understand the relationships between the various components that make up a service?](#which-guiding-principle-recognizes-the-complexity-of-a-system-and-seeks-to-understand-the-relationships-between-the-various-components-that-make-up-a-service)
 | 453 | [Who can report an incident?](#who-can-report-an-incident)
 | 454 | [Which statement about the value chain activities is CORRECT?](#which-statement-about-the-value-chain-activities-is-correct)
-| 455 | [Which value chain activity would best be used to categorize the actions of the service desk when they are responding to a consumer's request for assistance?](#which-value-chain-activity-would-best-be-used-to-categorize-the-actions-of-the-service-desk-when-they-are-responding-to-a-consumers-request-for-assistance)
+| 455 | [Which value chain activity would best be used to categorize the actions of the Service Desk when they are responding to a consumer's request for assistance?](#which-value-chain-activity-would-best-be-used-to-categorize-the-actions-of-the-service-desk-when-they-are-responding-to-a-consumers-request-for-assistance)
 | 456 | [Which step of the continual improvement model is focused on outlining the steps that will be undertaken by the organization in order to achieve its goals and move the organization closer to achieving its vision?](#which-step-of-the-continual-improvement-model-is-focused-on-outlining-the-steps-that-will-be-undertaken-by-the-organization-in-order-to-achieve-its-goals-and-move-the-organization-closer-to-achieving-its-vision)
 | 457 | [What is the step after How do we keep the momentum going in the continual improvement model?](#what-is-the-step-after-how-do-we-keep-the-momentum-going-in-the-continual-improvement-model)
 | 458 | [Which type of change needs to be assessed, authorized, and scheduled by a change authority prior to implementing it?](#which-type-of-change-needs-to-be-assessed-authorized-and-scheduled-by-a-change-authority-prior-to-implementing-it)
@@ -570,9 +570,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 468 | [What does a centralized Service Desk require?](#what-does-a-centralized-service-desk-require-2)
 | 469 | [How does Service Level Management contribute to the Deliver and Support value chain activity?](#how-does-service-level-management-contribute-to-the-deliver-and-support-value-chain-activity)
 | 470 | [What is a documented agreement between a service provider and a customer that identifies both the services required and the expected level of service?](#what-is-a-documented-agreement-between-a-service-provider-and-a-customer-that-identifies-both-the-services-required-and-the-expected-level-of-service)
-| 471 | [Your company has five branch offices located across the country. To support each of these branch offices, a small service desk has been created for each office and it is co-located with the users to whom they are providing service and support. What model of service desk is your company using?](#your-company-has-five-branch-offices-located-across-the-country-to-support-each-of-these-branch-offices-a-small-service-desk-has-been-created-for-each-office-and-it-is-co-located-with-the-users-to-whom-they-are-providing-service-and-support-what-model-of-service-desk-is-your-company-using)
+| 471 | [Your company has five branch offices located across the country. To support each of these branch offices, a small Service Desk has been created for each office and it is co-located with the users to whom they are providing service and support. What model of Service Desk is your company using?](#your-company-has-five-branch-offices-located-across-the-country-to-support-each-of-these-branch-offices-a-small-service-desk-has-been-created-for-each-office-and-it-is-co-located-with-the-users-to-whom-they-are-providing-service-and-support-what-model-of-service-desk-is-your-company-using)
 | 472 | [Fill in the blank. A service enables [?] co-creation by facilitating outcomes that customers want to achieve.](#fill-in-the-blank-a-service-enables--co-creation-by-facilitating-outcomes-that-customers-want-to-achieve)
-| 473 | [Identify the missing word(s) in the following sentence. Warranty is the assurance that a product or service will meet [?] requirements.](#identify-the-missing-words-in-the-following-sentence-warranty-is-the-assurance-that-a-product-or-service-will-meet--requirements)
+| 473 | [Identify the missing word(s) in the following sentence. Warranty is the assurance that a product or service will meet [?] requirements.](#identify-the-missing-words-in-the-following-sentence-Warranty-is-the-assurance-that-a-product-or-service-will-meet--requirements)
 | 474 | [What is the definition of an incident?](#what-is-the-definition-of-an-incident)
 | 475 | [Identify the missing word(s) in the following sentence. A known error is a(n) [?] that has been analyzed but has not been resolved.](#identify-the-missing-words-in-the-following-sentence-a-known-error-is-an--that-has-been-analyzed-but-has-not-been-resolved)
 | 476 | [What is the purpose of the Release Management practice?](#what-is-the-purpose-of-the-release-management-practice)
@@ -583,8 +583,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 481 | [What is the definition of a sponsor?](#what-is-the-definition-of-a-sponsor)
 | 482 | [Which describes the assurance that a product or service will meet agreed requirements?](#which-describes-the-assurance-that-a-product-or-service-will-meet-agreed-requirements)
 | 483 | [How often should the guiding principles be changed within your organization?](#how-often-should-the-guiding-principles-be-changed-within-your-organization)
-| 484 | [What is the main benefit of following the guiding principle of progress iteratively with feedback?](#what-is-the-main-benefit-of-following-the-guiding-principle-of-progress-iteratively-with-feedback)
-| 485 | [Your team is working on developing a new service and has chosen to use an Agile method of working. As part of this, your team has created an 'information radiator' in the common areas of your floor of the office. This 'information radiator' contains the list of things that must be done in the project, the current status of the project, a listing of risks associated with the project, and the overall objective/goal of the project. Based on the information provided in this scenario, which guiding principle is being demonstrated through the use of this 'information radiator'?](#your-team-is-working-on-developing-a-new-service-and-has-chosen-to-use-an-agile-method-of-working-as-part-of-this-your-team-has-created-an-information-radiator-in-the-common-areas-of-your-floor-of-the-office-this-information-radiator-contains-the-list-of-things-that-must-be-done-in-the-project-the-current-status-of-the-project-a-listing-of-risks-associated-with-the-project-and-the-overall-objectivegoal-of-the-project-based-on-the-information-provided-in-this-scenario-which-guiding-principle-is-being-demonstrated-through-the-use-of-this-information-radiator)
+| 484 | [What is the main benefit of following the guiding principle of Progress Iteratively with Feedback?](#what-is-the-main-benefit-of-following-the-guiding-principle-of-progress-iteratively-with-feedback)
+| 485 | [Your team is working on developing a new service and has chosen to use an Agile method of working. As part of this, your team has created an Information Radiator in the common areas of your floor of the office. This Information Radiator contains the list of things that must be done in the project, the current status of the project, a listing of risks associated with the project, and the overall objective/goal of the project. Based on the information provided in this scenario, which guiding principle is being demonstrated through the use of this Information Radiator?](#your-team-is-working-on-developing-a-new-service-and-has-chosen-to-use-an-agile-method-of-working-as-part-of-this-your-team-has-created-an-information-radiator-in-the-common-areas-of-your-floor-of-the-office-this-information-radiator-contains-the-list-of-things-that-must-be-done-in-the-project-the-current-status-of-the-project-a-listing-of-risks-associated-with-the-project-and-the-overall-objectivegoal-of-the-project-based-on-the-information-provided-in-this-scenario-which-guiding-principle-is-being-demonstrated-through-the-use-of-this-information-radiator)
 | 486 | [Which guiding principle requires coordination across the organization in order to best understand how a complicated service works?](#which-guiding-principle-requires-coordination-across-the-organization-in-order-to-best-understand-how-a-complicated-service-works)
 | 487 | [You have been asked to create a standard process for approving new accounts on your corporate network. You have been working on this process for about 2 weeks because you are trying to create rules to handle every possible exception to the process. Frustrated, you ask your coworker, Nancy, how she would approach the problem. She states, "Well, I would create a process for the most common three types of account creation which account for 99% of all requests made. Then, create a blanket rule at the end of the process that says, 'If the account doesn't belong to one of the above three categories, elevate the request to your supervisor'. This will allow the supervisors to handle the exception, which only accounts for 1% of all account requests, and you can create that process in just a few hours." What guiding principle is Nancy recommending you to follow with her approach to solving this problem?](#you-have-been-asked-to-create-a-stand-create-a-process-for-the-most-common-three-types-of-account-creation-which-account-for-99-of-all-requests-made-then-create-a-blanket-rule-at-the-end-of-the-process-that-says-if-the-account-doesnt-belong-to-one-of-the-above-three-categories-elevate-the-request-to-your-supervisor-this-will-allow-the-supervisors-to-handle-the-exception-which-only-accounts-for-1-of-all-account-requests-and-you-can-create-that-process-in-just-a-few-hours-what-guiding-principle-is-nancy-recommending-you-to-follow-with-her-approach-to-solving-this-problem)
 | 488 | [Which guiding principle should you use to maximize the value of the work carried out by the human and technical resources within an organization?](#which-guiding-principle-should-you-use-to-maximize-the-value-of-the-work-carried-out-by-the-human-and-technical-resources-within-an-organization)
@@ -690,7 +690,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is a key consideration for the guiding principle 'keep it simple and practical'?
+### Which is a key consideration for the guiding principle Keep It Simple and Practical?
 
 - [ ] Try to create a solution for every exception.
 - [ ] Start with a complex solution, then simplify.
@@ -789,7 +789,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The use of [?] should support, not replace what is observed, when using the 'start where you are' guiding principle.
+### The use of [?] should support, not replace what is observed, when using the 'Start Where You Are' guiding principle.
 
 - [ ] Plans.
 - [x] Measurement.
@@ -825,7 +825,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is NOT a key focus of the 'information and technology' dimension?
+### Which is NOT a key focus of the 'Information and Technology' dimension?
 
 - [ ] Workflow management and inventory systems.
 - [ ] Communication systems and knowledge bases.
@@ -935,19 +935,19 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which guiding principle recommends using the minimum number of steps necessary to achieve an objective?
 
-- [ ] Progress iteratively with feedback.
-- [ ] Think and work holistically.
-- [x] Keep it simple and practical.
-- [ ] Focus on value.
+- [ ] Progress Iteratively with Feedback.
+- [ ] Think and Work Holistically.
+- [x] Keep It Simple and Practical.
+- [ ] Focus on Value.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Which dimension includes activities and workflows?
 
-- [x] Value streams and processes.
-- [ ] Partners and suppliers.
-- [ ] Information and technology.
-- [ ] Organizations and people.
+- [x] Value Streams and Processes.
+- [ ] Partners and Suppliers.
+- [ ] Information and Technology.
+- [ ] Organizations and People.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -980,10 +980,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which dimension includes a workflow management system?
 
-- [x] Value streams and processes.
-- [ ] Partners and suppliers.
-- [ ] Information and technology.
-- [ ] Organizations and people.
+- [x] Value Streams and Processes.
+- [ ] Partners and Suppliers.
+- [ ] Information and Technology.
+- [ ] Organizations and People.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1016,10 +1016,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which guiding principle recommends coordinating all dimensions of service management?
 
-- [ ] Start where you are.
-- [x] Think and work holistically.
-- [ ] Keep it simple and practical.
-- [ ] Progress iteratively with feedback.
+- [ ] Start Where You Are.
+- [x] Think and Work Holistically.
+- [ ] Keep It Simple and Practical.
+- [ ] Progress Iteratively with Feedback.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1064,7 +1064,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Costs removed from the consumer are part of service consumption.
 - [ ] Costs imposed on the consumer are costs of service utility.
 - [x] Costs removed from the consumer are part of the value proposition.
-- [ ] Costs imposed on the consumer are costs of service warranty.
+- [ ] Costs imposed on the consumer are costs of service Warranty.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1169,10 +1169,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which guiding principle is PRIMARILY concerned with end-to-end service delivery?
 
-- [ ] Focus on value.
-- [x] Think and work holistically.
-- [ ] Optimize and automate.
-- [ ] Collaborate and promote visibility.
+- [ ] Focus on Value.
+- [x] Think and Work Holistically.
+- [ ] Optimize and Automate.
+- [ ] Collaborate and Promote Visibility.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1196,10 +1196,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which guiding principle considers the importance of customer loyalty?
 
-- [ ] Progress iteratively with feedback.
-- [x] Focus on value.
-- [ ] Optimize and automate.
-- [ ] Start where you are.
+- [ ] Progress Iteratively with Feedback.
+- [x] Focus on Value.
+- [ ] Optimize and Automate.
+- [ ] Start Where You Are.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1221,7 +1221,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What should be considered as part of the 'partners and suppliers' dimension?
+### What should be considered as part of the 'Partners and Suppliers' dimension?
 
 - [x] The level of integration and formality involved in the relationships between organizations.
 - [ ] The activities, workflows, controls and procedures needed to achieve the agreed objectives.
@@ -1279,7 +1279,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] By using all the guiding principles equally when making any decision.
 - [ ] By using the one or two guiding principles that are most relevant to the specific decision.
-- [ ] By using the 'focus on value' principle and one or two others that are relevant to the specific decision.
+- [ ] By using the Focus on Value principle and one or two others that are relevant to the specific decision.
 - [x] Review each guiding principle to decide how relevant it is to the specific decision.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -1320,7 +1320,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What can help to reduce resistance to a planned improvement when applying the guiding principle 'collaborate and promote visibility'?
+### What can help to reduce resistance to a planned improvement when applying the guiding principle Collaborate and Promote Visibility?
 
 - [ ] Restricting information about the improvement to essential stakeholders only.
 - [x] Increasing collaboration and visibility for the improvement.
@@ -1392,7 +1392,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is recommended by the guiding principle 'progress iteratively with feedback'?
+### What is recommended by the guiding principle Progress Iteratively with Feedback?
 
 - [ ] A current state assessment that is carried out at the start of an improvement initiative.
 - [ ] The identification of all interested parts at the start of an improvement initiative.
@@ -1405,7 +1405,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [x] The service value system.
 - [ ] The Deliver and Support value chain activity.
-- [ ] The 'focus on value' guiding principle.
+- [ ] The Focus on Value guiding principle.
 - [ ] The 'value stream and processes' dimension.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -1421,14 +1421,14 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which guiding principle considers customer and user experience?
 
-- [ ] Collaborate and promote visibility.
-- [x] Focus on value.
-- [ ] Start where you are.
-- [ ] Keep it simple and practical.
+- [ ] Collaborate and Promote Visibility.
+- [x] Focus on Value.
+- [ ] Start Where You Are.
+- [ ] Keep It Simple and Practical.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is a result of applying the guiding principle 'progress iteratively with feedback'?
+### Which is a result of applying the guiding principle Progress Iteratively with Feedback?
 
 - [x] The ability to discover and respond to failure earlier.
 - [ ] Standardization of practices and services.
@@ -1466,10 +1466,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which dimension is MOST concerned with skills, competencies, roles and responsibilities?
 
-- [x] Organizations and people.
-- [ ] Information and technology.
-- [ ] Partners and suppliers.
-- [ ] Value streams and processes.
+- [x] Organizations and People.
+- [ ] Information and Technology.
+- [ ] Partners and Suppliers.
+- [ ] Value Streams and Processes.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1482,7 +1482,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What can be used to determine if a service is 'fit for purpose'?
+### What can be used to determine if a service is Fit for Purpose?
 
 - [ ] Availability.
 - [ ] Tarranty.
@@ -1527,7 +1527,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You are attempting to print a document from your workstation to the network printer in your office. The print job failed when you attempted to print, so you called the service desk for assistance. What term best describes your issue?
+### You are attempting to print a document from your workstation to the network printer in your office. The print job failed when you attempted to print, so you called the Service Desk for assistance. What term best describes your issue?
 
 - [ ] Problem.
 - [ ] Event.
@@ -1554,7 +1554,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is a key requirement for a successful service level agreement (SLA)?
+### Which is a key requirement for a successful Service Level Agreement (SLA)?
 
 - [ ] Using individual metrics that relate to the service catalogue.
 - [x] Using bundled metrics to relate performance to outcomes.
@@ -1563,7 +1563,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is considered by the 'partners and suppliers' dimension?
+### Which is considered by the 'Partners and Suppliers' dimension?
 
 - [ ] Using artificial intelligence.
 - [ ] Defining controls and procedures.
@@ -1583,10 +1583,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### An organization asks a stakeholder to review a planned change. Which guiding principle does this demonstrate?
 
-- [x] Collaborate and promote visibility.
-- [ ] Start where you are.
-- [ ] Focus on value.
-- [ ] Keep it simple and practical.
+- [x] Collaborate and Promote Visibility.
+- [ ] Start Where You Are.
+- [ ] Focus on Value.
+- [ ] Keep It Simple and Practical.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1700,7 +1700,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which describes the utility of a service?
 
-- [ ] A service that is fit for use.
+- [ ] A service that is Fit for Use.
 - [ ] A service that meets its service level targets.
 - [ ] A service that increases constraints on the consumer.
 - [x] A service that supports the performance of the consumer.
@@ -1716,7 +1716,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which approach is CORRECT when applying the guiding principle 'keep it simple and practical'?
+### Which approach is CORRECT when applying the guiding principle Keep It Simple and Practical?
 
 - [ ] Only add controls and metrics when they are needed.
 - [x] Design controls and metrics first, then remove those not adding value.
@@ -1727,10 +1727,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which dimension considers data security and privacy?
 
-- [ ] Organizations and people.
-- [x] Information and technology.
-- [ ] Partners and suppliers.
-- [ ] Value streams and processes.
+- [ ] Organizations and People.
+- [x] Information and Technology.
+- [ ] Partners and Suppliers.
+- [ ] Value Streams and Processes.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1743,7 +1743,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is a recommendation of the guiding principle 'think and work holistically'?
+### Which is a recommendation of the guiding principle Think and Work Holistically?
 
 - [ ] Conduct a review of existing service management practices and decide what to keep and what to discard.
 - [ ] Review how an improvement initiative can be organized into smaller, manageable sections that can be completed in a timely manner.
@@ -1860,7 +1860,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which statement about the use of measurement in the 'start where you are' guiding principle is CORRECT?
+### Which statement about the use of measurement in the 'Start Where You Are' guiding principle is CORRECT?
 
 - [x] It should always be used to support direct observation.
 - [ ] It should always be used instead of direct observation.
@@ -1979,10 +1979,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which dimension focuses on relationships with other organizations that are involved in the design, development, deployment and delivery of services?
 
-- [ ] Organizations and people.
-- [ ] Information and technology.
-- [x] Partners and suppliers.
-- [ ] Value streams and processes.
+- [ ] Organizations and People.
+- [ ] Information and Technology.
+- [x] Partners and Suppliers.
+- [ ] Value Streams and Processes.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2049,7 +2049,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is a key requirement for a successful service level agreement?
+### Which is a key requirement for a successful Service Level Agreement?
 
 - [ ] It should be written in legal language.
 - [x] It should be simply written and easy to understand.
@@ -2067,7 +2067,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is warranty?
+### What is Warranty?
 
 - [x] Assurance that a product or service will meet agreed requirements.
 - [ ] The amount of money spent on a specific activity or resource.
@@ -2294,10 +2294,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which guiding principle helps to ensure that better information is available for decision making?
 
-- [ ] Keep it simple and practical.
-- [ ] Think and work holistically.
-- [ ] Optimize and automate.
-- [x] Collaborate and promote visibility.
+- [ ] Keep It Simple and Practical.
+- [ ] Think and Work Holistically.
+- [ ] Optimize and Automate.
+- [x] Collaborate and Promote Visibility.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2375,19 +2375,19 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which dimension considers how knowledge assets should be protected?
 
-- [ ] Organizations and people.
-- [ ] Partners and suppliers.
-- [x] Information and technology.
-- [ ] Value streams and processes.
+- [ ] Organizations and People.
+- [ ] Partners and Suppliers.
+- [x] Information and Technology.
+- [ ] Value Streams and Processes.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Which guiding principle recommends standardizing and streamlining manual tasks?
 
-- [x] Optimize and automate.
-- [ ] Collaborate and promote visibility.
-- [ ] Focus on value.
-- [ ] Think and work holistically.
+- [x] Optimize and Automate.
+- [ ] Collaborate and Promote Visibility.
+- [ ] Focus on Value.
+- [ ] Think and Work Holistically.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2402,19 +2402,19 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which guiding principle recommends eliminating activities that do not contribute to the creation of value?
 
-- [ ] Start where you are.
-- [ ] Collaborate and promote visibility.
-- [x] Keep it simple and practical.
-- [ ] Optimize and automate.
+- [ ] Start Where You Are.
+- [ ] Collaborate and Promote Visibility.
+- [x] Keep It Simple and Practical.
+- [ ] Optimize and Automate.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is a recommendation of the 'focus on value' guiding principle?
+### What is a recommendation of the Focus on Value guiding principle?
 
-- [ ] Make 'focus on value' a responsibility of the management.
+- [ ] Make Focus on Value a responsibility of the management.
 - [ ] Focus on the value of new and significant projects first.
-- [ ] Focus on value for the service provider first.
-- [x] Focus on value at every step of the improvement.
+- [ ] Focus on Value for the service provider first.
+- [x] Focus on Value at every step of the improvement.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2492,10 +2492,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which ITIL guiding principle recommends using existing services, processes and tools when improving services?
 
-- [ ] Progress iteratively with feedback.
+- [ ] Progress Iteratively with Feedback.
 - [ ] Keep is simple and practical.
-- [x] Start where you are.
-- [ ] Focus on value.
+- [x] Start Where You Are.
+- [ ] Focus on Value.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2519,10 +2519,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which dimension includes the knowledge needed for the management of services?
 
-- [ ] Organizations and people.
-- [ ] Partners and suppliers.
-- [ ] Value streams and processes.
-- [x] Information and technology.
+- [ ] Organizations and People.
+- [ ] Partners and Suppliers.
+- [ ] Value Streams and Processes.
+- [x] Information and Technology.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2537,19 +2537,19 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which guiding principle focuses on reducing costs and human errors?
 
-- [ ] Focus on value.
-- [ ] Collaborate and promote visibility.
-- [x] Optimize and automate.
-- [ ] Think and work holistically.
+- [ ] Focus on Value.
+- [ ] Collaborate and Promote Visibility.
+- [x] Optimize and Automate.
+- [ ] Think and Work Holistically.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Which guiding principle helps to ensure that each improvement effort has more focus and is easier to maintain?
 
-- [ ] Start where you are.
-- [ ] Collaborate and promote visibility.
-- [ ] Think and work holistically.
-- [x] Progress iteratively with feedback.
+- [ ] Start Where You Are.
+- [ ] Collaborate and Promote Visibility.
+- [ ] Think and Work Holistically.
+- [x] Progress Iteratively with Feedback.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2607,7 +2607,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### An SLA is a service level agreement. Which describes the 'watermelon SLA' effect?
+### An SLA is a Service Level Agreement. Which describes the 'watermelon SLA' effect?
 
 - [ ] Introducing SLAs for a service enables customers to see that the service provider is doing a really good job, so this improves satisfaction.
 - [ ] SLA targets change very frequently, so that each report includes new measures and trends cannot be analyzed.
@@ -2708,10 +2708,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which guiding principle says that services and processes should NOT provide a solution for every exception?
 
-- [ ] Optimize and automate.
-- [ ] Think and work holistically.
-- [ ] Collaborate and promote visibility.
-- [x] Keep it simple and practical.
+- [ ] Optimize and Automate.
+- [ ] Think and Work Holistically.
+- [ ] Collaborate and Promote Visibility.
+- [x] Keep It Simple and Practical.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2773,7 +2773,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Service provision, service consumption, service Relationship Management.
 - [x] Governance, service value chain, practices.
-- [ ] Outcomes, utility, warranty.
+- [ ] Outcomes, utility, Warranty.
 - [ ] Customer value, stakeholder value, organization.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -2789,19 +2789,19 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which dimension of service management considers the workflows and controls needed to deliver services?
 
-- [ ] Organizations and people.
-- [ ] Information and technology.
-- [ ] Partners and suppliers.
-- [x] Value streams and processes.
+- [ ] Organizations and People.
+- [ ] Information and Technology.
+- [ ] Partners and Suppliers.
+- [x] Value Streams and Processes.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Which guiding principle considers how the steps of a process can be performed as efficiently as possible?
 
-- [x] Optimize and automate.
-- [ ] Think and work holistically.
-- [ ] Start where you are.
-- [ ] Focus on value.
+- [x] Optimize and Automate.
+- [ ] Think and Work Holistically.
+- [ ] Start Where You Are.
+- [ ] Focus on Value.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2864,7 +2864,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] A request to provide a laptop.
 - [ ] A request to implement a security patch.
 - [ ] A request to resolve an error in a service.
-- [ ] A request to change a target in a service level agreement.
+- [ ] A request to change a target in a Service Level Agreement.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2895,7 +2895,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which describes a 'change authority'?
+### Which describes a Change Authority?
 
 - [x] A person who approves a change.
 - [ ] A model used to determine who will assess a change.
@@ -2935,7 +2935,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [x] Understanding the ongoing requirements of customers.
 - [ ] Creating targets based on the percentage of uptime of a service.
-- [ ] Using complex technical terminology in service level agreements (SLAs).
+- [ ] Using complex technical terminology in Service Level Agreements (SLAs).
 - [ ] Measuring low-level operational activities.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -2951,10 +2951,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which guiding principle considers which parts of an existing process should be kept by identifying how they contribute to value creation?
 
-- [x] Keep it simple and practical.
-- [ ] Think and work holistically.
-- [ ] Collaborate and promote visibility.
-- [ ] Progress iteratively with feedback.
+- [x] Keep It Simple and Practical.
+- [ ] Think and Work Holistically.
+- [ ] Collaborate and Promote Visibility.
+- [ ] Progress Iteratively with Feedback.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2994,11 +2994,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the definition of warranty?
+### What is the definition of Warranty?
 
-- [x] A means of determining whether a service is fit for use.
+- [x] A means of determining whether a service is Fit for Use.
 - [ ] A means of identifying a result for a stakeholder.
-- [ ] A means of determining whether a service is fit for purpose.
+- [ ] A means of determining whether a service is Fit for Purpose.
 - [ ] A means of identifying events that could cause harm or loss.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -3131,41 +3131,41 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which guiding principle is most affected by the Customer Experience (CX)?
 
-- [ ] Progress iteratively with feedback.
-- [x] Focus on value.
-- [ ] Think and work holistically.
-- [ ] Start where you are.
+- [ ] Progress Iteratively with Feedback.
+- [x] Focus on Value.
+- [ ] Think and Work Holistically.
+- [ ] Start Where You Are.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Dion Training Solutions wants to build a new service to automatically fulfill exam voucher orders for students. Currently, exam vouchers are fulfilled manually by a staff member once the order is received from the student by copying and pasting the voucher number from a spreadsheet into an email template and sending out the email to the students. Before attempting to automate this fulfillment process, the team lead takes an inventory of the current services, processes, and procedures that are being used by the voucher fulfillment team to see if they might be able to be reused. What guiding principle best describes this scenario?
 
-- [ ] Focus on value.
-- [ ] Collaborate and promote visibility.
-- [x] Start where you are.
-- [ ] Keep it simple and practical.
+- [ ] Focus on Value.
+- [ ] Collaborate and Promote Visibility.
+- [x] Start Where You Are.
+- [ ] Keep It Simple and Practical.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Dion Training Solutions has decided to create an online course for the ITIL 4 Foundation exam. The company developed their curriculum and then invited 50 students to participate in live training to determine if the training was effective. During the training, some students didn't understand the concept of the service value chain, so the instructor rewrote that portion of the curriculum. Which guiding principle is being demonstrated by this approach to curriculum development?
 
-- [ ] Focus on value.
-- [ ] Collaborate and promote visibility.
-- [ ] Optimize and automate.
-- [ ] Progress iteratively with feedback.
+- [ ] Focus on Value.
+- [ ] Collaborate and Promote Visibility.
+- [ ] Optimize and Automate.
+- [ ] Progress Iteratively with Feedback.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### You are working to design a new service for internal use across your organization. As part of your design efforts, you form a small team with relevant stakeholders from the human resources, information technology, sales, and other relevant departments to ensure the service adequately meets each department's needs and hope this results in great acceptance of the service when delivered. Which guiding principle best describes this scenario?
 
-- [ ] Focus on value.
-- [x] Collaborate and promote visibility.
-- [ ] Start where you are.
-- [ ] Keep it simple and practical.
+- [ ] Focus on Value.
+- [x] Collaborate and Promote Visibility.
+- [ ] Start Where You Are.
+- [ ] Keep It Simple and Practical.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### John is currently working to create a new service that would allow a customer to purchase a digital product online and have it delivered to the user's inbox. John is responsible for the payment portion of this service, but Sally is responsible for the digital product fulfillment portion of the service. Which of the following should John do in order to follow the principle of 'think and work holistically'?
+### John is currently working to create a new service that would allow a customer to purchase a digital product online and have it delivered to the user's inbox. John is responsible for the payment portion of this service, but Sally is responsible for the digital product fulfillment portion of the service. Which of the following should John do in order to follow the principle of Think and Work Holistically?
 
 - [ ] John should optimize his code to ensure it runs efficiently.
 - [x] John should meet with Sally to determine how the digital product fulfillment will occur.
@@ -3257,10 +3257,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Your company's external router has just malfunctioned and needs to be replaced. The entire organization's connection to the Wide Area Network will remain offline until this router is replaced. Which type of change should be initiated?
 
- - [ ] Standard.
- - [ ] Normal.
- - [x] Emergency.
- - [ ] Routine.
+- [ ] Standard.
+- [ ] Normal.
+- [x] Emergency.
+- [ ] Routine.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3338,10 +3338,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which is a recommendation of the Service Desk practice?
 
-- [ ] Service desks should never use technologies such as SMS and chat functions.
-- [ ] Service desks should be highly technical functions.
-- [x] Service desks should have a practical understanding of the business practices across the organization.
-- [ ] Service desks should always use a virtual service desk.
+- [ ] Service Desks should never use technologies such as SMS and chat functions.
+- [ ] Service Desks should be highly technical functions.
+- [x] Service Desks should have a practical understanding of the business practices across the organization.
+- [ ] Service Desks should always use a virtual Service Desk.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3359,7 +3359,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Uses feedback from users about the service and requirements from customers to make the service better.
 - [x] Provides information about the actual service performance and trends.
 - [ ] Collects and processes feedback from customers and users.
-- [ ] Collects feedback during interactions and communicates service performance objectives to the operations and support teams. 
+- [ ] Collects feedback during interactions and communicates service performance objectives to the operations and support teams.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3381,12 +3381,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
- ### A customer is a person who defines the requirements for a service and takes responsibility for the [?] of service consumption.
+### A customer is a person who defines the requirements for a service and takes responsibility for the [?] of service consumption.
 
- - [x] Outcomes.
- - [ ] Cost.
- - [ ] Outputs.
- - [ ] Benefits.
+- [x] Outcomes.
+- [ ] Cost.
+- [ ] Outputs.
+- [ ] Benefits.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3438,7 +3438,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Dion Training has decided not to run their own email servers. Instead, Dion Training pays a monthly service fee to Google's G-Suite to provide email services to the company so that Dion Training can receive emails from its students. What best describes this co-creation of value by Dion Training and Google in order to provide email support to Dion Training's students?
 
 - [ ] Service Offering.
-- [x] Service Relationship Management. 
+- [x] Service Relationship Management.
 - [ ] Service Provision.
 - [ ] Service Consumption.
 
@@ -3466,44 +3466,44 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [x] Guiding principles.
 - [ ] Service value chain.
-- [ ] Focus on value.
+- [ ] Focus on Value.
 - [ ] Governance.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### You have been assigned to a team that has been asked to identify how your consumers use a particular service, what the service helps them to do, and how the service helps them to identify their goals. Which of the guiding principles should best be applied in your situation?
 
-- [x] Focus on value.
-- [ ] Progress iteratively with feedback.
-- [ ] Collaborate and promote visibility.
-- [ ] Think and work holistically.
+- [x] Focus on Value.
+- [ ] Progress Iteratively with Feedback.
+- [ ] Collaborate and Promote Visibility.
+- [ ] Think and Work Holistically.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your organization is currently running a web hosting service, but it is not providing sufficient utility and warranty. In order to fix this, a team has been assembled and asked to design a new web hosting service. The team manager suggests that the team first look at the existing service and its processes before they begin to design the new service. What guiding principle is being followed by the team manager?
+### Your organization is currently running a web hosting service, but it is not providing sufficient utility and Warranty. In order to fix this, a team has been assembled and asked to design a new web hosting service. The team manager suggests that the team first look at the existing service and its processes before they begin to design the new service. What guiding principle is being followed by the team manager?
 
-- [ ] Focus on value.
-- [x] Start where you are.
-- [ ] Keep it simple and practical.
-- [ ] Optimize and automate.
+- [ ] Focus on Value.
+- [x] Start Where You Are.
+- [ ] Keep It Simple and Practical.
+- [ ] Optimize and Automate.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Which guiding principle is focused on involving the right people in the correct roles in order to get additional buy-in for the project and increase the likelihood of long-term success?
 
-- [x] Collaborate and promote visibility.
-- [ ] Focus on value.
-- [ ] Progress iteratively with feedback.
-- [ ] Optimize and automate.
+- [x] Collaborate and Promote Visibility.
+- [ ] Focus on Value.
+- [ ] Progress Iteratively with Feedback.
+- [ ] Optimize and Automate.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### During a review of the New Account Creation process at your company, you determine that the current process requires 15 steps to create a new account. As you analyze each step, you find that steps 3 and 5 provide no value to the process or the organization. Based on which guiding principle should you eliminate steps 3 and 5 from the process?
 
-- [ ] Think and work holistically.
-- [x] Keep it simple and practical.
-- [ ] Optimize and automate.
-- [ ] Focus on value.
+- [ ] Think and Work Holistically.
+- [x] Keep It Simple and Practical.
+- [ ] Optimize and Automate.
+- [ ] Focus on Value.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3518,19 +3518,19 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which service management dimension is focused on the roles and responsibilities of the people involved in a process' workflow?
 
-- [x] Organizations and people.
-- [ ] Information and technology.
-- [ ] Partners and suppliers.
-- [ ] Value streams and processes.
+- [x] Organizations and People.
+- [ ] Information and Technology.
+- [ ] Partners and Suppliers.
+- [ ] Value Streams and Processes.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Which service management dimension is focused on the communication systems and knowledge bases used by employees?
 
-- [ ] Organizations and people.
-- [x] Information and technology.
-- [ ] Partners and suppliers.
-- [ ] Value streams and processes.
+- [ ] Organizations and People.
+- [x] Information and Technology.
+- [ ] Partners and Suppliers.
+- [ ] Value Streams and Processes.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3592,7 +3592,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] CEO.
 - [ ] IT Director.
-- [ ] Service desk analyst.
+- [ ] Service Desk analyst.
 - [x] Change Authority.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -3600,7 +3600,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Your company has decided to install a service management tool that provides incident management as one of its functions. What is the benefit of using an incident management system?
 
 - [ ] It can provide automated resolution and closure of complex incidents.
-- [ ] It can ensure that incidents are resolved within the agreed upon timeframe in the service level agreement (SLA).
+- [ ] It can ensure that incidents are resolved within the agreed upon timeframe in the Service Level Agreement (SLA).
 - [x] It can provide automated matching of incidents to problems or known errors.
 - [ ] The system can provide specialized knowledge for solving complicated incidents.
 
@@ -3615,7 +3615,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You are working as a service desk analyst. Within the last hour, you have received 13 calls about users being unable to log on to the network. There appears to be something wrong with the domain controller. What would you classify this scenario as?
+### You are working as a Service Desk analyst. Within the last hour, you have received 13 calls about users being unable to log on to the network. There appears to be something wrong with the domain controller. What would you classify this scenario as?
 
 - [ ] Incident.
 - [ ] Workaround.
@@ -3624,7 +3624,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The users on the fourth floor of your building keep calling the service desk to report that their network connectivity is not working properly. The service desk logs each of these incidents, but since there are multiple incidents for the same issue, they forward it to the problem management activity for resolution. During your analysis, you determine that the network switch that services the entire fourth floor is broken and will need to be replaced. You checked the current inventory of spares, but there are none available. It appears this problem will remain for 24 hours until a new switch can be received and installed. How would you categorize the issue described in this scenario?
+### The users on the fourth floor of your building keep calling the Service Desk to report that their network connectivity is not working properly. The Service Desk logs each of these incidents, but since there are multiple incidents for the same issue, they forward it to the problem management activity for resolution. During your analysis, you determine that the network switch that services the entire fourth floor is broken and will need to be replaced. You checked the current inventory of spares, but there are none available. It appears this problem will remain for 24 hours until a new switch can be received and installed. How would you categorize the issue described in this scenario?
 
 - [x] Known error.
 - [ ] Workaround.
@@ -3653,10 +3653,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### What is true about the Service Desk?
 
-- [ ] Service desks should always be a physical team in a single fixed location.
-- [x] Service desks should be designed based on your organization, its business processes, and the user requirements.
-- [ ] Service desks should always use a virtual service desk to save money.
-- [ ] Service desks should always be local to the organization they support.
+- [ ] Service Desks should always be a physical team in a single fixed location.
+- [x] Service Desks should be designed based on your organization, its business processes, and the user requirements.
+- [ ] Service Desks should always use a virtual Service Desk to save money.
+- [ ] Service Desks should always be local to the organization they support.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3669,7 +3669,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You are in a quarterly service level management review with your supervisor. The manager asks your supervisor if the service desk has been meeting their SLA target metrics. Your supervisor proudly proclaims that everything is 'green' (meaning, we are meeting all of the targets). Just then, another executive asks, "If everything is showing as 'green', why am I hearing other users complain that the service is always unavailable for use?" What might be the reason for this?
+### You are in a quarterly service level management review with your supervisor. The manager asks your supervisor if the Service Desk has been meeting their SLA target metrics. Your supervisor proudly proclaims that everything is 'green' (meaning, we are meeting all of the targets). Just then, another executive asks, "If everything is showing as 'green', why am I hearing other users complain that the service is always unavailable for use?" What might be the reason for this?
 
 - [ ] Your supervisor's data is based on operational metrics.
 - [ ] Your supervisor's data is based on business metrics.
@@ -3687,7 +3687,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You are working as a service desk manager. One of your analysts has created a new workaround for a problem that has been causing issues for users for the last few hours. To ensure all users across the network are notified of this workaround, you decide to post the workaround on the front page of your user service portal on the intranet. During which value chain activity would this occur?
+### You are working as a Service Desk manager. One of your analysts has created a new workaround for a problem that has been causing issues for users for the last few hours. To ensure all users across the network are notified of this workaround, you decide to post the workaround on the front page of your user service portal on the intranet. During which value chain activity would this occur?
 
 - [ ] Plan.
 - [ ] Improve.
@@ -3795,21 +3795,21 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You have been asked to investigate an email service within your organization that is failing to meet its intended outcomes. You begin by determining the intended outcome and then observe the current service with as much objectivity as possible. Based on your observations, you are able to determine that the current service is not meeting its utility and warranty requirements. Which guiding principles best describes your actions in this scenario?
+### You have been asked to investigate an email service within your organization that is failing to meet its intended outcomes. You begin by determining the intended outcome and then observe the current service with as much objectivity as possible. Based on your observations, you are able to determine that the current service is not meeting its utility and Warranty requirements. Which guiding principles best describes your actions in this scenario?
 
-- [ ] Optimize and automate.
-- [ ] Keep it simple and practical.
-- [ ] Collaborate and promote visibility.
-- [x] Start where you are.
+- [ ] Optimize and Automate.
+- [ ] Keep It Simple and Practical.
+- [ ] Collaborate and Promote Visibility.
+- [x] Start Where You Are.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### A small start-up in San Francisco is launching a brand new iPhone app. Their staff is small, but they have big dreams and ideas for their app. The app will perform 15 different functions when it is fully developed. Currently, the app only has 4 functions completed, but the company decided to release the app to get some initial feedback. Based on the feedback, the company changed the third function to improve the customer experience and continued to add one function every 3 weeks to the app. What guiding principle best describes what the company was doing?
 
-- [ ] Optimize and automate.
-- [ ] Start where you are.
-- [x] Progress iteratively with feedback.
-- [ ] Keep it simple and practical.
+- [ ] Optimize and Automate.
+- [ ] Start Where You Are.
+- [x] Progress Iteratively with Feedback.
+- [ ] Keep It Simple and Practical.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3926,7 +3926,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Knowledge base.
 - [ ] Walk-in service hours.
 - [ ] 24x7 support.
-- [ ] Outsourced employees. 
+- [ ] Outsourced employees.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3939,7 +3939,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following is NOT a valid source of Service Level Management data to use in analyzing your service level agreements?
+### Which of the following is NOT a valid source of Service Level Management data to use in analyzing your Service Level Agreements?
 
 - [ ] Customer feedback.
 - [x] Competitor's metrics.
@@ -3948,7 +3948,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your laptop only has a 256GB of SSD storage installed. You have been traveling for work for the last 2 weeks and have downloaded a lot of video files to your internal storage device. Your computer is having issues because there is not enough free space. You called your service desk, but since you are out of the country, they cannot remotely back up all the files on your laptop. They recommend that you move the large files from your internal storage device (256GB SSD) to an external hard drive to free up some available space. Unfortunately, you don't have an external hard drive with you, so you will purchase one at the store later today. How would you classify this situation and the solution recommended?
+### Your laptop only has a 256GB of SSD storage installed. You have been traveling for work for the last 2 weeks and have downloaded a lot of video files to your internal storage device. Your computer is having issues because there is not enough free space. You called your Service Desk, but since you are out of the country, they cannot remotely back up all the files on your laptop. They recommend that you move the large files from your internal storage device (256GB SSD) to an external hard drive to free up some available space. Unfortunately, you don't have an external hard drive with you, so you will purchase one at the store later today. How would you classify this situation and the solution recommended?
 
 - [ ] Incident.
 - [ ] Workaround.
@@ -3968,37 +3968,37 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which guiding principle is focused on increasing communication both within the project and outside of it?
 
-- [ ] Keep it simple and practical.
-- [x] Collaborate and promote visibility.
-- [ ] Progress iteratively with feedback.
-- [ ] Optimize and automate.
+- [ ] Keep It Simple and Practical.
+- [x] Collaborate and Promote Visibility.
+- [ ] Progress Iteratively with Feedback.
+- [ ] Optimize and Automate.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Which guiding principle is concerned with an understanding of how all the parts of an organization work together in an integrated way?
 
-- [ ] Focus on value.
-- [ ] Keep it simple and practical.
-- [ ] Think and work holistically.
-- [ ] Optimize and automate.
+- [ ] Focus on Value.
+- [ ] Keep It Simple and Practical.
+- [ ] Think and Work Holistically.
+- [ ] Optimize and Automate.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### You have just been promoted to the role of the Service Desk manager. The manager before you loved metrics, and the Service Desk is currently spending numerous hours per week creating reports based on over 150 different metrics they call 'measures of effectiveness'. You believe there are simply too many metrics being collected and begin an analysis of each one to determine if is it providing valuable information. For the ones you find without value, you eliminate the requirement to track and report on those metrics. Which guiding principle are you following in this scenario?
 
-- [ ] Optimize and automate.
-- [ ] Progress iteratively with feedback.
-- [ ] Keep it simple and practical.
-- [ ] Collaborate and promote visibility.
+- [ ] Optimize and Automate.
+- [ ] Progress Iteratively with Feedback.
+- [ ] Keep It Simple and Practical.
+- [ ] Collaborate and Promote Visibility.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Which service management dimension is focused on an organization's relationships with other organizations in order to deliver its services?
 
-- [ ] Organizations and people.
-- [ ] Information and technology.
-- [x] Partners and suppliers.
-- [ ] Value streams and processes.
+- [ ] Organizations and People.
+- [ ] Information and Technology.
+- [x] Partners and Suppliers.
+- [ ] Value Streams and Processes.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4031,19 +4031,19 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### A company is planning to launch a new service and expects it will take them a full year to develop, test, and release the service. The project board for the project (the new service) has decided that instead of using a waterfall development method, they will use an Agile development method. This method will rely on two-week timeboxes, which means that every two weeks, the team must deliver some portion of the final service. As these smaller pieces of the new service are delivered, beta testers will be given access to the new features and functions to test and provide their initial thoughts on the new service. What guiding principle best describes this scenario?
 
-- [x] Progress iteratively with feedback.
-- [ ] Optimize and automate.
-- [ ] Start where you are.
-- [ ] Focus on value.
+- [x] Progress Iteratively with Feedback.
+- [ ] Optimize and Automate.
+- [ ] Start Where You Are.
+- [ ] Focus on Value.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Which guiding principle requires the identification and managing of all stakeholder groups in order to establish more robust communication across the staff?
 
-- [ ] Keep it simple and practical.
-- [ ] Focus on value.
-- [x] Collaborate and promote visibility.
-- [ ] Start where you are.
+- [ ] Keep It Simple and Practical.
+- [ ] Focus on Value.
+- [x] Collaborate and Promote Visibility.
+- [ ] Start Where You Are.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4058,19 +4058,19 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Your company has decided to implement a new management style that will significantly flatten the management hierarchy within the company. Which dimension of service management is most applicable to this change?
 
-- [ ] Information and technology.
+- [ ] Information and Technology.
 - [x] Organization and people.
-- [ ] Partners and suppliers.
-- [ ] Value streams and processes.
+- [ ] Partners and Suppliers.
+- [ ] Value Streams and Processes.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Dion Training Solutions has created an automated system that allows students to purchase their ITIL 4 Foundation exam vouchers at a discount through the Dion Training website. To accomplish this, the company sets up a 9-step automated series of activities that occurs once the student orders the voucher on the website. When this occurs, the automation selects a voucher for the student, emails them their unique voucher code and exam scheduling instructions, logs the purchase, remove the voucher from the inventory, and notifies the staff if the voucher inventory gets below a certain threshold. Which dimension of service management best represents this series of actions that is occurring through automation?
 
 - [ ] Organization and people.
-- [ ] Information and technology.
-- [x] Value streams and processes.
-- [ ] Partners and suppliers.
+- [ ] Information and Technology.
+- [x] Value Streams and Processes.
+- [ ] Partners and Suppliers.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4191,7 +4191,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your organization is currently designing a new service for implementation. The team designing the service has decided to focus on value during the design efforts. What best describes Focus on Value in this context?
+### Your organization is currently designing a new service for implementation. The team designing the service has decided to Focus on Value during the design efforts. What best describes Focus on Value in this context?
 
 - [ ] Mandatory actions.
 - [x] Guiding principle.
@@ -4202,19 +4202,19 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which guiding principle may best be served by understanding the cost and financial consequences that a service consumer might face when choosing to use a service?
 
-- [ ] Collaborate and promote visibility.
-- [ ] Think and work holistically.
-- [x] Focus on value.
-- [ ] Progress iteratively with feedback.
+- [ ] Collaborate and Promote Visibility.
+- [ ] Think and Work Holistically.
+- [x] Focus on Value.
+- [ ] Progress Iteratively with Feedback.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Which guiding principle states that there is likely something in the current services, processes, programs, projects, or organization that can be used to create the desired outcome for a new or redesigned service?
 
-- [x] Start where you are.
-- [ ] Focus on value.
-- [ ] Optimize and automate.
-- [ ] Progress iteratively with feedback.
+- [x] Start Where You Are.
+- [ ] Focus on Value.
+- [ ] Optimize and Automate.
+- [ ] Progress Iteratively with Feedback.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4254,7 +4254,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You are working as a service desk analyst. You just received a change request to create a new user account. What type of change would this be considered?
+### You are working as a Service Desk analyst. You just received a change request to create a new user account. What type of change would this be considered?
 
 - [x] Standard.
 - [ ] Normal.
@@ -4301,14 +4301,14 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which is a recommendation of the Service Desk practice?
 
-- [ ] Service desks should never use technologies such as SMS and chat functions.
-- [ ] Service desks should be highly technical functions.
-- [x] Service desks should have a practical understanding of users and their needs.
-- [ ] Service desks should always be local to the organization they support.
+- [ ] Service Desks should never use technologies such as SMS and chat functions.
+- [ ] Service Desks should be highly technical functions.
+- [x] Service Desks should have a practical understanding of users and their needs.
+- [ ] Service Desks should always be local to the organization they support.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company has decided to use work-from-home employees to fulfill its service desk requirements. Users call a central toll-free number and are routed to the next available service desk analyst, regardless of where the analyst is physically located. Many of these employees may be working from remote offices or their own home offices. What service desk structure does this describe?
+### Your company has decided to use work-from-home employees to fulfill its Service Desk requirements. Users call a central toll-free number and are routed to the next available Service Desk analyst, regardless of where the analyst is physically located. Many of these employees may be working from remote offices or their own home offices. What Service Desk structure does this describe?
 
 - [x] Virtual.
 - [ ] Centralized.
@@ -4367,7 +4367,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] The addition, modification, or removal of anything that could have a direct or indirect effect on services.
 - [ ] An unplanned interruption to a service or reduction in the quality of service.
 - [ ] A cause, or potential cause, of one more more incidents.
-- [ ] An issue that has been analyzed but has not been resolved. 
+- [ ] An issue that has been analyzed but has not been resolved.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4428,7 +4428,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Fill in the blank. A(n) [?] is a result for a stakeholder enabled by one or more outputs.
 
 - [ ] utility.
-- [ ] warranty.
+- [ ] Warranty.
 - [ ] value.
 - [x] outcome.
 
@@ -4454,32 +4454,32 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which guiding principle says that the current state should be investigated and observed directly to make sure it is fully understood before you attempt to create a brand new service or process?
 
-- [ ] Optimize and automate.
-- [ ] Progress iteratively with feedback.
-- [x] Start where you are.
-- [ ] Focus on value.
+- [ ] Optimize and Automate.
+- [ ] Progress Iteratively with Feedback.
+- [x] Start Where You Are.
+- [ ] Focus on Value.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The Start where you are guiding principle says that the current state should be investigated and observed directly to make sure it is fully understood before you attempt to create a brand new service or process. There is usually something in the existing service or process that can be reused, saving you time, effort, and resources.
+### The Start Where You Are guiding principle says that the current state should be investigated and observed directly to make sure it is fully understood before you attempt to create a brand new service or process. There is usually something in the existing service or process that can be reused, saving you time, effort, and resources.
 
-- [ ] Keep it simple and practical.
-- [x] Think and work holistically.
-- [ ] Optimize and automate.
-- [ ] Collaborate and promote visibility.
+- [ ] Keep It Simple and Practical.
+- [x] Think and Work Holistically.
+- [ ] Optimize and Automate.
+- [ ] Collaborate and Promote Visibility.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Which guiding principle is focused on using the minimum number of steps to accomplish an objective?
 
-- [x] Keep it simple and practical.
-- [ ] Progress iteratively with feedback.
-- [ ] Optimize and automate.
-- [ ] Collaborate and promote visibility.
+- [x] Keep It Simple and Practical.
+- [ ] Progress Iteratively with Feedback.
+- [ ] Optimize and Automate.
+- [ ] Collaborate and Promote Visibility.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company currently uses a paper-based process for allocating funding for authorized business travel. This process requires the traveler to fill out a form and get 6 different signatures and approval prior to turning in the form to accounting for funding of the travel. This entire process is currently done manually, meaning, an employee is actually walking around to the various managers for their physical signature on a piece of paper. You have decided to automate this process. Based on the principle of 'optimize and automate', how should you approach the automation of this existing process?
+### Your company currently uses a paper-based process for allocating funding for authorized business travel. This process requires the traveler to fill out a form and get 6 different signatures and approval prior to turning in the form to accounting for funding of the travel. This entire process is currently done manually, meaning, an employee is actually walking around to the various managers for their physical signature on a piece of paper. You have decided to automate this process. Based on the principle of Optimize and Automate, how should you approach the automation of this existing process?
 
 - [ ] Identify all of the steps in the process and create an automated workflow that will route the form electronically to the authorized signatories.
 - [ ] Identify all of the steps in the process and eliminate any unnecessary steps in the process.
@@ -4490,19 +4490,19 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which dimension of service management should be considered when deciding whether or not moving the organization's web server from an on-premise solution to the cloud is a good decision in terms of compliance and security?
 
-- [ ] Organizations and people.
-- [ ] Value streams and processes.
-- [x] Information and technology.
-- [ ] Partners and suppliers.
+- [ ] Organizations and People.
+- [ ] Value Streams and Processes.
+- [x] Information and Technology.
+- [ ] Partners and Suppliers.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Dion Training Solutions is an Authorized Training Organization for Axelos. Which service management dimension would be focused on the relationship between Dion Training Solutions and Axelos in regards to the company's delivery of ITIL 4 Foundation training to students?
 
-- [ ] Organizations and people.
-- [ ] Information and technology.
-- [x] Partners and suppliers.
-- [ ] Value streams and processes.
+- [ ] Organizations and People.
+- [ ] Information and Technology.
+- [x] Partners and Suppliers.
+- [ ] Value Streams and Processes.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4616,14 +4616,14 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### What does a centralized Service Desk require?
 
-- [ ] Local service desk analysts.
+- [ ] Local Service Desk analysts.
 - [ ] Complex automation.
 - [ ] 24x7 support.
 - [x] Remote access tools.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company has three service desk locations around the globe to support 24x7 operations. These locations are in England, the United States, and India. Each of these service desks only operates on an 8 am to 5 pm schedule in their local time. When a user calls the service desk, their call is routed to whichever service desk is operating at that time. For example, if it is 1 am in New York City and a user calls the service desk, they are routed to the India service desk because it would only be 11 am in India. What type of service desk model is your company using?
+### Your company has three Service Desk locations around the globe to support 24x7 operations. These locations are in England, the United States, and India. Each of these Service Desks only operates on an 8 am to 5 pm schedule in their local time. When a user calls the Service Desk, their call is routed to whichever Service Desk is operating at that time. For example, if it is 1 am in New York City and a user calls the Service Desk, they are routed to the India Service Desk because it would only be 11 am in India. What type of Service Desk model is your company using?
 
 - [ ] Virtual.
 - [ ] Centralized.
@@ -4652,16 +4652,16 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which guiding principle recognizes the complexity of a system and seeks to understand the relationships between the various components that make up a service?
 
-- [ ] Keep it simple and practical.
-- [x] Think and work holistically.
-- [ ] Optimize and automate.
-- [ ] Collaborate and promote visibility.
+- [ ] Keep It Simple and Practical.
+- [x] Think and Work Holistically.
+- [ ] Optimize and Automate.
+- [ ] Collaborate and Promote Visibility.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Who can report an incident?
 
-- [ ] Service desk analyst.
+- [ ] Service Desk analyst.
 - [ ] End user.
 - [ ] System administrator.
 - [x] Anyone.
@@ -4677,7 +4677,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which value chain activity would best be used to categorize the actions of the service desk when they are responding to a consumer's request for assistance?
+### Which value chain activity would best be used to categorize the actions of the Service Desk when they are responding to a consumer's request for assistance?
 
 - [ ] Obtain/Build.
 - [ ] Improve.
@@ -4787,10 +4787,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which is a recommendation of the Service Desk practice?
 
-- [ ] Service desks should never use technologies such as SMS and chat functions.
-- [ ] Service desks should be highly technical functions.
-- [x] Service desks should have a practical understanding of the wider business.
-- [ ] Service desks should be a physical team in a single fixed location.
+- [ ] Service Desks should never use technologies such as SMS and chat functions.
+- [ ] Service Desks should be highly technical functions.
+- [x] Service Desks should have a practical understanding of the wider business.
+- [ ] Service Desks should be a physical team in a single fixed location.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4821,7 +4821,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company has five branch offices located across the country. To support each of these branch offices, a small service desk has been created for each office and it is co-located with the users to whom they are providing service and support. What model of service desk is your company using?
+### Your company has five branch offices located across the country. To support each of these branch offices, a small Service Desk has been created for each office and it is co-located with the users to whom they are providing service and support. What model of Service Desk is your company using?
 
 - [ ] Virtual.
 - [ ] Centralized.
@@ -4938,7 +4938,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the main benefit of following the guiding principle of progress iteratively with feedback?
+### What is the main benefit of following the guiding principle of Progress Iteratively with Feedback?
 
 - [x] Faster responses to customers and business needs.
 - [ ] Overall lower quality in the project.
@@ -4947,56 +4947,56 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your team is working on developing a new service and has chosen to use an Agile method of working. As part of this, your team has created an 'information radiator' in the common areas of your floor of the office. This 'information radiator' contains the list of things that must be done in the project, the current status of the project, a listing of risks associated with the project, and the overall objective/goal of the project. Based on the information provided in this scenario, which guiding principle is being demonstrated through the use of this 'information radiator'?
+### Your team is working on developing a new service and has chosen to use an Agile method of working. As part of this, your team has created an Information Radiator in the common areas of your floor of the office. This Information Radiator contains the list of things that must be done in the project, the current status of the project, a listing of risks associated with the project, and the overall objective/goal of the project. Based on the information provided in this scenario, which guiding principle is being demonstrated through the use of this Information Radiator?
 
-- [ ] Focus on value.
-- [ ] Keep it simple and practical.
-- [ ] Optimize and automate.
-- [x] Collaborate and promote visibility.
+- [ ] Focus on Value.
+- [ ] Keep It Simple and Practical.
+- [ ] Optimize and Automate.
+- [x] Collaborate and Promote Visibility.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Which guiding principle requires coordination across the organization in order to best understand how a complicated service works?
 
-- [x] Think and work holistically.
-- [ ] Keep it simple and practical.
-- [ ] Optimize and automate.
-- [ ] Focus on value.
+- [x] Think and Work Holistically.
+- [ ] Keep It Simple and Practical.
+- [ ] Optimize and Automate.
+- [ ] Focus on Value.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### You have been asked to create a stand create a process for the most common three types of account creation which account for 99% of all requests made. Then, create a blanket rule at the end of the process that says, 'If the account doesn't belong to one of the above three categories, elevate the request to your supervisor'. This will allow the supervisors to handle the exception, which only accounts for 1% of all account requests, and you can create that process in just a few hours." What guiding principle is Nancy recommending you to follow with her approach to solving this problem?
 
-- [ ] Progress iteratively with feedback.
-- [ ] Optimize and automate.
-- [x] Keep it simple and practical.
-- [ ] Focus on value.
+- [ ] Progress Iteratively with Feedback.
+- [ ] Optimize and Automate.
+- [x] Keep It Simple and Practical.
+- [ ] Focus on Value.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Which guiding principle should you use to maximize the value of the work carried out by the human and technical resources within an organization?
 
-- [ ] Think and work holistically.
-- [ ] Progress iteratively with feedback.
-- [ ] Focus on value.
-- [x] Optimize and automate.
+- [ ] Think and Work Holistically.
+- [ ] Progress Iteratively with Feedback.
+- [ ] Focus on Value.
+- [x] Optimize and Automate.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Dion Training Solutions has two departments within the company: Training and Operations. Which dimension of service management is focused on how a company structures its human resources?
 
-- [ ] Partners and suppliers.
-- [ ] Value streams and processes.
-- [x] Organizations and people.
-- [ ] Information and technology.
+- [ ] Partners and Suppliers.
+- [ ] Value Streams and Processes.
+- [x] Organizations and People.
+- [ ] Information and Technology.
 
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Your company has recently decided to install a Microsoft SharePoint server to serve as the organization's knowledge base. Which dimension of service management would this decision best be considered?
 
-- [x] Information and technology.
-- [ ] Organizations and people.
-- [ ] Partners and suppliers.
-- [ ] Value streams and processes.
+- [x] Information and Technology.
+- [ ] Organizations and People.
+- [ ] Partners and Suppliers.
+- [ ] Value Streams and Processes.
 
 **[⬆ Back to Top](#table-of-contents)**
