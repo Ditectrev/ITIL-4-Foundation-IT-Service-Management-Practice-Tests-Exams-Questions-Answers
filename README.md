@@ -3146,10 +3146,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which of these are a key focus of the Organization and People dimension?
 
-- Security and compliance.
-- Activities that transform inputs into outputs.
-- Roles and responsibilities.
-- Contracts and agreements.
+- [ ] Security and compliance.
+- [ ] Activities that transform inputs into outputs.
+- [x] Roles and responsibilities.
+- [ ] Contracts and agreements.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3661,7 +3661,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Plan.
 - [ ] Improve.
-- [ ] Engage.
+- [x] Engage.
 - [ ] Obtain/Build.
 
 **[⬆ Back to Top](#table-of-contents)**
