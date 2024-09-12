@@ -147,7 +147,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 45  | [Which is a purpose of the Service Desk practice?](#which-is-a-purpose-of-the-service-desk-practice)
 | 46  | [Which practice identifies metrics that reflect a customer experience of a service?](#which-practice-identifies-metrics-that-reflect-a-customer-experience-of-a-service)
 | 47  | [Which statement about a service value stream is CORRECT?](#which-statement-about-a-service-value-stream-is-correct)
-| 48  | [Which guiding principle recommends coordinating all dimensions of service management?](#which-guiding-principle-recommends-coordinating-all-dimensions-of-service-management)
+| 48  | [Which guiding principle recommends coordinating all dimensions of Service Management?](#which-guiding-principle-recommends-coordinating-all-dimensions-of-service-management)
 | 49  | [Which statement about the steps to fulfill a service request is CORRECT?](#which-statement-about-the-steps-to-fulfill-a-service-request-is-correct)
 | 50  | [Which practice has a purpose that includes aligning the organization's practices and services with changing business needs?](#which-practice-has-a-purpose-that-includes-aligning-the-organizations-practices-and-services-with-changing-business-needs)
 | 51  | [How does Service Request Management contribute to the Design and Transition value chain activity?](#how-does-service-request-management-contribute-to-the-design-and-transition-value-chain-activity)
@@ -341,7 +341,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 239 | [When an organization has decided to improve a service, it should start by considering [?].](#when-an-organization-has-decided-to-improve-a-service-it-should-start-by-considering-)
 | 240 | [Which are elements of the service value system?](#which-are-elements-of-the-service-value-system)
 | 241 | [Which is a use of the change schedule?](#which-is-a-use-of-the-change-schedule)
-| 242 | [Which dimension of service management considers the workflows and controls needed to deliver services?](#which-dimension-of-service-management-considers-the-workflows-and-controls-needed-to-deliver-services)
+| 242 | [Which dimension of Service Management considers the workflows and controls needed to deliver services?](#which-dimension-of-service-management-considers-the-workflows-and-controls-needed-to-deliver-services)
 | 243 | [Which guiding principle considers how the steps of a process can be performed as efficiently as possible?](#which-guiding-principle-considers-how-the-steps-of-a-process-can-be-performed-as-efficiently-as-possible)
 | 244 | [Which statement about the Incident Management practice is CORRECT?](#which-statement-about-the-incident-management-practice-is-correct)
 | 245 | [How should an organization prioritize incidents?](#how-should-an-organization-prioritize-incidents)
@@ -391,13 +391,13 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 289 | [Which value chain activity includes portfolio decisions for Design and Transition?](#which-value-chain-activity-includes-portfolio-decisions-for-design-and-transition)
 | 290 | [Which step of the Continual Improvement model states that 'each improvement initiative should support the organization's goals and objectives'?](#which-step-of-the-continual-improvement-model-states-that-each-improvement-initiative-should-support-the-organizations-goals-and-objectives)
 | 291 | [When working within the 'what is the vision' step of the Continual Improvement model, what must you ensure to occur?](#when-working-within-the-what-is-the-vision-step-of-the-continual-improvement-model-what-must-you-ensure-to-occur)
-| 292 | [Bridgett is leading an improvement initiative within your company. She has been told that the company wants to have the highest customer satisfaction in the industry. Currently, the company has a customer satisfaction rating of 92% but the industry leader has an average of 94%. Bridgett decides that the company should set their goal of obtaining a 96% customer satisfaction score within the next 12 months. What step of the continual improvement model is Bridgett currently in?](#bridgett-is-leading-an-improvement-initiative-within-your-company-she-has-been-told-that-the-company-wants-to-have-the-highest-customer-satisfaction-in-the-industry-currently-the-company-has-a-customer-satisfaction-rating-of-92-but-the-industry-leader-has-an-average-of-94-bridgett-decides-that-the-company-should-set-their-goal-of-obtaining-a-96-customer-satisfaction-score-within-the-next-12-months-what-step-of-the-continual-improvement-model-is-bridgett-currently-in)
+| 292 | [Bridgett is leading an improvement initiative within your company. She has been told that the company wants to have the highest customer satisfaction in the industry. Currently, the company has a customer satisfaction rating of 92% but the industry leader has an average of 94%. Bridgett decides that the company should set their goal of obtaining a 96% customer satisfaction score within the next 12 months. What step of the Continual Improvement model is Bridgett currently in?](#bridgett-is-leading-an-improvement-initiative-within-your-company-she-has-been-told-that-the-company-wants-to-have-the-highest-customer-satisfaction-in-the-industry-currently-the-company-has-a-customer-satisfaction-rating-of-92-but-the-industry-leader-has-an-average-of-94-bridgett-decides-that-the-company-should-set-their-goal-of-obtaining-a-96-customer-satisfaction-score-within-the-next-12-months-what-step-of-the-continual-improvement-model-is-bridgett-currently-in)
 | 293 | [What is a normal change?](#what-is-a-normal-change)
 | 294 | [Your company's external router has just malfunctioned and needs to be replaced. The entire organization's connection to the Wide Area Network will remain offline until this router is replaced. Which type of change should be initiated?](#your-companys-external-router-has-just-malfunctioned-and-needs-to-be-replaced-the-entire-organizations-connection-to-the-wide-area-network-will-remain-offline-until-this-router-is-replaced-which-type-of-change-should-be-initiated)
 | 295 | [What is a change schedule NOT used for?](#what-is-a-change-schedule-not-used-for)
 | 296 | [How can you ensure the incidents with the highest business impact are resolved first?](#how-can-you-ensure-the-incidents-with-the-highest-business-impact-are-resolved-first)
 | 297 | [Which incidents should be logged?](#which-incidents-should-be-logged)
-| 298 | [What is NOT a phase in problem management?](#what-is-not-a-phase-in-problem-management)
+| 298 | [What is NOT a phase in Problem Management?](#what-is-not-a-phase-in-problem-management)
 | 299 | [If a problem cannot be resolved quickly, you might wish to document and implement a temporary solution to reduce the impact of the problem. What is this known as?](#if-a-problem-cannot-be-resolved-quickly-you-might-wish-to-document-and-implement-a-temporary-solution-to-reduce-the-impact-of-the-problem-what-is-this-known-as)
 | 300 | [How does Service Request Management contribute to the Improve value chain activity?](#how-does-service-request-management-contribute-to-the-improve-value-chain-activity)
 | 301 | [Service requests and their fulfillment should be [?] and automated to the greatest degree possible.](#service-requests-and-their-fulfillment-should-be--and-automated-to-the-greatest-degree-possible)
@@ -416,30 +416,30 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 314 | [Company A has decided not to run their own email servers. Instead, Company A pays a monthly service fee to Google's G-Suite to provide email services to the company so that Company A can receive emails from its students. What best describes this co-creation of value by Company A and Google in order to provide email support to Company A's students?](#company-a-has-decided-not-to-run-their-own-email-servers-instead-company-a-pays-a-monthly-service-fee-to-googles-g-suite-to-provide-email-services-to-the-company-so-that-company-a-can-receive-emails-from-its-students-what-best-describes-this-co-creation-of-value-by-company-a-and-google-in-order-to-provide-email-support-to-company-as-students)
 | 315 | [What term best describes the perceived benefits, usefulness, and importance of something?](#what-term-best-describes-the-perceived-benefits-usefulness-and-importance-of-something)
 | 316 | [Your organization is preparing to launch a new service. Your manager is concerned that there is a possibility that something bad might happen which could cause the service to fail and the desired outcome won't be achieved. What term best describes your manager's concerns?](#your-organization-is-preparing-to-launch-a-new-service-your-manager-is-concerned-that-there-is-a-possibility-that-something-bad-might-happen-which-could-cause-the-service-to-fail-and-the-desired-outcome-wont-be-achieved-what-term-best-describes-your-managers-concerns)
-| 317 | [[?] is/are defined as a recommendation that can guide an organization in all circumstances and will guide organizations when adopting service management.](#-isare-defined-as-a-recommendation-that-can-guide-an-organization-in-all-circumstances-and-will-guide-organizations-when-adopting-service-management)
+| 317 | [[?] is/are defined as a recommendation that can guide an organization in all circumstances and will guide organizations when adopting Service Management.](#-isare-defined-as-a-recommendation-that-can-guide-an-organization-in-all-circumstances-and-will-guide-organizations-when-adopting-service-management)
 | 318 | [You have been assigned to a team that has been asked to identify how your consumers use a particular service, what the service helps them to do, and how the service helps them to identify their goals. Which of the guiding principles should best be applied in your situation?](#you-have-been-assigned-to-a-team-that-has-been-asked-to-identify-how-your-consumers-use-a-particular-service-what-the-service-helps-them-to-do-and-how-the-service-helps-them-to-identify-their-goals-which-of-the-guiding-principles-should-best-be-applied-in-your-situation)
 | 319 | [Your organization is currently running a web hosting service, but it is not providing sufficient utility and Warranty. In order to fix this, a team has been assembled and asked to design a new web hosting service. The team manager suggests that the team first look at the existing service and its processes before they begin to design the new service. What guiding principle is being followed by the team manager?](#your-organization-is-currently-running-a-web-hosting-service-but-it-is-not-providing-sufficient-utility-and-warranty-in-order-to-fix-this-a-team-has-been-assembled-and-asked-to-design-a-new-web-hosting-service-the-team-manager-suggests-that-the-team-first-look-at-the-existing-service-and-its-processes-before-they-begin-to-design-the-new-service-what-guiding-principle-is-being-followed-by-the-team-manager)
 | 320 | [Which guiding principle is focused on involving the right people in the correct roles in order to get additional buy-in for the project and increase the likelihood of long-term success?](#which-guiding-principle-is-focused-on-involving-the-right-people-in-the-correct-roles-in-order-to-get-additional-buy-in-for-the-project-and-increase-the-likelihood-of-long-term-success)
 | 321 | [During a review of the New Account Creation process at your company, you determine that the current process requires 15 steps to create a new account. As you analyze each step, you find that steps 3 and 5 provide no value to the process or the organization. Based on which guiding principle should you eliminate steps 3 and 5 from the process?](#during-a-review-of-the-new-account-creation-process-at-your-company-you-determine-that-the-current-process-requires-15-steps-to-create-a-new-account-as-you-analyze-each-step-you-find-that-steps-3-and-5-provide-no-value-to-the-process-or-the-organization-based-on-which-guiding-principle-should-you-eliminate-steps-3-and-5-from-the-process)
 | 322 | [What refers to the use of technology to perform a step or series of steps correctly and consistently with limited or no human involvement?](#what-refers-to-the-use-of-technology-to-perform-a-step-or-series-of-steps-correctly-and-consistently-with-limited-or-no-human-involvement)
-| 323 | [Which service management dimension is focused on the roles and responsibilities of the people involved in a process' workflow?](#which-service-management-dimension-is-focused-on-the-roles-and-responsibilities-of-the-people-involved-in-a-process-workflow)
-| 324 | [Which service management dimension is focused on the communication systems and knowledge bases used by employees?](#which-service-management-dimension-is-focused-on-the-communication-systems-and-knowledge-bases-used-by-employees)
+| 323 | [Which Service Management dimension is focused on the roles and responsibilities of the people involved in a process' workflow?](#which-service-management-dimension-is-focused-on-the-roles-and-responsibilities-of-the-people-involved-in-a-process-workflow)
+| 324 | [Which Service Management dimension is focused on the communication systems and knowledge bases used by employees?](#which-service-management-dimension-is-focused-on-the-communication-systems-and-knowledge-bases-used-by-employees)
 | 325 | [Which ITIL concept describes practices?](#which-itil-concept-describes-practices)
 | 326 | [Which of the following is NOT an activity within the service value chain?](#which-of-the-following-is-not-an-activity-within-the-service-value-chain)
 | 327 | [Your company has recently engaged a new supplier to provide you with 3 routers that will handle 1 Gbps of throughput. They are scheduled for installation in three months. Your team is currently configuring the devices in preparation for installation into the network architecture based upon the design requirements. Which value chain activity would best categorize your configuration actions in this scenario?](#your-company-has-recently-engaged-a-new-supplier-to-provide-you-with-3-routers-that-will-handle-1-gbps-of-throughput-they-are-scheduled-for-installation-in-three-months-your-team-is-currently-configuring-the-devices-in-preparation-for-installation-into-the-network-architecture-based-upon-the-design-requirements-which-value-chain-activity-would-best-categorize-your-configuration-actions-in-this-scenario)
-| 328 | [Management has set a goal to reduce the number of physical servers in the datacenter by 10% this year. Your team is responsible for creating a plan to migrate 50% of the physical servers into virtualized systems. Which step of the continual improvement model are you currently working on?](#management-has-set-a-goal-to-reduce-the-number-of-physical-servers-in-the-datacenter-by-10-this-year-your-team-is-responsible-for-creating-a-plan-to-migrate-50-of-the-physical-servers-into-virtualized-systems-which-step-of-the-continual-improvement-model-are-you-currently-working-on)
+| 328 | [Management has set a goal to reduce the number of physical servers in the datacenter by 10% this year. Your team is responsible for creating a plan to migrate 50% of the physical servers into virtualized systems. Which step of the Continual Improvement model are you currently working on?](#management-has-set-a-goal-to-reduce-the-number-of-physical-servers-in-the-datacenter-by-10-this-year-your-team-is-responsible-for-creating-a-plan-to-migrate-50-of-the-physical-servers-into-virtualized-systems-which-step-of-the-continual-improvement-model-are-you-currently-working-on)
 | 329 | [You are working as part of an improvement initiative and your team would like to release a new module into the existing Customer Relationship Management system. Which type of change should you initiate?](#you-are-working-as-part-of-an-improvement-initiative-and-your-team-would-like-to-release-a-new-module-into-the-existing-customer-relationship-management-system-which-type-of-change-should-you-initiate)
 | 330 | [What is an emergency change?](#what-is-an-emergency-change)
 | 331 | [Who is responsible for approving a change within the organization?](#who-is-responsible-for-approving-a-change-within-the-organization)
-| 332 | [Your company has decided to install a service management tool that provides incident management as one of its functions. What is the benefit of using an incident management system?](#your-company-has-decided-to-install-a-service-management-tool-that-provides-incident-management-as-one-of-its-functions-what-is-the-benefit-of-using-an-incident-management-system)
+| 332 | [Your company has decided to install a Service Management tool that provides incident management as one of its functions. What is the benefit of using an incident management system?](#your-company-has-decided-to-install-a-service-management-tool-that-provides-incident-management-as-one-of-its-functions-what-is-the-benefit-of-using-an-incident-management-system)
 | 333 | [What is usually included as part of Incident Management?](#what-is-usually-included-as-part-of-incident-management)
 | 334 | [You are working as a Service Desk analyst. Within the last hour, you have received 13 calls about users being unable to log on to the network. There appears to be something wrong with the domain controller. What would you classify this scenario as?](#you-are-working-as-a-service-desk-analyst-within-the-last-hour-you-have-received-13-calls-about-users-being-unable-to-log-on-to-the-network-there-appears-to-be-something-wrong-with-the-domain-controller-what-would-you-classify-this-scenario-as)
-| 335 | [The users on the fourth floor of your building keep calling the Service Desk to report that their network connectivity is not working properly. The Service Desk logs each of these incidents, but since there are multiple incidents for the same issue, they forward it to the problem management activity for resolution. During your analysis, you determine that the network switch that services the entire fourth floor is broken and will need to be replaced. You checked the current inventory of spares, but there are none available. It appears this problem will remain for 24 hours until a new switch can be received and installed. How would you categorize the issue described in this scenario?](#the-users-on-the-fourth-floor-of-your-building-keep-calling-the-service-desk-to-report-that-their-network-connectivity-is-not-working-properly-the-service-desk-logs-each-of-these-incidents-but-since-there-are-multiple-incidents-for-the-same-issue-they-forward-it-to-the-problem-management-activity-for-resolution-during-your-analysis-you-determine-that-the-network-switch-that-services-the-entire-fourth-floor-is-broken-and-will-need-to-be-replaced-you-checked-the-current-inventory-of-spares-but-there-are-none-available-it-appears-this-problem-will-remain-for-24-hours-until-a-new-switch-can-be-received-and-installed-how-would-you-categorize-the-issue-described-in-this-scenario)
+| 335 | [The users on the fourth floor of your building keep calling the Service Desk to report that their network connectivity is not working properly. The Service Desk logs each of these incidents, but since there are multiple incidents for the same issue, they forward it to the Problem Management activity for resolution. During your analysis, you determine that the network switch that services the entire fourth floor is broken and will need to be replaced. You checked the current inventory of spares, but there are none available. It appears this problem will remain for 24 hours until a new switch can be received and installed. How would you categorize the issue described in this scenario?](#the-users-on-the-fourth-floor-of-your-building-keep-calling-the-service-desk-to-report-that-their-network-connectivity-is-not-working-properly-the-service-desk-logs-each-of-these-incidents-but-since-there-are-multiple-incidents-for-the-same-issue-they-forward-it-to-the-problem-management-activity-for-resolution-during-your-analysis-you-determine-that-the-network-switch-that-services-the-entire-fourth-floor-is-broken-and-will-need-to-be-replaced-you-checked-the-current-inventory-of-spares-but-there-are-none-available-it-appears-this-problem-will-remain-for-24-hours-until-a-new-switch-can-be-received-and-installed-how-would-you-categorize-the-issue-described-in-this-scenario)
 | 336 | [How does Service Request Management contribute to the Deliver and Support value chain activity?](#how-does-service-request-management-contribute-to-the-deliver-and-support-value-chain-activity)
-| 337 | [What is an example of an action a service request management employee would undertake as part of the Obtain/Build activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-obtainbuild-activity)
+| 337 | [What is an example of an action a Service Request Management employee would undertake as part of the Obtain/Build activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-obtainbuild-activity)
 | 338 | [What is true about the Service Desk?](#what-is-true-about-the-service-desk)
 | 339 | [What activity is the main channel for communication and collaboration with users?](#what-activity-is-the-main-channel-for-communication-and-collaboration-with-users)
-| 340 | [You are in a quarterly service level management review with your supervisor. The manager asks your supervisor if the Service Desk has been meeting their SLA target metrics. Your supervisor proudly proclaims that everything is 'green' (meaning, we are meeting all of the targets). Just then, another executive asks, "If everything is showing as 'green', why am I hearing other users complain that the service is always unavailable for use?" What might be the reason for this?](#you-are-in-a-quarterly-service-level-management-review-with-your-supervisor-the-manager-asks-your-supervisor-if-the-service-desk-has-been-meeting-their-sla-target-metrics-your-supervisor-proudly-proclaims-that-everything-is-green-meaning-we-are-meeting-all-of-the-targets-just-then-another-executive-asks-if-everything-is-showing-as-green-why-am-i-hearing-other-users-complain-that-the-service-is-always-unavailable-for-use-what-might-be-the-reason-for-this)
+| 340 | [You are in a quarterly Service Level Management review with your supervisor. The manager asks your supervisor if the Service Desk has been meeting their SLA target metrics. Your supervisor proudly proclaims that everything is 'green' (meaning, we are meeting all of the targets). Just then, another executive asks, "If everything is showing as 'green', why am I hearing other users complain that the service is always unavailable for use?" What might be the reason for this?](#you-are-in-a-quarterly-service-level-management-review-with-your-supervisor-the-manager-asks-your-supervisor-if-the-service-desk-has-been-meeting-their-sla-target-metrics-your-supervisor-proudly-proclaims-that-everything-is-green-meaning-we-are-meeting-all-of-the-targets-just-then-another-executive-asks-if-everything-is-showing-as-green-why-am-i-hearing-other-users-complain-that-the-service-is-always-unavailable-for-use-what-might-be-the-reason-for-this)
 | 341 | [How does Service Level Management contribute to the Improve value chain activity?](#how-does-service-level-management-contribute-to-the-improve-value-chain-activity)
 | 342 | [You are working as a Service Desk manager. One of your analysts has created a new workaround for a problem that has been causing issues for users for the last few hours. To ensure all users across the network are notified of this workaround, you decide to post the workaround on the front page of your user service portal on the intranet. During which value chain activity would this occur?](#you-are-working-as-a-service-desk-manager-one-of-your-analysts-has-created-a-new-workaround-for-a-problem-that-has-been-causing-issues-for-users-for-the-last-few-hours-to-ensure-all-users-across-the-network-are-notified-of-this-workaround-you-decide-to-post-the-workaround-on-the-front-page-of-your-user-service-portal-on-the-intranet-during-which-value-chain-activity-would-this-occur)
 | 343 | [What is an example of an action a Service Request Management employee would undertake as part of the Design and Transition activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-design-and-transition-activity)
@@ -455,16 +455,16 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 353 | [What are guiding principles considered?](#what-are-guiding-principles-considered)
 | 354 | [You have been asked to investigate an email service within your organization that is failing to meet its intended outcomes. You begin by determining the intended outcome and then observe the current service with as much objectivity as possible. Based on your observations, you are able to determine that the current service is not meeting its utility and Warranty requirements. Which guiding principles best describes your actions in this scenario?](#you-have-been-asked-to-investigate-an-email-service-within-your-organization-that-is-failing-to-meet-its-intended-outcomes-you-begin-by-determining-the-intended-outcome-and-then-observe-the-current-service-with-as-much-objectivity-as-possible-based-on-your-observations-you-are-able-to-determine-that-the-current-service-is-not-meeting-its-utility-and-warranty-requirements-which-guiding-principles-best-describes-your-actions-in-this-scenario)
 | 355 | [A small start-up in San Francisco is launching a brand new iPhone app. Their staff is small, but they have big dreams and ideas for their app. The app will perform 15 different functions when it is fully developed. Currently, the app only has 4 functions completed, but the company decided to release the app to get some initial feedback. Based on the feedback, the company changed the third function to improve the customer experience and continued to add one function every 3 weeks to the app. What guiding principle best describes what the company was doing?](#a-small-start-up-in-san-francisco-is-launching-a-brand-new-iphone-app-their-staff-is-small-but-they-have-big-dreams-and-ideas-for-their-app-the-app-will-perform-15-different-functions-when-it-is-fully-developed-currently-the-app-only-has-4-functions-completed-but-the-company-decided-to-release-the-app-to-get-some-initial-feedback-based-on-the-feedback-the-company-changed-the-third-function-to-improve-the-customer-experience-and-continued-to-add-one-function-every-3-weeks-to-the-app-what-guiding-principle-best-describes-what-the-company-was-doing)
-| 356 | [Which value chain activity ensures continual improvement of products, services, and practices across all value chain activities and the four dimensions of service management?](#which-value-chain-activity-ensures-continual-improvement-of-products-services-and-practices-across-all-value-chain-activities-and-the-four-dimensions-of-service-management)
-| 357 | [Betsy has been hired by your company to lead the process improvement efforts. You have shared with her the overall vision for the process improvement and she begins to analyze your current resources, processes, and metrics. What step of the continual improvement model is Betsy performing?](#betsy-has-been-hired-by-your-company-to-lead-the-process-improvement-efforts-you-have-shared-with-her-the-overall-vision-for-the-process-improvement-and-she-begins-to-analyze-your-current-resources-processes-and-metrics-what-step-of-the-continual-improvement-model-is-betsy-performing)
-| 358 | [During which step of the continual improvement model is change management and release management usually performed?](#during-which-step-of-the-continual-improvement-model-is-change-management-and-release-management-usually-performed)
-| 359 | [Your company has spent the last 12 months working on a new improvement to the customer relationship management software in an effort to increase customer satisfaction by 4%. Janet analyzes the current metrics and compares them against the baseline metrics from 12 months ago. Which step of the continual improvement model is Janet working in?](#your-company-has-spent-the-last-12-months-working-on-a-new-improvement-to-the-customer-relationship-management-software-in-an-effort-to-increase-customer-satisfaction-by-4-janet-analyzes-the-current-metrics-and-compares-them-against-the-baseline-metrics-from-12-months-ago-which-step-of-the-continual-improvement-model-is-janet-working-in)
-| 360 | [During which step of the continual improvement model do you create your objective baseline measurement?](#during-which-step-of-the-continual-improvement-model-do-you-create-your-objective-baseline-measurement)
-| 361 | [Your organization was having a big problem with cybersecurity due to poor password management practices. You had led an improvement initiative to increase the security of the authentication system by implementing two-factor authentication. The original goal was to get at least 35% of the users to utilize two-factor authentication. During the first phase of your improvement initiative, using the two-factor authentication was voluntary for users. By the end of the first phase, it was determined that 43% of users chose to use the two-factor authentication. You want to continue the improvement efforts and increase usage to 100%. Which step in the continual improvement model should you begin with?](#your-organization-was-having-a-big-problem-with-cybersecurity-due-to-poor-password-management-practices-you-had-led-an-improvement-initiative-to-increase-the-security-of-the-authentication-system-by-implementing-two-factor-authentication-the-original-goal-was-to-get-at-least-35-of-the-users-to-utilize-two-factor-authentication-during-the-first-phase-of-your-improvement-initiative-using-the-two-factor-authentication-was-voluntary-for-users-by-the-end-of-the-first-phase-it-was-determined-that-43-of-users-chose-to-use-the-two-factor-authentication-you-want-to-continue-the-improvement-efforts-and-increase-usage-to-100-which-step-in-the-continual-improvement-model-should-you-begin-with)
+| 356 | [Which value chain activity ensures Continual Improvement of products, services, and practices across all value chain activities and the four dimensions of Service Management?](#which-value-chain-activity-ensures-continual-improvement-of-products-services-and-practices-across-all-value-chain-activities-and-the-four-dimensions-of-service-management)
+| 357 | [Betsy has been hired by your company to lead the process improvement efforts. You have shared with her the overall vision for the process improvement and she begins to analyze your current resources, processes, and metrics. What step of the Continual Improvement model is Betsy performing?](#betsy-has-been-hired-by-your-company-to-lead-the-process-improvement-efforts-you-have-shared-with-her-the-overall-vision-for-the-process-improvement-and-she-begins-to-analyze-your-current-resources-processes-and-metrics-what-step-of-the-continual-improvement-model-is-betsy-performing)
+| 358 | [During which step of the Continual Improvement model is Change Managementand Release Management usually performed?](#during-which-step-of-the-continual-improvement-model-is-change-management-and-release-management-usually-performed)
+| 359 | [Your company has spent the last 12 months working on a new improvement to the Customer Relationship Management software in an effort to increase customer satisfaction by 4%. Janet analyzes the current metrics and compares them against the baseline metrics from 12 months ago. Which step of the Continual Improvement model is Janet working in?](#your-company-has-spent-the-last-12-months-working-on-a-new-improvement-to-the-customer-relationship-management-software-in-an-effort-to-increase-customer-satisfaction-by-4-janet-analyzes-the-current-metrics-and-compares-them-against-the-baseline-metrics-from-12-months-ago-which-step-of-the-continual-improvement-model-is-janet-working-in)
+| 360 | [During which step of the Continual Improvement model do you create your objective baseline measurement?](#during-which-step-of-the-continual-improvement-model-do-you-create-your-objective-baseline-measurement)
+| 361 | [Your organization was having a big problem with cybersecurity due to poor password management practices. You had led an improvement initiative to increase the security of the authentication system by implementing two-factor authentication. The original goal was to get at least 35% of the users to utilize two-factor authentication. During the first phase of your improvement initiative, using the two-factor authentication was voluntary for users. By the end of the first phase, it was determined that 43% of users chose to use the two-factor authentication. You want to continue the improvement efforts and increase usage to 100%. Which step in the Continual Improvement model should you begin with?](#your-organization-was-having-a-big-problem-with-cybersecurity-due-to-poor-password-management-practices-you-had-led-an-improvement-initiative-to-increase-the-security-of-the-authentication-system-by-implementing-two-factor-authentication-the-original-goal-was-to-get-at-least-35-of-the-users-to-utilize-two-factor-authentication-during-the-first-phase-of-your-improvement-initiative-using-the-two-factor-authentication-was-voluntary-for-users-by-the-end-of-the-first-phase-it-was-determined-that-43-of-users-chose-to-use-the-two-factor-authentication-you-want-to-continue-the-improvement-efforts-and-increase-usage-to-100-which-step-in-the-continual-improvement-model-should-you-begin-with)
 | 362 | [What is usually included as part of Incident Management?](#what-is-usually-included-as-part-of-incident-management-1)
 | 363 | [Your laptop was connected to the corporate wireless network this morning but when you came back from lunch, it refuses to connect to the network. What term best describes this scenario?](#your-laptop-was-connected-to-the-corporate-wireless-network-this-morning-but-when-you-came-back-from-lunch-it-refuses-to-connect-to-the-network-what-term-best-describes-this-scenario)
 | 364 | [Which of the following is NOT a problem identification activity?](#which-of-the-following-is-not-a-problem-identification-activity)
-| 365 | [What is NOT a phase in problem management?](#what-is-not-a-phase-in-problem-management-1)
+| 365 | [What is NOT a phase in Problem Management?](#what-is-not-a-phase-in-problem-management-1)
 | 366 | [How does Service Request Management contribute to the Engage value chain activity?](#how-does-service-request-management-contribute-to-the-engage-value-chain-activity)
 | 367 | [What is an example of an action a Service Request Management employee would undertake as part of the Improve activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-improve-activity)
 | 368 | [What does a centralized Service Desk require?](#what-does-a-centralized-service-desk-require)
@@ -475,15 +475,15 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 373 | [Which guiding principle is focused on increasing communication both within the project and outside of it?](#which-guiding-principle-is-focused-on-increasing-communication-both-within-the-project-and-outside-of-it)
 | 374 | [Which guiding principle is concerned with an understanding of how all the parts of an organization work together in an integrated way?](#which-guiding-principle-is-concerned-with-an-understanding-of-how-all-the-parts-of-an-organization-work-together-in-an-integrated-way)
 | 375 | [You have just been promoted to the role of the Service Desk manager. The manager before you loved metrics, and the Service Desk is currently spending numerous hours per week creating reports based on over 150 different metrics they call 'measures of effectiveness'. You believe there are simply too many metrics being collected and begin an analysis of each one to determine if is it providing valuable information. For the ones you find without value, you eliminate the requirement to track and report on those metrics. Which guiding principle are you following in this scenario?](#you-have-just-been-promoted-to-the-role-of-the-service-desk-manager-the-manager-before-you-loved-metrics-and-the-service-desk-is-currently-spending-numerous-hours-per-week-creating-reports-based-on-over-150-different-metrics-they-call-measures-of-effectiveness-you-believe-there-are-simply-too-many-metrics-being-collected-and-begin-an-analysis-of-each-one-to-determine-if-is-it-providing-valuable-information-for-the-ones-you-find-without-value-you-eliminate-the-requirement-to-track-and-report-on-those-metrics-which-guiding-principle-are-you-following-in-this-scenario)
-| 376 | [Which service management dimension is focused on an organization's relationships with other organizations in order to deliver its services?](#which-service-management-dimension-is-focused-on-an-organizations-relationships-with-other-organizations-in-order-to-deliver-its-services)
+| 376 | [Which Service Management dimension is focused on an organization's relationships with other organizations in order to deliver its services?](#which-service-management-dimension-is-focused-on-an-organizations-relationships-with-other-organizations-in-order-to-deliver-its-services)
 | 377 | [Which of these are a key focus of the Value Streams and Processes dimension?](#which-of-these-are-a-key-focus-of-the-value-streams-and-processes-dimension)
-| 378 | [Which ITIL concept describes continual improvement?](#which-itil-concept-describes-continual-improvement)
+| 378 | [Which ITIL concept describes Continual Improvement?](#which-itil-concept-describes-continual-improvement)
 | 379 | [Which of the following is NOT an activity within the service value chain?](#which-of-the-following-is-not-an-activity-within-the-service-value-chain-1)
 | 380 | [A company is planning to launch a new service and expects it will take them a full year to develop, test, and release the service. The project board for the project (the new service) has decided that instead of using a waterfall development method, they will use an Agile development method. This method will rely on two-week timeboxes, which means that every two weeks, the team must deliver some portion of the final service. As these smaller pieces of the new service are delivered, beta testers will be given access to the new features and functions to test and provide their initial thoughts on the new service. What guiding principle best describes this scenario?](#a-company-is-planning-to-launch-a-new-service-and-expects-it-will-take-them-a-full-year-to-develop-test-and-release-the-service-the-project-board-for-the-project-the-new-service-has-decided-that-instead-of-using-a-waterfall-development-method-they-will-use-an-agile-development-method-this-method-will-rely-on-two-week-timeboxes-which-means-that-every-two-weeks-the-team-must-deliver-some-portion-of-the-final-service-as-these-smaller-pieces-of-the-new-service-are-delivered-beta-testers-will-be-given-access-to-the-new-features-and-functions-to-test-and-provide-their-initial-thoughts-on-the-new-service-what-guiding-principle-best-describes-this-scenario)
 | 381 | [Which guiding principle requires the identification and managing of all stakeholder groups in order to establish more robust communication across the staff?](#which-guiding-principle-requires-the-identification-and-managing-of-all-stakeholder-groups-in-order-to-establish-more-robust-communication-across-the-staff)
 | 382 | [What refers to the process of improving and increasing the efficiency of a process or service?](#what-refers-to-the-process-of-improving-and-increasing-the-efficiency-of-a-process-or-service)
-| 383 | [Your company has decided to implement a new management style that will significantly flatten the management hierarchy within the company. Which dimension of service management is most applicable to this change?](#your-company-has-decided-to-implement-a-new-management-style-that-will-significantly-flatten-the-management-hierarchy-within-the-company-which-dimension-of-service-management-is-most-applicable-to-this-change)
-| 384 | [Company A has created an automated system that allows students to purchase their ITIL 4 Foundation exam vouchers at a discount through the Company A website. To accomplish this, the company sets up a 9-step automated series of activities that occurs once the student orders the voucher on the website. When this occurs, the automation selects a voucher for the student, emails them their unique voucher code and exam scheduling instructions, logs the purchase, remove the voucher from the inventory, and notifies the staff if the voucher inventory gets below a certain threshold. Which dimension of service management best represents this series of actions that is occurring through automation?](#company-a-has-created-an-automated-system-that-allows-students-to-purchase-their-itil-4-foundation-exam-vouchers-at-a-discount-through-the-company-a-website-to-accomplish-this-the-company-sets-up-a-9-step-automated-series-of-activities-that-occurs-once-the-student-orders-the-voucher-on-the-website-when-this-occurs-the-automation-selects-a-voucher-for-the-student-emails-them-their-unique-voucher-code-and-exam-scheduling-instructions-logs-the-purchase-remove-the-voucher-from-the-inventory-and-notifies-the-staff-if-the-voucher-inventory-gets-below-a-certain-threshold-which-dimension-of-service-management-best-represents-this-series-of-actions-that-is-occurring-through-automation)
+| 383 | [Your company has decided to implement a new management style that will significantly flatten the management hierarchy within the company. Which dimension of Service Management is most applicable to this change?](#your-company-has-decided-to-implement-a-new-management-style-that-will-significantly-flatten-the-management-hierarchy-within-the-company-which-dimension-of-service-management-is-most-applicable-to-this-change)
+| 384 | [Company A has created an automated system that allows students to purchase their ITIL 4 Foundation exam vouchers at a discount through the Company A website. To accomplish this, the company sets up a 9-step automated series of activities that occurs once the student orders the voucher on the website. When this occurs, the automation selects a voucher for the student, emails them their unique voucher code and exam scheduling instructions, logs the purchase, remove the voucher from the inventory, and notifies the staff if the voucher inventory gets below a certain threshold. Which dimension of Service Management best represents this series of actions that is occurring through automation?](#company-a-has-created-an-automated-system-that-allows-students-to-purchase-their-itil-4-foundation-exam-vouchers-at-a-discount-through-the-company-a-website-to-accomplish-this-the-company-sets-up-a-9-step-automated-series-of-activities-that-occurs-once-the-student-orders-the-voucher-on-the-website-when-this-occurs-the-automation-selects-a-voucher-for-the-student-emails-them-their-unique-voucher-code-and-exam-scheduling-instructions-logs-the-purchase-remove-the-voucher-from-the-inventory-and-notifies-the-staff-if-the-voucher-inventory-gets-below-a-certain-threshold-which-dimension-of-service-management-best-represents-this-series-of-actions-that-is-occurring-through-automation)
 | 385 | [Which ITIL concept describes guiding principles?](#which-itil-concept-describes-guiding-principles)
 | 386 | [Which of the following is NOT an activity within the service value chain?](#which-of-the-following-is-not-an-activity-within-the-service-value-chain-2)
 | 387 | [What is the definition of a user?](#what-is-the-definition-of-a-user)
@@ -501,20 +501,20 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 399 | [Which guiding principle may best be served by understanding the cost and financial consequences that a service consumer might face when choosing to use a service?](#which-guiding-principle-may-best-be-served-by-understanding-the-cost-and-financial-consequences-that-a-service-consumer-might-face-when-choosing-to-use-a-service)
 | 400 | [Which guiding principle states that there is likely something in the current services, processes, programs, projects, or organization that can be used to create the desired outcome for a new or redesigned service?](#which-guiding-principle-states-that-there-is-likely-something-in-the-current-services-processes-programs-projects-or-organization-that-can-be-used-to-create-the-desired-outcome-for-a-new-or-redesigned-service)
 | 401 | [Which value chain activity ensures that products and services continually meet stakeholder expectations for quality, costs, and time to market?](#which-value-chain-activity-ensures-that-products-and-services-continually-meet-stakeholder-expectations-for-quality-costs-and-time-to-market)
-| 402 | [During which step of the continual improvement model would you check to verify whether or not you have reached the desired outcome in your improvement initiative?](#during-which-step-of-the-continual-improvement-model-would-you-check-to-verify-whether-or-not-you-have-reached-the-desired-outcome-in-your-improvement-initiative)
-| 403 | [What is the step after 'where do we want to be' in the continual improvement model?](#what-is-the-step-after-where-do-we-want-to-be-in-the-continual-improvement-model)
+| 402 | [During which step of the Continual Improvement model would you check to verify whether or not you have reached the desired outcome in your improvement initiative?](#during-which-step-of-the-continual-improvement-model-would-you-check-to-verify-whether-or-not-you-have-reached-the-desired-outcome-in-your-improvement-initiative)
+| 403 | [What is the step after 'where do we want to be' in the Continual Improvement model?](#what-is-the-step-after-where-do-we-want-to-be-in-the-continual-improvement-model)
 | 404 | [What is a normal change?](#what-is-a-normal-change-1)
 | 405 | [You are working as a Service Desk analyst. You just received a change request to create a new user account. What type of change would this be considered?](#you-are-working-as-a-service-desk-analyst-you-just-received-a-change-request-to-create-a-new-user-account-what-type-of-change-would-this-be-considered)
 | 406 | [What is usually NOT included as part of Incident Management?](#what-is-usually-not-included-as-part-of-incident-management)
 | 407 | [Which practice would include a formalized process for logging unplanned interruptions to a service?](#which-practice-would-include-a-formalized-process-for-logging-unplanned-interruptions-to-a-service)
 | 408 | [During incident management, what is it called when the incident is passed on to the next higher level of technician?](#during-incident-management-what-is-it-called-when-the-incident-is-passed-on-to-the-next-higher-level-of-technician)
-| 409 | [What is NOT a phase in problem management?](#what-is-not-a-phase-in-problem-management-2)
+| 409 | [What is NOT a phase in Problem Management?](#what-is-not-a-phase-in-problem-management-2)
 | 410 | [Which is a recommendation of the Service Desk practice?](#which-is-a-recommendation-of-the-service-desk-practice-1)
 | 411 | [Your company has decided to use work-from-home employees to fulfill its Service Desk requirements. Users call a central toll-free number and are routed to the next available Service Desk analyst, regardless of where the analyst is physically located. Many of these employees may be working from remote offices or their own home offices. What Service Desk structure does this describe?](#your-company-has-decided-to-use-work-from-home-employees-to-fulfill-its-service-desk-requirements-users-call-a-central-toll-free-number-and-are-routed-to-the-next-available-service-desk-analyst-regardless-of-where-the-analyst-is-physically-located-many-of-these-employees-may-be-working-from-remote-offices-or-their-own-home-offices-what-service-desk-structure-does-this-describe)
 | 412 | [How does Service Request Management contribute to the Design and Transition value chain activity?](#how-does-service-request-management-contribute-to-the-design-and-transition-value-chain-activity-1)
-| 413 | [How should measures and metrics be used to measure your service level management levels?](#how-should-measures-and-metrics-be-used-to-measure-your-service-level-management-levels)
+| 413 | [How should measures and metrics be used to measure your Service Level Management levels?](#how-should-measures-and-metrics-be-used-to-measure-your-service-level-management-levels)
 | 414 | [Which type of document should be written in easy-to-understand language to outline the expectations and requirements for both the service provider and the customer?](#which-type-of-document-should-be-written-in-easy-to-understand-language-to-outline-the-expectations-and-requirements-for-both-the-service-provider-and-the-customer)
-| 415 | [What is the definition of service management?](#what-is-the-definition-of-service-management)
+| 415 | [What is the definition of Service Management?](#what-is-the-definition-of-service-management)
 | 416 | [Identify the missing word(s) in the following sentence. A user is a person who uses [?].](#identify-the-missing-words-in-the-following-sentence-a-user-is-a-person-who-uses-)
 | 417 | [What is the definition of a change?](#what-is-the-definition-of-a-change)
 | 418 | [What is the purpose of the IT Asset Management practice?](#what-is-the-purpose-of-the-it-asset-management-practice)
@@ -524,20 +524,20 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 422 | [Company A has outsourced the development of a mobile application to support their students' learning while on the go. Instead of paying a fixed-fee for the development though, Company A has negotiated with the developers to instead pay them a royalty fee for each student who logs into the service through their smartphone app. To control costs, Company A has decided to only allow students on their higher membership levels to be given access to the application. Which of the following terms best describes the activities performed by Company A in this example?](#company-a-has-outsourced-the-development-of-a-mobile-application-to-support-their-students-learning-while-on-the-go-instead-of-paying-a-fixed-fee-for-the-development-though-company-a-has-negotiated-with-the-developers-to-instead-pay-them-a-royalty-fee-for-each-student-who-logs-into-the-service-through-their-smartphone-app-to-control-costs-company-a-has-decided-to-only-allow-students-on-their-higher-membership-levels-to-be-given-access-to-the-application-which-of-the-following-terms-best-describes-the-activities-performed-by-company-a-in-this-example)
 | 423 | [What term best describes a service that is Fit for Purpose?](#what-term-best-describes-a-service-that-is-fit-for-purpose)
 | 424 | [Fill in the blank. A(n) [?] is a result for a stakeholder enabled by one or more outputs.](#fill-in-the-blank-an--is-a-result-for-a-stakeholder-enabled-by-one-or-more-outputs)
-| 425 | [Fill in the blank. A guiding principle is defined as a(n) [?] that can guide an organization in all circumstances and will guide organizations when adopting service management.](#fill-in-the-blank-a-guiding-principle-is-defined-as-an--that-can-guide-an-organization-in-all-circumstances-and-will-guide-organizations-when-adopting-service-management)
+| 425 | [Fill in the blank. A guiding principle is defined as a(n) [?] that can guide an organization in all circumstances and will guide organizations when adopting Service Management.](#fill-in-the-blank-a-guiding-principle-is-defined-as-an--that-can-guide-an-organization-in-all-circumstances-and-will-guide-organizations-when-adopting-service-management)
 | 426 | [Fill in the blank. According to the guiding principles, "Everything that the organization does needs to map, directly or indirectly, to [?] for the stakeholders.](#fill-in-the-blank-according-to-the-guiding-principles-everything-that-the-organization-does-needs-to-map-directly-or-indirectly-to--for-the-stakeholders)
 | 427 | [Which guiding principle says that the current state should be investigated and observed directly to make sure it is fully understood before you attempt to create a brand new service or process?](#which-guiding-principle-says-that-the-current-state-should-be-investigated-and-observed-directly-to-make-sure-it-is-fully-understood-before-you-attempt-to-create-a-brand-new-service-or-process)
 | 428 | [The Start Where You Are guiding principle says that the current state should be investigated and observed directly to make sure it is fully understood before you attempt to create a brand new service or process. There is usually something in the existing service or process that can be reused, saving you time, effort, and resources.](#the-start-where-you-are-guiding-principle-says-that-the-current-state-should-be-investigated-and-observed-directly-to-make-sure-it-is-fully-understood-before-you-attempt-to-create-a-brand-new-service-or-process-there-is-usually-something-in-the-existing-service-or-process-that-can-be-reused-saving-you-time-effort-and-resources)
 | 429 | [Which guiding principle is focused on using the minimum number of steps to accomplish an objective?](#which-guiding-principle-is-focused-on-using-the-minimum-number-of-steps-to-accomplish-an-objective)
 | 430 | [Your company currently uses a paper-based process for allocating funding for authorized business travel. This process requires the traveler to fill out a form and get 6 different signatures and approval prior to turning in the form to accounting for funding of the travel. This entire process is currently done manually, meaning, an employee is actually walking around to the various managers for their physical signature on a piece of paper. You have decided to automate this process. Based on the principle of Optimize and Automate, how should you approach the automation of this existing process?](#your-company-currently-uses-a-paper-based-process-for-allocating-funding-for-authorized-business-travel-this-process-requires-the-traveler-to-fill-out-a-form-and-get-6-different-signatures-and-approval-prior-to-turning-in-the-form-to-accounting-for-funding-of-the-travel-this-entire-process-is-currently-done-manually-meaning-an-employee-is-actually-walking-around-to-the-various-managers-for-their-physical-signature-on-a-piece-of-paper-you-have-decided-to-automate-this-process-based-on-the-principle-of-optimize-and-automate-how-should-you-approach-the-automation-of-this-existing-process)
-| 431 | [Which dimension of service management should be considered when deciding whether or not moving the organization's web server from an on-premise solution to the cloud is a good decision in terms of compliance and security?](#which-dimension-of-service-management-should-be-considered-when-deciding-whether-or-not-moving-the-organizations-web-server-from-an-on-premise-solution-to-the-cloud-is-a-good-decision-in-terms-of-compliance-and-security)
-| 432 | [Company A is an Authorized Training Organization for Axelos. Which service management dimension would be focused on the relationship between Company A and Axelos in regards to the company's delivery of ITIL 4 Foundation training to students?](#company-a-is-an-authorized-training-organization-for-axelos-which-service-management-dimension-would-be-focused-on-the-relationship-between-company-a-and-axelos-in-regards-to-the-companys-delivery-of-itil-4-foundation-training-to-students)
+| 431 | [Which dimension of Service Management should be considered when deciding whether or not moving the organization's web server from an on-premise solution to the cloud is a good decision in terms of compliance and security?](#which-dimension-of-service-management-should-be-considered-when-deciding-whether-or-not-moving-the-organizations-web-server-from-an-on-premise-solution-to-the-cloud-is-a-good-decision-in-terms-of-compliance-and-security)
+| 432 | [Company A is an Authorized Training Organization for Axelos. Which Service Management dimension would be focused on the relationship between Company A and Axelos in regards to the company's delivery of ITIL 4 Foundation training to students?](#company-a-is-an-authorized-training-organization-for-axelos-which-service-management-dimension-would-be-focused-on-the-relationship-between-company-a-and-axelos-in-regards-to-the-companys-delivery-of-itil-4-foundation-training-to-students)
 | 433 | [What is the end result of the service value system?](#what-is-the-end-result-of-the-service-value-system)
 | 434 | [Which of the following is NOT an activity within the service value chain?](#which-of-the-following-is-not-an-activity-within-the-service-value-chain-3)
 | 435 | [Which value chain activity ensures that service components are available when and where they are needed and meet agreed specifications?](#which-value-chain-activity-ensures-that-service-components-are-available-when-and-where-they-are-needed-and-meet-agreed-specifications)
 | 436 | [Your company is currently spending $1.2 million per year on energy to run its data center. The new CEO of the company wants the organization to become more environmentally friendly and reduce its energy consumption from commercial power sources such as coal and nuclear energy. To support this initiative, the IT Director has created a goal of reducing the power consumption in the data center to less than $1 million next year. In which step of the continual service model would the IT Director create this goal?](#your-company-is-currently-spending-12-million-per-year-on-energy-to-run-its-data-center-the-new-ceo-of-the-company-wants-the-organization-to-become-more-environmentally-friendly-and-reduce-its-energy-consumption-from-commercial-power-sources-such-as-coal-and-nuclear-energy-to-support-this-initiative-the-it-director-has-created-a-goal-of-reducing-the-power-consumption-in-the-data-center-to-less-than-1-million-next-year-in-which-step-of-the-continual-service-model-would-the-it-director-create-this-goal)
-| 437 | [Your company is undergoing an improvement initiative to reduce the number of physical servers in the data center by 50%. You are working as part of the deployment team trying to achieve this goal. You are currently migrating physical servers into virtualized systems and removing the physical servers from the data center. Which step of the continual improvement model are you working on?](#your-company-is-undergoing-an-improvement-initiative-to-reduce-the-number-of-physical-servers-in-the-data-center-by-50-you-are-working-as-part-of-the-deployment-team-trying-to-achieve-this-goal-you-are-currently-migrating-physical-servers-into-virtualized-systems-and-removing-the-physical-servers-from-the-data-center-which-step-of-the-continual-improvement-model-are-you-working-on)
-| 438 | [Your company's web server is currently experiencing a denial of service attack which is preventing external users from accessing the company's e-commerce store. In order to stop the attack, the information security team needs to add an IP block to the firewall's access control list. Normally, any changes to the firewall's access control list must be approved through change management first. Which type of change should be initiated by the information security team?](#your-companys-web-server-is-currently-experiencing-a-denial-of-service-attack-which-is-preventing-external-users-from-accessing-the-companys-e-commerce-store-in-order-to-stop-the-attack-the-information-security-team-needs-to-add-an-ip-block-to-the-firewalls-access-control-list-normally-any-changes-to-the-firewalls-access-control-list-must-be-approved-through-change-management-first-which-type-of-change-should-be-initiated-by-the-information-security-team)
+| 437 | [Your company is undergoing an improvement initiative to reduce the number of physical servers in the data center by 50%. You are working as part of the deployment team trying to achieve this goal. You are currently migrating physical servers into virtualized systems and removing the physical servers from the data center. Which step of the Continual Improvement model are you working on?](#your-company-is-undergoing-an-improvement-initiative-to-reduce-the-number-of-physical-servers-in-the-data-center-by-50-you-are-working-as-part-of-the-deployment-team-trying-to-achieve-this-goal-you-are-currently-migrating-physical-servers-into-virtualized-systems-and-removing-the-physical-servers-from-the-data-center-which-step-of-the-continual-improvement-model-are-you-working-on)
+| 438 | [Your company's web server is currently experiencing a denial of service attack which is preventing external users from accessing the company's e-commerce store. In order to stop the attack, the information security team needs to add an IP block to the firewall's access control list. Normally, any changes to the firewall's access control list must be approved through Change Managementfirst. Which type of change should be initiated by the information security team?](#your-companys-web-server-is-currently-experiencing-a-denial-of-service-attack-which-is-preventing-external-users-from-accessing-the-companys-e-commerce-store-in-order-to-stop-the-attack-the-information-security-team-needs-to-add-an-ip-block-to-the-firewalls-access-control-list-normally-any-changes-to-the-firewalls-access-control-list-must-be-approved-through-change-management-first-which-type-of-change-should-be-initiated-by-the-information-security-team)
 | 439 | [What is a standard change?](#what-is-a-standard-change)
 | 440 | [You are part of a team configuring a brand new email server. You want to get permission to install the server on the corporate network to continue your configuration and testing. Which type of change should you initiate?](#you-are-part-of-a-team-configuring-a-brand-new-email-server-you-want-to-get-permission-to-install-the-server-on-the-corporate-network-to-continue-your-configuration-and-testing-which-type-of-change-should-you-initiate)
 | 441 | [What should NOT be included in Incident Management?](#what-should-not-be-included-in-incident-management)
@@ -547,20 +547,20 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 445 | [What does a centralized Service Desk require?](#what-does-a-centralized-service-desk-require-1)
 | 446 | [Your company has three Service Desk locations around the globe to support 24x7 operations. These locations are in England, the United States, and India. Each of these Service Desks only operates on an 8 am to 5 pm schedule in their local time. When a user calls the Service Desk, their call is routed to whichever Service Desk is operating at that time. For example, if it is 1 am in New York City and a user calls the Service Desk, they are routed to the India Service Desk because it would only be 11 am in India. What type of Service Desk model is your company using?](#your-company-has-three-service-desk-locations-around-the-globe-to-support-24x7-operations-these-locations-are-in-england-the-united-states-and-india-each-of-these-service-desks-only-operates-on-an-8-am-to-5-pm-schedule-in-their-local-time-when-a-user-calls-the-service-desk-their-call-is-routed-to-whichever-service-desk-is-operating-at-that-time-for-example-if-it-is-1-am-in-new-york-city-and-a-user-calls-the-service-desk-they-are-routed-to-the-india-service-desk-because-it-would-only-be-11-am-in-india-what-type-of-service-desk-model-is-your-company-using)
 | 447 | [How does Service Level Management contribute to the Obtain/Build value chain activity?](#how-does-service-level-management-contribute-to-the-obtainbuild-value-chain-activity)
-| 448 | [What is an example of an action a service request management employee would undertake as part of the Engage activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-engage-activity)
+| 448 | [What is an example of an action a Service Request Management employee would undertake as part of the Engage activity?](#what-is-an-example-of-an-action-a-service-request-management-employee-would-undertake-as-part-of-the-engage-activity)
 | 449 | [Which guiding principle recognizes the complexity of a system and seeks to understand the relationships between the various components that make up a service?](#which-guiding-principle-recognizes-the-complexity-of-a-system-and-seeks-to-understand-the-relationships-between-the-various-components-that-make-up-a-service)
 | 450 | [Who can report an incident?](#who-can-report-an-incident)
 | 451 | [Which statement about the value chain activities is CORRECT?](#which-statement-about-the-value-chain-activities-is-correct)
 | 452 | [Which value chain activity would best be used to categorize the actions of the Service Desk when they are responding to a consumer's request for assistance?](#which-value-chain-activity-would-best-be-used-to-categorize-the-actions-of-the-service-desk-when-they-are-responding-to-a-consumers-request-for-assistance)
-| 453 | [Which step of the continual improvement model is focused on outlining the steps that will be undertaken by the organization in order to achieve its goals and move the organization closer to achieving its vision?](#which-step-of-the-continual-improvement-model-is-focused-on-outlining-the-steps-that-will-be-undertaken-by-the-organization-in-order-to-achieve-its-goals-and-move-the-organization-closer-to-achieving-its-vision)
-| 454 | [What is the step after How do we keep the momentum going in the continual improvement model?](#what-is-the-step-after-how-do-we-keep-the-momentum-going-in-the-continual-improvement-model)
+| 453 | [Which step of the Continual Improvement model is focused on outlining the steps that will be undertaken by the organization in order to achieve its goals and move the organization closer to achieving its vision?](#which-step-of-the-continual-improvement-model-is-focused-on-outlining-the-steps-that-will-be-undertaken-by-the-organization-in-order-to-achieve-its-goals-and-move-the-organization-closer-to-achieving-its-vision)
+| 454 | [What is the step after How do we keep the momentum going in the Continual Improvement model?](#what-is-the-step-after-how-do-we-keep-the-momentum-going-in-the-continual-improvement-model)
 | 455 | [Which type of change needs to be assessed, authorized, and scheduled by a change authority prior to implementing it?](#which-type-of-change-needs-to-be-assessed-authorized-and-scheduled-by-a-change-authority-prior-to-implementing-it)
 | 456 | [Which statement about a change authority is CORRECT?](#which-statement-about-a-change-authority-is-correct)
 | 457 | [A standard change has been initiated to create an email account for a new user. Who should authorize this change?](#a-standard-change-has-been-initiated-to-create-an-email-account-for-a-new-user-who-should-authorize-this-change)
 | 458 | [What is the best description of an emergency change?](#what-is-the-best-description-of-an-emergency-change)
 | 459 | [Which practice would include a formalized process for logging unplanned reduction in the quality of a service?](#which-practice-would-include-a-formalized-process-for-logging-unplanned-reduction-in-the-quality-of-a-service)
 | 460 | [Fill in the blank. The purpose of the [?] is to ensure that the organization continually co-creates value with all stakeholders through the use and management of products and services.](#fill-in-the-blank-the-purpose-of-the--is-to-ensure-that-the-organization-continually-co-creates-value-with-all-stakeholders-through-the-use-and-management-of-products-and-services)
-| 461 | [You are working as a part of the problem management team and discovered that multiple incidents are linked together due to a problem with the current version of the web browser installed on the workstations across the network. You have identified that this could be solved by upgrading the web browser to the newest available version. Your team has requested that all of the workstations in the organization receive an updated web browser through the change management activity to solve this problem. Which value chain activity will be responsible for upgrading all the workstations?](#you-are-working-as-a-part-of-the-problem-management-team-and-discovered-that-multiple-incidents-are-linked-together-due-to-a-problem-with-the-current-version-of-the-web-browser-installed-on-the-workstations-across-the-network-you-have-identified-that-this-could-be-solved-by-upgrading-the-web-browser-to-the-newest-available-version-your-team-has-requested-that-all-of-the-workstations-in-the-organization-receive-an-updated-web-browser-through-the-change-management-activity-to-solve-this-problem-which-value-chain-activity-will-be-responsible-for-upgrading-all-the-workstations)
+| 461 | [You are working as a part of the Problem Management team and discovered that multiple incidents are linked together due to a problem with the current version of the web browser installed on the workstations across the network. You have identified that this could be solved by upgrading the web browser to the newest available version. Your team has requested that all of the workstations in the organization receive an updated web browser through the Change Managementactivity to solve this problem. Which value chain activity will be responsible for upgrading all the workstations?](#you-are-working-as-a-part-of-the-problem-management-team-and-discovered-that-multiple-incidents-are-linked-together-due-to-a-problem-with-the-current-version-of-the-web-browser-installed-on-the-workstations-across-the-network-you-have-identified-that-this-could-be-solved-by-upgrading-the-web-browser-to-the-newest-available-version-your-team-has-requested-that-all-of-the-workstations-in-the-organization-receive-an-updated-web-browser-through-the-change-management-activity-to-solve-this-problem-which-value-chain-activity-will-be-responsible-for-upgrading-all-the-workstations)
 | 462 | [Your printer is currently out of toner and will not print. You ask your co-worker for help, but he says the toner has already been ordered but it won't arrive for a few days. What would you classify this as?](#your-printer-is-currently-out-of-toner-and-will-not-print-you-ask-your-co-worker-for-help-but-he-says-the-toner-has-already-been-ordered-but-it-wont-arrive-for-a-few-days-what-would-you-classify-this-as)
 | 463 | [Fill in the blank. Service requests and their fulfillment should be standardized and [?] to the greatest degree possible.](#fill-in-the-blank-service-requests-and-their-fulfillment-should-be-standardized-and--to-the-greatest-degree-possible)
 | 464 | [Which is a recommendation of the Service Desk practice?](#which-is-a-recommendation-of-the-service-desk-practice-2)
@@ -585,8 +585,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 483 | [Which guiding principle requires coordination across the organization in order to best understand how a complicated service works?](#which-guiding-principle-requires-coordination-across-the-organization-in-order-to-best-understand-how-a-complicated-service-works)
 | 484 | [You have been asked to create a stand create a process for the most common three types of account creation which account for 99% of all requests made. Then, create a blanket rule at the end of the process that says, 'If the account doesn't belong to one of the above three categories, elevate the request to your supervisor'. This will allow the supervisors to handle the exception, which only accounts for 1% of all account requests, and you can create that process in just a few hours." What guiding principle is Nancy recommending you to follow with her approach to solving this problem?](#you-have-been-asked-to-create-a-stand-create-a-process-for-the-most-common-three-types-of-account-creation-which-account-for-99-of-all-requests-made-then-create-a-blanket-rule-at-the-end-of-the-process-that-says-if-the-account-doesnt-belong-to-one-of-the-above-three-categories-elevate-the-request-to-your-supervisor-this-will-allow-the-supervisors-to-handle-the-exception-which-only-accounts-for-1-of-all-account-requests-and-you-can-create-that-process-in-just-a-few-hours-what-guiding-principle-is-nancy-recommending-you-to-follow-with-her-approach-to-solving-this-problem)
 | 485 | [Which guiding principle should you use to maximize the value of the work carried out by the human and technical resources within an organization?](#which-guiding-principle-should-you-use-to-maximize-the-value-of-the-work-carried-out-by-the-human-and-technical-resources-within-an-organization)
-| 486 | [Company A has two departments within the company: Training and Operations. Which dimension of service management is focused on how a company structures its human resources?](#company-a-has-two-departments-within-the-company-training-and-operations-which-dimension-of-service-management-is-focused-on-how-a-company-structures-its-human-resources)
-| 487 | [Your company has recently decided to install a Microsoft SharePoint server to serve as the organization's knowledge base. Which dimension of service management would this decision best be considered?](#your-company-has-recently-decided-to-install-a-microsoft-sharepoint-server-to-serve-as-the-organizations-knowledge-base-which-dimension-of-service-management-would-this-decision-best-be-considered)
+| 486 | [Company A has two departments within the company: Training and Operations. Which dimension of Service Management is focused on how a company structures its human resources?](#company-a-has-two-departments-within-the-company-training-and-operations-which-dimension-of-service-management-is-focused-on-how-a-company-structures-its-human-resources)
+| 487 | [Your company has recently decided to install a Microsoft SharePoint server to serve as the organization's knowledge base. Which dimension of Service Management would this decision best be considered?](#your-company-has-recently-decided-to-install-a-microsoft-sharepoint-server-to-serve-as-the-organizations-knowledge-base-which-dimension-of-service-management-would-this-decision-best-be-considered)
 
 ### A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.
 
@@ -1011,7 +1011,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which guiding principle recommends coordinating all dimensions of service management?
+### Which guiding principle recommends coordinating all dimensions of Service Management?
 
 - [ ] Start Where You Are.
 - [x] Think and Work Holistically.
@@ -1438,7 +1438,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [x] The ITIL service value system.
 - [ ] The ITIL guiding principles.
-- [ ] The four dimensions of service management.
+- [ ] The four dimensions of Service Management.
 - [ ] A service relationship.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -1457,7 +1457,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] A set of interconnected activities that help an organization deliver a valuable service.
 - [ ] A description of one or more services that help address the needs of a target consumer group.
 - [ ] A set of specialized organizational capabilities for enabling value for customers.
-- [x] Recommendations that help an organization when adopting a service management approach.
+- [x] Recommendations that help an organization when adopting a Service Management approach.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1742,10 +1742,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which is a recommendation of the guiding principle Think and Work Holistically?
 
-- [ ] Conduct a review of existing service management practices and decide what to keep and what to discard.
+- [ ] Conduct a review of existing Service Management practices and decide what to keep and what to discard.
 - [ ] Review how an improvement initiative can be organized into smaller, manageable sections that can be completed in a timely manner.
-- [ ] Review service management practices and remove any unnecessary complexity.
-- [x] Use the four dimensions of service management to ensure coordination of all aspects of an improvement initiative.
+- [ ] Review Service Management practices and remove any unnecessary complexity.
+- [x] Use the four dimensions of Service Management to ensure coordination of all aspects of an improvement initiative.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1898,7 +1898,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] The guiding principles.
 - [ ] Governance.
 - [ ] Practices.
-- [x] The four dimensions of service management.
+- [x] The four dimensions of Service Management.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2030,7 +2030,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which can act as an operating model for an organization?
 
-- [ ] The four dimensions of service management.
+- [ ] The four dimensions of Service Management.
 - [x] The service value chain.
 - [ ] The ITIL guiding principles.
 - [ ] Continual Improvement.
@@ -2757,7 +2757,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which dimension of service management considers the workflows and controls needed to deliver services?
+### Which dimension of Service Management considers the workflows and controls needed to deliver services?
 
 - [ ] Organizations and People.
 - [ ] Information and Technology.
@@ -3165,7 +3165,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which ITIL concept describes the service value chain?
 
 - [ ] Seven guiding principles.
-- [ ] Four dimensions of service management.
+- [ ] Four dimensions of Service Management.
 - [x] Service value system.
 - [ ] Practices.
 
@@ -3173,7 +3173,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### What operating model outlines the key activities required to respond to demand and facilitate value realization through the creation and management of products and services?
 
-- [ ] Continual improvement.
+- [ ] Continual Improvement.
 - [x] Service value chain.
 - [ ] Practices.
 - [ ] Guiding principles.
@@ -3207,7 +3207,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Bridgett is leading an improvement initiative within your company. She has been told that the company wants to have the highest customer satisfaction in the industry. Currently, the company has a customer satisfaction rating of 92% but the industry leader has an average of 94%. Bridgett decides that the company should set their goal of obtaining a 96% customer satisfaction score within the next 12 months. What step of the continual improvement model is Bridgett currently in?
+### Bridgett is leading an improvement initiative within your company. She has been told that the company wants to have the highest customer satisfaction in the industry. Currently, the company has a customer satisfaction rating of 92% but the industry leader has an average of 94%. Bridgett decides that the company should set their goal of obtaining a 96% customer satisfaction score within the next 12 months. What step of the Continual Improvement model is Bridgett currently in?
 
 - [ ] What is the vision?
 - [x] Where do we want to be?
@@ -3248,7 +3248,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Implement incident classification.
 - [ ] Use automation.
 - [ ] Utilize self-help tools.
-- [ ] Utilize problem management.
+- [ ] Utilize Problem Management.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3261,7 +3261,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is NOT a phase in problem management?
+### What is NOT a phase in Problem Management?
 
 - [ ] Problem identification.
 - [x] Problem classification.
@@ -3432,7 +3432,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### [?] is/are defined as a recommendation that can guide an organization in all circumstances and will guide organizations when adopting service management.
+### [?] is/are defined as a recommendation that can guide an organization in all circumstances and will guide organizations when adopting Service Management.
 
 - [x] Guiding principles.
 - [ ] Service value chain.
@@ -3486,7 +3486,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which service management dimension is focused on the roles and responsibilities of the people involved in a process' workflow?
+### Which Service Management dimension is focused on the roles and responsibilities of the people involved in a process' workflow?
 
 - [x] Organizations and People.
 - [ ] Information and Technology.
@@ -3495,7 +3495,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which service management dimension is focused on the communication systems and knowledge bases used by employees?
+### Which Service Management dimension is focused on the communication systems and knowledge bases used by employees?
 
 - [ ] Organizations and People.
 - [x] Information and Technology.
@@ -3509,7 +3509,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Seven guiding principles.
 - [x] Service value system.
 - [ ] Service value chain.
-- [ ] Four dimensions of service management.
+- [ ] Four dimensions of Service Management.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3531,7 +3531,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Management has set a goal to reduce the number of physical servers in the datacenter by 10% this year. Your team is responsible for creating a plan to migrate 50% of the physical servers into virtualized systems. Which step of the continual improvement model are you currently working on?
+### Management has set a goal to reduce the number of physical servers in the datacenter by 10% this year. Your team is responsible for creating a plan to migrate 50% of the physical servers into virtualized systems. Which step of the Continual Improvement model are you currently working on?
 
 - [ ] Where do we want to be?
 - [x] How do we get there?
@@ -3567,7 +3567,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company has decided to install a service management tool that provides incident management as one of its functions. What is the benefit of using an incident management system?
+### Your company has decided to install a Service Management tool that provides incident management as one of its functions. What is the benefit of using an incident management system?
 
 - [ ] It can provide automated resolution and closure of complex incidents.
 - [ ] It can ensure that incidents are resolved within the agreed upon timeframe in the Service Level Agreement (SLA).
@@ -3594,7 +3594,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The users on the fourth floor of your building keep calling the Service Desk to report that their network connectivity is not working properly. The Service Desk logs each of these incidents, but since there are multiple incidents for the same issue, they forward it to the problem management activity for resolution. During your analysis, you determine that the network switch that services the entire fourth floor is broken and will need to be replaced. You checked the current inventory of spares, but there are none available. It appears this problem will remain for 24 hours until a new switch can be received and installed. How would you categorize the issue described in this scenario?
+### The users on the fourth floor of your building keep calling the Service Desk to report that their network connectivity is not working properly. The Service Desk logs each of these incidents, but since there are multiple incidents for the same issue, they forward it to the Problem Management activity for resolution. During your analysis, you determine that the network switch that services the entire fourth floor is broken and will need to be replaced. You checked the current inventory of spares, but there are none available. It appears this problem will remain for 24 hours until a new switch can be received and installed. How would you categorize the issue described in this scenario?
 
 - [x] Known error.
 - [ ] Workaround.
@@ -3612,7 +3612,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is an example of an action a service request management employee would undertake as part of the Obtain/Build activity?
+### What is an example of an action a Service Request Management employee would undertake as part of the Obtain/Build activity?
 
 - [ ] Analyzing data to identify opportunities to provide new service request options.
 - [ ] Ensuring users continue to be productive when they need assistance from the service provider.
@@ -3639,12 +3639,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You are in a quarterly service level management review with your supervisor. The manager asks your supervisor if the Service Desk has been meeting their SLA target metrics. Your supervisor proudly proclaims that everything is 'green' (meaning, we are meeting all of the targets). Just then, another executive asks, "If everything is showing as 'green', why am I hearing other users complain that the service is always unavailable for use?" What might be the reason for this?
+### You are in a quarterly Service Level Management review with your supervisor. The manager asks your supervisor if the Service Desk has been meeting their SLA target metrics. Your supervisor proudly proclaims that everything is 'green' (meaning, we are meeting all of the targets). Just then, another executive asks, "If everything is showing as 'green', why am I hearing other users complain that the service is always unavailable for use?" What might be the reason for this?
 
 - [ ] Your supervisor's data is based on operational metrics.
 - [ ] Your supervisor's data is based on business metrics.
 - [ ] Your supervisor's data is based on availability metrics.
-- [ ] Your supervisor's data is not based on business outcomes.
+- [x] Your supervisor's data is not based on business outcomes.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3783,7 +3783,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which value chain activity ensures continual improvement of products, services, and practices across all value chain activities and the four dimensions of service management?
+### Which value chain activity ensures Continual Improvement of products, services, and practices across all value chain activities and the four dimensions of Service Management?
 
 - [x] Improve.
 - [ ] Plan.
@@ -3792,7 +3792,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Betsy has been hired by your company to lead the process improvement efforts. You have shared with her the overall vision for the process improvement and she begins to analyze your current resources, processes, and metrics. What step of the continual improvement model is Betsy performing?
+### Betsy has been hired by your company to lead the process improvement efforts. You have shared with her the overall vision for the process improvement and she begins to analyze your current resources, processes, and metrics. What step of the Continual Improvement model is Betsy performing?
 
 - [ ] What is the vision?
 - [ ] Where do we want to be?
@@ -3801,7 +3801,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### During which step of the continual improvement model is change management and release management usually performed?
+### During which step of the Continual Improvement model is Change Managementand Release Management usually performed?
 
 - [ ] Where do we want to be?
 - [x] Take action.
@@ -3810,7 +3810,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company has spent the last 12 months working on a new improvement to the customer relationship management software in an effort to increase customer satisfaction by 4%. Janet analyzes the current metrics and compares them against the baseline metrics from 12 months ago. Which step of the continual improvement model is Janet working in?
+### Your company has spent the last 12 months working on a new improvement to the Customer Relationship Management software in an effort to increase customer satisfaction by 4%. Janet analyzes the current metrics and compares them against the baseline metrics from 12 months ago. Which step of the Continual Improvement model is Janet working in?
 
 - [x] Did we get there?
 - [ ] Where are we now?
@@ -3819,7 +3819,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### During which step of the continual improvement model do you create your objective baseline measurement?
+### During which step of the Continual Improvement model do you create your objective baseline measurement?
 
 - [ ] What is the vision?
 - [x] Where are we now?
@@ -3828,7 +3828,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your organization was having a big problem with cybersecurity due to poor password management practices. You had led an improvement initiative to increase the security of the authentication system by implementing two-factor authentication. The original goal was to get at least 35% of the users to utilize two-factor authentication. During the first phase of your improvement initiative, using the two-factor authentication was voluntary for users. By the end of the first phase, it was determined that 43% of users chose to use the two-factor authentication. You want to continue the improvement efforts and increase usage to 100%. Which step in the continual improvement model should you begin with?
+### Your organization was having a big problem with cybersecurity due to poor password management practices. You had led an improvement initiative to increase the security of the authentication system by implementing two-factor authentication. The original goal was to get at least 35% of the users to utilize two-factor authentication. During the first phase of your improvement initiative, using the two-factor authentication was voluntary for users. By the end of the first phase, it was determined that 43% of users chose to use the two-factor authentication. You want to continue the improvement efforts and increase usage to 100%. Which step in the Continual Improvement model should you begin with?
 
 - [ ] Where are we now?
 - [ ] What is the vision?
@@ -3864,7 +3864,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is NOT a phase in problem management?
+### What is NOT a phase in Problem Management?
 
 - [ ] Problem identification.
 - [ ] Error control.
@@ -3949,7 +3949,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Focus on Value.
 - [ ] Keep It Simple and Practical.
-- [ ] Think and Work Holistically.
+- [x] Think and Work Holistically.
 - [ ] Optimize and Automate.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -3963,7 +3963,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which service management dimension is focused on an organization's relationships with other organizations in order to deliver its services?
+### Which Service Management dimension is focused on an organization's relationships with other organizations in order to deliver its services?
 
 - [ ] Organizations and People.
 - [ ] Information and Technology.
@@ -3981,10 +3981,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which ITIL concept describes continual improvement?
+### Which ITIL concept describes Continual Improvement?
 
 - [x] Service value system.
-- [ ] Four dimensions of service management.
+- [ ] Four dimensions of Service Management.
 - [ ] Service value chain.
 - [ ] Practices.
 
@@ -4026,7 +4026,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company has decided to implement a new management style that will significantly flatten the management hierarchy within the company. Which dimension of service management is most applicable to this change?
+### Your company has decided to implement a new management style that will significantly flatten the management hierarchy within the company. Which dimension of Service Management is most applicable to this change?
 
 - [ ] Information and Technology.
 - [x] Organization and people.
@@ -4035,7 +4035,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Company A has created an automated system that allows students to purchase their ITIL 4 Foundation exam vouchers at a discount through the Company A website. To accomplish this, the company sets up a 9-step automated series of activities that occurs once the student orders the voucher on the website. When this occurs, the automation selects a voucher for the student, emails them their unique voucher code and exam scheduling instructions, logs the purchase, remove the voucher from the inventory, and notifies the staff if the voucher inventory gets below a certain threshold. Which dimension of service management best represents this series of actions that is occurring through automation?
+### Company A has created an automated system that allows students to purchase their ITIL 4 Foundation exam vouchers at a discount through the Company A website. To accomplish this, the company sets up a 9-step automated series of activities that occurs once the student orders the voucher on the website. When this occurs, the automation selects a voucher for the student, emails them their unique voucher code and exam scheduling instructions, logs the purchase, remove the voucher from the inventory, and notifies the staff if the voucher inventory gets below a certain threshold. Which dimension of Service Management best represents this series of actions that is occurring through automation?
 
 - [ ] Organization and people.
 - [ ] Information and Technology.
@@ -4197,7 +4197,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### During which step of the continual improvement model would you check to verify whether or not you have reached the desired outcome in your improvement initiative?
+### During which step of the Continual Improvement model would you check to verify whether or not you have reached the desired outcome in your improvement initiative?
 
 - [ ] What is the vision?
 - [ ] Where do we want to be?
@@ -4206,7 +4206,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the step after 'where do we want to be' in the continual improvement model?
+### What is the step after 'where do we want to be' in the Continual Improvement model?
 
 - [ ] What is the vision?
 - [x] How do we get there?
@@ -4260,7 +4260,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is NOT a phase in problem management?
+### What is NOT a phase in Problem Management?
 
 - [ ] Problem identification.
 - [ ] Problem control.
@@ -4296,7 +4296,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### How should measures and metrics be used to measure your service level management levels?
+### How should measures and metrics be used to measure your Service Level Management levels?
 
 - [ ] To measure the performance of a component in the system.
 - [ ] To measure the performance of the entire system.
@@ -4314,7 +4314,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the definition of service management?
+### What is the definition of Service Management?
 
 - [x] A set of specialized organizational capabilities for enabling value to customers.
 - [ ] The means by which an organization is directed and controlled.
@@ -4404,7 +4404,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Fill in the blank. A guiding principle is defined as a(n) [?] that can guide an organization in all circumstances and will guide organizations when adopting service management.
+### Fill in the blank. A guiding principle is defined as a(n) [?] that can guide an organization in all circumstances and will guide organizations when adopting Service Management.
 
 - [ ] mandatory actions.
 - [ ] prespective requirements.
@@ -4458,7 +4458,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which dimension of service management should be considered when deciding whether or not moving the organization's web server from an on-premise solution to the cloud is a good decision in terms of compliance and security?
+### Which dimension of Service Management should be considered when deciding whether or not moving the organization's web server from an on-premise solution to the cloud is a good decision in terms of compliance and security?
 
 - [ ] Organizations and People.
 - [ ] Value Streams and Processes.
@@ -4467,7 +4467,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Company A is an Authorized Training Organization for Axelos. Which service management dimension would be focused on the relationship between Company A and Axelos in regards to the company's delivery of ITIL 4 Foundation training to students?
+### Company A is an Authorized Training Organization for Axelos. Which Service Management dimension would be focused on the relationship between Company A and Axelos in regards to the company's delivery of ITIL 4 Foundation training to students?
 
 - [ ] Organizations and People.
 - [ ] Information and Technology.
@@ -4512,7 +4512,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company is undergoing an improvement initiative to reduce the number of physical servers in the data center by 50%. You are working as part of the deployment team trying to achieve this goal. You are currently migrating physical servers into virtualized systems and removing the physical servers from the data center. Which step of the continual improvement model are you working on?
+### Your company is undergoing an improvement initiative to reduce the number of physical servers in the data center by 50%. You are working as part of the deployment team trying to achieve this goal. You are currently migrating physical servers into virtualized systems and removing the physical servers from the data center. Which step of the Continual Improvement model are you working on?
 
 - [x] Take action.
 - [ ] Where are we now.
@@ -4521,7 +4521,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company's web server is currently experiencing a denial of service attack which is preventing external users from accessing the company's e-commerce store. In order to stop the attack, the information security team needs to add an IP block to the firewall's access control list. Normally, any changes to the firewall's access control list must be approved through change management first. Which type of change should be initiated by the information security team?
+### Your company's web server is currently experiencing a denial of service attack which is preventing external users from accessing the company's e-commerce store. In order to stop the attack, the information security team needs to add an IP block to the firewall's access control list. Normally, any changes to the firewall's access control list must be approved through Change Managementfirst. Which type of change should be initiated by the information security team?
 
 - [ ] Standard.
 - [ ] Normal.
@@ -4532,7 +4532,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### What is a standard change?
 
-- [ ] A change that is assessed, authorized, and scheduled as part of 'continual improvement'.
+- [ ] A change that is assessed, authorized, and scheduled as part of 'Continual Improvement'.
 - [ ] A change that is routine in nature, is fully documented, and the risks are well understood.
 - [ ] A change that needs to be assessed, authorized, and scheduled by a change authority.
 - [ ] A change that doesn't need risk assessment because it is required to resolve an incident.
@@ -4611,7 +4611,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is an example of an action a service request management employee would undertake as part of the Engage activity?
+### What is an example of an action a Service Request Management employee would undertake as part of the Engage activity?
 
 - [ ] Provide trend, quality, and feedback information about requests.
 - [ ] Initiate and fulfill standard changes.
@@ -4641,7 +4641,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which statement about the value chain activities is CORRECT?
 
 - [ ] Practices are considered a value chain activity.
-- [ ] Continual improvement is considered a value chain activity.
+- [ ] Continual Improvement is considered a value chain activity.
 - [x] Service value chain activities receive and provide triggers for further actions to be taken.
 - [ ] Activities within a service value chain operate independently from each other.
 
@@ -4656,7 +4656,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which step of the continual improvement model is focused on outlining the steps that will be undertaken by the organization in order to achieve its goals and move the organization closer to achieving its vision?
+### Which step of the Continual Improvement model is focused on outlining the steps that will be undertaken by the organization in order to achieve its goals and move the organization closer to achieving its vision?
 
 - [ ] Where do we want to be.
 - [ ] Take action.
@@ -4665,7 +4665,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the step after How do we keep the momentum going in the continual improvement model?
+### What is the step after How do we keep the momentum going in the Continual Improvement model?
 
 - [ ] Did we get there.
 - [ ] How do we get there.
@@ -4728,7 +4728,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You are working as a part of the problem management team and discovered that multiple incidents are linked together due to a problem with the current version of the web browser installed on the workstations across the network. You have identified that this could be solved by upgrading the web browser to the newest available version. Your team has requested that all of the workstations in the organization receive an updated web browser through the change management activity to solve this problem. Which value chain activity will be responsible for upgrading all the workstations?
+### You are working as a part of the Problem Management team and discovered that multiple incidents are linked together due to a problem with the current version of the web browser installed on the workstations across the network. You have identified that this could be solved by upgrading the web browser to the newest available version. Your team has requested that all of the workstations in the organization receive an updated web browser through the Change Managementactivity to solve this problem. Which value chain activity will be responsible for upgrading all the workstations?
 
 - [ ] Plan.
 - [ ] Improve.
@@ -4953,7 +4953,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Company A has two departments within the company: Training and Operations. Which dimension of service management is focused on how a company structures its human resources?
+### Company A has two departments within the company: Training and Operations. Which dimension of Service Management is focused on how a company structures its human resources?
 
 - [ ] Partners and Suppliers.
 - [ ] Value Streams and Processes.
@@ -4962,7 +4962,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company has recently decided to install a Microsoft SharePoint server to serve as the organization's knowledge base. Which dimension of service management would this decision best be considered?
+### Your company has recently decided to install a Microsoft SharePoint server to serve as the organization's knowledge base. Which dimension of Service Management would this decision best be considered?
 
 - [x] Information and Technology.
 - [ ] Organizations and People.
