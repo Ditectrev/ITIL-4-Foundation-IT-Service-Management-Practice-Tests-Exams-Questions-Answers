@@ -102,7 +102,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | --- | --------- |
 | 1   | [A service is a means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific [?] and risks.](#a-service-is-a-means-of-enabling-value-co-creation-by-facilitating-outcomes-that-customers-want-to-achieve-without-the-customer-having-to-manage-specific--and-risks)
 | 2   | [Which statement about Service Desks is CORRECT?](#which-statement-about-service-desks-is-correct)
-| 3   | [In terms of incident management, which value chain activity uses incident records as an input to improvement activities based on the incident frequency and severity?](#in-terms-of-incident-management-which-value-chain-activity-uses-incident-records-as-an-input-to-improvement-activities-based-on-the-incident-frequency-and-severity)
+| 3   | [In terms of Incident Management, which value chain activity uses incident records as an input to improvement activities based on the incident frequency and severity?](#in-terms-of-incident-management-which-value-chain-activity-uses-incident-records-as-an-input-to-improvement-activities-based-on-the-incident-frequency-and-severity)
 | 4   | [Which describes a set of defined steps for implementing improvements?](#which-describes-a-set-of-defined-steps-for-implementing-improvements)
 | 5   | [Which practice provides a single point of contact for users?](#which-practice-provides-a-single-point-of-contact-for-users)
 | 6   | [Which activity captures the demand for Incident Resolution and service requests?](#which-activity-captures-the-demand-for-incident-resolution-and-service-requests)
@@ -431,7 +431,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 329 | [You are working as part of an improvement initiative and your team would like to release a new module into the existing Customer Relationship Management system. Which type of change should you initiate?](#you-are-working-as-part-of-an-improvement-initiative-and-your-team-would-like-to-release-a-new-module-into-the-existing-customer-relationship-management-system-which-type-of-change-should-you-initiate)
 | 330 | [What is an emergency change?](#what-is-an-emergency-change)
 | 331 | [Who is responsible for approving a change within the organization?](#who-is-responsible-for-approving-a-change-within-the-organization)
-| 332 | [Your company has decided to install a Service Management tool that provides incident management as one of its functions. What is the benefit of using an incident management system?](#your-company-has-decided-to-install-a-service-management-tool-that-provides-incident-management-as-one-of-its-functions-what-is-the-benefit-of-using-an-incident-management-system)
+| 332 | [Your company has decided to install a Service Management tool that provides Incident Management as one of its functions. What is the benefit of using an Incident Management system?](#your-company-has-decided-to-install-a-service-management-tool-that-provides-incident-management-as-one-of-its-functions-what-is-the-benefit-of-using-an-incident-management-system)
 | 333 | [What is usually included as part of Incident Management?](#what-is-usually-included-as-part-of-incident-management)
 | 334 | [You are working as a Service Desk analyst. Within the last hour, you have received 13 calls about users being unable to log on to the network. There appears to be something wrong with the domain controller. What would you classify this scenario as?](#you-are-working-as-a-service-desk-analyst-within-the-last-hour-you-have-received-13-calls-about-users-being-unable-to-log-on-to-the-network-there-appears-to-be-something-wrong-with-the-domain-controller-what-would-you-classify-this-scenario-as)
 | 335 | [The users on the fourth floor of your building keep calling the Service Desk to report that their network connectivity is not working properly. The Service Desk logs each of these incidents, but since there are multiple incidents for the same issue, they forward it to the Problem Management activity for resolution. During your analysis, you determine that the network switch that services the entire fourth floor is broken and will need to be replaced. You checked the current inventory of spares, but there are none available. It appears this problem will remain for 24 hours until a new switch can be received and installed. How would you categorize the issue described in this scenario?](#the-users-on-the-fourth-floor-of-your-building-keep-calling-the-service-desk-to-report-that-their-network-connectivity-is-not-working-properly-the-service-desk-logs-each-of-these-incidents-but-since-there-are-multiple-incidents-for-the-same-issue-they-forward-it-to-the-problem-management-activity-for-resolution-during-your-analysis-you-determine-that-the-network-switch-that-services-the-entire-fourth-floor-is-broken-and-will-need-to-be-replaced-you-checked-the-current-inventory-of-spares-but-there-are-none-available-it-appears-this-problem-will-remain-for-24-hours-until-a-new-switch-can-be-received-and-installed-how-would-you-categorize-the-issue-described-in-this-scenario)
@@ -507,7 +507,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 405 | [You are working as a Service Desk analyst. You just received a change request to create a new user account. What type of change would this be considered?](#you-are-working-as-a-service-desk-analyst-you-just-received-a-change-request-to-create-a-new-user-account-what-type-of-change-would-this-be-considered)
 | 406 | [What is usually NOT included as part of Incident Management?](#what-is-usually-not-included-as-part-of-incident-management)
 | 407 | [Which practice would include a formalized process for logging unplanned interruptions to a service?](#which-practice-would-include-a-formalized-process-for-logging-unplanned-interruptions-to-a-service)
-| 408 | [During incident management, what is it called when the incident is passed on to the next higher level of technician?](#during-incident-management-what-is-it-called-when-the-incident-is-passed-on-to-the-next-higher-level-of-technician)
+| 408 | [During Incident Management, what is it called when the incident is passed on to the next higher level of technician?](#during-incident-management-what-is-it-called-when-the-incident-is-passed-on-to-the-next-higher-level-of-technician)
 | 409 | [What is NOT a phase in Problem Management?](#what-is-not-a-phase-in-problem-management-2)
 | 410 | [Which is a recommendation of the Service Desk practice?](#which-is-a-recommendation-of-the-service-desk-practice-1)
 | 411 | [Your company has decided to use work-from-home employees to fulfill its Service Desk requirements. Users call a central toll-free number and are routed to the next available Service Desk analyst, regardless of where the analyst is physically located. Many of these employees may be working from remote offices or their own home offices. What Service Desk structure does this describe?](#your-company-has-decided-to-use-work-from-home-employees-to-fulfill-its-service-desk-requirements-users-call-a-central-toll-free-number-and-are-routed-to-the-next-available-service-desk-analyst-regardless-of-where-the-analyst-is-physically-located-many-of-these-employees-may-be-working-from-remote-offices-or-their-own-home-offices-what-service-desk-structure-does-this-describe)
@@ -527,7 +527,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 425 | [Fill in the blank. A Guiding Principle is defined as a(n) [?] that can guide an organization in all circumstances and will guide organizations when adopting Service Management.](#fill-in-the-blank-a-guiding-principle-is-defined-as-an--that-can-guide-an-organization-in-all-circumstances-and-will-guide-organizations-when-adopting-service-management)
 | 426 | [Fill in the blank. According to the Guiding Principles, "Everything that the organization does needs to map, directly or indirectly, to [?] for the stakeholders.](#fill-in-the-blank-according-to-the-guiding-principles-everything-that-the-organization-does-needs-to-map-directly-or-indirectly-to--for-the-stakeholders)
 | 427 | [Which Guiding Principle says that the current state should be investigated and observed directly to make sure it is fully understood before you attempt to create a brand new service or process?](#which-guiding-principle-says-that-the-current-state-should-be-investigated-and-observed-directly-to-make-sure-it-is-fully-understood-before-you-attempt-to-create-a-brand-new-service-or-process)
-| 428 | [The Start Where You Are Guiding Principle says that the current state should be investigated and observed directly to make sure it is fully understood before you attempt to create a brand new service or process. There is usually something in the existing service or process that can be reused, saving you time, effort, and resources.](#the-start-where-you-are-guiding-principle-says-that-the-current-state-should-be-investigated-and-observed-directly-to-make-sure-it-is-fully-understood-before-you-attempt-to-create-a-brand-new-service-or-process-there-is-usually-something-in-the-existing-service-or-process-that-can-be-reused-saving-you-time-effort-and-resources)
+| 428 | [The Start Where You Are Guiding Principle says that the current state should be investigated and observed directly to make sure it is fully understood before you attempt to create a brand new service or process. There is usually something in the existing service or process that can be reused, saving you time, effort, and resources. Which Guiding Principle is being demonstrated by this approach to curriculum development?](#the-start-where-you-are-guiding-principle-says-that-the-current-state-should-be-investigated-and-observed-directly-to-make-sure-it-is-fully-understood-before-you-attempt-to-create-a-brand-new-service-or-process-there-is-usually-something-in-the-existing-service-or-process-that-can-be-reused-saving-you-time-effort-and-resources-which-guiding-principle-is-being-demonstrated-by-this-approach-to-curriculum-development)
 | 429 | [Which Guiding Principle is focused on using the minimum number of steps to accomplish an objective?](#which-guiding-principle-is-focused-on-using-the-minimum-number-of-steps-to-accomplish-an-objective)
 | 430 | [Your company currently uses a paper-based process for allocating funding for authorized business travel. This process requires the traveler to fill out a form and get 6 different signatures and approval prior to turning in the form to accounting for funding of the travel. This entire process is currently done manually, meaning, an employee is actually walking around to the various managers for their physical signature on a piece of paper. You have decided to automate this process. Based on the principle of Optimize and Automate, how should you approach the automation of this existing process?](#your-company-currently-uses-a-paper-based-process-for-allocating-funding-for-authorized-business-travel-this-process-requires-the-traveler-to-fill-out-a-form-and-get-6-different-signatures-and-approval-prior-to-turning-in-the-form-to-accounting-for-funding-of-the-travel-this-entire-process-is-currently-done-manually-meaning-an-employee-is-actually-walking-around-to-the-various-managers-for-their-physical-signature-on-a-piece-of-paper-you-have-decided-to-automate-this-process-based-on-the-principle-of-optimize-and-automate-how-should-you-approach-the-automation-of-this-existing-process)
 | 431 | [Which dimension of Service Management should be considered when deciding whether or not moving the organization's web server from an on-premise solution to the cloud is a good decision in terms of compliance and security?](#which-dimension-of-service-management-should-be-considered-when-deciding-whether-or-not-moving-the-organizations-web-server-from-an-on-premise-solution-to-the-cloud-is-a-good-decision-in-terms-of-compliance-and-security)
@@ -606,7 +606,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### In terms of incident management, which value chain activity uses incident records as an input to improvement activities based on the incident frequency and severity?
+### In terms of Incident Management, which value chain activity uses incident records as an input to improvement activities based on the incident frequency and severity?
 
 - [ ] Engage.
 - [x] Improve.
@@ -3122,7 +3122,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Focus on Value.
 - [ ] Collaborate and Promote Visibility.
 - [ ] Optimize and Automate.
-- [ ] Progress Iteratively with Feedback.
+- [x] Progress Iteratively with Feedback.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -3567,7 +3567,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company has decided to install a Service Management tool that provides incident management as one of its functions. What is the benefit of using an incident management system?
+### Your company has decided to install a Service Management tool that provides Incident Management as one of its functions. What is the benefit of using an Incident Management system?
 
 - [ ] It can provide automated resolution and closure of complex incidents.
 - [ ] It can ensure that incidents are resolved within the agreed upon timeframe in the Service Level Agreement (SLA).
@@ -4251,7 +4251,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### During incident management, what is it called when the incident is passed on to the next higher level of technician?
+### During Incident Management, what is it called when the incident is passed on to the next higher level of technician?
 
 - [ ] Promotion.
 - [x] Escalation.
@@ -4264,7 +4264,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Problem identification.
 - [ ] Problem control.
-- [x] Incident analysis.
+- [x] Incident Analysis.
 - [ ] Error control.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -4431,7 +4431,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The Start Where You Are Guiding Principle says that the current state should be investigated and observed directly to make sure it is fully understood before you attempt to create a brand new service or process. There is usually something in the existing service or process that can be reused, saving you time, effort, and resources.
+### The Start Where You Are Guiding Principle says that the current state should be investigated and observed directly to make sure it is fully understood before you attempt to create a brand new service or process. There is usually something in the existing service or process that can be reused, saving you time, effort, and resources. Which Guiding Principle is being demonstrated by this approach to curriculum development?
 
 - [ ] Keep It Simple and Practical.
 - [x] Think and Work Holistically.
@@ -4506,7 +4506,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Your company is currently spending $1.2 million per year on energy to run its data center. The new CEO of the company wants the organization to become more environmentally friendly and reduce its energy consumption from commercial power sources such as coal and nuclear energy. To support this initiative, the IT Director has created a goal of reducing the power consumption in the data center to less than $1 million next year. In which step of the continual service model would the IT Director create this goal?
 
 - [ ] What is the vision.
-- [ ] How do we get there.
+- [x] How do we get there.
 - [ ] Where do we want to be.
 - [ ] Where are we now.
 
@@ -4562,7 +4562,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Problem Management.
 - [ ] Service Level Management.
 - [ ] Change Management.
-- [ ] Incident Management.
+- [x] Incident Management.
 
 **[⬆ Back to Top](#table-of-contents)**
 
