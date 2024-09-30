@@ -53,7 +53,7 @@
 
 - Launch of the course.
 
-**[v2.0.0](https://github.com/Ditectrev/ITIL-4-Foundation-IT-Service-Management-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.0.0): September 30, 2024.**
+**[v2.0.0](https://github.com/Ditectrev/ITIL-4-Foundation-IT-Service-Management-Practice-Tests-Exams-Questions-Answers/releases/tag/v2.0.0): September 30, 2024.**
 
 - Add 218 new questions.
 
