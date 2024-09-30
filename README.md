@@ -3805,7 +3805,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### During which step of the Continual Improvement model is Change Managementand Release Management usually performed?
+### During which step of the Continual Improvement model is Change Management and Release Management usually performed?
 
 - [ ] Where do we want to be?
 - [x] Take action.
