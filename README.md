@@ -4537,7 +4537,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### What is a standard change?
 
 - [ ] A change that is assessed, authorized, and scheduled as part of 'Continual Improvement'.
-- [ ] A change that is routine in nature, is fully documented, and the risks are well understood.
+- [x] A change that is routine in nature, is fully documented, and the risks are well understood.
 - [ ] A change that needs to be assessed, authorized, and scheduled by a change authority.
 - [ ] A change that doesn't need risk assessment because it is required to resolve an incident.
 
