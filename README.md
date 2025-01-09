@@ -4257,8 +4257,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Ensure expected performance levels are maintained.
 - [ ] Observation of all services and service components to identify any change in state.
-- [x] Detailed procedures for the diagnosis of incidents.
-- [ ] Use of specialized knowledge for complicated incidents.
+- [ ] Detailed procedures for the diagnosis of incidents.
+- [x] Use of specialized knowledge for complicated incidents.
 
 **[⬆ Back to Top](#table-of-contents)**
 
