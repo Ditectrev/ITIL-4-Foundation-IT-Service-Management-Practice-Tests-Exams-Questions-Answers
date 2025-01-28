@@ -5,6 +5,7 @@
 ## ❣ Support
 
 There are many ways to support us; in exchange, you'll get this material in a proper format:
+
 - ❤️ [shop.ditectrev.com, in EPUB or PDF formats, with answers marked](https://shop.ditectrev.com/product/itil-4-foundation-it-service-management-practice-tests-exams-questions-answers),
 - ❤️ [shop.ditectrev.com, in EPUB or PDF formats, without answers marked](https://shop.ditectrev.com/product/itil-4-foundation-it-service-management-practice-tests-exams-questions-no-answers),
 - 📖 [Udemy is the only one to have explanations for questions](https://www.udemy.com/course/itil-4-foundation-it-service-management-practice-test-exam/?referralCode=2CB861160D2B15A2A74E),
@@ -18,7 +19,15 @@ There are many ways to support us; in exchange, you'll get this material in a pr
 
 💰 If you work for a company, you could probably easily claim this expense while preparing for your exam. For us, it's about being in the game or not.
 
-⭐ Good ratings & reviews help us to survive. Please don't forget to leave a nice one when you purchase an item. 
+⭐ Good ratings & reviews help us to survive. Please don't forget to leave a nice one when you purchase an item.
+
+## 👩‍💻 & 👨‍💻 Interactive Course(s)
+
+It's great to learn these questions as your exam preparation, and, yes, you should pass just based on that. However, we highly recommend more interactive learning if you want to become an expert. Currently, we're recommending those courses:
+
+- 📖 [Educative: text-based, video-free course, including set up out-of-the-box for you Cloud Labs to practice hands-on without the need to set up an environment (and payments). The link includes the highest available discount Educative offers](https://www.educative.io/courses/automate-workflows-with-aws-step-functions?aff=VALz).
+
+Yes, we have a little commission from that link. Therefore, by using that link, you're supporting us.
 
 ## ✨ This course is unlike any ITIL 4 Foundation (IT Service Management) course you will find online.
 
@@ -61,17 +70,21 @@ There are many ways to support us; in exchange, you'll get this material in a pr
 
 ## ☝️ Course Updates
 
-**[v1.0.0](https://github.com/Ditectrev/ITIL-4-Foundation-IT-Service-Management-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.0.0): April 28, 2023.**
+**[v1.0.0](../../releases/tag/v1.0.0): April 28, 2023.**
 
 - Launch of the course.
 
-**[v2.0.0](https://github.com/Ditectrev/ITIL-4-Foundation-IT-Service-Management-Practice-Tests-Exams-Questions-Answers/releases/tag/v2.0.0): September 30, 2024.**
+**[v2.0.0](../../releases/tag/v2.0.0): September 30, 2024.**
 
 - Add 218 new questions.
 
-**[v2.0.0](https://github.com/Ditectrev/ITIL-4-Foundation-IT-Service-Management-Practice-Tests-Exams-Questions-Answers/releases/tag/v2.0.0): October 1, 2024.**
+**[v2.0.0](../../releases/tag/v2.0.0): October 1, 2024.**
 
 - AI-generated explanations (only paid [Udemy](https://www.udemy.com/course/itil-4-foundation-it-service-management-practice-test-exam/?referralCode=2CB861160D2B15A2A74E)).
+
+**[v2.0.1](../../releases/tag/v2.0.1): January 28, 2025.**
+
+- Fix 1 question with wrong answer.
 
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
